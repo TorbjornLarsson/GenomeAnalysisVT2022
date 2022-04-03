@@ -1,0 +1,13 @@
+# Module load, version check and run check before doing the remaining dna fastqc_trim and the rna fastqc_raw analyses.
+# Uses explicit file names to make sure the symbolic links work.
+
+module load bioinfo-tools
+module avail
+module load FastQC/0.11.8
+fastqc -v
+FastQC v0.11.8
+
+[tola2495@rackham2 dna]$ fastqc RR4342129_1.paired.trimmed.fastq.gz -o ../../../analyses/01_preprocessing/dna/fastqc_trim/
+[tola2495@s14 dna]$ fastqc RR4342129_2.paired.trimmed.fastq.gz RR4342133_1.paired.trimmed.fastq.gz  RR4342133_2.paired.trimmed.fastq.gz -o ../../../analyses/01_preprocessing/dna/fastqc_trim/
+[tola2495@s14 RNA_untrimmed]$ fastqc RR4342137.1.fastq.gz  RR4342137.2.fastq.gz  RR4342139.1.fastq.gz  RR4342139.2.fastq.gz -o ../../../analyses/01_preprocessing/rna/01_fastqc_raw/
+
