@@ -1,1 +1,1 @@
-test Project for Genome Analysis VT2022.
+Project for Genome Analysis VT2022.
