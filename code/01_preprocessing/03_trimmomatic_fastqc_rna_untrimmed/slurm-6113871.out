@@ -1,0 +1,185 @@
+0.39
+TrimmomaticPE: Started with arguments:
+ -version -threads 2 -trimlog /home/tola2495/GenomeAnalysisVT2022/analyses/01_preprocessing/rna/02_trimming/RR4342137trimLogFile -summary /home/tola2495/GenomeAnalysisVT2022/analyses/01_preprocessing/rna/02_trimming/RR4342137statsSummaryFile /home/tola2495/GenomeAnalysisVT2022/data/raw_data/rna_untrimmed/RR4342137.1.fastq.gz /home/tola2495/GenomeAnalysisVT2022/data/raw_data/rna_untrimmed/RR4342137.2.fastq.gz -baseout /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342137.paired.trimmed.fq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:20 TRAILING:20 SLIDINGWINDOW:4:20 MINLEN:50 AVGQUAL:20 MAXINFO:50:0.5
+Using templated Output files: /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342137.paired.trimmed_1P.fq.gz /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342137.paired.trimmed_1U.fq.gz /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342137.paired.trimmed_2P.fq.gz /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342137.paired.trimmed_2U.fq.gz
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 1304686 Both Surviving: 712758 (54.63%) Forward Only Surviving: 241450 (18.51%) Reverse Only Surviving: 24955 (1.91%) Dropped: 325523 (24.95%)
+TrimmomaticPE: Completed successfully
+0.39
+TrimmomaticPE: Started with arguments:
+ -version -threads 2 -trimlog /home/tola2495/GenomeAnalysisVT2022/analyses/01_preprocessing/rna/02_trimming/RR4342139trimLogFile -summary /home/tola2495/GenomeAnalysisVT2022/analyses/01_preprocessing/rna/02_trimming/RR4342139statsSummaryFile /home/tola2495/GenomeAnalysisVT2022/data/raw_data/rna_untrimmed/RR4342139.1.fastq.gz /home/tola2495/GenomeAnalysisVT2022/data/raw_data/rna_untrimmed/RR4342139.2.fastq.gz -baseout /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342139.paired.trimmed.fq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:20 TRAILING:20 SLIDINGWINDOW:4:20 MINLEN:50 AVGQUAL:20 MAXINFO:50:0.5
+Using templated Output files: /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342139.paired.trimmed_1P.fq.gz /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342139.paired.trimmed_1U.fq.gz /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342139.paired.trimmed_2P.fq.gz /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342139.paired.trimmed_2U.fq.gz
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 1213040 Both Surviving: 600273 (49.49%) Forward Only Surviving: 202014 (16.65%) Reverse Only Surviving: 17972 (1.48%) Dropped: 392781 (32.38%)
+TrimmomaticPE: Completed successfully
+Started analysis of RR4342137.paired.trimmed_1P.fq.gz
+Approx 5% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 10% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 15% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 20% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 25% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 30% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 35% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 40% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 45% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 50% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 55% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 60% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 65% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 70% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 75% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 80% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 85% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 90% complete for RR4342137.paired.trimmed_1P.fq.gz
+Approx 95% complete for RR4342137.paired.trimmed_1P.fq.gz
+Analysis complete for RR4342137.paired.trimmed_1P.fq.gz
+Started analysis of RR4342137.paired.trimmed_1U.fq.gz
+Approx 5% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 10% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 15% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 20% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 25% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 30% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 35% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 40% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 45% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 50% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 55% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 60% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 65% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 70% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 75% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 80% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 85% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 90% complete for RR4342137.paired.trimmed_1U.fq.gz
+Approx 95% complete for RR4342137.paired.trimmed_1U.fq.gz
+Analysis complete for RR4342137.paired.trimmed_1U.fq.gz
+Started analysis of RR4342137.paired.trimmed_2P.fq.gz
+Approx 5% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 10% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 15% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 20% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 25% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 30% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 35% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 40% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 45% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 50% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 55% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 60% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 65% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 70% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 75% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 80% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 85% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 90% complete for RR4342137.paired.trimmed_2P.fq.gz
+Approx 95% complete for RR4342137.paired.trimmed_2P.fq.gz
+Analysis complete for RR4342137.paired.trimmed_2P.fq.gz
+Started analysis of RR4342137.paired.trimmed_2U.fq.gz
+Approx 5% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 10% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 15% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 20% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 25% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 30% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 35% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 40% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 45% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 50% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 55% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 60% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 65% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 70% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 75% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 80% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 85% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 90% complete for RR4342137.paired.trimmed_2U.fq.gz
+Approx 95% complete for RR4342137.paired.trimmed_2U.fq.gz
+Analysis complete for RR4342137.paired.trimmed_2U.fq.gz
+Started analysis of RR4342139.paired.trimmed_1P.fq.gz
+Approx 5% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 10% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 15% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 20% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 25% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 30% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 35% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 40% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 45% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 50% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 55% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 60% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 65% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 70% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 75% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 80% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 85% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 90% complete for RR4342139.paired.trimmed_1P.fq.gz
+Approx 95% complete for RR4342139.paired.trimmed_1P.fq.gz
+Analysis complete for RR4342139.paired.trimmed_1P.fq.gz
+Started analysis of RR4342139.paired.trimmed_1U.fq.gz
+Approx 5% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 10% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 15% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 20% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 25% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 30% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 35% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 40% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 45% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 50% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 55% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 60% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 65% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 70% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 75% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 80% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 85% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 90% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 95% complete for RR4342139.paired.trimmed_1U.fq.gz
+Approx 100% complete for RR4342139.paired.trimmed_1U.fq.gz
+Analysis complete for RR4342139.paired.trimmed_1U.fq.gz
+Started analysis of RR4342139.paired.trimmed_2P.fq.gz
+Approx 5% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 10% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 15% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 20% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 25% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 30% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 35% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 40% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 45% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 50% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 55% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 60% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 65% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 70% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 75% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 80% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 85% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 90% complete for RR4342139.paired.trimmed_2P.fq.gz
+Approx 95% complete for RR4342139.paired.trimmed_2P.fq.gz
+Analysis complete for RR4342139.paired.trimmed_2P.fq.gz
+Started analysis of RR4342139.paired.trimmed_2U.fq.gz
+Approx 5% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 10% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 15% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 20% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 25% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 30% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 35% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 40% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 50% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 55% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 60% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 65% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 70% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 75% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 80% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 85% complete for RR4342139.paired.trimmed_2U.fq.gz
+Approx 90% complete for RR4342139.paired.trimmed_2U.fq.gz
+Analysis complete for RR4342139.paired.trimmed_2U.fq.gz
