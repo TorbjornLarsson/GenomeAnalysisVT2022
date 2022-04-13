@@ -17,7 +17,7 @@ module load megahit/1.2.9
 # RR4342129_2.paired.trimmed.fastq.gz  RR4342133_2.paired.trimmed.fastq.gz
 
 # DNA assembly by Megahit
-# The contigs can be found final.contigs.fa in the output directory.
+# The contigs can be found as final.contigs.fa in the output directory.
 # Use “--kmin-1pass” to reduce memory usage or it will crash in UPPMAX
 # so use Trinity k-mer size 25 for the --kmin k-mer run setting.
 megahit -t 2 --k-min 25 --kmin-1pass \

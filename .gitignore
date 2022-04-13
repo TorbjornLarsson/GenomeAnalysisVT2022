@@ -4,8 +4,9 @@ data/trimmed_data/
 *.fq.gz
 *.fa
 
-# Ignore work notes used to compose code and run analysis
+# Ignore work notes used to compose code, run analysis and see graphs in windows
 *_notes.txt
+*.zip
 
 # Ignore large logfiles
 *trimLogFile

@@ -1,0 +1,13 @@
+A,B,C
+Parameter,Type,Value
+min-count,int,2
+bubble-level,int,2
+merge-level,int;float,20;0.95
+prune-level,int,2
+prune-depth,int,2
+disconnect-ratio,float,0.1
+low-local-ratio,float,0.2
+max-tip-len,int,2*k
+cleaning-rounds,int,5
+memory,float,0.9
+mem-flag,int,1
