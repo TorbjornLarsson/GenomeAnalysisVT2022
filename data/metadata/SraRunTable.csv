@@ -1,5 +1,4 @@
-Run,adapters,Assay Type,assembly,AvgSpotLen,Bases,BioProject,BioSample,BioSampleModel,Bytes,Center 
-Name,chimera_check,Collection_date,Consent,DATASTORE filetype,DATASTORE provider,DATASTORE 
+Run,adapters,Assay Type,assembly,AvgSpotLen,Bases,BioProject,BioSample,BioSampleModel,Bytes,Center.Name,chimera_check,Collection_date,Consent,DATASTORE filetype,DATASTORE provider,DATASTORE 
 region,Depth,diss_oxygen,env_biome,env_feature,env_material,Env_package,Experiment,experimental_factor,geo_loc_name_country,geo_loc_name_country_continent,geo_loc_name,Instrument,Investigation_type,Isolation_Source,Lat_Lon,lib_const_meth,lib_reads_seqd,lib_vector,Library 
 Name,LibraryLayout,LibrarySelection,LibrarySource,mid,nucl_acid_ext,Organism,Platform,project_name,ref_biomaterial,ReleaseDate,salinity,samp_collect_device,samp_mat_process,samp_size,Sample 
 Name,seq_meth,seq_quality_check,source_mat_id,SRA Study,temp SRR4342129,Not 
