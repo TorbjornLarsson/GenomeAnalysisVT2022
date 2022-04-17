@@ -1,0 +1,66 @@
+/sw/apps/bioinfo/quast/5.0.2/snowy/bin/quast.py -t 2 -L --circos -o /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/01_megahit/220410_RR4342129_dna_assembly.megahit_asm/final.contigs.fa /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/01_megahit/220410_RR4342133_dna_assembly.megahit_asm/final.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.59.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.2
+  CPUs number: 16
+
+Started: 2022-04-12 19:27:11
+
+Logging to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/quast.log
+
+CWD: /domus/h1/tola2495/GenomeAnalysisVT2022/code/02_assembly/02_assembly_evaluation
+Main parameters: 
+  MODE: default, threads: 2, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  1  /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/01_megahit/220410_RR4342129_dna_assembly.megahit_asm/final.contigs.fa ==> 220410_RR4342129_dna_assembly.megahit_asm
+  2  /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/01_megahit/220410_RR4342133_dna_assembly.megahit_asm/final.contigs.fa ==> 220410_RR4342133_dna_assembly.megahit_asm
+
+2022-04-12 19:27:22
+Running Basic statistics processor...
+  Contig files: 
+    1  220410_RR4342129_dna_assembly.megahit_asm
+    2  220410_RR4342133_dna_assembly.megahit_asm
+  Calculating N50 and L50...
+    1  220410_RR4342129_dna_assembly.megahit_asm, N50 = 1095, L50 = 21215, Total length = 95542768, GC % = 46.53, # N's per 100 kbp =  0.00
+    2  220410_RR4342133_dna_assembly.megahit_asm, N50 = 1702, L50 = 13987, Total length = 120479536, GC % = 48.08, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/basic_stats/GC_content_plot.pdf
+  Drawing 220410_RR4342129_dna_assembly.megahit_asm GC content plot...
+    saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/basic_stats/220410_RR4342129_dna_assembly.megahit_asm_GC_content_plot.pdf
+  Drawing 220410_RR4342133_dna_assembly.megahit_asm GC content plot...
+    saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/basic_stats/220410_RR4342133_dna_assembly.megahit_asm_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2022-04-12 19:27:40
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2022-04-12 19:27:45
+RESULTS:
+  Text versions of total report are saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/report.html
+  PDF version (tables and plots) is saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/report.pdf
+  Icarus (contig browser) is saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/icarus.html
+  Log is saved to /home/tola2495/GenomeAnalysisVT2022/analyses/02_dna_assembly/02_metaquast/quast.log
+
+Finished: 2022-04-12 19:27:45
+Elapsed time: 0:00:34.191950
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

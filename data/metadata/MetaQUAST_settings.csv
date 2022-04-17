@@ -1,0 +1,10 @@
+A,B,C
+Parameter,Type,Value
+k-mer-size,int,101
+contig-thresholds,int;int;int;int;int;int,0;1000;5000;10000;25000;50000
+min-alignment,int,65
+min-identity,float,95.0
+ambiguity-usage,string,one
+ambiguity-score,float,0.99
+unaligned-part-size,int,500
+upper-bound-min-con,int,2

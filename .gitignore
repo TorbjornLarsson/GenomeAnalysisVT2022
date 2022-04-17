@@ -3,6 +3,7 @@ data/raw_data/
 data/trimmed_data/
 *.fq.gz
 *.fa
+*.fasta
 
 # Ignore work notes used to compose code, run analysis and see graphs in windows
 *_notes.txt

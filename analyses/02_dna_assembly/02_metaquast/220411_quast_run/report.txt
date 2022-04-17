@@ -1,0 +1,24 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    220410_RR4342129_dna_assembly.megahit_asm  220410_RR4342133_dna_assembly.megahit_asm
+# contigs (>= 0 bp)         161952                                     166148                                   
+# contigs (>= 1000 bp)      25167                                      30885                                    
+# contigs (>= 5000 bp)      1190                                       2595                                     
+# contigs (>= 10000 bp)     282                                        826                                      
+# contigs (>= 25000 bp)     35                                         156                                      
+# contigs (>= 50000 bp)     9                                          47                                       
+Total length (>= 0 bp)      123859441                                  150487838                                
+Total length (>= 1000 bp)   51904151                                   81750948                                 
+Total length (>= 5000 bp)   11009046                                   29811065                                 
+Total length (>= 10000 bp)  4897402                                    17866508                                 
+Total length (>= 25000 bp)  1486506                                    8108978                                  
+Total length (>= 50000 bp)  650797                                     4319914                                  
+# contigs                   89614                                      88129                                    
+Largest contig              131335                                     266140                                   
+Total length                95542768                                   120479536                                
+GC (%)                      46.53                                      48.08                                    
+N50                         1095                                       1702                                     
+N75                         703                                        833                                      
+L50                         21215                                      13987                                    
+L75                         49092                                      40344                                    
+# N's per 100 kbp           0.00                                       0.00                                     

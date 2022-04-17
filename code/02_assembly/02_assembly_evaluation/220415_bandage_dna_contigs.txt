@@ -1,0 +1,21 @@
+# Bandage commands
+
+# Go to megahit directory and produce a contig graph traversal file
+cd GenomeAnalysisVT2022/analyses/02_dna_assembly/01_megahit/220410_RR4342129_dna_assembly.megahit_asm
+megahit_toolkit contig2fastg 105 final.contigs.fa > final.contigs.fastg
+
+# Call Bandage and adjust visualization settings
+Bandage load final.contigs.fastg
+Style: Double
+Node segment length: 20 bp
+
+
+# Go to megahit directory and produce a contig graph traversal file
+cd GenomeAnalysisVT2022/analyses/02_dna_assembly/01_megahit/220410_RR4342133_dna_assembly.megahit_asm/
+megahit_toolkit contig2fastg 105 final.contigs.fa > final.contigs.fastg
+
+# Call Bandage and adjust visualization settings
+Bandage load final.contigs.fastg
+Style: Double
+Node segment length: 20 bp
+
