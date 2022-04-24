@@ -4,12 +4,18 @@ data/trimmed_data/
 *.fq.gz
 *.fa
 *.fasta
+*.sam
+*.sam.gz
+*.bam
 
 # Ignore work notes used to compose code, run analysis and see graphs in windows
 *_notes.txt
 *.zip
+test/
 
 # Ignore large logfiles
 *trimLogFile
 tmp/
 intermediate_contigs/
+slurm*
+
