@@ -1,0 +1,9 @@
+A,B,C
+Parameter,Type,Value
+maxP,int,95
+minS,int,60
+maxEdges,int,200
+minCV,int,1
+minCVSum,int,1
+minClsSize,int,200000
+seed,int,0
