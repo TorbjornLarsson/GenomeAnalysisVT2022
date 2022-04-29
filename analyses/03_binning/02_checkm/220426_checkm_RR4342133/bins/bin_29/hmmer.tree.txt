@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_100728_1        -            147 Ribosom_S12_S23      PF00164.20   122   1.6e-36  120.1   1.0   1   1   2.9e-39   2.1e-36  119.7   1.0     8   121    28   144    10   145 0.94 # 154 # 594 # 1 # ID=37_1;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.610
+k105_100728_2        -            212 Ribosomal_S7         PF00177.16   148   1.7e-31  104.5   0.0   1   1   2.9e-34   2.1e-31  104.2   0.0    17   148    71   211    56   211 0.91 # 613 # 1248 # 1 # ID=37_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.638
+k105_76342_3         -            180 Ribosomal_L16        PF00252.13   133   2.1e-29   97.7   0.3   1   1   3.5e-32   2.5e-29   97.4   0.3     1   132     5   167     5   169 0.90 # 781 # 1320 # -1 # ID=243_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.644
+k105_155631_5        -             93 Ribosomal_L11        PF00298.14    69   3.4e-08   29.3   0.2   1   1   7.7e-11   5.5e-08   28.6   0.2    11    69    13    70     6    70 0.82 # 2796 # 3074 # -1 # ID=208_5;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.595
+k105_151869_1        -            152 Ribosomal_S15        PF00312.17    83   2.8e-17   58.0   0.3   1   1   9.4e-20   6.8e-17   56.8   0.2     5    75    69   143    65   151 0.91 # 62 # 517 # 1 # ID=191_1;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.643
+k105_109073_4        -            128 Ribosomal_S11        PF00411.14   110   3.5e-32  106.6   1.0   1   1   5.6e-35   4.1e-32  106.4   1.0     2   110     6   123     5   123 0.97 # 2029 # 2412 # 1 # ID=61_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.641
+k105_155631_3        -            339 Ribosomal_L10        PF00466.15   100     8e-14   47.1   0.0   1   1   2.5e-16   1.8e-13   46.0   0.0     2    90     5    93     4   103 0.88 # 1077 # 2093 # -1 # ID=208_3;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.650
+k105_155631_4        -            215 Ribosomal_L1         PF00687.16   220   4.2e-37  123.3   0.0   1   1     7e-40   5.1e-37  123.0   0.0     5   220     6   207     3   207 0.91 # 2090 # 2734 # -1 # ID=208_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.625
+k105_28416_4         -            296 TruB_N               PF01509.13   149    0.0045   12.8   0.2   1   1   1.1e-05     0.008   12.0   0.2   117   149   227   259   187   259 0.88 # 1368 # 2255 # -1 # ID=86_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+k105_141932_2        -            312 TIGR00422            TIGR00422    863   4.3e-39  129.5   0.0   1   1   6.4e-42   4.6e-39  129.4   0.0   488   761     3   297     1   311 0.91 # 642 # 1577 # -1 # ID=157_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.604
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/6167597/3d3675ee-422e-4a3e-b094-0069f8b6f872
+# Target file:     /home/tola2495/GenomeAnalysisVT2022/analyses/03_binning/02_checkm/220426_checkm_RR4342133/bins/bin_29/genes.faa
+# Option settings: hmmsearch --domtblout /home/tola2495/GenomeAnalysisVT2022/analyses/03_binning/02_checkm/220426_checkm_RR4342133/bins/bin_29/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /scratch/6167597/3d3675ee-422e-4a3e-b094-0069f8b6f872 /home/tola2495/GenomeAnalysisVT2022/analyses/03_binning/02_checkm/220426_checkm_RR4342133/bins/bin_29/genes.faa 
+# Current dir:     /home/tola2495/GenomeAnalysisVT2022/code/03_binning
+# Date:            Wed Apr 27 15:11:54 2022
+# [ok]

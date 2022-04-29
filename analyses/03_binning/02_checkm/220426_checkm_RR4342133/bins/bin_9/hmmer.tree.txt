@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_8330_1          -            704 RNA_pol_Rpb2_6       PF00562.23   386  4.3e-158  520.8   0.0   1   1  8.5e-160  3.2e-157  517.9   0.0     2   386   126   591   125   591 0.98 # 3 # 2114 # 1 # ID=16_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.375
+k105_8330_2          -           1046 RNA_pol_Rpb1_2       PF00623.15   166   6.6e-52  170.6   7.1   1   2     0.014       5.4    1.7   0.7    37    96   162   225   127   247 0.65 # 2118 # 5255 # 1 # ID=16_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.364
+k105_8330_2          -           1046 RNA_pol_Rpb1_2       PF00623.15   166   6.6e-52  170.6   7.1   2   2   4.1e-54   1.6e-51  169.4   0.0     1   165   417   558   417   559 0.96 # 2118 # 5255 # 1 # ID=16_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.364
+k105_61570_6         -            455 SRP_SPB              PF02978.14   104   3.3e-34  112.1   5.4   1   1   8.6e-37   3.3e-34  112.1   5.4     1   104   326   426   326   426 0.95 # 4265 # 5629 # 1 # ID=74_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.330
+k105_8330_1          -            704 RNA_pol_Rpb2_7       PF04560.15    82     3e-31  102.4   0.0   1   1   1.7e-33   6.4e-31  101.3   0.0     1    80   593   667   593   669 0.98 # 3 # 2114 # 1 # ID=16_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.375
+k105_8330_1          -            704 RNA_pol_Rpb2_3       PF04565.11    68   1.1e-18   61.6   0.0   1   1   5.3e-21     2e-18   60.7   0.0    26    68     1    43     1    43 0.95 # 3 # 2114 # 1 # ID=16_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.375
+k105_8330_2          -           1046 RNA_pol_Rpb1_1       PF04997.7    337   2.8e-91  301.0  11.3   1   2   6.6e-93   2.5e-90  297.9   4.7     2   337     3   415     2   415 0.81 # 2118 # 5255 # 1 # ID=16_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.364
+k105_8330_2          -           1046 RNA_pol_Rpb1_1       PF04997.7    337   2.8e-91  301.0  11.3   2   2     0.066        25   -1.3   0.5   112   152   738   778   682   813 0.60 # 2118 # 5255 # 1 # ID=16_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.364
+k105_8330_2          -           1046 RNA_pol_Rpb1_4       PF05000.12   108   7.5e-16   52.6   0.3   1   1   9.6e-18   3.6e-15   50.4   0.3     1   107   758   835   758   836 0.89 # 2118 # 5255 # 1 # ID=16_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.364
+k105_107247_1        -            746 TIGR00422            TIGR00422    863  1.3e-258  854.8  21.9   1   1  8.2e-261  1.5e-258  854.6  21.9   121   861     2   725     1   727 0.93 # 2 # 2239 # 1 # ID=37_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.309
+k105_22549_2         -            461 TIGR00422            TIGR00422    863   1.6e-07   24.1   0.1   1   2     0.069        13   -2.1   0.0    38    76    27    65    12   101 0.70 # 352 # 1734 # 1 # ID=41_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+k105_22549_2         -            461 TIGR00422            TIGR00422    863   1.6e-07   24.1   0.1   2   2     2e-09   3.7e-07   22.9   0.0   442   622   182   368   147   385 0.76 # 352 # 1734 # 1 # ID=41_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/6167597/03dd521d-9ca5-4c17-b8ea-e8fa820eb4c1
+# Target file:     /home/tola2495/GenomeAnalysisVT2022/analyses/03_binning/02_checkm/220426_checkm_RR4342133/bins/bin_9/genes.faa
+# Option settings: hmmsearch --domtblout /home/tola2495/GenomeAnalysisVT2022/analyses/03_binning/02_checkm/220426_checkm_RR4342133/bins/bin_9/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /scratch/6167597/03dd521d-9ca5-4c17-b8ea-e8fa820eb4c1 /home/tola2495/GenomeAnalysisVT2022/analyses/03_binning/02_checkm/220426_checkm_RR4342133/bins/bin_9/genes.faa 
+# Current dir:     /home/tola2495/GenomeAnalysisVT2022/code/03_binning
+# Date:            Wed Apr 27 15:12:17 2022
+# [ok]

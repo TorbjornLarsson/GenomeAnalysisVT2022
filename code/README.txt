@@ -1,2 +1,2 @@
-Folder containing code for each analysis in the workflow.
+Folder containing code for analysis in the workflow.
 
