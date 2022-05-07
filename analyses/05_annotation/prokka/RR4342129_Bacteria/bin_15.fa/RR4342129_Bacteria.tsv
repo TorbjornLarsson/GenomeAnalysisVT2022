@@ -1,0 +1,1389 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DAFHAFLN_00001	CDS	219				hypothetical protein
+DAFHAFLN_00002	CDS	726	recO		COG1381	DNA repair protein RecO
+DAFHAFLN_00003	CDS	861	era_1		COG1159	GTPase Era
+DAFHAFLN_00004	CDS	618	rnc_1	3.1.26.3	COG0571	Ribonuclease 3
+DAFHAFLN_00005	CDS	507	pgsA_1	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+DAFHAFLN_00006	CDS	1110	uvrC		COG0322	UvrABC system protein C
+DAFHAFLN_00007	CDS	834	dhmA_1	3.8.1.5		Haloalkane dehalogenase
+DAFHAFLN_00008	CDS	981				hypothetical protein
+DAFHAFLN_00009	CDS	327	rpoD		COG0568	RNA polymerase sigma factor RpoD
+DAFHAFLN_00010	CDS	618				hypothetical protein
+DAFHAFLN_00011	CDS	807	dhmA_2	3.8.1.5		Haloalkane dehalogenase
+DAFHAFLN_00012	CDS	480	bsaA			Glutathione peroxidase BsaA
+DAFHAFLN_00013	CDS	291				hypothetical protein
+DAFHAFLN_00014	CDS	1119				hypothetical protein
+DAFHAFLN_00015	CDS	291				hypothetical protein
+DAFHAFLN_00016	CDS	1146	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+DAFHAFLN_00017	CDS	642				hypothetical protein
+DAFHAFLN_00018	CDS	408				hypothetical protein
+DAFHAFLN_00019	CDS	744				hypothetical protein
+DAFHAFLN_00020	CDS	621	rhtB		COG1280	Homoserine/homoserine lactone efflux protein
+DAFHAFLN_00021	CDS	408				hypothetical protein
+DAFHAFLN_00022	CDS	363				hypothetical protein
+DAFHAFLN_00023	CDS	1308	murJ_1		COG0728	putative lipid II flippase MurJ
+DAFHAFLN_00024	CDS	1002	holA_1	2.7.7.7	COG1466	DNA polymerase III subunit delta
+DAFHAFLN_00025	CDS	348	rsfS_1			Ribosomal silencing factor RsfS
+DAFHAFLN_00026	CDS	675		1.-.-.-	COG0243	putative oxidoreductase
+DAFHAFLN_00027	CDS	1005				hypothetical protein
+DAFHAFLN_00028	CDS	627				hypothetical protein
+DAFHAFLN_00029	CDS	375	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+DAFHAFLN_00030	CDS	945	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+DAFHAFLN_00031	CDS	714	kdkA	2.7.1.166	COG0515	3-deoxy-D-manno-octulosonic acid kinase
+DAFHAFLN_00032	CDS	3033	btuB_1			Vitamin B12 transporter BtuB
+DAFHAFLN_00033	CDS	852				hypothetical protein
+DAFHAFLN_00034	CDS	1443	sdcS			Sodium-dependent dicarboxylate transporter SdcS
+DAFHAFLN_00035	CDS	1011	lpxK_1	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+DAFHAFLN_00036	CDS	1734	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+DAFHAFLN_00037	CDS	678	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+DAFHAFLN_00038	CDS	1257	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+DAFHAFLN_00039	CDS	618	rplD		COG0088	50S ribosomal protein L4
+DAFHAFLN_00040	CDS	312	rplW		COG0089	50S ribosomal protein L23
+DAFHAFLN_00041	CDS	831	rplB		COG0090	50S ribosomal protein L2
+DAFHAFLN_00042	CDS	273	rpsS		COG0185	30S ribosomal protein S19
+DAFHAFLN_00043	CDS	333	rplV		COG0091	50S ribosomal protein L22
+DAFHAFLN_00044	CDS	639	rpsC		COG0092	30S ribosomal protein S3
+DAFHAFLN_00045	CDS	414	rplP		COG0197	50S ribosomal protein L16
+DAFHAFLN_00046	CDS	201	rpmC			50S ribosomal protein L29
+DAFHAFLN_00047	CDS	264	rpsQ		COG0186	30S ribosomal protein S17
+DAFHAFLN_00048	CDS	369	rplN		COG0093	50S ribosomal protein L14
+DAFHAFLN_00049	CDS	318	rplX		COG0198	50S ribosomal protein L24
+DAFHAFLN_00050	CDS	759				hypothetical protein
+DAFHAFLN_00051	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+DAFHAFLN_00052	CDS	525	dsbE_1		COG0526	Thiol:disulfide interchange protein DsbE
+DAFHAFLN_00053	CDS	813	ccmF_1		COG1138	Cytochrome c-type biogenesis protein CcmF
+DAFHAFLN_00054	CDS	1083	amiF_1	3.5.1.49		Formamidase
+DAFHAFLN_00055	CDS	1341	codB		COG1457	Cytosine permease
+DAFHAFLN_00056	CDS	1980				hypothetical protein
+DAFHAFLN_00057	CDS	672				hypothetical protein
+DAFHAFLN_00058	CDS	1086	amiF_2	3.5.1.49		Formamidase
+DAFHAFLN_00059	CDS	210				hypothetical protein
+DAFHAFLN_00060	CDS	258				hypothetical protein
+DAFHAFLN_00061	CDS	204	rpmF		COG0333	50S ribosomal protein L32
+DAFHAFLN_00062	CDS	1005	plsX_1	2.3.1.274	COG0416	Phosphate acyltransferase
+DAFHAFLN_00063	CDS	966	fabH1	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1
+DAFHAFLN_00064	CDS	831				hypothetical protein
+DAFHAFLN_00065	CDS	1029	ghrA	1.1.1.81		Glyoxylate/hydroxypyruvate reductase A
+DAFHAFLN_00066	CDS	573	rutB	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+DAFHAFLN_00067	CDS	891	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+DAFHAFLN_00068	CDS	795	pcaU		COG1414	Pca operon regulatory protein
+DAFHAFLN_00069	CDS	879	prpB_1	4.1.3.30	COG2513	2-methylisocitrate lyase
+DAFHAFLN_00070	CDS	726	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+DAFHAFLN_00071	CDS	549	lptC			Lipopolysaccharide export system protein LptC
+DAFHAFLN_00072	CDS	969	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+DAFHAFLN_00073	CDS	228				hypothetical protein
+DAFHAFLN_00074	CDS	1254	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+DAFHAFLN_00075	CDS	576	petA	7.1.1.8	COG0723	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+DAFHAFLN_00076	CDS	1254	fbcH		COG1290	Cytochrome b/c1
+DAFHAFLN_00077	CDS	666	petC		COG2857	Ammonia monooxygenase gamma subunit
+DAFHAFLN_00078	CDS	630	sspA_1		COG0625	Stringent starvation protein A
+DAFHAFLN_00079	CDS	840	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+DAFHAFLN_00080	CDS	492	mraZ		COG2001	Transcriptional regulator MraZ
+DAFHAFLN_00081	CDS	1176	ftsZ		COG0206	Cell division protein FtsZ
+DAFHAFLN_00082	CDS	918	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+DAFHAFLN_00083	CDS	291	ftsL			Cell division protein FtsL
+DAFHAFLN_00084	CDS	816	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+DAFHAFLN_00085	CDS	1062		3.5.1.4		Aliphatic amidase
+DAFHAFLN_00086	CDS	531				hypothetical protein
+DAFHAFLN_00087	CDS	1983	nagZ	3.2.1.52		Beta-hexosaminidase
+DAFHAFLN_00088	CDS	1569	sglT			Sodium/glucose cotransporter
+DAFHAFLN_00089	tRNA	77				tRNA-Arg(cct)
+DAFHAFLN_00090	CDS	603				hypothetical protein
+DAFHAFLN_00091	CDS	999	fabB	2.3.1.41	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 1
+DAFHAFLN_00092	CDS	1137	bauC_1	1.2.1.-	COG1012	Putative 3-oxopropanoate dehydrogenase
+DAFHAFLN_00093	CDS	1233	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+DAFHAFLN_00094	CDS	1722	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+DAFHAFLN_00095	CDS	276	pyrC			Dihydroorotase
+DAFHAFLN_00096	CDS	117				hypothetical protein
+DAFHAFLN_00097	CDS	1806	sfrB_1	1.-.-.-	COG0493	NADPH-Fe(3+) oxidoreductase subunit beta
+DAFHAFLN_00098	CDS	1809	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+DAFHAFLN_00099	CDS	1056				hypothetical protein
+DAFHAFLN_00100	CDS	483		1.11.1.15		Peroxiredoxin
+DAFHAFLN_00101	CDS	1263	dctM_1		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+DAFHAFLN_00102	CDS	498				hypothetical protein
+DAFHAFLN_00103	CDS	1506	styD	1.2.1.39		Phenylacetaldehyde dehydrogenase
+DAFHAFLN_00104	CDS	711				hypothetical protein
+DAFHAFLN_00105	CDS	480	rpsG		COG0049	30S ribosomal protein S7
+DAFHAFLN_00106	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+DAFHAFLN_00107	CDS	4176	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+DAFHAFLN_00108	CDS	912	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+DAFHAFLN_00109	CDS	1578	aceB_1	2.3.3.9	COG2225	Malate synthase A
+DAFHAFLN_00110	CDS	891	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+DAFHAFLN_00111	CDS	477	greA		COG0782	Transcription elongation factor GreA
+DAFHAFLN_00112	CDS	609	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+DAFHAFLN_00113	CDS	1488	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+DAFHAFLN_00114	CDS	192				hypothetical protein
+DAFHAFLN_00115	CDS	165				hypothetical protein
+DAFHAFLN_00116	CDS	1200				hypothetical protein
+DAFHAFLN_00117	CDS	1056				hypothetical protein
+DAFHAFLN_00118	CDS	243				hypothetical protein
+DAFHAFLN_00119	CDS	768				hypothetical protein
+DAFHAFLN_00120	CDS	915	xerD		COG4974	Tyrosine recombinase XerD
+DAFHAFLN_00121	CDS	642	dsbC		COG1651	Thiol:disulfide interchange protein DsbC
+DAFHAFLN_00122	CDS	231			COG1146	Ferredoxin 1
+DAFHAFLN_00123	CDS	930	ddl	6.3.2.4		D-alanine--D-alanine ligase
+DAFHAFLN_00124	CDS	342	murB_1	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+DAFHAFLN_00125	CDS	615				hypothetical protein
+DAFHAFLN_00126	tRNA	78				tRNA-Asp(gtc)
+DAFHAFLN_00127	CDS	603				hypothetical protein
+DAFHAFLN_00128	CDS	1002	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+DAFHAFLN_00129	CDS	1011	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+DAFHAFLN_00130	CDS	624	lysU	6.1.1.6	COG1190	Lysine--tRNA ligase, heat inducible
+DAFHAFLN_00131	CDS	285				hypothetical protein
+DAFHAFLN_00132	CDS	603	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+DAFHAFLN_00133	CDS	846				hypothetical protein
+DAFHAFLN_00134	CDS	789	ygfZ			tRNA-modifying protein YgfZ
+DAFHAFLN_00135	CDS	375				hypothetical protein
+DAFHAFLN_00136	CDS	372				hypothetical protein
+DAFHAFLN_00137	CDS	1788	sdhA_1	1.3.5.1	COG1053	Succinate dehydrogenase flavoprotein subunit
+DAFHAFLN_00138	CDS	1152	leuS_1	6.1.1.4	COG0495	Leucine--tRNA ligase
+DAFHAFLN_00139	CDS	378	katG_1	1.11.1.21		Catalase-peroxidase
+DAFHAFLN_00140	CDS	1887	parE_1	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+DAFHAFLN_00141	CDS	249				hypothetical protein
+DAFHAFLN_00142	CDS	1497	betS			Glycine betaine/proline betaine transporter BetS
+DAFHAFLN_00143	CDS	489	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+DAFHAFLN_00144	CDS	1095	tyrA		COG0287	T-protein
+DAFHAFLN_00145	CDS	786	lgt_1	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+DAFHAFLN_00146	CDS	843				hypothetical protein
+DAFHAFLN_00147	CDS	393				hypothetical protein
+DAFHAFLN_00148	CDS	573	rpoE_1		COG1595	ECF RNA polymerase sigma factor RpoE
+DAFHAFLN_00149	CDS	273				hypothetical protein
+DAFHAFLN_00150	CDS	729	ccmC_1		COG0755	Heme exporter protein C
+DAFHAFLN_00151	CDS	150				hypothetical protein
+DAFHAFLN_00152	CDS	396				hypothetical protein
+DAFHAFLN_00153	CDS	450				hypothetical protein
+DAFHAFLN_00154	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+DAFHAFLN_00155	CDS	219				hypothetical protein
+DAFHAFLN_00156	CDS	1101	bepE_1			Efflux pump membrane transporter BepE
+DAFHAFLN_00157	CDS	909	adoK_1	2.7.1.20	COG0524	Adenosine kinase
+DAFHAFLN_00158	CDS	1308	pepP_1	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+DAFHAFLN_00159	CDS	192	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+DAFHAFLN_00160	CDS	1719	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+DAFHAFLN_00161	CDS	582				hypothetical protein
+DAFHAFLN_00162	CDS	2454	leuS_2	6.1.1.4	COG0495	Leucine--tRNA ligase
+DAFHAFLN_00163	CDS	489	lptE_1			LPS-assembly lipoprotein LptE
+DAFHAFLN_00164	CDS	582	tdk_1	2.7.1.21	COG1435	Thymidine kinase
+DAFHAFLN_00165	CDS	1257	nupX_1		COG1972	Putative nucleoside permease NupX
+DAFHAFLN_00166	CDS	927				hypothetical protein
+DAFHAFLN_00167	CDS	456	hisI_1	3.5.4.19		Phosphoribosyl-AMP cyclohydrolase
+DAFHAFLN_00168	CDS	1356	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+DAFHAFLN_00169	CDS	414	sufE		COG2166	Cysteine desulfuration protein SufE
+DAFHAFLN_00170	CDS	1002	holA_2	2.7.7.7	COG1466	DNA polymerase III subunit delta
+DAFHAFLN_00171	CDS	348	rsfS_2			Ribosomal silencing factor RsfS
+DAFHAFLN_00172	CDS	468	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+DAFHAFLN_00173	CDS	1179				hypothetical protein
+DAFHAFLN_00174	CDS	804	nit1_1	3.5.1.128		Deaminated glutathione amidase
+DAFHAFLN_00175	CDS	1437	tldD_1	3.4.-.-	COG0312	Metalloprotease TldD
+DAFHAFLN_00176	CDS	483	purE_1	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+DAFHAFLN_00177	CDS	144				hypothetical protein
+DAFHAFLN_00178	CDS	408	fadA_1	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+DAFHAFLN_00179	CDS	750				hypothetical protein
+DAFHAFLN_00180	CDS	2772	ddhA_1	1.8.2.4		Dimethylsulfide dehydrogenase subunit alpha
+DAFHAFLN_00181	CDS	639	nahD_1	5.99.1.4		2-hydroxychromene-2-carboxylate isomerase
+DAFHAFLN_00182	CDS	1299	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+DAFHAFLN_00183	CDS	630	hppA	7.1.3.1	COG3808	K(+)-insensitive pyrophosphate-energized proton pump
+DAFHAFLN_00184	CDS	1407	tolC		COG1538	Outer membrane protein TolC
+DAFHAFLN_00185	CDS	1290	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+DAFHAFLN_00186	CDS	363				hypothetical protein
+DAFHAFLN_00187	CDS	702				hypothetical protein
+DAFHAFLN_00188	CDS	1272	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+DAFHAFLN_00189	CDS	363				hypothetical protein
+DAFHAFLN_00190	CDS	174				hypothetical protein
+DAFHAFLN_00191	CDS	453	smpB		COG0691	SsrA-binding protein
+DAFHAFLN_00192	CDS	1377				hypothetical protein
+DAFHAFLN_00193	CDS	444	pasT		COG2867	Persistence and stress-resistance toxin PasT
+DAFHAFLN_00194	CDS	348	bamE			Outer membrane protein assembly factor BamE
+DAFHAFLN_00195	CDS	699	nadK	2.7.1.23	COG0061	NAD kinase
+DAFHAFLN_00196	CDS	516	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+DAFHAFLN_00197	CDS	1287	gltA_1	2.3.3.16	COG0372	Citrate synthase
+DAFHAFLN_00198	CDS	207	rpmE		COG0254	50S ribosomal protein L31
+DAFHAFLN_00199	CDS	300				hypothetical protein
+DAFHAFLN_00200	CDS	966				hypothetical protein
+DAFHAFLN_00201	CDS	474				hypothetical protein
+DAFHAFLN_00202	CDS	2106	ftsK		COG1674	DNA translocase FtsK
+DAFHAFLN_00203	CDS	729				hypothetical protein
+DAFHAFLN_00204	CDS	975	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+DAFHAFLN_00205	CDS	429	pckG	4.1.1.32	COG1274	Phosphoenolpyruvate carboxykinase [GTP]
+DAFHAFLN_00206	tRNA	75				tRNA-Gln(ttg)
+DAFHAFLN_00207	CDS	954	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+DAFHAFLN_00208	CDS	708				hypothetical protein
+DAFHAFLN_00209	CDS	582	pth_1	3.1.1.29		Peptidyl-tRNA hydrolase
+DAFHAFLN_00210	CDS	1056	xecA1	4.4.1.23		2-hydroxypropyl-CoM lyase
+DAFHAFLN_00211	CDS	819				hypothetical protein
+DAFHAFLN_00212	CDS	1176	tetA_1			Tetracycline resistance protein, class B
+DAFHAFLN_00213	CDS	2466	btuB_2			Vitamin B12 transporter BtuB
+DAFHAFLN_00214	CDS	1470	allB_1	3.5.2.5	COG0044	Allantoinase
+DAFHAFLN_00215	CDS	1578	dld_1	1.1.5.12		Quinone-dependent D-lactate dehydrogenase
+DAFHAFLN_00216	CDS	804	dhmA_3	3.8.1.5		Haloalkane dehalogenase
+DAFHAFLN_00217	CDS	201				hypothetical protein
+DAFHAFLN_00218	CDS	717				hypothetical protein
+DAFHAFLN_00219	CDS	735				queuosine precursor transporter
+DAFHAFLN_00220	CDS	705				hypothetical protein
+DAFHAFLN_00221	CDS	1083	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+DAFHAFLN_00222	CDS	1248	spoT		COG0317	Bifunctional (p)ppGpp synthase/hydrolase SpoT
+DAFHAFLN_00223	CDS	399	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+DAFHAFLN_00224	CDS	2523	gltA_2	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+DAFHAFLN_00225	CDS	1614	prpB_2	4.1.3.30		2-methylisocitrate lyase
+DAFHAFLN_00226	CDS	1482	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+DAFHAFLN_00227	CDS	483				hypothetical protein
+DAFHAFLN_00228	tRNA	76				tRNA-Gly(gcc)
+DAFHAFLN_00229	CDS	501				hypothetical protein
+DAFHAFLN_00230	CDS	627				hypothetical protein
+DAFHAFLN_00231	CDS	522				hypothetical protein
+DAFHAFLN_00232	CDS	408				hypothetical protein
+DAFHAFLN_00233	CDS	528	murJ_2		COG0728	putative lipid II flippase MurJ
+DAFHAFLN_00234	CDS	492				hypothetical protein
+DAFHAFLN_00235	CDS	171				hypothetical protein
+DAFHAFLN_00236	CDS	687				hypothetical protein
+DAFHAFLN_00237	CDS	423				hypothetical protein
+DAFHAFLN_00238	CDS	444	rutC	1.-.-.-		Putative aminoacrylate peracid reductase RutC
+DAFHAFLN_00239	CDS	1032	yfmJ	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+DAFHAFLN_00240	CDS	693			COG2968	26 kDa periplasmic immunogenic protein
+DAFHAFLN_00241	CDS	198				hypothetical protein
+DAFHAFLN_00242	CDS	468				hypothetical protein
+DAFHAFLN_00243	CDS	468				hypothetical protein
+DAFHAFLN_00244	CDS	534				hypothetical protein
+DAFHAFLN_00245	CDS	783	nit1_2	3.5.1.128		Deaminated glutathione amidase
+DAFHAFLN_00246	CDS	504				hypothetical protein
+DAFHAFLN_00247	CDS	1536	fdhF	1.17.1.9	COG0243	Formate dehydrogenase H
+DAFHAFLN_00248	CDS	1851		1.-.-.-	COG0243	putative oxidoreductase
+DAFHAFLN_00249	tRNA	84				tRNA-Leu(caa)
+DAFHAFLN_00250	CDS	1086	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+DAFHAFLN_00251	CDS	1110	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+DAFHAFLN_00252	CDS	315	yajC		COG1862	Sec translocon accessory complex subunit YajC
+DAFHAFLN_00253	CDS	1845	secD		COG0342	Protein translocase subunit SecD
+DAFHAFLN_00254	CDS	870	secF		COG0341	Protein translocase subunit SecF
+DAFHAFLN_00255	CDS	807	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+DAFHAFLN_00256	CDS	1362	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+DAFHAFLN_00257	CDS	483	dsbB		COG1495	Disulfide bond formation protein B
+DAFHAFLN_00258	CDS	663	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+DAFHAFLN_00259	CDS	513	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+DAFHAFLN_00260	CDS	1275	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+DAFHAFLN_00261	CDS	666	pdxH_1	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+DAFHAFLN_00262	CDS	948	ccl	4.1.3.46	COG0119	(R)-citramalyl-CoA lyase
+DAFHAFLN_00263	CDS	1008	fusA		COG0480	Elongation factor G
+DAFHAFLN_00264	CDS	315	rpsJ		COG0051	30S ribosomal protein S10
+DAFHAFLN_00265	CDS	1230	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+DAFHAFLN_00266	CDS	1275				hypothetical protein
+DAFHAFLN_00267	CDS	648	sufC_1		COG0396	putative ATP-dependent transporter SufC
+DAFHAFLN_00268	CDS	678	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+DAFHAFLN_00269	CDS	1167	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+DAFHAFLN_00270	CDS	597				hypothetical protein
+DAFHAFLN_00271	CDS	567	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+DAFHAFLN_00272	CDS	2496	btuB_3			Vitamin B12 transporter BtuB
+DAFHAFLN_00273	CDS	807				hypothetical protein
+DAFHAFLN_00274	CDS	603	leuD1_1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+DAFHAFLN_00275	CDS	1254	leuC_1	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+DAFHAFLN_00276	tRNA	76				tRNA-Trp(cca)
+DAFHAFLN_00277	CDS	1191	tufA_1		COG0050	Elongation factor Tu
+DAFHAFLN_00278	tRNA	75				tRNA-Thr(ggt)
+DAFHAFLN_00279	tRNA	74				tRNA-Gly(tcc)
+DAFHAFLN_00280	tRNA	85				tRNA-Tyr(gta)
+DAFHAFLN_00281	tRNA	76				tRNA-Thr(tgt)
+DAFHAFLN_00282	CDS	546	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+DAFHAFLN_00283	CDS	702	ydcV_1			Inner membrane ABC transporter permease protein YdcV
+DAFHAFLN_00284	CDS	660	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+DAFHAFLN_00285	CDS	519	yrdA		COG0663	Protein YrdA
+DAFHAFLN_00286	CDS	882	tesB	3.1.2.-	COG1946	Acyl-CoA thioesterase 2
+DAFHAFLN_00287	CDS	462		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+DAFHAFLN_00288	CDS	591	folE_1	3.5.4.16	COG0302	GTP cyclohydrolase 1
+DAFHAFLN_00289	CDS	390	mobA_1	2.7.7.77		Molybdenum cofactor guanylyltransferase
+DAFHAFLN_00290	CDS	1134	pepP_2	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+DAFHAFLN_00291	CDS	474				hypothetical protein
+DAFHAFLN_00292	CDS	615	nfdA_1	3.5.1.91		N-substituted formamide deformylase
+DAFHAFLN_00293	CDS	990		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+DAFHAFLN_00294	CDS	789	paaF	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+DAFHAFLN_00295	CDS	588			COG2141	putative protein
+DAFHAFLN_00296	CDS	600	icd_1	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+DAFHAFLN_00297	CDS	453			COG3241	Azurin
+DAFHAFLN_00298	CDS	495	ilvH_1	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+DAFHAFLN_00299	CDS	1788	ilvB_1	2.2.1.6	COG0028	Acetolactate synthase large subunit
+DAFHAFLN_00300	CDS	1416	gabD2_1	1.2.1.79	COG1012	Putative succinate-semialdehyde dehydrogenase [NADP(+)] 2
+DAFHAFLN_00301	CDS	975	thadh_1	4.3.1.16		L-threo-3-hydroxyaspartate ammonia-lyase
+DAFHAFLN_00302	CDS	357				hypothetical protein
+DAFHAFLN_00303	CDS	357				hypothetical protein
+DAFHAFLN_00304	CDS	975	thadh_2	4.3.1.16		L-threo-3-hydroxyaspartate ammonia-lyase
+DAFHAFLN_00305	CDS	1266	tig	5.2.1.8	COG0544	Trigger factor
+DAFHAFLN_00306	CDS	621	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+DAFHAFLN_00307	CDS	1332	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+DAFHAFLN_00308	CDS	693				hypothetical protein
+DAFHAFLN_00309	CDS	732		2.3.1.-		Serine O-succinyltransferase
+DAFHAFLN_00310	CDS	756	zapD_1		COG4582	Cell division protein ZapD
+DAFHAFLN_00311	CDS	603	coaE_1	2.7.1.24	COG0237	Dephospho-CoA kinase
+DAFHAFLN_00312	CDS	474	nqo2_1	7.1.1.-	COG1905	NADH-quinone oxidoreductase subunit 2
+DAFHAFLN_00313	CDS	756	nuoD_1	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit D
+DAFHAFLN_00314	CDS	1230	shdC	4.1.1.63		Phenolic acid decarboxylase
+DAFHAFLN_00315	CDS	741	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DAFHAFLN_00316	CDS	504	folK_1	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+DAFHAFLN_00317	CDS	900				hypothetical protein
+DAFHAFLN_00318	tmRNA	345	ssrA			transfer-messenger RNA, SsrA
+DAFHAFLN_00319	CDS	1029	aguA	3.5.3.12	COG2957	Agmatine deiminase
+DAFHAFLN_00320	CDS	861		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+DAFHAFLN_00321	CDS	624				hypothetical protein
+DAFHAFLN_00322	CDS	594				hypothetical protein
+DAFHAFLN_00323	CDS	1086	ftsA_1		COG0849	Cell division protein FtsA
+DAFHAFLN_00324	CDS	1047	mdtA_1			Multidrug resistance protein MdtA
+DAFHAFLN_00325	CDS	342				hypothetical protein
+DAFHAFLN_00326	CDS	258				hypothetical protein
+DAFHAFLN_00327	CDS	348				hypothetical protein
+DAFHAFLN_00328	CDS	1197	rocD_1	2.6.1.13	COG4992	Ornithine aminotransferase
+DAFHAFLN_00329	CDS	321				hypothetical protein
+DAFHAFLN_00330	CDS	894	hisG_1	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+DAFHAFLN_00331	CDS	1308	hisD_1	1.1.1.23	COG0141	Histidinol dehydrogenase
+DAFHAFLN_00332	CDS	1377	fumC_1	4.2.1.2	COG0114	Fumarate hydratase class II
+DAFHAFLN_00333	CDS	1365	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+DAFHAFLN_00334	CDS	435		2.3.1.-		Acetyltransferase
+DAFHAFLN_00335	CDS	624				hypothetical protein
+DAFHAFLN_00336	CDS	339				hypothetical protein
+DAFHAFLN_00337	CDS	231				hypothetical protein
+DAFHAFLN_00338	CDS	558				hypothetical protein
+DAFHAFLN_00339	CDS	201	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+DAFHAFLN_00340	CDS	660	ubiM	1.14.13.-		Ubiquinone hydroxylase UbiM
+DAFHAFLN_00341	CDS	798				hypothetical protein
+DAFHAFLN_00342	CDS	1200				hypothetical protein
+DAFHAFLN_00343	CDS	264				hypothetical protein
+DAFHAFLN_00344	CDS	399				hypothetical protein
+DAFHAFLN_00345	CDS	1038				hypothetical protein
+DAFHAFLN_00346	CDS	885	mhpC	3.7.1.14	COG0596	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+DAFHAFLN_00347	CDS	1209				hypothetical protein
+DAFHAFLN_00348	CDS	198	cspV		COG1278	Cold shock protein CspV
+DAFHAFLN_00349	tRNA	77				tRNA-Arg(tct)
+DAFHAFLN_00350	CDS	552				hypothetical protein
+DAFHAFLN_00351	CDS	288	groS		COG0234	10 kDa chaperonin
+DAFHAFLN_00352	CDS	960	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+DAFHAFLN_00353	CDS	525	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+DAFHAFLN_00354	CDS	579	pgsA_2	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+DAFHAFLN_00355	CDS	642	hda		COG0593	DnaA regulatory inactivator Hda
+DAFHAFLN_00356	CDS	288				hypothetical protein
+DAFHAFLN_00357	CDS	1239	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+DAFHAFLN_00358	CDS	567				hypothetical protein
+DAFHAFLN_00359	CDS	420	rpoE_2		COG1595	ECF RNA polymerase sigma factor RpoE
+DAFHAFLN_00360	CDS	858				hypothetical protein
+DAFHAFLN_00361	CDS	762		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+DAFHAFLN_00362	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+DAFHAFLN_00363	CDS	837				hypothetical protein
+DAFHAFLN_00364	CDS	1197				hypothetical protein
+DAFHAFLN_00365	CDS	1482				hypothetical protein
+DAFHAFLN_00366	CDS	2427	egtB	1.14.99.50		Hercynine oxygenase
+DAFHAFLN_00367	CDS	252				hypothetical protein
+DAFHAFLN_00368	CDS	1599	dld_2	1.1.5.12		Quinone-dependent D-lactate dehydrogenase
+DAFHAFLN_00369	CDS	1242		3.4.-.-		putative peptidase
+DAFHAFLN_00370	CDS	2385	fyuA_1		COG1629	Pesticin receptor
+DAFHAFLN_00371	CDS	453	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+DAFHAFLN_00372	CDS	786	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+DAFHAFLN_00373	CDS	936	surA_1	5.2.1.8		Chaperone SurA
+DAFHAFLN_00374	CDS	195				hypothetical protein
+DAFHAFLN_00375	CDS	825	tauD_1	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+DAFHAFLN_00376	tRNA	77				tRNA-Arg(tcg)
+DAFHAFLN_00377	CDS	663	purL_1	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+DAFHAFLN_00378	CDS	1254	glyA_1	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+DAFHAFLN_00379	CDS	285				hypothetical protein
+DAFHAFLN_00380	CDS	1359	trkA		COG0569	Trk system potassium uptake protein TrkA
+DAFHAFLN_00381	CDS	906				hypothetical protein
+DAFHAFLN_00382	CDS	276				hypothetical protein
+DAFHAFLN_00383	CDS	669				hypothetical protein
+DAFHAFLN_00384	CDS	1053	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+DAFHAFLN_00385	CDS	324			COG2924	putative Fe(2+)-trafficking protein
+DAFHAFLN_00386	tRNA	76				tRNA-Phe(gaa)
+DAFHAFLN_00387	CDS	222				hypothetical protein
+DAFHAFLN_00388	CDS	600				hypothetical protein
+DAFHAFLN_00389	CDS	408				hypothetical protein
+DAFHAFLN_00390	CDS	1143	mdtA_2			Multidrug resistance protein MdtA
+DAFHAFLN_00391	CDS	3198	mexB		COG0841	Multidrug resistance protein MexB
+DAFHAFLN_00392	CDS	762	puuD	3.5.1.94	COG2071	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+DAFHAFLN_00393	CDS	1335	puuA_1	6.3.1.11	COG0174	Gamma-glutamylputrescine synthetase PuuA
+DAFHAFLN_00394	CDS	1365	spuC_1	2.6.1.113	COG0161	Putrescine--pyruvate aminotransferase
+DAFHAFLN_00395	CDS	327				hypothetical protein
+DAFHAFLN_00396	CDS	1197	rocD_2	2.6.1.13	COG4992	Ornithine aminotransferase
+DAFHAFLN_00397	CDS	786	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+DAFHAFLN_00398	CDS	996	pdxA_1	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+DAFHAFLN_00399	CDS	1350	surA_2	5.2.1.8	COG0760	Chaperone SurA
+DAFHAFLN_00400	CDS	1821	lptD_1		COG1452	LPS-assembly protein LptD
+DAFHAFLN_00401	CDS	837	thyA	2.1.1.45	COG0207	Thymidylate synthase
+DAFHAFLN_00402	CDS	795	lgt_2	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+DAFHAFLN_00403	CDS	846				hypothetical protein
+DAFHAFLN_00404	CDS	402				hypothetical protein
+DAFHAFLN_00405	CDS	345				hypothetical protein
+DAFHAFLN_00406	CDS	2079	prc	3.4.21.102	COG0793	Tail-specific protease
+DAFHAFLN_00407	CDS	384				hypothetical protein
+DAFHAFLN_00408	CDS	1023	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+DAFHAFLN_00409	CDS	447				hypothetical protein
+DAFHAFLN_00410	tRNA	76				tRNA-Ala(ggc)
+DAFHAFLN_00411	CDS	1197	lolE_3		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+DAFHAFLN_00412	CDS	954	baeE		COG0331	Polyketide biosynthesis protein BaeE
+DAFHAFLN_00413	CDS	2322				hypothetical protein
+DAFHAFLN_00414	CDS	405	epi_1	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+DAFHAFLN_00415	CDS	330				hypothetical protein
+DAFHAFLN_00416	CDS	1278				hypothetical protein
+DAFHAFLN_00417	CDS	1458	selO_1	2.7.7.-	COG0397	Protein adenylyltransferase SelO
+DAFHAFLN_00418	CDS	300				hypothetical protein
+DAFHAFLN_00419	CDS	2091	bfrD_1		COG4774	putative TonB-dependent receptor BfrD
+DAFHAFLN_00420	CDS	372				hypothetical protein
+DAFHAFLN_00421	CDS	654	nth_1	4.2.99.18	COG0177	Endonuclease III
+DAFHAFLN_00422	CDS	342	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+DAFHAFLN_00423	CDS	1635	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+DAFHAFLN_00424	CDS	1014	exuR		COG1609	putative HTH-type transcriptional repressor ExuR
+DAFHAFLN_00425	CDS	1356	amtB_1			Ammonia channel
+DAFHAFLN_00426	CDS	339	glnB_1		COG0347	Nitrogen regulatory protein P-II
+DAFHAFLN_00427	CDS	786				hypothetical protein
+DAFHAFLN_00428	CDS	723				hypothetical protein
+DAFHAFLN_00429	CDS	1443	nrdZ	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+DAFHAFLN_00430	CDS	2163	ileS_1	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+DAFHAFLN_00431	CDS	681				hypothetical protein
+DAFHAFLN_00432	CDS	951	arcB	1.5.1.49		Delta(1)-pyrroline-2-carboxylate reductase
+DAFHAFLN_00433	CDS	639	psdht	4.2.1.-		Phenylserine dehydratase
+DAFHAFLN_00434	CDS	1035				hypothetical protein
+DAFHAFLN_00435	CDS	768				hypothetical protein
+DAFHAFLN_00436	CDS	348				hypothetical protein
+DAFHAFLN_00437	CDS	432	ssb		COG0629	Single-stranded DNA-binding protein
+DAFHAFLN_00438	CDS	783	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+DAFHAFLN_00439	CDS	594	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+DAFHAFLN_00440	CDS	501				hypothetical protein
+DAFHAFLN_00441	CDS	1509	pnbA_1	3.1.1.-	COG2272	Para-nitrobenzyl esterase
+DAFHAFLN_00442	CDS	288				hypothetical protein
+DAFHAFLN_00443	CDS	453	rimP		COG0779	Ribosome maturation factor RimP
+DAFHAFLN_00444	CDS	927	moaA	4.1.99.22	COG2896	GTP 3',8-cyclase
+DAFHAFLN_00445	CDS	1128	ald	1.4.1.1	COG0686	Alanine dehydrogenase
+DAFHAFLN_00446	CDS	1491	bauC_2	1.2.1.-	COG1012	Putative 3-oxopropanoate dehydrogenase
+DAFHAFLN_00447	CDS	1347	bauA_1	2.6.1.18	COG0161	Beta-alanine--pyruvate aminotransferase
+DAFHAFLN_00448	CDS	528	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+DAFHAFLN_00449	CDS	774	gloB_1	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloB
+DAFHAFLN_00450	tRNA	77				tRNA-Arg(acg)
+DAFHAFLN_00451	CDS	1338	mamZ_1			Magnetosome protein MamZ
+DAFHAFLN_00452	CDS	393				hypothetical protein
+DAFHAFLN_00453	CDS	558				hypothetical protein
+DAFHAFLN_00454	CDS	993				hypothetical protein
+DAFHAFLN_00455	CDS	1347	mamZ_2			Magnetosome protein MamZ
+DAFHAFLN_00456	CDS	1074				hypothetical protein
+DAFHAFLN_00457	CDS	594				hypothetical protein
+DAFHAFLN_00458	CDS	783				hypothetical protein
+DAFHAFLN_00459	CDS	1458	rebO	1.4.3.23		Flavin-dependent L-tryptophan oxidase RebO
+DAFHAFLN_00460	CDS	1665				hypothetical protein
+DAFHAFLN_00461	CDS	885	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+DAFHAFLN_00462	CDS	639	aspS_1	6.1.1.12	COG0173	Aspartate--tRNA ligase
+DAFHAFLN_00463	CDS	1200	pccB_1	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+DAFHAFLN_00464	CDS	1896	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+DAFHAFLN_00465	CDS	2742	ddhA_2	1.8.2.4		Dimethylsulfide dehydrogenase subunit alpha
+DAFHAFLN_00466	CDS	675	torD			Chaperone protein TorD
+DAFHAFLN_00467	CDS	990	serB	1.97.1.9		Selenate reductase subunit beta
+DAFHAFLN_00468	CDS	1953	mdtD			Putative multidrug resistance protein MdtD
+DAFHAFLN_00469	CDS	1317	nanT_1			Sialic acid transporter NanT
+DAFHAFLN_00470	CDS	633	nicF	3.5.1.107	COG1335	Maleamate amidohydrolase
+DAFHAFLN_00471	CDS	924				hypothetical protein
+DAFHAFLN_00472	CDS	1290				hypothetical protein
+DAFHAFLN_00473	CDS	1200				hypothetical protein
+DAFHAFLN_00474	CDS	1176				hypothetical protein
+DAFHAFLN_00475	CDS	999	cysB			HTH-type transcriptional regulator CysB
+DAFHAFLN_00476	CDS	864	ribN			Riboflavin transporter
+DAFHAFLN_00477	CDS	1353	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+DAFHAFLN_00478	CDS	396				hypothetical protein
+DAFHAFLN_00479	CDS	999	recA		COG0468	Protein RecA
+DAFHAFLN_00480	CDS	450	recX		COG2137	Regulatory protein RecX
+DAFHAFLN_00481	CDS	2589	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+DAFHAFLN_00482	CDS	2139	btuB_4			Vitamin B12 transporter BtuB
+DAFHAFLN_00483	CDS	879	ucpA_1	1.-.-.-		Oxidoreductase UcpA
+DAFHAFLN_00484	CDS	1131	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+DAFHAFLN_00485	CDS	303				hypothetical protein
+DAFHAFLN_00486	CDS	1392	phrA_1	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+DAFHAFLN_00487	CDS	156				hypothetical protein
+DAFHAFLN_00488	CDS	270	tesA	3.1.1.1	COG2755	Esterase TesA
+DAFHAFLN_00489	CDS	828				hypothetical protein
+DAFHAFLN_00490	CDS	699	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+DAFHAFLN_00491	CDS	681	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+DAFHAFLN_00492	CDS	819	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+DAFHAFLN_00493	CDS	411	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+DAFHAFLN_00494	CDS	660				hypothetical protein
+DAFHAFLN_00495	CDS	1092				hypothetical protein
+DAFHAFLN_00496	CDS	339				hypothetical protein
+DAFHAFLN_00497	CDS	1557	aceB_2	2.3.3.9	COG2225	Malate synthase A
+DAFHAFLN_00498	CDS	2853				hypothetical protein
+DAFHAFLN_00499	CDS	240				hypothetical protein
+DAFHAFLN_00500	CDS	765	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+DAFHAFLN_00501	CDS	309				hypothetical protein
+DAFHAFLN_00502	CDS	762	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+DAFHAFLN_00503	CDS	558	frr		COG0233	Ribosome-recycling factor
+DAFHAFLN_00504	CDS	714	pyrH	2.7.4.22	COG0528	Uridylate kinase
+DAFHAFLN_00505	CDS	168	tsf			Elongation factor Ts
+DAFHAFLN_00506	CDS	483		1.11.1.15		Peroxiredoxin
+DAFHAFLN_00507	CDS	897	dctM_2		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+DAFHAFLN_00508	CDS	654	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+DAFHAFLN_00509	CDS	459	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+DAFHAFLN_00510	CDS	387	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+DAFHAFLN_00511	CDS	723	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+DAFHAFLN_00512	CDS	156				hypothetical protein
+DAFHAFLN_00513	CDS	351	rseP	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+DAFHAFLN_00514	CDS	789	tatD_1	3.1.11.-	COG0084	3'-5' ssDNA/RNA exonuclease TatD
+DAFHAFLN_00515	CDS	738				hypothetical protein
+DAFHAFLN_00516	CDS	981	acn_1	4.2.1.3	COG1048	Aconitate hydratase A
+DAFHAFLN_00517	CDS	1197				hypothetical protein
+DAFHAFLN_00518	CDS	3438	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+DAFHAFLN_00519	CDS	1371	lptD_2		COG1452	LPS-assembly protein LptD
+DAFHAFLN_00520	CDS	1350	surA_3	5.2.1.8	COG0760	Chaperone SurA
+DAFHAFLN_00521	CDS	996	pdxA_2	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+DAFHAFLN_00522	CDS	1185	mcm_1	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+DAFHAFLN_00523	CDS	1533	pccB_2	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+DAFHAFLN_00524	CDS	462				hypothetical protein
+DAFHAFLN_00525	CDS	711				hypothetical protein
+DAFHAFLN_00526	CDS	1383	abaF			Fosfomycin resistance protein AbaF
+DAFHAFLN_00527	CDS	366	rbfA		COG0858	Ribosome-binding factor A
+DAFHAFLN_00528	CDS	2409	infB			Translation initiation factor IF-2
+DAFHAFLN_00529	CDS	855	ribD_1		COG0117	Riboflavin biosynthesis protein RibD
+DAFHAFLN_00530	CDS	588	ribE_1	2.5.1.9		Riboflavin synthase
+DAFHAFLN_00531	CDS	1149	ribBA_1		COG0108	Riboflavin biosynthesis protein RibBA
+DAFHAFLN_00532	CDS	438	ribH_1	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+DAFHAFLN_00533	CDS	420				hypothetical protein
+DAFHAFLN_00534	CDS	939	ribF_1		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+DAFHAFLN_00535	CDS	435	nusB_1			Transcription antitermination protein NusB
+DAFHAFLN_00536	CDS	591	ribD_2		COG0117	Riboflavin biosynthesis protein RibD
+DAFHAFLN_00537	CDS	588	ribE_2	2.5.1.9		Riboflavin synthase
+DAFHAFLN_00538	CDS	1149	ribBA_2		COG0108	Riboflavin biosynthesis protein RibBA
+DAFHAFLN_00539	CDS	438	ribH_2	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+DAFHAFLN_00540	CDS	939	ribF_2		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+DAFHAFLN_00541	CDS	435	nusB_2			Transcription antitermination protein NusB
+DAFHAFLN_00542	CDS	378	katG_2	1.11.1.21		Catalase-peroxidase
+DAFHAFLN_00543	CDS	1578	dld_3	1.1.5.12		Quinone-dependent D-lactate dehydrogenase
+DAFHAFLN_00544	CDS	465				hypothetical protein
+DAFHAFLN_00545	CDS	1074	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+DAFHAFLN_00546	CDS	558	grpE			Protein GrpE
+DAFHAFLN_00547	CDS	1038	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+DAFHAFLN_00548	CDS	417				hypothetical protein
+DAFHAFLN_00549	CDS	519	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+DAFHAFLN_00550	CDS	144				hypothetical protein
+DAFHAFLN_00551	CDS	657				hypothetical protein
+DAFHAFLN_00552	CDS	780	fbiB		COG0778	Bifunctional F420 biosynthesis protein FbiB
+DAFHAFLN_00553	CDS	957	fbiA_1	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+DAFHAFLN_00554	CDS	1128	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+DAFHAFLN_00555	CDS	867	murB_2	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+DAFHAFLN_00556	CDS	552				hypothetical protein
+DAFHAFLN_00557	CDS	744		1.-.-.-	COG1028	putative oxidoreductase
+DAFHAFLN_00558	CDS	471				hypothetical protein
+DAFHAFLN_00559	CDS	741				hypothetical protein
+DAFHAFLN_00560	CDS	738				hypothetical protein
+DAFHAFLN_00561	CDS	1761	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+DAFHAFLN_00562	CDS	1119	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+DAFHAFLN_00563	CDS	1863	mrdA_1	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+DAFHAFLN_00564	CDS	429				hypothetical protein
+DAFHAFLN_00565	CDS	852	mreC_1		COG1792	Cell shape-determining protein MreC
+DAFHAFLN_00566	CDS	1044	mreB_1		COG1077	Cell shape-determining protein MreB
+DAFHAFLN_00567	CDS	288	gatC_1	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+DAFHAFLN_00568	CDS	195				hypothetical protein
+DAFHAFLN_00569	CDS	1131				hypothetical protein
+DAFHAFLN_00570	CDS	186				hypothetical protein
+DAFHAFLN_00571	CDS	750				hypothetical protein
+DAFHAFLN_00572	CDS	408	phnW	2.6.1.37	COG0075	2-aminoethylphosphonate--pyruvate transaminase
+DAFHAFLN_00573	CDS	1260				hypothetical protein
+DAFHAFLN_00574	CDS	609				hypothetical protein
+DAFHAFLN_00575	CDS	1131	hisC_2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+DAFHAFLN_00576	CDS	834	ucpA_2	1.-.-.-		Oxidoreductase UcpA
+DAFHAFLN_00577	CDS	1230		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+DAFHAFLN_00578	CDS	825	echA8_1	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+DAFHAFLN_00579	CDS	1044				hypothetical protein
+DAFHAFLN_00580	CDS	903				hypothetical protein
+DAFHAFLN_00581	CDS	1764				hypothetical protein
+DAFHAFLN_00582	CDS	429				hypothetical protein
+DAFHAFLN_00583	CDS	201				hypothetical protein
+DAFHAFLN_00584	CDS	864	ubiD_3	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+DAFHAFLN_00585	CDS	825				hypothetical protein
+DAFHAFLN_00586	CDS	501	adoK_2	2.7.1.20	COG0524	Adenosine kinase
+DAFHAFLN_00587	CDS	1134	bepE_2			Efflux pump membrane transporter BepE
+DAFHAFLN_00588	CDS	1191	metC_1	4.4.1.13	COG0626	Cystathionine beta-lyase MetC
+DAFHAFLN_00589	CDS	360	lipB_1	2.3.1.181		Octanoyltransferase
+DAFHAFLN_00590	CDS	195				hypothetical protein
+DAFHAFLN_00591	CDS	555				hypothetical protein
+DAFHAFLN_00592	CDS	780	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+DAFHAFLN_00593	CDS	861	hflC		COG0330	Modulator of FtsH protease HflC
+DAFHAFLN_00594	CDS	1092				hypothetical protein
+DAFHAFLN_00595	CDS	534	hflX		COG2262	GTPase HflX
+DAFHAFLN_00596	CDS	1863	mrdA_2	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+DAFHAFLN_00597	CDS	522				hypothetical protein
+DAFHAFLN_00598	CDS	852	mreC_2		COG1792	Cell shape-determining protein MreC
+DAFHAFLN_00599	CDS	1044	mreB_2		COG1077	Cell shape-determining protein MreB
+DAFHAFLN_00600	CDS	288	gatC_2	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+DAFHAFLN_00601	CDS	1440	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+DAFHAFLN_00602	CDS	1437	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+DAFHAFLN_00603	CDS	723	moeB	2.7.7.80	COG0476	Molybdopterin-synthase adenylyltransferase
+DAFHAFLN_00604	CDS	864	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+DAFHAFLN_00605	CDS	1083	prfA		COG0216	Peptide chain release factor RF1
+DAFHAFLN_00606	CDS	417				hypothetical protein
+DAFHAFLN_00607	tRNA	75				tRNA-Gln(ttg)
+DAFHAFLN_00608	CDS	954	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+DAFHAFLN_00609	CDS	717				hypothetical protein
+DAFHAFLN_00610	CDS	582	pth_2	3.1.1.29		Peptidyl-tRNA hydrolase
+DAFHAFLN_00611	CDS	984	mltB	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+DAFHAFLN_00612	CDS	807	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+DAFHAFLN_00613	CDS	1191	dacA	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+DAFHAFLN_00614	CDS	621	lipB_2	2.3.1.181	COG0321	Octanoyltransferase
+DAFHAFLN_00615	CDS	1191	metC_2	4.4.1.13	COG0626	Cystathionine beta-lyase MetC
+DAFHAFLN_00616	CDS	393	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+DAFHAFLN_00617	CDS	423	lptE_2			LPS-assembly lipoprotein LptE
+DAFHAFLN_00618	CDS	582	tdk_2	2.7.1.21	COG1435	Thymidine kinase
+DAFHAFLN_00619	CDS	1257	nupX_2		COG1972	Putative nucleoside permease NupX
+DAFHAFLN_00620	CDS	927				hypothetical protein
+DAFHAFLN_00621	CDS	456	hisI_2	3.5.4.19		Phosphoribosyl-AMP cyclohydrolase
+DAFHAFLN_00622	CDS	1425	aspS_2	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+DAFHAFLN_00623	CDS	621				hypothetical protein
+DAFHAFLN_00624	CDS	312				hypothetical protein
+DAFHAFLN_00625	CDS	402	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DAFHAFLN_00626	CDS	705				hypothetical protein
+DAFHAFLN_00627	CDS	636	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+DAFHAFLN_00628	CDS	966	guaB_1	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+DAFHAFLN_00629	tRNA	76				tRNA-Glu(ttc)
+DAFHAFLN_00630	CDS	804				hypothetical protein
+DAFHAFLN_00631	CDS	981	acn_2	4.2.1.3	COG1048	Aconitate hydratase A
+DAFHAFLN_00632	CDS	741				hypothetical protein
+DAFHAFLN_00633	CDS	789	tatD_2	3.1.11.-	COG0084	3'-5' ssDNA/RNA exonuclease TatD
+DAFHAFLN_00634	CDS	1296	thrC	4.2.3.1	COG0498	Threonine synthase
+DAFHAFLN_00635	CDS	675	metL		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 2
+DAFHAFLN_00636	CDS	216				hypothetical protein
+DAFHAFLN_00637	CDS	966	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+DAFHAFLN_00638	CDS	984	plsX_2	2.3.1.274	COG0416	Phosphate acyltransferase
+DAFHAFLN_00639	CDS	618	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+DAFHAFLN_00640	CDS	483	fbiA_2	2.7.8.28		Phosphoenolpyruvate transferase
+DAFHAFLN_00641	CDS	405	hldE	2.7.7.70		Bifunctional protein HldE
+DAFHAFLN_00642	tRNA	76				tRNA-Asn(gtt)
+DAFHAFLN_00643	CDS	1182	aatA	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+DAFHAFLN_00644	CDS	2037	uvrB		COG0556	UvrABC system protein B
+DAFHAFLN_00645	CDS	135	glnB_2		COG0347	Nitrogen regulatory protein P-II
+DAFHAFLN_00646	CDS	1356	amtB_2			Ammonia channel
+DAFHAFLN_00647	CDS	342				hypothetical protein
+DAFHAFLN_00648	CDS	1092	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+DAFHAFLN_00649	CDS	651				hypothetical protein
+DAFHAFLN_00650	CDS	393	rpsI_1		COG0103	30S ribosomal protein S9
+DAFHAFLN_00651	CDS	429	rplM_1		COG0102	50S ribosomal protein L13
+DAFHAFLN_00652	CDS	399				hypothetical protein
+DAFHAFLN_00653	CDS	1401	sdaA	4.3.1.17	COG1760	L-serine dehydratase
+DAFHAFLN_00654	tRNA	77				tRNA-Met(cat)
+DAFHAFLN_00655	CDS	201				hypothetical protein
+DAFHAFLN_00656	CDS	1251				hypothetical protein
+DAFHAFLN_00657	CDS	312	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+DAFHAFLN_00658	CDS	711	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+DAFHAFLN_00659	CDS	723	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+DAFHAFLN_00660	CDS	231	acpP		COG0236	Acyl carrier protein
+DAFHAFLN_00661	CDS	759	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DAFHAFLN_00662	CDS	222				hypothetical protein
+DAFHAFLN_00663	CDS	213				hypothetical protein
+DAFHAFLN_00664	CDS	822				hypothetical protein
+DAFHAFLN_00665	CDS	726	patB_1	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+DAFHAFLN_00666	CDS	768				hypothetical protein
+DAFHAFLN_00667	CDS	960	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+DAFHAFLN_00668	CDS	447				hypothetical protein
+DAFHAFLN_00669	CDS	963				hypothetical protein
+DAFHAFLN_00670	CDS	1008	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+DAFHAFLN_00671	CDS	1329	dapE_1	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+DAFHAFLN_00672	CDS	663	sspA_2		COG0625	Stringent starvation protein A
+DAFHAFLN_00673	CDS	1203	macB_1	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+DAFHAFLN_00674	CDS	1215	macB_2	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+DAFHAFLN_00675	CDS	684	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+DAFHAFLN_00676	CDS	1071	mdtA_3			Multidrug resistance protein MdtA
+DAFHAFLN_00677	CDS	393				hypothetical protein
+DAFHAFLN_00678	CDS	573	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+DAFHAFLN_00679	CDS	1386				hypothetical protein
+DAFHAFLN_00680	CDS	1164	ycaD_1			putative MFS-type transporter YcaD
+DAFHAFLN_00681	CDS	984				hypothetical protein
+DAFHAFLN_00682	CDS	957	msrP_1	1.8.5.-	COG2041	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+DAFHAFLN_00683	CDS	549	msrQ_1		COG2717	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+DAFHAFLN_00684	CDS	1449	dac	3.4.16.4		D-alanyl-D-alanine carboxypeptidase
+DAFHAFLN_00685	CDS	1056				hypothetical protein
+DAFHAFLN_00686	CDS	1809	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+DAFHAFLN_00687	CDS	1806	sfrB_2	1.-.-.-	COG0493	NADPH-Fe(3+) oxidoreductase subunit beta
+DAFHAFLN_00688	CDS	1338	allB_2	3.5.2.5	COG0044	Allantoinase
+DAFHAFLN_00689	CDS	1281				L-lactate transporter
+DAFHAFLN_00690	CDS	822	tauD_2	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+DAFHAFLN_00691	CDS	1431				hypothetical protein
+DAFHAFLN_00692	CDS	1167				hypothetical protein
+DAFHAFLN_00693	CDS	810				hypothetical protein
+DAFHAFLN_00694	CDS	678				hypothetical protein
+DAFHAFLN_00695	CDS	828	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+DAFHAFLN_00696	CDS	666	lipA_1	2.8.1.8	COG0320	Lipoyl synthase
+DAFHAFLN_00697	CDS	552				hypothetical protein
+DAFHAFLN_00698	CDS	528				hypothetical protein
+DAFHAFLN_00699	CDS	390				hypothetical protein
+DAFHAFLN_00700	CDS	396				hypothetical protein
+DAFHAFLN_00701	CDS	1386	bamA		COG4775	Outer membrane protein assembly factor BamA
+DAFHAFLN_00702	CDS	567	skp		COG2825	Chaperone protein Skp
+DAFHAFLN_00703	CDS	1050	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+DAFHAFLN_00704	CDS	753	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+DAFHAFLN_00705	CDS	333	secG		COG1314	Protein-export membrane protein SecG
+DAFHAFLN_00706	tRNA	83				tRNA-Leu(gag)
+DAFHAFLN_00707	CDS	357	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+DAFHAFLN_00708	CDS	519	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+DAFHAFLN_00709	CDS	651	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+DAFHAFLN_00710	CDS	693				hypothetical protein
+DAFHAFLN_00711	CDS	462				hypothetical protein
+DAFHAFLN_00712	CDS	696				hypothetical protein
+DAFHAFLN_00713	CDS	1305		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+DAFHAFLN_00714	CDS	432	thiK	2.7.1.89		Thiamine kinase
+DAFHAFLN_00715	CDS	264	rpmA_1		COG0211	50S ribosomal protein L27
+DAFHAFLN_00716	CDS	345	rplU_1		COG0261	50S ribosomal protein L21
+DAFHAFLN_00717	CDS	1017	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+DAFHAFLN_00718	CDS	1404	tolQ			Tol-Pal system protein TolQ
+DAFHAFLN_00719	CDS	807				hypothetical protein
+DAFHAFLN_00720	CDS	1074		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+DAFHAFLN_00721	CDS	474	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+DAFHAFLN_00722	CDS	234	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+DAFHAFLN_00723	CDS	570	yceF	3.6.1.-	COG0424	7-methyl-GTP pyrophosphatase
+DAFHAFLN_00724	CDS	951	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+DAFHAFLN_00725	CDS	747				hypothetical protein
+DAFHAFLN_00726	CDS	405				hypothetical protein
+DAFHAFLN_00727	CDS	1662				hypothetical protein
+DAFHAFLN_00728	CDS	801				hypothetical protein
+DAFHAFLN_00729	CDS	1092				hypothetical protein
+DAFHAFLN_00730	CDS	978				hypothetical protein
+DAFHAFLN_00731	CDS	1023				hypothetical protein
+DAFHAFLN_00732	CDS	978				hypothetical protein
+DAFHAFLN_00733	CDS	783	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+DAFHAFLN_00734	CDS	468	nudL_1	3.6.1.-		putative Nudix hydrolase NudL
+DAFHAFLN_00735	CDS	459				hypothetical protein
+DAFHAFLN_00736	CDS	516				hypothetical protein
+DAFHAFLN_00737	CDS	627	tmk_1	2.7.4.9	COG0125	Thymidylate kinase
+DAFHAFLN_00738	CDS	606	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+DAFHAFLN_00739	CDS	1281	eno	4.2.1.11		Enolase
+DAFHAFLN_00740	CDS	273	ftsB		COG2919	Cell division protein FtsB
+DAFHAFLN_00741	CDS	753		4.2.1.17		putative enoyl-CoA hydratase echA17
+DAFHAFLN_00742	CDS	738	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+DAFHAFLN_00743	CDS	588				hypothetical protein
+DAFHAFLN_00744	CDS	357				hypothetical protein
+DAFHAFLN_00745	CDS	678				hypothetical protein
+DAFHAFLN_00746	CDS	1056	prfB		COG1186	Peptide chain release factor RF2
+DAFHAFLN_00747	CDS	666	pdxH_2	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+DAFHAFLN_00748	CDS	1413	hutI_1	3.5.2.7		Imidazolonepropionase
+DAFHAFLN_00749	CDS	1506	dmg	1.5.3.10		Dimethylglycine oxidase
+DAFHAFLN_00750	CDS	1074				hypothetical protein
+DAFHAFLN_00751	CDS	492				hypothetical protein
+DAFHAFLN_00752	CDS	138				hypothetical protein
+DAFHAFLN_00753	CDS	1203	tetA_2			Tetracycline resistance protein, class B
+DAFHAFLN_00754	CDS	135				hypothetical protein
+DAFHAFLN_00755	CDS	1233	ftsA_2		COG0849	Cell division protein FtsA
+DAFHAFLN_00756	CDS	489	ftsQ		COG1589	Cell division protein FtsQ
+DAFHAFLN_00757	tRNA	74				tRNA-Glu(ttc)
+DAFHAFLN_00758	CDS	2730				hypothetical protein
+DAFHAFLN_00759	CDS	1152	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+DAFHAFLN_00760	CDS	309				hypothetical protein
+DAFHAFLN_00761	CDS	1050	aroF	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+DAFHAFLN_00762	CDS	1527				hypothetical protein
+DAFHAFLN_00763	CDS	906				hypothetical protein
+DAFHAFLN_00764	CDS	384				hypothetical protein
+DAFHAFLN_00765	CDS	696	fetB		COG0390	putative iron export permease protein FetB
+DAFHAFLN_00766	CDS	594				hypothetical protein
+DAFHAFLN_00767	CDS	219				hypothetical protein
+DAFHAFLN_00768	CDS	417				hypothetical protein
+DAFHAFLN_00769	CDS	888	kce	2.3.1.247	COG3246	3-keto-5-aminohexanoate cleavage enzyme
+DAFHAFLN_00770	CDS	927	potH		COG1176	Putrescine transport system permease protein PotH
+DAFHAFLN_00771	CDS	810	ydcV_2			Inner membrane ABC transporter permease protein YdcV
+DAFHAFLN_00772	CDS	2001	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+DAFHAFLN_00773	CDS	570				hypothetical protein
+DAFHAFLN_00774	CDS	2388	fyuA_2		COG1629	Pesticin receptor
+DAFHAFLN_00775	CDS	222				hypothetical protein
+DAFHAFLN_00776	CDS	576	leuD1_2	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+DAFHAFLN_00777	CDS	1362	leuC_2	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+DAFHAFLN_00778	CDS	930	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+DAFHAFLN_00779	CDS	492				hypothetical protein
+DAFHAFLN_00780	CDS	456				hypothetical protein
+DAFHAFLN_00781	CDS	273	caiC	6.2.1.48	COG0318	Crotonobetaine/carnitine--CoA ligase
+DAFHAFLN_00782	CDS	204				hypothetical protein
+DAFHAFLN_00783	CDS	270				hypothetical protein
+DAFHAFLN_00784	CDS	270	rpsO			30S ribosomal protein S15
+DAFHAFLN_00785	CDS	270				hypothetical protein
+DAFHAFLN_00786	CDS	1005	dmdA	2.1.1.269		Dimethylsulfonioproprionate demethylase DmdA
+DAFHAFLN_00787	CDS	1434	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+DAFHAFLN_00788	CDS	387	lvr	1.1.1.-		Levodione reductase
+DAFHAFLN_00789	CDS	1980	tmd	1.5.8.2		Trimethylamine dehydrogenase
+DAFHAFLN_00790	CDS	1206	hutI_2	3.5.2.7		Imidazolonepropionase
+DAFHAFLN_00791	CDS	555	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+DAFHAFLN_00792	CDS	342	rplS		COG0335	50S ribosomal protein L19
+DAFHAFLN_00793	CDS	1134				hypothetical protein
+DAFHAFLN_00794	CDS	1155	dacC	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacC
+DAFHAFLN_00795	CDS	1866				hypothetical protein
+DAFHAFLN_00796	CDS	1254	ade_1	3.5.4.2		Adenine deaminase
+DAFHAFLN_00797	CDS	930	amiD	3.5.1.28	COG3023	N-acetylmuramoyl-L-alanine amidase AmiD
+DAFHAFLN_00798	CDS	636				hypothetical protein
+DAFHAFLN_00799	CDS	1239				hypothetical protein
+DAFHAFLN_00800	CDS	192				hypothetical protein
+DAFHAFLN_00801	CDS	192				hypothetical protein
+DAFHAFLN_00802	CDS	999				hypothetical protein
+DAFHAFLN_00803	CDS	870				hypothetical protein
+DAFHAFLN_00804	CDS	753		1.1.1.51	COG1028	3-beta-hydroxysteroid dehydrogenase
+DAFHAFLN_00805	CDS	1995	secA		COG0653	Protein translocase subunit SecA
+DAFHAFLN_00806	CDS	756	zapD_2		COG4582	Cell division protein ZapD
+DAFHAFLN_00807	CDS	603	coaE_2	2.7.1.24	COG0237	Dephospho-CoA kinase
+DAFHAFLN_00808	CDS	1170	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+DAFHAFLN_00809	CDS	873	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+DAFHAFLN_00810	CDS	786	bamD		COG4105	Outer membrane protein assembly factor BamD
+DAFHAFLN_00811	CDS	990	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DAFHAFLN_00812	CDS	312				hypothetical protein
+DAFHAFLN_00813	CDS	621				hypothetical protein
+DAFHAFLN_00814	CDS	435	yciK	1.-.-.-	COG1028	putative oxidoreductase YciK
+DAFHAFLN_00815	CDS	594	scpB		COG1386	Segregation and condensation protein B 
+DAFHAFLN_00816	CDS	678	scpA		COG1354	Segregation and condensation protein A
+DAFHAFLN_00817	CDS	435				hypothetical protein
+DAFHAFLN_00818	CDS	402				hypothetical protein
+DAFHAFLN_00819	CDS	216				hypothetical protein
+DAFHAFLN_00820	CDS	213				hypothetical protein
+DAFHAFLN_00821	CDS	375				hypothetical protein
+DAFHAFLN_00822	CDS	1086	dhmA_4	3.8.1.5	COG0596	Haloalkane dehalogenase
+DAFHAFLN_00823	CDS	666		1.3.1.-	COG3268	Putative trans-acting enoyl reductase
+DAFHAFLN_00824	CDS	501				hypothetical protein
+DAFHAFLN_00825	CDS	747				hypothetical protein
+DAFHAFLN_00826	CDS	636	nudL_2	3.6.1.-		putative Nudix hydrolase NudL
+DAFHAFLN_00827	CDS	825	fumC_2	4.2.1.2	COG0114	Fumarate hydratase class II
+DAFHAFLN_00828	CDS	1233	ade_2	3.5.4.2		Adenine deaminase
+DAFHAFLN_00829	CDS	1437	ade_3	3.5.4.2		Adenine deaminase
+DAFHAFLN_00830	CDS	714	rph	2.7.7.56	COG0689	Ribonuclease PH
+DAFHAFLN_00831	CDS	645	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+DAFHAFLN_00832	CDS	495				hypothetical protein
+DAFHAFLN_00833	CDS	852	rbn_1	3.1.26.11		Ribonuclease BN
+DAFHAFLN_00834	CDS	507				hypothetical protein
+DAFHAFLN_00835	CDS	228				hypothetical protein
+DAFHAFLN_00836	CDS	342				hypothetical protein
+DAFHAFLN_00837	CDS	1173				hypothetical protein
+DAFHAFLN_00838	CDS	381				hypothetical protein
+DAFHAFLN_00839	CDS	1404	hutI_3	3.5.2.7		Imidazolonepropionase
+DAFHAFLN_00840	CDS	285				hypothetical protein
+DAFHAFLN_00841	CDS	948				hypothetical protein
+DAFHAFLN_00842	CDS	1323			COG1228	putative protein
+DAFHAFLN_00843	CDS	420	lcdH	1.1.1.108		L-carnitine dehydrogenase
+DAFHAFLN_00844	CDS	1575				hypothetical protein
+DAFHAFLN_00845	CDS	630				hypothetical protein
+DAFHAFLN_00846	CDS	807				hypothetical protein
+DAFHAFLN_00847	CDS	807				hypothetical protein
+DAFHAFLN_00848	CDS	585				hypothetical protein
+DAFHAFLN_00849	CDS	1467	betL		COG1292	Glycine betaine transporter BetL
+DAFHAFLN_00850	CDS	507	dacB	3.4.16.4	COG2027	D-alanyl-D-alanine carboxypeptidase DacB
+DAFHAFLN_00851	CDS	549	msrQ_2		COG2717	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+DAFHAFLN_00852	CDS	1026	msrP_2	1.8.5.-	COG2041	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+DAFHAFLN_00853	CDS	984				hypothetical protein
+DAFHAFLN_00854	CDS	1164	ycaD_2			putative MFS-type transporter YcaD
+DAFHAFLN_00855	CDS	954				hypothetical protein
+DAFHAFLN_00856	CDS	354	dmdB	6.2.1.44	COG0318	3-methylmercaptopropionyl-CoA ligase
+DAFHAFLN_00857	CDS	432				hypothetical protein
+DAFHAFLN_00858	CDS	636	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+DAFHAFLN_00859	CDS	1665				hypothetical protein
+DAFHAFLN_00860	CDS	864				hypothetical protein
+DAFHAFLN_00861	CDS	471				hypothetical protein
+DAFHAFLN_00862	CDS	690	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+DAFHAFLN_00863	CDS	1050	phoR	2.7.13.3		Phosphate regulon sensor protein PhoR
+DAFHAFLN_00864	CDS	678				hypothetical protein
+DAFHAFLN_00865	CDS	1266				hypothetical protein
+DAFHAFLN_00866	CDS	1041				hypothetical protein
+DAFHAFLN_00867	CDS	342				hypothetical protein
+DAFHAFLN_00868	CDS	807	novR	4.1.-.-		Decarboxylase NovR
+DAFHAFLN_00869	CDS	651	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+DAFHAFLN_00870	CDS	1080	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+DAFHAFLN_00871	CDS	300	ygfA	6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+DAFHAFLN_00872	CDS	663	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+DAFHAFLN_00873	CDS	900				hypothetical protein
+DAFHAFLN_00874	CDS	393	rpsI_2		COG0103	30S ribosomal protein S9
+DAFHAFLN_00875	CDS	429	rplM_2		COG0102	50S ribosomal protein L13
+DAFHAFLN_00876	CDS	681	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+DAFHAFLN_00877	CDS	879	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+DAFHAFLN_00878	CDS	375				hypothetical protein
+DAFHAFLN_00879	CDS	1224				hypothetical protein
+DAFHAFLN_00880	CDS	1086	pmbA_1	3.4.-.-	COG0312	Metalloprotease PmbA
+DAFHAFLN_00881	CDS	915				hypothetical protein
+DAFHAFLN_00882	CDS	195				hypothetical protein
+DAFHAFLN_00883	CDS	1089	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+DAFHAFLN_00884	CDS	219				hypothetical protein
+DAFHAFLN_00885	CDS	516	fabA	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+DAFHAFLN_00886	CDS	573				hypothetical protein
+DAFHAFLN_00887	CDS	240				hypothetical protein
+DAFHAFLN_00888	CDS	996			COG2141	putative protein
+DAFHAFLN_00889	CDS	555				hypothetical protein
+DAFHAFLN_00890	CDS	1281				hypothetical protein
+DAFHAFLN_00891	CDS	384				hypothetical protein
+DAFHAFLN_00892	CDS	633				hypothetical protein
+DAFHAFLN_00893	CDS	975				hypothetical protein
+DAFHAFLN_00894	CDS	1188			COG2239	Magnesium transporter MgtE
+DAFHAFLN_00895	CDS	1011	lpxK_2	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+DAFHAFLN_00896	CDS	1311	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+DAFHAFLN_00897	CDS	639	yknZ		COG0577	putative ABC transporter permease YknZ
+DAFHAFLN_00898	CDS	606	sspA_3		COG0625	Stringent starvation protein A
+DAFHAFLN_00899	CDS	1368	dapE_2	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+DAFHAFLN_00900	CDS	1032				hypothetical protein
+DAFHAFLN_00901	CDS	1089	bbsG_1	1.3.8.3		(R)-benzylsuccinyl-CoA dehydrogenase
+DAFHAFLN_00902	CDS	204				hypothetical protein
+DAFHAFLN_00903	CDS	1317	bauA_2	2.6.1.18	COG0161	Beta-alanine--pyruvate aminotransferase
+DAFHAFLN_00904	CDS	198				hypothetical protein
+DAFHAFLN_00905	CDS	282				hypothetical protein
+DAFHAFLN_00906	CDS	381				hypothetical protein
+DAFHAFLN_00907	CDS	267				hypothetical protein
+DAFHAFLN_00908	CDS	282				hypothetical protein
+DAFHAFLN_00909	CDS	774	rbn_2	3.1.26.11		Ribonuclease BN
+DAFHAFLN_00910	CDS	384	crcB			Putative fluoride ion transporter CrcB
+DAFHAFLN_00911	CDS	204				hypothetical protein
+DAFHAFLN_00912	CDS	444				hypothetical protein
+DAFHAFLN_00913	CDS	750				hypothetical protein
+DAFHAFLN_00914	CDS	957	amiF_3	3.5.1.49		Formamidase
+DAFHAFLN_00915	CDS	483				hypothetical protein
+DAFHAFLN_00916	CDS	339	ethA	1.14.13.-	COG2072	FAD-containing monooxygenase EthA
+DAFHAFLN_00917	CDS	1005	qorA	1.6.5.5	COG0604	Quinone oxidoreductase 1
+DAFHAFLN_00918	CDS	1152				hypothetical protein
+DAFHAFLN_00919	CDS	879	ptlF_1	1.1.1.340		1-deoxy-11-beta-hydroxypentalenate dehydrogenase
+DAFHAFLN_00920	CDS	873	patB_2	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+DAFHAFLN_00921	CDS	822				hypothetical protein
+DAFHAFLN_00922	CDS	2436				hypothetical protein
+DAFHAFLN_00923	CDS	1401	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+DAFHAFLN_00924	CDS	723	pepE	3.4.13.21		Peptidase E
+DAFHAFLN_00925	CDS	1506	yejM_1		COG3083	Inner membrane protein YejM
+DAFHAFLN_00926	CDS	189				hypothetical protein
+DAFHAFLN_00927	CDS	522	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+DAFHAFLN_00928	CDS	540	rplI		COG0359	50S ribosomal protein L9
+DAFHAFLN_00929	CDS	1389	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+DAFHAFLN_00930	CDS	831				hypothetical protein
+DAFHAFLN_00931	CDS	624				hypothetical protein
+DAFHAFLN_00932	CDS	501				hypothetical protein
+DAFHAFLN_00933	CDS	303				hypothetical protein
+DAFHAFLN_00934	CDS	468				hypothetical protein
+DAFHAFLN_00935	CDS	432				hypothetical protein
+DAFHAFLN_00936	CDS	1329	nanT_2			Sialic acid transporter NanT
+DAFHAFLN_00937	CDS	939				hypothetical protein
+DAFHAFLN_00938	CDS	249				hypothetical protein
+DAFHAFLN_00939	CDS	495				hypothetical protein
+DAFHAFLN_00940	CDS	570	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+DAFHAFLN_00941	CDS	183				hypothetical protein
+DAFHAFLN_00942	CDS	762				hypothetical protein
+DAFHAFLN_00943	CDS	510				hypothetical protein
+DAFHAFLN_00944	CDS	1542	mtgB	2.1.1.-	COG5598	Glycine betaine methyltransferase
+DAFHAFLN_00945	CDS	711	metH	2.1.1.13	COG0646	Methionine synthase
+DAFHAFLN_00946	CDS	849				hypothetical protein
+DAFHAFLN_00947	CDS	654	anmK	2.7.1.170	COG2377	Anhydro-N-acetylmuramic acid kinase
+DAFHAFLN_00948	CDS	678				hypothetical protein
+DAFHAFLN_00949	CDS	969	tdcB	4.3.1.19		L-threonine dehydratase catabolic TdcB
+DAFHAFLN_00950	CDS	1047	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DAFHAFLN_00951	CDS	180				hypothetical protein
+DAFHAFLN_00952	CDS	318	groL_1		COG0459	60 kDa chaperonin
+DAFHAFLN_00953	CDS	1539	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+DAFHAFLN_00954	CDS	609	recR		COG0353	Recombination protein RecR
+DAFHAFLN_00955	CDS	879	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+DAFHAFLN_00956	CDS	555	orn	3.1.-.-	COG1949	Oligoribonuclease
+DAFHAFLN_00957	CDS	375				hypothetical protein
+DAFHAFLN_00958	CDS	183				hypothetical protein
+DAFHAFLN_00959	CDS	1011	dnaK		COG0443	Chaperone protein DnaK
+DAFHAFLN_00960	CDS	1506	yejM_2		COG3083	Inner membrane protein YejM
+DAFHAFLN_00961	CDS	1434	yidC			Membrane protein insertase YidC
+DAFHAFLN_00962	CDS	606				hypothetical protein
+DAFHAFLN_00963	CDS	318	grxD		COG0278	Glutaredoxin 4
+DAFHAFLN_00964	CDS	1233		2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+DAFHAFLN_00965	CDS	1740	sthA	1.6.1.1		Soluble pyridine nucleotide transhydrogenase
+DAFHAFLN_00966	CDS	1143				hypothetical protein
+DAFHAFLN_00967	CDS	654	nth_2	4.2.99.18	COG0177	Endonuclease III
+DAFHAFLN_00968	CDS	342	metG_3	6.1.1.10	COG0073	Methionine--tRNA ligase
+DAFHAFLN_00969	CDS	1635	metG_4	6.1.1.10	COG0073	Methionine--tRNA ligase
+DAFHAFLN_00970	CDS	2481				hypothetical protein
+DAFHAFLN_00971	CDS	570	pgsA_3	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+DAFHAFLN_00972	CDS	1740				hypothetical protein
+DAFHAFLN_00973	CDS	381				hypothetical protein
+DAFHAFLN_00974	CDS	930				hypothetical protein
+DAFHAFLN_00975	CDS	1698	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+DAFHAFLN_00976	CDS	1389	bepC			Outer membrane efflux protein BepC
+DAFHAFLN_00977	CDS	264	rpmA_2		COG0211	50S ribosomal protein L27
+DAFHAFLN_00978	CDS	345	rplU_2		COG0261	50S ribosomal protein L21
+DAFHAFLN_00979	CDS	954				hypothetical protein
+DAFHAFLN_00980	CDS	300				hypothetical protein
+DAFHAFLN_00981	CDS	888	ispA	2.5.1.10	COG0142	Farnesyl diphosphate synthase
+DAFHAFLN_00982	CDS	669	yadH_1		COG0842	Inner membrane transport permease YadH
+DAFHAFLN_00983	CDS	201				hypothetical protein
+DAFHAFLN_00984	CDS	396	rplL		COG0222	50S ribosomal protein L7/L12
+DAFHAFLN_00985	CDS	531	rplJ		COG0244	50S ribosomal protein L10
+DAFHAFLN_00986	CDS	198				hypothetical protein
+DAFHAFLN_00987	CDS	240				hypothetical protein
+DAFHAFLN_00988	CDS	867	mmuM_1	2.1.1.10	COG2040	Homocysteine S-methyltransferase
+DAFHAFLN_00989	CDS	729				hypothetical protein
+DAFHAFLN_00990	CDS	756	phnY	1.14.11.46		2-aminoethylphosphonate dioxygenase
+DAFHAFLN_00991	CDS	309	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+DAFHAFLN_00992	CDS	720	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+DAFHAFLN_00993	CDS	744	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+DAFHAFLN_00994	CDS	555	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+DAFHAFLN_00995	CDS	1080	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+DAFHAFLN_00996	CDS	699	hisC_3	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+DAFHAFLN_00997	CDS	1455	pnbA_2	3.1.1.-	COG2272	Para-nitrobenzyl esterase
+DAFHAFLN_00998	CDS	672				hypothetical protein
+DAFHAFLN_00999	CDS	1074				hypothetical protein
+DAFHAFLN_01000	CDS	456				hypothetical protein
+DAFHAFLN_01001	CDS	429				hypothetical protein
+DAFHAFLN_01002	CDS	423	blc		COG3040	Outer membrane lipoprotein Blc
+DAFHAFLN_01003	CDS	645	dnaJ		COG0484	Chaperone protein DnaJ
+DAFHAFLN_01004	CDS	591		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+DAFHAFLN_01005	CDS	450	ibpA_1		COG0071	Small heat shock protein IbpA
+DAFHAFLN_01006	CDS	780	ybfK	3.1.1.1	COG0596	Carboxylesterase YbfK
+DAFHAFLN_01007	CDS	585				hypothetical protein
+DAFHAFLN_01008	CDS	591				hypothetical protein
+DAFHAFLN_01009	CDS	672	baeR_1		COG0745	Transcriptional regulatory protein BaeR
+DAFHAFLN_01010	CDS	1395	baeS_1	2.7.13.3	COG0642	Signal transduction histidine-protein kinase BaeS
+DAFHAFLN_01011	CDS	450				hypothetical protein
+DAFHAFLN_01012	CDS	999	adh	1.1.1.1		Alcohol dehydrogenase
+DAFHAFLN_01013	CDS	315				hypothetical protein
+DAFHAFLN_01014	CDS	666	ccmB		COG2386	Heme exporter protein B
+DAFHAFLN_01015	CDS	729	ccmC_2		COG0755	Heme exporter protein C
+DAFHAFLN_01016	CDS	150				hypothetical protein
+DAFHAFLN_01017	CDS	423	ccmE		COG2332	Cytochrome c-type biogenesis protein CcmE
+DAFHAFLN_01018	CDS	1905	ccmF_2		COG1138	Cytochrome c-type biogenesis protein CcmF
+DAFHAFLN_01019	CDS	525	dsbE_2		COG0526	Thiol:disulfide interchange protein DsbE
+DAFHAFLN_01020	CDS	336				hypothetical protein
+DAFHAFLN_01021	CDS	825	echA8_2	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+DAFHAFLN_01022	CDS	126				hypothetical protein
+DAFHAFLN_01023	CDS	801	corC_1		COG4535	Magnesium and cobalt efflux protein CorC
+DAFHAFLN_01024	CDS	468	ybeY_1	3.1.-.-		Endoribonuclease YbeY
+DAFHAFLN_01025	CDS	702	ybeZ_1		COG1702	PhoH-like protein
+DAFHAFLN_01026	CDS	240				hypothetical protein
+DAFHAFLN_01027	CDS	615	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+DAFHAFLN_01028	CDS	792	gltB_1	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+DAFHAFLN_01029	CDS	474	trmB_1	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+DAFHAFLN_01030	CDS	1500	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+DAFHAFLN_01031	CDS	801	corC_2		COG4535	Magnesium and cobalt efflux protein CorC
+DAFHAFLN_01032	CDS	468	ybeY_2	3.1.-.-		Endoribonuclease YbeY
+DAFHAFLN_01033	CDS	963	ybeZ_2		COG1702	PhoH-like protein
+DAFHAFLN_01034	CDS	1230	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+DAFHAFLN_01035	CDS	432				hypothetical protein
+DAFHAFLN_01036	CDS	1263	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+DAFHAFLN_01037	CDS	642	adk	2.7.4.3		Adenylate kinase
+DAFHAFLN_01038	CDS	1074	rnd	3.1.13.5	COG0349	Ribonuclease D
+DAFHAFLN_01039	CDS	1350	xseA_1	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+DAFHAFLN_01040	CDS	1401	der_1		COG1160	GTPase Der
+DAFHAFLN_01041	CDS	1200	bamB		COG1520	Outer membrane protein assembly factor BamB
+DAFHAFLN_01042	CDS	423				hypothetical protein
+DAFHAFLN_01043	CDS	1323	rpsA		COG0539	30S ribosomal protein S1
+DAFHAFLN_01044	CDS	306	ihfB		COG0776	Integration host factor subunit beta
+DAFHAFLN_01045	CDS	1323	ahcY	3.3.1.1		Adenosylhomocysteinase
+DAFHAFLN_01046	CDS	1008	fgd_1	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+DAFHAFLN_01047	CDS	2607	btuB_5			Vitamin B12 transporter BtuB
+DAFHAFLN_01048	CDS	279				hypothetical protein
+DAFHAFLN_01049	CDS	1215		2.7.2.4	COG0527	Aspartate kinase
+DAFHAFLN_01050	CDS	945				hypothetical protein
+DAFHAFLN_01051	CDS	1998	galK	2.7.1.6		Galactokinase
+DAFHAFLN_01052	CDS	381				hypothetical protein
+DAFHAFLN_01053	CDS	504				hypothetical protein
+DAFHAFLN_01054	CDS	2022	ileS_2	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+DAFHAFLN_01055	CDS	1152	gabD2_2	1.2.1.79	COG1012	Putative succinate-semialdehyde dehydrogenase [NADP(+)] 2
+DAFHAFLN_01056	CDS	1788	ilvB_2	2.2.1.6	COG0028	Acetolactate synthase large subunit
+DAFHAFLN_01057	CDS	495	ilvH_2	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+DAFHAFLN_01058	CDS	453			COG3241	Azurin
+DAFHAFLN_01059	CDS	1281	icd_2	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+DAFHAFLN_01060	CDS	804	rutD_1	3.5.1.-		Putative aminoacrylate hydrolase RutD
+DAFHAFLN_01061	CDS	804				hypothetical protein
+DAFHAFLN_01062	CDS	1809				hypothetical protein
+DAFHAFLN_01063	CDS	1248				hypothetical protein
+DAFHAFLN_01064	CDS	1314	pmbA_2	3.4.-.-	COG0312	Metalloprotease PmbA
+DAFHAFLN_01065	CDS	537	purE_2	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+DAFHAFLN_01066	CDS	1053	tldD_2	3.4.-.-	COG0312	Metalloprotease TldD
+DAFHAFLN_01067	CDS	2157	btuB_6			Vitamin B12 transporter BtuB
+DAFHAFLN_01068	CDS	435				hypothetical protein
+DAFHAFLN_01069	CDS	948	glk	2.7.1.2	COG0837	Glucokinase
+DAFHAFLN_01070	CDS	717	purL_2	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+DAFHAFLN_01071	CDS	1254	glyA_2	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+DAFHAFLN_01072	CDS	1734				hypothetical protein
+DAFHAFLN_01073	CDS	441	lepA	3.6.5.-	COG0481	Elongation factor 4
+DAFHAFLN_01074	CDS	741	lepB	3.4.21.89	COG0681	Signal peptidase I
+DAFHAFLN_01075	CDS	687	rnc_2	3.1.26.3	COG0571	Ribonuclease 3
+DAFHAFLN_01076	CDS	861	era_2		COG1159	GTPase Era
+DAFHAFLN_01077	CDS	990	clrB			Chlorate reductase subunit beta
+DAFHAFLN_01078	CDS	243				hypothetical protein
+DAFHAFLN_01079	CDS	600	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+DAFHAFLN_01080	CDS	891	mmuM_2	2.1.1.10	COG2040	Homocysteine S-methyltransferase
+DAFHAFLN_01081	CDS	1710	nfdA_2	3.5.1.91		N-substituted formamide deformylase
+DAFHAFLN_01082	CDS	303				hypothetical protein
+DAFHAFLN_01083	tRNA	91				tRNA-Ser(gct)
+DAFHAFLN_01084	CDS	282				hypothetical protein
+DAFHAFLN_01085	CDS	762	yadH_2		COG0842	Inner membrane transport permease YadH
+DAFHAFLN_01086	CDS	375				hypothetical protein
+DAFHAFLN_01087	CDS	804				hypothetical protein
+DAFHAFLN_01088	CDS	1074		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+DAFHAFLN_01089	CDS	459				hypothetical protein
+DAFHAFLN_01090	CDS	606				hypothetical protein
+DAFHAFLN_01091	CDS	405	epi_2	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+DAFHAFLN_01092	CDS	666	argK	3.6.5.-	COG1703	GTPase ArgK
+DAFHAFLN_01093	CDS	1146				hypothetical protein
+DAFHAFLN_01094	CDS	432	rpsD		COG0522	30S ribosomal protein S4
+DAFHAFLN_01095	CDS	1038	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+DAFHAFLN_01096	CDS	390	rplQ		COG0203	50S ribosomal protein L17
+DAFHAFLN_01097	CDS	804	rutD_2	3.5.1.-		Putative aminoacrylate hydrolase RutD
+DAFHAFLN_01098	CDS	804				hypothetical protein
+DAFHAFLN_01099	CDS	1737	sppA	3.4.21.-	COG0616	Protease 4
+DAFHAFLN_01100	CDS	558				hypothetical protein
+DAFHAFLN_01101	CDS	591	folE_2	3.5.4.16	COG0302	GTP cyclohydrolase 1
+DAFHAFLN_01102	CDS	585	mobA_2	2.7.7.77		Molybdenum cofactor guanylyltransferase
+DAFHAFLN_01103	CDS	465	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+DAFHAFLN_01104	CDS	1413	leuC_3	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+DAFHAFLN_01105	CDS	612	leuD1_3	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+DAFHAFLN_01106	CDS	810	hel		COG2503	Lipoprotein E
+DAFHAFLN_01107	CDS	1263				hypothetical protein
+DAFHAFLN_01108	CDS	1080		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+DAFHAFLN_01109	CDS	999				hypothetical protein
+DAFHAFLN_01110	CDS	342				hypothetical protein
+DAFHAFLN_01111	CDS	903				hypothetical protein
+DAFHAFLN_01112	CDS	1197		2.8.3.-	COG1804	putative fatty acyl-CoA transferase
+DAFHAFLN_01113	CDS	543		1.11.1.15		Peroxiredoxin
+DAFHAFLN_01114	CDS	771	puuA_2	6.3.1.11	COG0174	Gamma-glutamylputrescine synthetase PuuA
+DAFHAFLN_01115	CDS	1365	spuC_2	2.6.1.113	COG0161	Putrescine--pyruvate aminotransferase
+DAFHAFLN_01116	CDS	1287	puuB	1.4.3.-		Gamma-glutamylputrescine oxidoreductase
+DAFHAFLN_01117	CDS	1437	murF	6.3.2.10		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+DAFHAFLN_01118	CDS	315				hypothetical protein
+DAFHAFLN_01119	CDS	111				hypothetical protein
+DAFHAFLN_01120	CDS	1083	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+DAFHAFLN_01121	CDS	399	ndk	2.7.4.6		Nucleoside diphosphate kinase
+DAFHAFLN_01122	CDS	324	iscA		COG0316	Iron-binding protein IscA
+DAFHAFLN_01123	CDS	357				hypothetical protein
+DAFHAFLN_01124	CDS	1158	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+DAFHAFLN_01125	CDS	546	trmJ	2.1.1.-		tRNA (cytidine/uridine/adenosine-2'-O-)-methyltransferase TrmJ
+DAFHAFLN_01126	CDS	1704	nfdA_3	3.5.1.91		N-substituted formamide deformylase
+DAFHAFLN_01127	CDS	201	spuE		COG0687	Spermidine-binding periplasmic protein SpuE
+DAFHAFLN_01128	CDS	327				hypothetical protein
+DAFHAFLN_01129	CDS	183				hypothetical protein
+DAFHAFLN_01130	CDS	1950	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+DAFHAFLN_01131	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+DAFHAFLN_01132	CDS	600	nuoJ	7.1.1.-	COG0839	NADH-quinone oxidoreductase subunit J
+DAFHAFLN_01133	CDS	486	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+DAFHAFLN_01134	CDS	1071	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+DAFHAFLN_01135	CDS	2139	nqo3	7.1.1.-	COG1034	NADH-quinone oxidoreductase chain 3
+DAFHAFLN_01136	CDS	1284	nuoF	7.1.1.-		NADH-quinone oxidoreductase subunit F
+DAFHAFLN_01137	CDS	495	nqo2_2	7.1.1.-	COG1905	NADH-quinone oxidoreductase chain 2
+DAFHAFLN_01138	CDS	681	nuoD_2	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit D
+DAFHAFLN_01139	CDS	684				hypothetical protein
+DAFHAFLN_01140	CDS	366	pxpA	3.5.2.9		5-oxoprolinase subunit A
+DAFHAFLN_01141	CDS	1056	ggt	3.4.19.13	COG0405	Glutathione hydrolase proenzyme
+DAFHAFLN_01142	CDS	1305	gltP		COG1301	Proton/glutamate-aspartate symporter
+DAFHAFLN_01143	CDS	1437	pykA_1	2.7.1.40	COG0469	Pyruvate kinase II
+DAFHAFLN_01144	CDS	1749	actP		COG4147	Cation/acetate symporter ActP
+DAFHAFLN_01145	CDS	267				hypothetical protein
+DAFHAFLN_01146	CDS	441				hypothetical protein
+DAFHAFLN_01147	CDS	279				hypothetical protein
+DAFHAFLN_01148	CDS	435				hypothetical protein
+DAFHAFLN_01149	CDS	666				hypothetical protein
+DAFHAFLN_01150	CDS	489				hypothetical protein
+DAFHAFLN_01151	CDS	267				hypothetical protein
+DAFHAFLN_01152	CDS	597				hypothetical protein
+DAFHAFLN_01153	CDS	1275	exuT			Hexuronate transporter
+DAFHAFLN_01154	CDS	1077	cntA	1.14.13.239	COG4638	Carnitine monooxygenase oxygenase subunit
+DAFHAFLN_01155	CDS	1185	ubiF	1.14.99.60	COG0654	3-demethoxyubiquinol 3-hydroxylase
+DAFHAFLN_01156	CDS	705				hypothetical protein
+DAFHAFLN_01157	CDS	1068	fabH2	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 2
+DAFHAFLN_01158	CDS	1050		1.18.1.2	COG0492	Ferredoxin--NADP reductase
+DAFHAFLN_01159	CDS	948				hypothetical protein
+DAFHAFLN_01160	CDS	627	tmk_2	2.7.4.9	COG0125	Thymidylate kinase
+DAFHAFLN_01161	CDS	492				hypothetical protein
+DAFHAFLN_01162	CDS	378				hypothetical protein
+DAFHAFLN_01163	CDS	1206				hypothetical protein
+DAFHAFLN_01164	CDS	369				hypothetical protein
+DAFHAFLN_01165	CDS	729	mlaA		COG2853	Intermembrane phospholipid transport system lipoprotein MlaA
+DAFHAFLN_01166	CDS	1461	bepA_3	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+DAFHAFLN_01167	CDS	468	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+DAFHAFLN_01168	CDS	504				hypothetical protein
+DAFHAFLN_01169	CDS	1005	mmgC	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+DAFHAFLN_01170	CDS	1788	sdhA_2	1.3.5.1		Succinate dehydrogenase flavoprotein subunit
+DAFHAFLN_01171	CDS	693	sdhB	1.3.5.1	COG0479	Succinate dehydrogenase iron-sulfur subunit
+DAFHAFLN_01172	CDS	711				hypothetical protein
+DAFHAFLN_01173	CDS	276	ada		COG0350	Bifunctional transcriptional activator/DNA repair enzyme Ada
+DAFHAFLN_01174	CDS	879	ptlF_2	1.1.1.340		1-deoxy-11-beta-hydroxypentalenate dehydrogenase
+DAFHAFLN_01175	CDS	735				hypothetical protein
+DAFHAFLN_01176	CDS	456				hypothetical protein
+DAFHAFLN_01177	CDS	2583	btuB_7			Vitamin B12 transporter BtuB
+DAFHAFLN_01178	CDS	321	parE_2	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+DAFHAFLN_01179	CDS	1053				hypothetical protein
+DAFHAFLN_01180	CDS	1056		5.1.1.-	COG4948	L-Lys-D/L-Arg epimerase
+DAFHAFLN_01181	CDS	588				hypothetical protein
+DAFHAFLN_01182	CDS	816	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+DAFHAFLN_01183	CDS	669			COG0325	Pyridoxal phosphate homeostasis protein
+DAFHAFLN_01184	CDS	870	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+DAFHAFLN_01185	CDS	969	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+DAFHAFLN_01186	CDS	426	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+DAFHAFLN_01187	CDS	600				hypothetical protein
+DAFHAFLN_01188	CDS	792	gshB	6.3.2.3	COG0189	Glutathione synthetase
+DAFHAFLN_01189	CDS	1002	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+DAFHAFLN_01190	CDS	2703	uvrA		COG0178	UvrABC system protein A
+DAFHAFLN_01191	CDS	417				hypothetical protein
+DAFHAFLN_01192	CDS	771				hypothetical protein
+DAFHAFLN_01193	CDS	804	apbC		COG0489	Iron-sulfur cluster carrier protein
+DAFHAFLN_01194	CDS	885				hypothetical protein
+DAFHAFLN_01195	CDS	1500	nuoM	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+DAFHAFLN_01196	CDS	2121	mcm_2	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+DAFHAFLN_01197	CDS	1077		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+DAFHAFLN_01198	CDS	393				hypothetical protein
+DAFHAFLN_01199	CDS	450	ibpA_2		COG0071	Small heat shock protein IbpA
+DAFHAFLN_01200	CDS	909	efeU		COG0672	Ferrous iron permease EfeU
+DAFHAFLN_01201	CDS	1776	bfrD_2		COG4774	putative TonB-dependent receptor BfrD
+DAFHAFLN_01202	CDS	861				hypothetical protein
+DAFHAFLN_01203	CDS	510				hypothetical protein
+DAFHAFLN_01204	CDS	510				hypothetical protein
+DAFHAFLN_01205	CDS	783	dhaA	3.8.1.5		Haloalkane dehalogenase
+DAFHAFLN_01206	CDS	1314	mamZ_3			Magnetosome protein MamZ
+DAFHAFLN_01207	CDS	1185	pykA_2	2.7.1.40	COG0469	Pyruvate kinase II
+DAFHAFLN_01208	CDS	426	baeS_2	2.7.13.3	COG0642	Signal transduction histidine-protein kinase BaeS
+DAFHAFLN_01209	CDS	672	baeR_2		COG0745	Transcriptional regulatory protein BaeR
+DAFHAFLN_01210	CDS	591				hypothetical protein
+DAFHAFLN_01211	CDS	582				hypothetical protein
+DAFHAFLN_01212	CDS	549				hypothetical protein
+DAFHAFLN_01213	CDS	432	ybaN		COG2832	Inner membrane protein YbaN
+DAFHAFLN_01214	CDS	609				hypothetical protein
+DAFHAFLN_01215	CDS	696				hypothetical protein
+DAFHAFLN_01216	CDS	1401	puuA_3	6.3.1.11	COG0174	Gamma-glutamylputrescine synthetase PuuA
+DAFHAFLN_01217	CDS	213				hypothetical protein
+DAFHAFLN_01218	CDS	459				hypothetical protein
+DAFHAFLN_01219	CDS	453				hypothetical protein
+DAFHAFLN_01220	CDS	405				hypothetical protein
+DAFHAFLN_01221	CDS	816	dhmA_5	3.8.1.5		Haloalkane dehalogenase
+DAFHAFLN_01222	CDS	564	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+DAFHAFLN_01223	CDS	513				hypothetical protein
+DAFHAFLN_01224	CDS	477	baiA	1.1.1.392		3-alpha-hydroxycholanate dehydrogenase (NADP(+))
+DAFHAFLN_01225	CDS	1194				L-lactate transporter
+DAFHAFLN_01226	CDS	294				hypothetical protein
+DAFHAFLN_01227	CDS	288				hypothetical protein
+DAFHAFLN_01228	CDS	453				hypothetical protein
+DAFHAFLN_01229	CDS	360				hypothetical protein
+DAFHAFLN_01230	CDS	333				hypothetical protein
+DAFHAFLN_01231	CDS	849	amiC_1	3.5.1.4	COG0154	Putative amidase AmiC
+DAFHAFLN_01232	CDS	618				hypothetical protein
+DAFHAFLN_01233	CDS	318	cndB2_1			Chloroacetanilide N-alkylformylase 2, ferredoxin component
+DAFHAFLN_01234	CDS	1350	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+DAFHAFLN_01235	CDS	207	ompR			Transcriptional regulatory protein OmpR
+DAFHAFLN_01236	CDS	297		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+DAFHAFLN_01237	CDS	639	nahD_2	5.99.1.4		2-hydroxychromene-2-carboxylate isomerase
+DAFHAFLN_01238	CDS	870	linB	3.8.1.5		Haloalkane dehalogenase
+DAFHAFLN_01239	CDS	1206	smtA	2.8.3.22	COG1804	Succinyl-CoA--L-malate CoA-transferase alpha subunit
+DAFHAFLN_01240	CDS	840				hypothetical protein
+DAFHAFLN_01241	CDS	720	nfdA_4	3.5.1.91		N-substituted formamide deformylase
+DAFHAFLN_01242	CDS	762	selO_2	2.7.7.-	COG0397	Protein adenylyltransferase SelO
+DAFHAFLN_01243	CDS	786				hypothetical protein
+DAFHAFLN_01244	CDS	639	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+DAFHAFLN_01245	CDS	1260				hypothetical protein
+DAFHAFLN_01246	CDS	2748	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+DAFHAFLN_01247	CDS	435				hypothetical protein
+DAFHAFLN_01248	CDS	486	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+DAFHAFLN_01249	CDS	792	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+DAFHAFLN_01250	CDS	366	efp		COG0231	Elongation factor P
+DAFHAFLN_01251	CDS	1479	guaB_2	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+DAFHAFLN_01252	CDS	1206	fadA_2	2.3.1.-	COG0183	Putative acyltransferase
+DAFHAFLN_01253	CDS	762	phaB	1.1.1.36		Acetoacetyl-CoA reductase
+DAFHAFLN_01254	CDS	348	yfgD		COG1393	putative protein YfgD
+DAFHAFLN_01255	CDS	1491	amiC_2	3.5.1.4	COG0154	Putative amidase AmiC
+DAFHAFLN_01256	CDS	618				hypothetical protein
+DAFHAFLN_01257	CDS	318	cndB2_2			Chloroacetanilide N-alkylformylase 2, ferredoxin component
+DAFHAFLN_01258	CDS	1350	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+DAFHAFLN_01259	CDS	678	regX3		COG0745	Sensory transduction protein regX3
+DAFHAFLN_01260	CDS	516	ubiC	4.1.3.40		Chorismate pyruvate-lyase
+DAFHAFLN_01261	CDS	849	ubiA	2.5.1.39	COG0382	4-hydroxybenzoate octaprenyltransferase
+DAFHAFLN_01262	CDS	1008	menH_3	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+DAFHAFLN_01263	CDS	933				hypothetical protein
+DAFHAFLN_01264	CDS	447				hypothetical protein
+DAFHAFLN_01265	CDS	855			COG0596	putative protein
+DAFHAFLN_01266	CDS	1275	sufD		COG0719	FeS cluster assembly protein SufD
+DAFHAFLN_01267	CDS	648	sufC_2		COG0396	putative ATP-dependent transporter SufC
+DAFHAFLN_01268	CDS	618				hypothetical protein
+DAFHAFLN_01269	CDS	1194	dadA	1.4.99.-		D-amino acid dehydrogenase
+DAFHAFLN_01270	CDS	138				hypothetical protein
+DAFHAFLN_01271	CDS	405				hypothetical protein
+DAFHAFLN_01272	CDS	624				hypothetical protein
+DAFHAFLN_01273	CDS	963				hypothetical protein
+DAFHAFLN_01274	CDS	873				hypothetical protein
+DAFHAFLN_01275	CDS	303	glpE	2.8.1.1	COG0607	Thiosulfate sulfurtransferase GlpE
+DAFHAFLN_01276	CDS	471				hypothetical protein
+DAFHAFLN_01277	CDS	204				hypothetical protein
+DAFHAFLN_01278	CDS	210				hypothetical protein
+DAFHAFLN_01279	CDS	366				hypothetical protein
+DAFHAFLN_01280	CDS	915			COG1055	putative transporter
+DAFHAFLN_01281	CDS	372				hypothetical protein
+DAFHAFLN_01282	CDS	663	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+DAFHAFLN_01283	tRNA	76				tRNA-Lys(ttt)
+DAFHAFLN_01284	CDS	633	cpoB			Cell division coordinator CpoB
+DAFHAFLN_01285	CDS	1074	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+DAFHAFLN_01286	CDS	1071	lptF		COG0795	Lipopolysaccharide export system permease protein LptF
+DAFHAFLN_01287	CDS	864	folD			Bifunctional protein FolD protein
+DAFHAFLN_01288	tRNA	77				tRNA-Pro(tgg)
+DAFHAFLN_01289	CDS	375				hypothetical protein
+DAFHAFLN_01290	CDS	984	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+DAFHAFLN_01291	CDS	363	rplT		COG0292	50S ribosomal protein L20
+DAFHAFLN_01292	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+DAFHAFLN_01293	CDS	405	infC		COG0290	Translation initiation factor IF-3
+DAFHAFLN_01294	CDS	960	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+DAFHAFLN_01295	CDS	243	xseA_2	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+DAFHAFLN_01296	CDS	1401	der_2		COG1160	GTPase Der
+DAFHAFLN_01297	CDS	471	btuB_8			Vitamin B12 transporter BtuB
+DAFHAFLN_01298	CDS	561	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+DAFHAFLN_01299	CDS	1074	fgd_2	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+DAFHAFLN_01300	CDS	720	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+DAFHAFLN_01301	CDS	474		3.1.3.48		Putative low molecular weight protein-tyrosine-phosphatase
+DAFHAFLN_01302	CDS	750				hypothetical protein
+DAFHAFLN_01303	CDS	330				hypothetical protein
+DAFHAFLN_01304	CDS	1626	pyrG	6.3.4.2	COG0504	CTP synthase
+DAFHAFLN_01305	CDS	654	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+DAFHAFLN_01306	CDS	357				hypothetical protein
+DAFHAFLN_01307	CDS	549	apt	2.4.2.7		Adenine phosphoribosyltransferase
+DAFHAFLN_01308	CDS	1812	pvaA	1.1.2.6		Polyvinylalcohol dehydrogenase
+DAFHAFLN_01309	CDS	2232				hypothetical protein
+DAFHAFLN_01310	CDS	222	purA_1	6.3.4.4	COG0104	Adenylosuccinate synthetase
+DAFHAFLN_01311	CDS	627	amiC_3	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiC
+DAFHAFLN_01312	CDS	1023	fgd_3	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+DAFHAFLN_01313	CDS	939	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+DAFHAFLN_01314	CDS	1086	groL_2		COG0459	60 kDa chaperonin
+DAFHAFLN_01315	CDS	180				hypothetical protein
+DAFHAFLN_01316	CDS	564	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DAFHAFLN_01317	CDS	477	folK_2	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+DAFHAFLN_01318	CDS	360	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+DAFHAFLN_01319	CDS	357	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+DAFHAFLN_01320	CDS	330				hypothetical protein
+DAFHAFLN_01321	CDS	192		1.6.5.2	COG0655	NAD(P)H dehydrogenase (quinone)
+DAFHAFLN_01322	CDS	3444	gltA_3	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+DAFHAFLN_01323	CDS	1494	gltB_2	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+DAFHAFLN_01324	CDS	585	trmB_2	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+DAFHAFLN_01325	CDS	858	rpoH		COG0568	RNA polymerase sigma factor RpoH
+DAFHAFLN_01326	CDS	576	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+DAFHAFLN_01327	CDS	477	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+DAFHAFLN_01328	CDS	228		1.14.11.-	COG2175	Alpha-ketoglutarate-dependent sulfate ester dioxygenase
+DAFHAFLN_01329	CDS	1431				hypothetical protein
+DAFHAFLN_01330	CDS	1083				hypothetical protein
+DAFHAFLN_01331	CDS	810				hypothetical protein
+DAFHAFLN_01332	CDS	264				hypothetical protein
+DAFHAFLN_01333	CDS	411				hypothetical protein
+DAFHAFLN_01334	CDS	657				hypothetical protein
+DAFHAFLN_01335	CDS	816				hypothetical protein
+DAFHAFLN_01336	CDS	912	rnz	3.1.26.11	COG1234	Ribonuclease Z
+DAFHAFLN_01337	CDS	1494	nfdA_5	3.5.1.91		N-substituted formamide deformylase
+DAFHAFLN_01338	CDS	1674	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+DAFHAFLN_01339	CDS	408	fur		COG0735	Ferric uptake regulation protein
+DAFHAFLN_01340	CDS	621				hypothetical protein
+DAFHAFLN_01341	CDS	510				hypothetical protein
+DAFHAFLN_01342	CDS	984	lipA_2	2.8.1.8	COG0320	Lipoyl synthase
+DAFHAFLN_01343	tRNA	77				tRNA-Val(gac)
+DAFHAFLN_01344	CDS	1143				hypothetical protein
+DAFHAFLN_01345	CDS	669				hypothetical protein
+DAFHAFLN_01346	CDS	1308	hisD_2	1.1.1.23	COG0141	Histidinol dehydrogenase
+DAFHAFLN_01347	CDS	894	hisG_2	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+DAFHAFLN_01348	CDS	321				hypothetical protein
+DAFHAFLN_01349	CDS	534	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+DAFHAFLN_01350	CDS	744	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+DAFHAFLN_01351	CDS	1293	purA_2	6.3.4.4	COG0104	Adenylosuccinate synthetase
+DAFHAFLN_01352	CDS	504				hypothetical protein
+DAFHAFLN_01353	CDS	501				hypothetical protein
+DAFHAFLN_01354	CDS	207				hypothetical protein
+DAFHAFLN_01355	CDS	549				hypothetical protein
+DAFHAFLN_01356	CDS	1659	apc4	6.4.1.8	COG0146	Acetophenone carboxylase delta subunit
+DAFHAFLN_01357	CDS	2109	apc3	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+DAFHAFLN_01358	CDS	1650	alsS	2.2.1.6	COG0028	Acetolactate synthase
+DAFHAFLN_01359	CDS	1206	bbsG_2	1.3.8.3		(R)-benzylsuccinyl-CoA dehydrogenase
+DAFHAFLN_01360	CDS	1377	lgoT			putative L-galactonate transporter
+DAFHAFLN_01361	CDS	1467	tgnC	1.2.1.-	COG1012	(Z)-2-((N-methylformamido)methylene)-5-hydroxybutyrolactone dehydrogenase
+DAFHAFLN_01362	CDS	1455	sufB		COG0719	FeS cluster assembly protein SufB
+DAFHAFLN_01363	CDS	456	nsrR		COG1959	HTH-type transcriptional repressor NsrR
+DAFHAFLN_01364	CDS	1017	fda	4.1.2.13		Fructose-bisphosphate aldolase class 1
+DAFHAFLN_01365	CDS	1398	phrA_2	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+DAFHAFLN_01366	CDS	1542		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+DAFHAFLN_01367	CDS	444				hypothetical protein
+DAFHAFLN_01368	CDS	783	yddE	5.1.-.-	COG0384	putative isomerase YddE
+DAFHAFLN_01369	CDS	573				hypothetical protein
+DAFHAFLN_01370	CDS	576				hypothetical protein
+DAFHAFLN_01371	CDS	735				hypothetical protein
+DAFHAFLN_01372	CDS	1116				hypothetical protein
+DAFHAFLN_01373	CDS	615				hypothetical protein
+DAFHAFLN_01374	CDS	1188	smtB	2.8.3.22	COG1804	Succinyl-CoA--L-malate CoA-transferase beta subunit
+DAFHAFLN_01375	CDS	489				hypothetical protein
+DAFHAFLN_01376	tRNA	85				tRNA-Tyr(gta)
+DAFHAFLN_01377	tRNA	75				tRNA-Thr(ggt)
+DAFHAFLN_01378	CDS	1191	tufA_2		COG0050	Elongation factor Tu
+DAFHAFLN_01379	tRNA	76				tRNA-Trp(cca)
+DAFHAFLN_01380	CDS	366	secE		COG0690	Protein translocase subunit SecE
+DAFHAFLN_01381	CDS	837				hypothetical protein
+DAFHAFLN_01382	CDS	1116	aspC	2.6.1.1		Aspartate aminotransferase
+DAFHAFLN_01383	CDS	708				hypothetical protein
+DAFHAFLN_01384	CDS	2691	btuB_9			Vitamin B12 transporter BtuB
+DAFHAFLN_01385	CDS	570				hypothetical protein
+DAFHAFLN_01386	CDS	621				hypothetical protein
+DAFHAFLN_01387	CDS	534				hypothetical protein
+DAFHAFLN_01388	CDS	972	amgK	2.7.1.221	COG3178	N-acetylmuramate/N-acetylglucosamine kinase

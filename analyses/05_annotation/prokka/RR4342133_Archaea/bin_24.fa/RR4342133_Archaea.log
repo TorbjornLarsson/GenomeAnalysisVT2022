@@ -1,0 +1,226 @@
+[17:36:16] This is prokka 1.14.6
+[17:36:16] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[17:36:16] Homepage is https://github.com/tseemann/prokka
+[17:36:16] Local time is Tue May  3 17:36:16 2022
+[17:36:16] You are tola2495
+[17:36:16] Operating system is linux
+[17:36:16] You have BioPerl 1.007001
+[17:36:16] System has 16 cores.
+[17:36:16] Will use maximum of 2 cores.
+[17:36:16] Annotating as >>> Archaea <<<
+[17:36:16] Generating locus_tag from 'bin_24.fa' contents.
+[17:36:16] Setting --locustag MOPFLJEK from MD5 689f53e47d3183ae1edc491819909fa2
+[17:36:16] Creating new output folder: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa
+[17:36:16] Running: mkdir -p \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa
+[17:36:16] Using filename prefix: RR4342133_Archaea.XXX
+[17:36:16] Setting HMMER_NCPU=1
+[17:36:16] Writing log to: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.log
+[17:36:16] Command: /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka --metagenome --cpus 2 --kingdom Archaea --prefix RR4342133_Archaea --outdir /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa bin_24.fa
+[17:36:16] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux
+[17:36:16] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/../common
+[17:36:16] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin
+[17:36:16] Looking for 'aragorn' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/aragorn
+[17:36:16] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[17:36:16] Looking for 'barrnap' - found /sw/bioinfo/barrnap/0.8/snowy/bin/barrnap
+[17:36:16] Determined barrnap version is 000008 from 'barrnap 0.8'
+[17:36:16] Looking for 'blastp' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/blastp
+[17:36:17] Determined blastp version is 002011 from 'blastp: 2.11.0+'
+[17:36:17] Looking for 'cmpress' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmpress
+[17:36:17] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[17:36:17] Looking for 'cmscan' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmscan
+[17:36:17] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[17:36:17] Looking for 'egrep' - found /usr/bin/egrep
+[17:36:17] Looking for 'find' - found /usr/bin/find
+[17:36:17] Looking for 'grep' - found /usr/bin/grep
+[17:36:17] Looking for 'hmmpress' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmpress
+[17:36:17] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[17:36:17] Looking for 'hmmscan' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmscan
+[17:36:17] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[17:36:17] Looking for 'java' - found /usr/bin/java
+[17:36:17] Looking for 'makeblastdb' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/makeblastdb
+[17:36:18] Determined makeblastdb version is 002011 from 'makeblastdb: 2.11.0+'
+[17:36:18] Looking for 'minced' - found /sw/apps/bioinfo/minced/0.2.0/snowy/minced
+[17:36:18] Determined minced version is 002000 from 'minced 0.2.0'
+[17:36:18] Looking for 'parallel' - found /sw/parallel/gnuparallel/20170122/snowy/bin/parallel
+[17:36:18] Determined parallel version is 20170122 from 'GNU parallel 20170122'
+[17:36:18] Looking for 'prodigal' - found /sw/apps/bioinfo/prodigal/2.6.3/snowy/bin/prodigal
+[17:36:18] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[17:36:18] Looking for 'prokka-genbank_to_fasta_db' - found /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka-genbank_to_fasta_db
+[17:36:18] Looking for 'sed' - found /usr/bin/sed
+[17:36:18] Looking for 'signalp' - found /sw/bioinfo/SignalP/4.1f/snowy/signalp
+[17:36:18] Determined signalp version is 004001 from '4.1 6184308'
+[17:36:18] Looking for 'tbl2asn' - found /sw/bioinfo/tbl2asn/25.8/snowy/tbl2asn
+[17:36:18] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[17:36:18] Using genetic code table 11.
+[17:36:18] Loading and checking input file: bin_24.fa
+[17:36:18] Wrote 201 contigs totalling 709653 bp.
+[17:36:18] Predicting tRNAs and tmRNAs
+[17:36:18] Running: aragorn -l -gc11  -w \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.fna
+[17:36:18] 1 tRNA-Val [1422,1496] 35 (gac)
+[17:36:18] 1 tRNA-Ala [1796,1872] 35 (ggc)
+[17:36:18] 1 tRNA-Trp c[4561,4637] 35 (cca)
+[17:36:18] 1 tRNA-Asn [1503,1577] 35 (gtt)
+[17:36:18] 1 tRNA-Thr c[23,96] 35 (cgt)
+[17:36:18] 1 tRNA-Ser [7334,7420] 35 (gct)
+[17:36:18] 1 tRNA-Leu c[8596,8682] 38 (gag)
+[17:36:18] 1 tRNA-Ser [834,919] 36 (tga)
+[17:36:18] 1 tRNA-Lys c[4477,4551] 35 (ctt)
+[17:36:18] 1 tRNA-Met [673,746] 35 (cat)
+[17:36:18] 1 tRNA-Asn c[2460,2536] 35 (gtt)
+[17:36:18] 1 tRNA-Cys c[3392,3463] 33 (gca)
+[17:36:18] 1 tRNA-Asn [1503,1577] 35 (gtt)
+[17:36:18] 1 tRNA-Ala c[1940,2012] 33 (cgc)
+[17:36:18] Found 14 tRNAs
+[17:36:18] Predicting Ribosomal RNAs
+[17:36:18] Running Barrnap with 2 threads
+[17:36:19] Found 0 rRNAs
+[17:36:19] Skipping ncRNA search, enable with --rfam if desired.
+[17:36:19] Total of 14 tRNA + rRNA features
+[17:36:19] Searching for CRISPR repeats
+[17:36:19] Found 0 CRISPRs
+[17:36:19] Predicting coding sequences
+[17:36:19] Contigs total 709653 bp, so using meta mode
+[17:36:19] Running: prodigal -i \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.fna -c -m -g 11 -p meta -f sco -q
+[17:36:21] Found 838 CDS
+[17:36:21] Connecting features back to sequences
+[17:36:21] Not using genus-specific database. Try --usegenus to enable it.
+[17:36:21] Annotating CDS, please be patient.
+[17:36:21] Will use 2 CPUs for similarity searching.
+[17:36:21] There are still 838 unannotated CDS left (started with 838)
+[17:36:21] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Archaea/sprot with 2 CPUs
+[17:36:21] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.sprot\.tmp\.34181\.faa | parallel --gnu --plain -j 2 --block 48884 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Archaea/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.sprot\.tmp\.34181\.blast 2> /dev/null
+[17:36:28] Modify product: Uncharacterized nitrogen regulatory PII-like protein MJ0059 => putative nitrogen regulatory PII-like protein
+[17:36:28] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[17:36:28] Modify product: Glutamate transporter homolog => Glutamate transporter 
+[17:36:28] Modify product: Probable aquaporin AqpM => putative aquaporin AqpM
+[17:36:28] Modify product: DNA-binding protein SSO0352 => DNA-binding protein
+[17:36:28] Modify product: Probable deoxyhypusine synthase => putative deoxyhypusine synthase
+[17:36:28] Modify product: RNA-binding protein PAB1135 => RNA-binding protein
+[17:36:28] Modify product: Uncharacterized ABC transporter ATP-binding protein MJ0796 => putative ABC transporter ATP-binding protein
+[17:36:28] Modify product: Probable transaldolase => putative transaldolase
+[17:36:28] Modify product: Putative FKBP-type peptidyl-prolyl cis-trans isomerase MJ0825 => Putative FKBP-type peptidyl-prolyl cis-trans isomerase
+[17:36:28] Modify product: Uncharacterized ABC transporter ATP-binding protein MJ0796 => putative ABC transporter ATP-binding protein
+[17:36:28] Modify product: Probable ribosomal RNA small subunit methyltransferase A => putative ribosomal RNA small subunit methyltransferase A
+[17:36:28] Modify product: Protein translation factor SUI1 homolog => Protein translation factor SUI1 
+[17:36:28] Modify product: Probable tRNA pseudouridine synthase B => putative tRNA pseudouridine synthase B
+[17:36:28] Modify product: Probable translation initiation factor IF-2 => putative translation initiation factor IF-2
+[17:36:28] Modify product: Glutamate transporter homolog => Glutamate transporter 
+[17:36:28] Modify product: Uncharacterized protein MJ0783 => putative protein
+[17:36:28] Modify product: UPF0215 protein AF_1433 => hypothetical protein
+[17:36:28] Modify product: Uncharacterized protein MJ0100 => putative protein
+[17:36:28] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[17:36:28] Modify product: Protein pelota homolog => Protein pelota 
+[17:36:28] Modify product: Probable ribosome biogenesis protein SSO0551 => putative ribosome biogenesis protein
+[17:36:28] Modify product: Probable translation initiation factor IF-2 => putative translation initiation factor IF-2
+[17:36:28] Cleaned 23 /product names
+[17:36:28] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.sprot.tmp.34181.faa
+[17:36:28] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.sprot.tmp.34181.blast
+[17:36:29] There are still 588 unannotated CDS left (started with 838)
+[17:36:29] Will use hmmer3 to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm with 2 CPUs
+[17:36:29] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.HAMAP\.hmm\.tmp\.34181\.faa | parallel --gnu --plain -j 2 --block 31336 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm /dev/stdin > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.HAMAP\.hmm\.tmp\.34181\.hmmer3 2> /dev/null
+[17:36:57] Modify product: Uncharacterized MFS-type transporter YcaD => putative MFS-type transporter YcaD
+[17:36:57] Cleaned 1 /product names
+[17:36:57] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.HAMAP.hmm.tmp.34181.faa
+[17:36:57] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.HAMAP.hmm.tmp.34181.hmmer3
+[17:36:57] Labelling remaining 468 proteins as 'hypothetical protein'
+[17:36:57] Found 216 unique /gene codes.
+[17:36:57] Fixed 2 duplicate /gene - dnaG_1 dnaG_2
+[17:36:57] Fixed 2 duplicate /gene - albA2_1 albA2_2
+[17:36:57] Fixed 2 duplicate /gene - acdBI_1 acdBI_2
+[17:36:57] Fixed 2 duplicate /gene - uvrB_1 uvrB_2
+[17:36:57] Fixed 2 duplicate /gene - fbiB_1 fbiB_2
+[17:36:57] Fixed 2 duplicate /gene - purN_1 purN_2
+[17:36:57] Fixed 2 duplicate /gene - rfcS_1 rfcS_2
+[17:36:57] Fixed 2 duplicate /gene - xpf_1 xpf_2
+[17:36:57] Fixed 2 duplicate /gene - dapE_1 dapE_2
+[17:36:57] Fixed 2 duplicate /gene - nhaP2_1 nhaP2_2
+[17:36:57] Fixed 4 duplicate /gene - vat_1 vat_2 vat_3 vat_4
+[17:36:57] Fixed 2 duplicate /gene - leuC_1 leuC_2
+[17:36:57] Fixed 3 duplicate /gene - mer_1 mer_2 mer_3
+[17:36:57] Fixed 2 duplicate /gene - rnj_1 rnj_2
+[17:36:57] Fixed 2 duplicate /gene - gck_1 gck_2
+[17:36:57] Fixed 2 duplicate /gene - folD_1 folD_2
+[17:36:57] Fixed 2 duplicate /gene - vgb_1 vgb_2
+[17:36:57] Fixed 2 duplicate /gene - pyrI_1 pyrI_2
+[17:36:57] Fixed 2 duplicate /gene - ndhC_1 ndhC_2
+[17:36:57] Fixed 2 duplicate /gene - nagK_1 nagK_2
+[17:36:57] Fixed 2 duplicate /gene - citZ_1 citZ_2
+[17:36:57] Fixed 2 duplicate /gene - atpD_1 atpD_2
+[17:36:57] Fixed 2 duplicate /gene - polC_1 polC_2
+[17:36:57] Fixed 2 duplicate /gene - sua5_1 sua5_2
+[17:36:57] Fixed 3 duplicate /gene - rps8_1 rps8_2 rps8_3
+[17:36:57] Fixed 2 duplicate /gene - glmU_1 glmU_2
+[17:36:57] Fixed 2 duplicate /gene - dbpA_1 dbpA_2
+[17:36:57] Fixed 2 duplicate /gene - herA_1 herA_2
+[17:36:57] Fixed 2 duplicate /gene - rtcB_1 rtcB_2
+[17:36:57] Fixed 3 duplicate /gene - carA_1 carA_2 carA_3
+[17:36:57] Fixed 3 duplicate /gene - adh_1 adh_2 adh_3
+[17:36:57] Fixed 2 duplicate /gene - purD_1 purD_2
+[17:36:57] Fixed 3 duplicate /gene - leuD_1 leuD_2 leuD_3
+[17:36:57] Fixed 2 duplicate /gene - hacA_1 hacA_2
+[17:36:57] Fixed 2 duplicate /gene - pckA_1 pckA_2
+[17:36:57] Fixed 2 duplicate /gene - infB_1 infB_2
+[17:36:57] Fixed 2 duplicate /gene - nadK_1 nadK_2
+[17:36:57] Fixed 2 duplicate /gene - uvrC_1 uvrC_2
+[17:36:57] Fixed 2 duplicate /gene - ndhK_1 ndhK_2
+[17:36:57] Fixed 2 duplicate /gene - nob1_1 nob1_2
+[17:36:57] Fixed 3 duplicate /gene - endA_1 endA_2 endA_3
+[17:36:57] Fixed 2 duplicate /gene - spt5_1 spt5_2
+[17:36:57] Fixed 2 duplicate /gene - kefB_1 kefB_2
+[17:36:57] Fixed 2 duplicate /gene - tdh_1 tdh_2
+[17:36:57] Fixed 2 duplicate /gene - hemL_1 hemL_2
+[17:36:57] Fixed 3 duplicate /gene - tpx_1 tpx_2 tpx_3
+[17:36:57] Fixed 2 duplicate /gene - ef1b_1 ef1b_2
+[17:36:57] Fixed 3 duplicate /gene - psmB_1 psmB_2 psmB_3
+[17:36:57] Fixed 2 duplicate /gene - ubiD_1 ubiD_2
+[17:36:57] Fixed 2 duplicate /gene - sufS_1 sufS_2
+[17:36:57] Fixed 2 duplicate /gene - ribK_1 ribK_2
+[17:36:57] Fixed 3 duplicate /gene - rpl6_1 rpl6_2 rpl6_3
+[17:36:57] Fixed 2 duplicate /gene - psmA_1 psmA_2
+[17:36:57] Fixed 2 duplicate /gene - ilvE_1 ilvE_2
+[17:36:57] Fixed 6 duplicate /gene - petE_1 petE_2 petE_3 petE_4 petE_5 petE_6
+[17:36:57] Fixed 7 duplicate /gene - tfb_1 tfb_2 tfb_3 tfb_4 tfb_5 tfb_6 tfb_7
+[17:36:57] Fixed 2 duplicate /gene - atpH_1 atpH_2
+[17:36:57] Fixed 2 duplicate /gene - pth_1 pth_2
+[17:36:57] Fixed 2 duplicate /gene - rppH_1 rppH_2
+[17:36:57] Fixed 2 duplicate /gene - purA_1 purA_2
+[17:36:57] Fixed 2 duplicate /gene - argH_1 argH_2
+[17:36:57] Fixed 2 duplicate /gene - argF_1 argF_2
+[17:36:57] Fixed 3 duplicate /gene - uvrA_1 uvrA_2 uvrA_3
+[17:36:57] Fixed 2 duplicate /gene - gyaR_1 gyaR_2
+[17:36:57] Fixed 3 duplicate /gene - tbp_1 tbp_2 tbp_3
+[17:36:57] Fixed 2 duplicate /gene - rpl1_1 rpl1_2
+[17:36:57] Fixed 66 colliding /gene names.
+[17:36:57] Adding /locus_tag identifiers
+[17:36:57] Assigned 852 locus_tags to CDS and RNA features.
+[17:36:57] Writing outputs to /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/
+[17:36:58] Generating annotation statistics file
+[17:36:58] Generating Genbank and Sequin files
+[17:36:58] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.err -i \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.fsa 2> /dev/null
+[17:37:00] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/errorsummary.val
+[17:37:00] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.dr
+[17:37:00] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.fixedproducts
+[17:37:00] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.ecn
+[17:37:00] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.val
+[17:37:00] Repairing broken .GBK output that tbl2asn produces...
+[17:37:00] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.gbf > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342133_Archaea\/bin_24\.fa\/RR4342133_Archaea\.gbk
+[17:37:00] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.gbf
+[17:37:00] Output files:
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.log
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.fna
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.gff
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.faa
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.ffn
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.tbl
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.fsa
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.tsv
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.txt
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.gbk
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.sqn
+[17:37:00] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/bin_24.fa/RR4342133_Archaea.err
+[17:37:00] Annotation finished successfully.
+[17:37:00] Walltime used: 0.73 minutes
+[17:37:00] If you use this result please cite the Prokka paper:
+[17:37:00] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[17:37:00] Type 'prokka --citation' for more details.
+[17:37:00] Thank you, come again.

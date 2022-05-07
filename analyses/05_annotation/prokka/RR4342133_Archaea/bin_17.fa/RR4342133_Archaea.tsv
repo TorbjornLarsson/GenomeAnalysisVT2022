@@ -1,0 +1,362 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MBOOJHAG_00001	CDS	1842				hypothetical protein
+MBOOJHAG_00002	CDS	1656	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+MBOOJHAG_00003	CDS	1242		3.3.1.-	COG0499	S-inosyl-L-homocysteine hydrolase
+MBOOJHAG_00004	CDS	303	hcaC			3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+MBOOJHAG_00005	CDS	198				hypothetical protein
+MBOOJHAG_00006	CDS	234	albA2		COG1581	DNA/RNA-binding protein Alba 2
+MBOOJHAG_00007	CDS	273				hypothetical protein
+MBOOJHAG_00008	CDS	621				hypothetical protein
+MBOOJHAG_00009	CDS	714				hypothetical protein
+MBOOJHAG_00010	CDS	942	dys	2.5.1.46	COG1899	putative deoxyhypusine synthase
+MBOOJHAG_00011	CDS	342				hypothetical protein
+MBOOJHAG_00012	CDS	462				hypothetical protein
+MBOOJHAG_00013	CDS	1284				hypothetical protein
+MBOOJHAG_00014	CDS	867				hypothetical protein
+MBOOJHAG_00015	CDS	738				hypothetical protein
+MBOOJHAG_00016	CDS	3525	smc		COG1196	Chromosome partition protein Smc
+MBOOJHAG_00017	CDS	912	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MBOOJHAG_00018	CDS	1023	egtD	2.1.1.44		Histidine N-alpha-methyltransferase
+MBOOJHAG_00019	CDS	1311	egtB	1.14.99.50		Hercynine oxygenase
+MBOOJHAG_00020	CDS	363				hypothetical protein
+MBOOJHAG_00021	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+MBOOJHAG_00022	CDS	204				hypothetical protein
+MBOOJHAG_00023	CDS	537				hypothetical protein
+MBOOJHAG_00024	CDS	267				hypothetical protein
+MBOOJHAG_00025	CDS	297				hypothetical protein
+MBOOJHAG_00026	CDS	510				hypothetical protein
+MBOOJHAG_00027	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+MBOOJHAG_00028	CDS	696		3.1.3.18	COG0561	Phosphoglycolate phosphatase
+MBOOJHAG_00029	CDS	228				hypothetical protein
+MBOOJHAG_00030	CDS	699				hypothetical protein
+MBOOJHAG_00031	CDS	399				hypothetical protein
+MBOOJHAG_00032	CDS	840				hypothetical protein
+MBOOJHAG_00033	CDS	306				hypothetical protein
+MBOOJHAG_00034	CDS	549				hypothetical protein
+MBOOJHAG_00035	CDS	312				hypothetical protein
+MBOOJHAG_00036	CDS	1395	hmgB	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+MBOOJHAG_00037	CDS	711				hypothetical protein
+MBOOJHAG_00038	CDS	714				hypothetical protein
+MBOOJHAG_00039	CDS	1101				hypothetical protein
+MBOOJHAG_00040	CDS	1053	gap	1.2.1.59	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+MBOOJHAG_00041	CDS	1254				hypothetical protein
+MBOOJHAG_00042	CDS	1338	thrC_1	4.2.3.1	COG0498	Threonine synthase
+MBOOJHAG_00043	CDS	375				hypothetical protein
+MBOOJHAG_00044	CDS	318				hypothetical protein
+MBOOJHAG_00045	CDS	594				hypothetical protein
+MBOOJHAG_00046	CDS	549				hypothetical protein
+MBOOJHAG_00047	CDS	201				hypothetical protein
+MBOOJHAG_00048	CDS	828				hypothetical protein
+MBOOJHAG_00049	CDS	309				hypothetical protein
+MBOOJHAG_00050	CDS	1161	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+MBOOJHAG_00051	CDS	966	mer	1.5.98.2	COG2141	5,10-methylenetetrahydromethanopterin reductase
+MBOOJHAG_00052	CDS	669	glmU		COG1208	Bifunctional protein GlmU
+MBOOJHAG_00053	CDS	267				hypothetical protein
+MBOOJHAG_00054	CDS	393				hypothetical protein
+MBOOJHAG_00055	CDS	1143	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+MBOOJHAG_00056	CDS	540	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+MBOOJHAG_00057	CDS	1209	thrC_2	4.2.3.1	COG0498	Threonine synthase
+MBOOJHAG_00058	CDS	837				hypothetical protein
+MBOOJHAG_00059	CDS	123				hypothetical protein
+MBOOJHAG_00060	CDS	792				hypothetical protein
+MBOOJHAG_00061	CDS	309				hypothetical protein
+MBOOJHAG_00062	CDS	387				hypothetical protein
+MBOOJHAG_00063	CDS	411				hypothetical protein
+MBOOJHAG_00064	CDS	219				hypothetical protein
+MBOOJHAG_00065	CDS	240				hypothetical protein
+MBOOJHAG_00066	CDS	312				hypothetical protein
+MBOOJHAG_00067	CDS	288				hypothetical protein
+MBOOJHAG_00068	CDS	420				hypothetical protein
+MBOOJHAG_00069	CDS	357	rssB_1			Regulator of RpoS
+MBOOJHAG_00070	CDS	1797				hypothetical protein
+MBOOJHAG_00071	CDS	1641	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+MBOOJHAG_00072	CDS	1548	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+MBOOJHAG_00073	CDS	1701	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+MBOOJHAG_00074	CDS	357	cheY			Chemotaxis protein CheY
+MBOOJHAG_00075	tRNA	76				tRNA-Phe(gaa)
+MBOOJHAG_00076	CDS	537				hypothetical protein
+MBOOJHAG_00077	CDS	534				hypothetical protein
+MBOOJHAG_00078	CDS	225				hypothetical protein
+MBOOJHAG_00079	CDS	300				hypothetical protein
+MBOOJHAG_00080	CDS	348				hypothetical protein
+MBOOJHAG_00081	CDS	1224			COG1915	putative protein
+MBOOJHAG_00082	CDS	567				hypothetical protein
+MBOOJHAG_00083	CDS	1359	hisC	2.6.1.9		Histidinol-phosphate aminotransferase
+MBOOJHAG_00084	CDS	1863	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+MBOOJHAG_00085	CDS	264				hypothetical protein
+MBOOJHAG_00086	CDS	1404	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+MBOOJHAG_00087	CDS	1446		3.5.1.4	COG0154	Amidase
+MBOOJHAG_00088	CDS	267				hypothetical protein
+MBOOJHAG_00089	CDS	1311	aspS	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+MBOOJHAG_00090	CDS	174				hypothetical protein
+MBOOJHAG_00091	CDS	210				hypothetical protein
+MBOOJHAG_00092	CDS	1026	purP_1	6.3.4.23	COG1759	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+MBOOJHAG_00093	CDS	792				hypothetical protein
+MBOOJHAG_00094	CDS	831			COG1136	putative ABC transporter ATP-binding protein
+MBOOJHAG_00095	CDS	1089				hypothetical protein
+MBOOJHAG_00096	CDS	351				hypothetical protein
+MBOOJHAG_00097	CDS	333				hypothetical protein
+MBOOJHAG_00098	CDS	726				hypothetical protein
+MBOOJHAG_00099	CDS	216				hypothetical protein
+MBOOJHAG_00100	CDS	630				hypothetical protein
+MBOOJHAG_00101	CDS	645				hypothetical protein
+MBOOJHAG_00102	CDS	1281	prf1		COG1503	Peptide chain release factor subunit 1
+MBOOJHAG_00103	CDS	405				hypothetical protein
+MBOOJHAG_00104	CDS	600				hypothetical protein
+MBOOJHAG_00105	CDS	195				hypothetical protein
+MBOOJHAG_00106	CDS	1596				hypothetical protein
+MBOOJHAG_00107	CDS	1677	ilvD	4.2.1.9		Dihydroxy-acid dehydratase
+MBOOJHAG_00108	CDS	555				hypothetical protein
+MBOOJHAG_00109	CDS	159				hypothetical protein
+MBOOJHAG_00110	CDS	375				hypothetical protein
+MBOOJHAG_00111	CDS	1923	dinG	3.1.-.-		3'-5' exonuclease DinG
+MBOOJHAG_00112	CDS	354	rssB_2			Regulator of RpoS
+MBOOJHAG_00113	CDS	912		2.7.1.169	COG1829	Pantoate kinase
+MBOOJHAG_00114	CDS	765		6.3.2.36	COG1701	4-phosphopantoate--beta-alanine ligase
+MBOOJHAG_00115	CDS	378				hypothetical protein
+MBOOJHAG_00116	CDS	348				hypothetical protein
+MBOOJHAG_00117	CDS	207				hypothetical protein
+MBOOJHAG_00118	CDS	291				hypothetical protein
+MBOOJHAG_00119	CDS	291				hypothetical protein
+MBOOJHAG_00120	CDS	567				hypothetical protein
+MBOOJHAG_00121	CDS	234				hypothetical protein
+MBOOJHAG_00122	CDS	264				hypothetical protein
+MBOOJHAG_00123	CDS	834				hypothetical protein
+MBOOJHAG_00124	CDS	1818	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+MBOOJHAG_00125	CDS	444				hypothetical protein
+MBOOJHAG_00126	CDS	393				hypothetical protein
+MBOOJHAG_00127	CDS	384				hypothetical protein
+MBOOJHAG_00128	CDS	528	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+MBOOJHAG_00129	CDS	426				hypothetical protein
+MBOOJHAG_00130	CDS	717				hypothetical protein
+MBOOJHAG_00131	CDS	381				hypothetical protein
+MBOOJHAG_00132	CDS	423				hypothetical protein
+MBOOJHAG_00133	CDS	660				hypothetical protein
+MBOOJHAG_00134	CDS	681				hypothetical protein
+MBOOJHAG_00135	CDS	1713				hypothetical protein
+MBOOJHAG_00136	CDS	615				hypothetical protein
+MBOOJHAG_00137	CDS	564				hypothetical protein
+MBOOJHAG_00138	CDS	648	sod	1.15.1.1	COG0605	Superoxide dismutase [Fe]
+MBOOJHAG_00139	CDS	1260				hypothetical protein
+MBOOJHAG_00140	CDS	375				hypothetical protein
+MBOOJHAG_00141	CDS	252				hypothetical protein
+MBOOJHAG_00142	CDS	1449	dld	1.1.99.6	COG0277	D-lactate dehydrogenase (acceptor)
+MBOOJHAG_00143	CDS	1314				hypothetical protein
+MBOOJHAG_00144	CDS	405				hypothetical protein
+MBOOJHAG_00145	CDS	516	dnaJ_1			Chaperone protein DnaJ
+MBOOJHAG_00146	CDS	444			COG1522	putative HTH-type transcriptional regulator
+MBOOJHAG_00147	CDS	228				hypothetical protein
+MBOOJHAG_00148	CDS	477				hypothetical protein
+MBOOJHAG_00149	CDS	174				hypothetical protein
+MBOOJHAG_00150	CDS	1098	cofH	2.5.1.147	COG1060	5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase
+MBOOJHAG_00151	CDS	306				hypothetical protein
+MBOOJHAG_00152	CDS	234				hypothetical protein
+MBOOJHAG_00153	CDS	291				hypothetical protein
+MBOOJHAG_00154	CDS	828	mqnD	4.1.-.-		1,4-dihydroxy-6-naphtoate synthase
+MBOOJHAG_00155	CDS	906				hypothetical protein
+MBOOJHAG_00156	CDS	1260				hypothetical protein
+MBOOJHAG_00157	CDS	726				hypothetical protein
+MBOOJHAG_00158	CDS	1023	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+MBOOJHAG_00159	CDS	1251	kefB			Glutathione-regulated potassium-efflux system protein KefB
+MBOOJHAG_00160	CDS	1584		2.3.1.-	COG1243	tRNA uridine(34) acetyltransferase
+MBOOJHAG_00161	CDS	1590	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+MBOOJHAG_00162	CDS	201				hypothetical protein
+MBOOJHAG_00163	CDS	759				hypothetical protein
+MBOOJHAG_00164	CDS	447				hypothetical protein
+MBOOJHAG_00165	CDS	303				hypothetical protein
+MBOOJHAG_00166	CDS	174				hypothetical protein
+MBOOJHAG_00167	CDS	333				hypothetical protein
+MBOOJHAG_00168	CDS	516				hypothetical protein
+MBOOJHAG_00169	CDS	1071				hypothetical protein
+MBOOJHAG_00170	CDS	1326				hypothetical protein
+MBOOJHAG_00171	CDS	372				hypothetical protein
+MBOOJHAG_00172	CDS	552				hypothetical protein
+MBOOJHAG_00173	CDS	426				hypothetical protein
+MBOOJHAG_00174	CDS	99				hypothetical protein
+MBOOJHAG_00175	CDS	1140				hypothetical protein
+MBOOJHAG_00176	CDS	474			COG2042	putative ribosome biogenesis protein
+MBOOJHAG_00177	CDS	2463				hypothetical protein
+MBOOJHAG_00178	CDS	618				hypothetical protein
+MBOOJHAG_00179	CDS	1746				hypothetical protein
+MBOOJHAG_00180	CDS	165				hypothetical protein
+MBOOJHAG_00181	CDS	330				hypothetical protein
+MBOOJHAG_00182	CDS	822	cpoB			Cell division coordinator CpoB
+MBOOJHAG_00183	CDS	705				hypothetical protein
+MBOOJHAG_00184	CDS	363				hypothetical protein
+MBOOJHAG_00185	CDS	456				hypothetical protein
+MBOOJHAG_00186	CDS	360				hypothetical protein
+MBOOJHAG_00187	CDS	678	dnaJ_2			Chaperone protein DnaJ
+MBOOJHAG_00188	CDS	408				hypothetical protein
+MBOOJHAG_00189	CDS	297				hypothetical protein
+MBOOJHAG_00190	CDS	171				hypothetical protein
+MBOOJHAG_00191	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+MBOOJHAG_00192	CDS	249				hypothetical protein
+MBOOJHAG_00193	CDS	510				hypothetical protein
+MBOOJHAG_00194	CDS	108				hypothetical protein
+MBOOJHAG_00195	CDS	411				hypothetical protein
+MBOOJHAG_00196	CDS	195				hypothetical protein
+MBOOJHAG_00197	CDS	309			COG0051	30S ribosomal protein S10
+MBOOJHAG_00198	CDS	483				hypothetical protein
+MBOOJHAG_00199	CDS	369				hypothetical protein
+MBOOJHAG_00200	CDS	387				hypothetical protein
+MBOOJHAG_00201	CDS	465				hypothetical protein
+MBOOJHAG_00202	CDS	123				hypothetical protein
+MBOOJHAG_00203	CDS	369				hypothetical protein
+MBOOJHAG_00204	CDS	1308	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+MBOOJHAG_00205	CDS	1125	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+MBOOJHAG_00206	CDS	468				hypothetical protein
+MBOOJHAG_00207	CDS	156				hypothetical protein
+MBOOJHAG_00208	CDS	750				hypothetical protein
+MBOOJHAG_00209	CDS	1062				hypothetical protein
+MBOOJHAG_00210	CDS	420				hypothetical protein
+MBOOJHAG_00211	CDS	453	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+MBOOJHAG_00212	CDS	360				hypothetical protein
+MBOOJHAG_00213	CDS	846	mhpC	3.7.1.14		2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+MBOOJHAG_00214	CDS	426				hypothetical protein
+MBOOJHAG_00215	CDS	279	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+MBOOJHAG_00216	CDS	1551				hypothetical protein
+MBOOJHAG_00217	CDS	231				hypothetical protein
+MBOOJHAG_00218	CDS	426				hypothetical protein
+MBOOJHAG_00219	CDS	231				hypothetical protein
+MBOOJHAG_00220	CDS	231				hypothetical protein
+MBOOJHAG_00221	CDS	570				hypothetical protein
+MBOOJHAG_00222	CDS	279				hypothetical protein
+MBOOJHAG_00223	CDS	405				hypothetical protein
+MBOOJHAG_00224	CDS	279	prsA	5.2.1.8		Foldase protein PrsA
+MBOOJHAG_00225	CDS	276				hypothetical protein
+MBOOJHAG_00226	CDS	1509	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+MBOOJHAG_00227	CDS	246				hypothetical protein
+MBOOJHAG_00228	CDS	189				hypothetical protein
+MBOOJHAG_00229	CDS	483				hypothetical protein
+MBOOJHAG_00230	CDS	2559	dpo1	2.7.7.7	COG0417	DNA polymerase 1
+MBOOJHAG_00231	CDS	282				hypothetical protein
+MBOOJHAG_00232	CDS	657	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+MBOOJHAG_00233	CDS	789				hypothetical protein
+MBOOJHAG_00234	CDS	2895	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+MBOOJHAG_00235	CDS	804				hypothetical protein
+MBOOJHAG_00236	CDS	834	filI_1	2.7.13.3	COG3322	Methanogenesis regulatory histidine kinase FilI
+MBOOJHAG_00237	CDS	1308	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+MBOOJHAG_00238	CDS	369	rssB_3			Regulator of RpoS
+MBOOJHAG_00239	CDS	138	filI_2	2.7.13.3	COG3322	Methanogenesis regulatory histidine kinase FilI
+MBOOJHAG_00240	CDS	687	bioD	6.3.3.3		ATP-dependent dethiobiotin synthetase BioD
+MBOOJHAG_00241	CDS	186				hypothetical protein
+MBOOJHAG_00242	CDS	1326	bioA	2.6.1.62		Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+MBOOJHAG_00243	CDS	207				hypothetical protein
+MBOOJHAG_00244	CDS	384				hypothetical protein
+MBOOJHAG_00245	CDS	204				hypothetical protein
+MBOOJHAG_00246	CDS	978	pylB	5.4.99.58	COG0502	3-methylornithine synthase
+MBOOJHAG_00247	CDS	1131	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+MBOOJHAG_00248	CDS	735				hypothetical protein
+MBOOJHAG_00249	CDS	1098	resA			Thiol-disulfide oxidoreductase ResA
+MBOOJHAG_00250	CDS	651	cdvB2		COG5491	Cell division protein B2
+MBOOJHAG_00251	CDS	867				hypothetical protein
+MBOOJHAG_00252	CDS	342				hypothetical protein
+MBOOJHAG_00253	CDS	417				hypothetical protein
+MBOOJHAG_00254	CDS	405				hypothetical protein
+MBOOJHAG_00255	CDS	321				hypothetical protein
+MBOOJHAG_00256	CDS	504				hypothetical protein
+MBOOJHAG_00257	CDS	843	purC	6.3.2.6		Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MBOOJHAG_00258	CDS	387				hypothetical protein
+MBOOJHAG_00259	CDS	279				hypothetical protein
+MBOOJHAG_00260	CDS	1470	purF	2.4.2.14		Amidophosphoribosyltransferase
+MBOOJHAG_00261	CDS	2166	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurL
+MBOOJHAG_00262	CDS	681	purQ	3.5.1.2		Phosphoribosylformylglycinamidine synthase subunit PurQ
+MBOOJHAG_00263	CDS	426	metXA	2.3.1.31	COG0517	Homoserine O-acetyltransferase
+MBOOJHAG_00264	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+MBOOJHAG_00265	CDS	387				hypothetical protein
+MBOOJHAG_00266	CDS	102				hypothetical protein
+MBOOJHAG_00267	CDS	465				hypothetical protein
+MBOOJHAG_00268	CDS	792	tatC			Sec-independent protein translocase protein TatC
+MBOOJHAG_00269	CDS	207	tatA			Sec-independent protein translocase protein TatA
+MBOOJHAG_00270	CDS	429				hypothetical protein
+MBOOJHAG_00271	CDS	504	PAD1	2.5.1.129		Flavin prenyltransferase PAD1, mitochondrial
+MBOOJHAG_00272	CDS	144				hypothetical protein
+MBOOJHAG_00273	CDS	1092	purP_2	6.3.4.23	COG1759	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+MBOOJHAG_00274	CDS	261				hypothetical protein
+MBOOJHAG_00275	CDS	249				hypothetical protein
+MBOOJHAG_00276	CDS	393				hypothetical protein
+MBOOJHAG_00277	CDS	192				hypothetical protein
+MBOOJHAG_00278	CDS	219				hypothetical protein
+MBOOJHAG_00279	CDS	138				hypothetical protein
+MBOOJHAG_00280	CDS	705	rsmA	2.1.1.-	COG0030	putative ribosomal RNA small subunit methyltransferase A
+MBOOJHAG_00281	CDS	567				hypothetical protein
+MBOOJHAG_00282	CDS	753	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+MBOOJHAG_00283	CDS	546				hypothetical protein
+MBOOJHAG_00284	CDS	1203				hypothetical protein
+MBOOJHAG_00285	CDS	756				hypothetical protein
+MBOOJHAG_00286	CDS	945	tuf			Elongation factor Tu
+MBOOJHAG_00287	CDS	2826				hypothetical protein
+MBOOJHAG_00288	CDS	1146		5.4.99.25	COG1258	tRNA pseudouridine synthase Pus10
+MBOOJHAG_00289	CDS	1329			COG0541	Signal recognition particle 54 kDa protein
+MBOOJHAG_00290	CDS	690				hypothetical protein
+MBOOJHAG_00291	CDS	621				hypothetical protein
+MBOOJHAG_00292	CDS	621				hypothetical protein
+MBOOJHAG_00293	CDS	312				hypothetical protein
+MBOOJHAG_00294	CDS	981				hypothetical protein
+MBOOJHAG_00295	CDS	669		3.1.3.3	COG0560	Phosphoserine phosphatase
+MBOOJHAG_00296	CDS	726	cofE	6.3.2.31	COG1478	Coenzyme F420:L-glutamate ligase
+MBOOJHAG_00297	CDS	915				hypothetical protein
+MBOOJHAG_00298	CDS	237	tusA			Sulfur carrier protein TusA
+MBOOJHAG_00299	CDS	993	cysO	4.2.1.22	COG0031	Protein CysO
+MBOOJHAG_00300	CDS	498				hypothetical protein
+MBOOJHAG_00301	CDS	207				hypothetical protein
+MBOOJHAG_00302	CDS	1005	sudA	1.8.1.19	COG0493	Sulfide dehydrogenase subunit alpha
+MBOOJHAG_00303	CDS	438			COG0517	putative protein
+MBOOJHAG_00304	CDS	432				hypothetical protein
+MBOOJHAG_00305	CDS	426				hypothetical protein
+MBOOJHAG_00306	CDS	855			COG0517	putative protein
+MBOOJHAG_00307	CDS	342				hypothetical protein
+MBOOJHAG_00308	CDS	432				hypothetical protein
+MBOOJHAG_00309	CDS	912	mdh	1.1.1.299	COG0039	Malate dehydrogenase
+MBOOJHAG_00310	CDS	771				hypothetical protein
+MBOOJHAG_00311	CDS	819	thi4	2.4.2.59	COG1635	Thiamine thiazole synthase
+MBOOJHAG_00312	CDS	1809	nasD	1.7.7.1		Assimilatory ferredoxin-dependent nitrite reductase
+MBOOJHAG_00313	CDS	807	tssA	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase
+MBOOJHAG_00314	CDS	192				hypothetical protein
+MBOOJHAG_00315	CDS	759				hypothetical protein
+MBOOJHAG_00316	CDS	336				hypothetical protein
+MBOOJHAG_00317	CDS	321				hypothetical protein
+MBOOJHAG_00318	CDS	477				hypothetical protein
+MBOOJHAG_00319	CDS	843				hypothetical protein
+MBOOJHAG_00320	CDS	684				hypothetical protein
+MBOOJHAG_00321	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+MBOOJHAG_00322	CDS	1188	trpB1	4.2.1.20	COG0133	Tryptophan synthase beta chain 1
+MBOOJHAG_00323	CDS	777	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+MBOOJHAG_00324	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+MBOOJHAG_00325	CDS	597	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+MBOOJHAG_00326	CDS	1362	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+MBOOJHAG_00327	CDS	333				hypothetical protein
+MBOOJHAG_00328	CDS	210				hypothetical protein
+MBOOJHAG_00329	CDS	402				hypothetical protein
+MBOOJHAG_00330	CDS	276				hypothetical protein
+MBOOJHAG_00331	CDS	672				hypothetical protein
+MBOOJHAG_00332	CDS	195				hypothetical protein
+MBOOJHAG_00333	CDS	114				hypothetical protein
+MBOOJHAG_00334	CDS	117				hypothetical protein
+MBOOJHAG_00335	CDS	750				hypothetical protein
+MBOOJHAG_00336	CDS	300				hypothetical protein
+MBOOJHAG_00337	CDS	417				hypothetical protein
+MBOOJHAG_00338	CDS	525				hypothetical protein
+MBOOJHAG_00339	CDS	210				hypothetical protein
+MBOOJHAG_00340	CDS	108				hypothetical protein
+MBOOJHAG_00341	CDS	351				hypothetical protein
+MBOOJHAG_00342	CDS	237				hypothetical protein
+MBOOJHAG_00343	CDS	159				hypothetical protein
+MBOOJHAG_00344	CDS	468				hypothetical protein
+MBOOJHAG_00345	CDS	234				hypothetical protein
+MBOOJHAG_00346	CDS	150				hypothetical protein
+MBOOJHAG_00347	CDS	90				hypothetical protein
+MBOOJHAG_00348	CDS	330				hypothetical protein
+MBOOJHAG_00349	CDS	591				hypothetical protein
+MBOOJHAG_00350	CDS	204				hypothetical protein
+MBOOJHAG_00351	CDS	249				hypothetical protein
+MBOOJHAG_00352	CDS	252				hypothetical protein
+MBOOJHAG_00353	CDS	294				hypothetical protein
+MBOOJHAG_00354	CDS	1095	dbh	2.7.7.7	COG0389	DNA polymerase IV
+MBOOJHAG_00355	CDS	942				hypothetical protein
+MBOOJHAG_00356	CDS	387				hypothetical protein
+MBOOJHAG_00357	CDS	282				hypothetical protein
+MBOOJHAG_00358	CDS	1023	fen	3.1.-.-	COG0258	Flap endonuclease 1
+MBOOJHAG_00359	CDS	525				hypothetical protein
+MBOOJHAG_00360	CDS	1917	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+MBOOJHAG_00361	CDS	384				hypothetical protein

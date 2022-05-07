@@ -1,0 +1,853 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MOPFLJEK_00001	CDS	210				hypothetical protein
+MOPFLJEK_00002	CDS	915	argF_1	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+MOPFLJEK_00003	CDS	483				hypothetical protein
+MOPFLJEK_00004	CDS	717				hypothetical protein
+MOPFLJEK_00005	CDS	468				hypothetical protein
+MOPFLJEK_00006	CDS	456				hypothetical protein
+MOPFLJEK_00007	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+MOPFLJEK_00008	CDS	777				hypothetical protein
+MOPFLJEK_00009	CDS	1566	pyrG	6.3.4.2		CTP synthase
+MOPFLJEK_00010	CDS	999	nadK_1	2.7.1.23		NAD kinase
+MOPFLJEK_00011	CDS	870				hypothetical protein
+MOPFLJEK_00012	CDS	585				hypothetical protein
+MOPFLJEK_00013	CDS	702				hypothetical protein
+MOPFLJEK_00014	CDS	177				hypothetical protein
+MOPFLJEK_00015	CDS	348	glnB		COG0347	Nitrogen regulatory protein P-II
+MOPFLJEK_00016	CDS	240				hypothetical protein
+MOPFLJEK_00017	CDS	153				hypothetical protein
+MOPFLJEK_00018	CDS	363				hypothetical protein
+MOPFLJEK_00019	CDS	162				hypothetical protein
+MOPFLJEK_00020	CDS	558	grpE		COG0576	Protein GrpE
+MOPFLJEK_00021	CDS	1140				hypothetical protein
+MOPFLJEK_00022	CDS	711	bluB_1	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+MOPFLJEK_00023	tRNA	75				tRNA-Val(gac)
+MOPFLJEK_00024	CDS	495				hypothetical protein
+MOPFLJEK_00025	CDS	576	purN_1	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+MOPFLJEK_00026	CDS	321				hypothetical protein
+MOPFLJEK_00027	CDS	285				hypothetical protein
+MOPFLJEK_00028	CDS	864	folD_1		COG0190	Bifunctional protein FolD protein
+MOPFLJEK_00029	CDS	564	yqgN_1		COG0212	putative protein YqgN
+MOPFLJEK_00030	CDS	1248	purD_1	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+MOPFLJEK_00031	CDS	552	dapE_1	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+MOPFLJEK_00032	CDS	1038				hypothetical protein
+MOPFLJEK_00033	CDS	1086	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+MOPFLJEK_00034	CDS	579				hypothetical protein
+MOPFLJEK_00035	CDS	1281	gltP_1		COG1301	Proton/glutamate-aspartate symporter
+MOPFLJEK_00036	CDS	369				hypothetical protein
+MOPFLJEK_00037	CDS	435				hypothetical protein
+MOPFLJEK_00038	CDS	1122				hypothetical protein
+MOPFLJEK_00039	CDS	192				hypothetical protein
+MOPFLJEK_00040	CDS	1164	citZ_1	2.3.3.16	COG0372	Citrate synthase 2
+MOPFLJEK_00041	CDS	207				hypothetical protein
+MOPFLJEK_00042	CDS	348				hypothetical protein
+MOPFLJEK_00043	CDS	915	petE_1			Plastocyanin
+MOPFLJEK_00044	CDS	2103				hypothetical protein
+MOPFLJEK_00045	CDS	1503	pckA_1	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+MOPFLJEK_00046	CDS	405				hypothetical protein
+MOPFLJEK_00047	CDS	762	FCS1_1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+MOPFLJEK_00048	CDS	1515	abfD_1	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+MOPFLJEK_00049	CDS	708				hypothetical protein
+MOPFLJEK_00050	CDS	768				hypothetical protein
+MOPFLJEK_00051	CDS	603	vgb_1	4.2.99.-		Virginiamycin B lyase
+MOPFLJEK_00052	CDS	819	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+MOPFLJEK_00053	CDS	723	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+MOPFLJEK_00054	CDS	948	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+MOPFLJEK_00055	CDS	384	nikR			Nickel-responsive regulator
+MOPFLJEK_00056	CDS	1371				hypothetical protein
+MOPFLJEK_00057	CDS	696				hypothetical protein
+MOPFLJEK_00058	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+MOPFLJEK_00059	CDS	462	pyrI_1		COG1781	Aspartate carbamoyltransferase regulatory chain
+MOPFLJEK_00060	CDS	309	atpH_1			ATP synthase subunit c
+MOPFLJEK_00061	CDS	132				hypothetical protein
+MOPFLJEK_00062	CDS	630	ntpD_1			V-type sodium ATPase subunit D
+MOPFLJEK_00063	CDS	171	atpB			V-type ATP synthase beta chain
+MOPFLJEK_00064	CDS	450				hypothetical protein
+MOPFLJEK_00065	CDS	891				hypothetical protein
+MOPFLJEK_00066	CDS	1278	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+MOPFLJEK_00067	CDS	684	aqpZ_1		COG0580	Aquaporin Z
+MOPFLJEK_00068	CDS	399	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+MOPFLJEK_00069	CDS	615	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+MOPFLJEK_00070	CDS	1539				hypothetical protein
+MOPFLJEK_00071	CDS	735	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+MOPFLJEK_00072	CDS	819	rph_2	2.7.7.56		Ribonuclease PH
+MOPFLJEK_00073	CDS	213				hypothetical protein
+MOPFLJEK_00074	CDS	246				hypothetical protein
+MOPFLJEK_00075	CDS	375				hypothetical protein
+MOPFLJEK_00076	CDS	687				hypothetical protein
+MOPFLJEK_00077	CDS	495	cpoB			Cell division coordinator CpoB
+MOPFLJEK_00078	CDS	480				hypothetical protein
+MOPFLJEK_00079	CDS	261				hypothetical protein
+MOPFLJEK_00080	CDS	1644				hypothetical protein
+MOPFLJEK_00081	CDS	1389				hypothetical protein
+MOPFLJEK_00082	CDS	1077	ccr_3	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+MOPFLJEK_00083	CDS	282				hypothetical protein
+MOPFLJEK_00084	CDS	1365				hypothetical protein
+MOPFLJEK_00085	CDS	2457	metH	2.1.1.13	COG0646	Methionine synthase
+MOPFLJEK_00086	CDS	738				hypothetical protein
+MOPFLJEK_00087	CDS	315				hypothetical protein
+MOPFLJEK_00088	CDS	618	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+MOPFLJEK_00089	CDS	312				hypothetical protein
+MOPFLJEK_00090	CDS	564				hypothetical protein
+MOPFLJEK_00091	CDS	501				hypothetical protein
+MOPFLJEK_00092	CDS	750	rssB			Regulator of RpoS
+MOPFLJEK_00093	CDS	1053	adh	1.1.1.1		Alcohol dehydrogenase
+MOPFLJEK_00094	CDS	678				hypothetical protein
+MOPFLJEK_00095	CDS	579	scpB			Segregation and condensation protein B
+MOPFLJEK_00096	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+MOPFLJEK_00097	CDS	195				hypothetical protein
+MOPFLJEK_00098	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+MOPFLJEK_00099	CDS	558	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+MOPFLJEK_00100	CDS	255				hypothetical protein
+MOPFLJEK_00101	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+MOPFLJEK_00102	CDS	588	thrB	2.7.1.39	COG0083	Homoserine kinase
+MOPFLJEK_00103	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+MOPFLJEK_00104	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+MOPFLJEK_00105	CDS	1401				hypothetical protein
+MOPFLJEK_00106	CDS	1341				hypothetical protein
+MOPFLJEK_00107	CDS	234				hypothetical protein
+MOPFLJEK_00108	CDS	273				hypothetical protein
+MOPFLJEK_00109	CDS	621				hypothetical protein
+MOPFLJEK_00110	CDS	714				hypothetical protein
+MOPFLJEK_00111	CDS	936		2.5.-.-		Deoxyhypusine synthase-like protein
+MOPFLJEK_00112	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+MOPFLJEK_00113	CDS	738				hypothetical protein
+MOPFLJEK_00114	CDS	753		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+MOPFLJEK_00115	CDS	315				hypothetical protein
+MOPFLJEK_00116	CDS	603				hypothetical protein
+MOPFLJEK_00117	CDS	846	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+MOPFLJEK_00118	tRNA	77				tRNA-Ala(ggc)
+MOPFLJEK_00119	CDS	537				hypothetical protein
+MOPFLJEK_00120	CDS	753	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+MOPFLJEK_00121	CDS	468				hypothetical protein
+MOPFLJEK_00122	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+MOPFLJEK_00123	CDS	300				hypothetical protein
+MOPFLJEK_00124	CDS	303				hypothetical protein
+MOPFLJEK_00125	CDS	1083				hypothetical protein
+MOPFLJEK_00126	CDS	366				hypothetical protein
+MOPFLJEK_00127	CDS	834				hypothetical protein
+MOPFLJEK_00128	CDS	1143				hypothetical protein
+MOPFLJEK_00129	CDS	2082	smc			Chromosome partition protein Smc
+MOPFLJEK_00130	CDS	1380	petE_2			Plastocyanin
+MOPFLJEK_00131	CDS	492				hypothetical protein
+MOPFLJEK_00132	CDS	666				hypothetical protein
+MOPFLJEK_00133	CDS	762				hypothetical protein
+MOPFLJEK_00134	CDS	465				hypothetical protein
+MOPFLJEK_00135	CDS	201				hypothetical protein
+MOPFLJEK_00136	CDS	417				hypothetical protein
+MOPFLJEK_00137	CDS	456				hypothetical protein
+MOPFLJEK_00138	CDS	564				hypothetical protein
+MOPFLJEK_00139	CDS	282				hypothetical protein
+MOPFLJEK_00140	CDS	2142	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MOPFLJEK_00141	CDS	387				hypothetical protein
+MOPFLJEK_00142	CDS	243				hypothetical protein
+MOPFLJEK_00143	CDS	1266	serS	6.1.1.11		Serine--tRNA ligase
+MOPFLJEK_00144	CDS	216				hypothetical protein
+MOPFLJEK_00145	CDS	420				hypothetical protein
+MOPFLJEK_00146	CDS	234				hypothetical protein
+MOPFLJEK_00147	CDS	1107		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+MOPFLJEK_00148	CDS	462	bluB_2	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+MOPFLJEK_00149	CDS	525		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+MOPFLJEK_00150	CDS	462				hypothetical protein
+MOPFLJEK_00151	CDS	714				hypothetical protein
+MOPFLJEK_00152	CDS	483				hypothetical protein
+MOPFLJEK_00153	CDS	915	argF_2	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+MOPFLJEK_00154	CDS	213				hypothetical protein
+MOPFLJEK_00155	CDS	258				hypothetical protein
+MOPFLJEK_00156	CDS	282				hypothetical protein
+MOPFLJEK_00157	CDS	420				hypothetical protein
+MOPFLJEK_00158	CDS	240				hypothetical protein
+MOPFLJEK_00159	CDS	567				hypothetical protein
+MOPFLJEK_00160	CDS	633				hypothetical protein
+MOPFLJEK_00161	CDS	2265	acnA	4.2.1.3		Aconitate hydratase A
+MOPFLJEK_00162	tRNA	77				tRNA-Trp(cca)
+MOPFLJEK_00163	CDS	720				hypothetical protein
+MOPFLJEK_00164	CDS	429				hypothetical protein
+MOPFLJEK_00165	CDS	1065	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+MOPFLJEK_00166	CDS	579				hypothetical protein
+MOPFLJEK_00167	CDS	393				hypothetical protein
+MOPFLJEK_00168	CDS	405	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+MOPFLJEK_00169	CDS	897				hypothetical protein
+MOPFLJEK_00170	CDS	846				hypothetical protein
+MOPFLJEK_00171	CDS	198				hypothetical protein
+MOPFLJEK_00172	CDS	1449	rtcB_1	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+MOPFLJEK_00173	CDS	408				hypothetical protein
+MOPFLJEK_00174	CDS	309				hypothetical protein
+MOPFLJEK_00175	CDS	1431	glnA	6.3.1.2	COG0174	Glutamine synthetase
+MOPFLJEK_00176	CDS	279				hypothetical protein
+MOPFLJEK_00177	CDS	333				hypothetical protein
+MOPFLJEK_00178	CDS	564				hypothetical protein
+MOPFLJEK_00179	CDS	456				hypothetical protein
+MOPFLJEK_00180	CDS	1545				hypothetical protein
+MOPFLJEK_00181	CDS	1563				hypothetical protein
+MOPFLJEK_00182	CDS	786	nirQ		COG0714	Denitrification regulatory protein NirQ
+MOPFLJEK_00183	CDS	1458				hypothetical protein
+MOPFLJEK_00184	CDS	426				hypothetical protein
+MOPFLJEK_00185	CDS	339				hypothetical protein
+MOPFLJEK_00186	CDS	345				hypothetical protein
+MOPFLJEK_00187	CDS	237				hypothetical protein
+MOPFLJEK_00188	CDS	648				hypothetical protein
+MOPFLJEK_00189	CDS	111				hypothetical protein
+MOPFLJEK_00190	CDS	552				hypothetical protein
+MOPFLJEK_00191	CDS	465	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+MOPFLJEK_00192	CDS	513				hypothetical protein
+MOPFLJEK_00193	CDS	1488	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+MOPFLJEK_00194	CDS	393	rpsH_1			30S ribosomal protein S8
+MOPFLJEK_00195	CDS	558				hypothetical protein
+MOPFLJEK_00196	CDS	288				hypothetical protein
+MOPFLJEK_00197	tRNA	75				tRNA-Asn(gtt)
+MOPFLJEK_00198	CDS	945	leuC_1	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+MOPFLJEK_00199	CDS	585	leuD1_1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+MOPFLJEK_00200	CDS	720	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+MOPFLJEK_00201	CDS	138				hypothetical protein
+MOPFLJEK_00202	CDS	1179	zupT			Zinc transporter ZupT
+MOPFLJEK_00203	CDS	1353	fieF			Ferrous-iron efflux pump FieF
+MOPFLJEK_00204	CDS	297				hypothetical protein
+MOPFLJEK_00205	CDS	243				hypothetical protein
+MOPFLJEK_00206	CDS	348				hypothetical protein
+MOPFLJEK_00207	CDS	264				hypothetical protein
+MOPFLJEK_00208	CDS	279	yccX	3.6.1.7	COG1254	Acylphosphatase
+MOPFLJEK_00209	CDS	735				hypothetical protein
+MOPFLJEK_00210	CDS	303				hypothetical protein
+MOPFLJEK_00211	CDS	429				hypothetical protein
+MOPFLJEK_00212	CDS	252				hypothetical protein
+MOPFLJEK_00213	CDS	489	rnr	3.1.13.1		Ribonuclease R
+MOPFLJEK_00214	CDS	1113	apbC		COG0489	Iron-sulfur cluster carrier protein
+MOPFLJEK_00215	CDS	465				hypothetical protein
+MOPFLJEK_00216	CDS	231				hypothetical protein
+MOPFLJEK_00217	CDS	465				hypothetical protein
+MOPFLJEK_00218	CDS	375				hypothetical protein
+MOPFLJEK_00219	CDS	207				hypothetical protein
+MOPFLJEK_00220	CDS	597	ywlC_1	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+MOPFLJEK_00221	CDS	288				hypothetical protein
+MOPFLJEK_00222	CDS	471				hypothetical protein
+MOPFLJEK_00223	CDS	981				hypothetical protein
+MOPFLJEK_00224	CDS	516	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+MOPFLJEK_00225	CDS	888				hypothetical protein
+MOPFLJEK_00226	CDS	1158				hypothetical protein
+MOPFLJEK_00227	CDS	699	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MOPFLJEK_00228	CDS	1296				hypothetical protein
+MOPFLJEK_00229	CDS	342				hypothetical protein
+MOPFLJEK_00230	CDS	384				hypothetical protein
+MOPFLJEK_00231	CDS	1545	ubiB	2.7.-.-		protein kinase UbiB
+MOPFLJEK_00232	CDS	381				hypothetical protein
+MOPFLJEK_00233	CDS	123				hypothetical protein
+MOPFLJEK_00234	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+MOPFLJEK_00235	CDS	1236				hypothetical protein
+MOPFLJEK_00236	CDS	639	pyrH	2.7.4.22		Uridylate kinase
+MOPFLJEK_00237	CDS	351				hypothetical protein
+MOPFLJEK_00238	CDS	555				hypothetical protein
+MOPFLJEK_00239	CDS	111				hypothetical protein
+MOPFLJEK_00240	CDS	648				hypothetical protein
+MOPFLJEK_00241	CDS	237				hypothetical protein
+MOPFLJEK_00242	CDS	1035	atpC			V-type ATP synthase subunit C
+MOPFLJEK_00243	CDS	666				hypothetical protein
+MOPFLJEK_00244	CDS	474				hypothetical protein
+MOPFLJEK_00245	CDS	1143	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+MOPFLJEK_00246	CDS	525	sumT_1	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+MOPFLJEK_00247	CDS	807				hypothetical protein
+MOPFLJEK_00248	CDS	189				hypothetical protein
+MOPFLJEK_00249	CDS	294	atpF			V-type ATP synthase subunit F
+MOPFLJEK_00250	CDS	303				hypothetical protein
+MOPFLJEK_00251	CDS	252				hypothetical protein
+MOPFLJEK_00252	CDS	303				hypothetical protein
+MOPFLJEK_00253	CDS	750				hypothetical protein
+MOPFLJEK_00254	CDS	3243	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+MOPFLJEK_00255	CDS	1155	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+MOPFLJEK_00256	CDS	1194	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MOPFLJEK_00257	CDS	501				hypothetical protein
+MOPFLJEK_00258	CDS	558				hypothetical protein
+MOPFLJEK_00259	CDS	1161				hypothetical protein
+MOPFLJEK_00260	CDS	1101	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+MOPFLJEK_00261	CDS	249				hypothetical protein
+MOPFLJEK_00262	CDS	510				hypothetical protein
+MOPFLJEK_00263	CDS	108				hypothetical protein
+MOPFLJEK_00264	CDS	411				hypothetical protein
+MOPFLJEK_00265	CDS	168				hypothetical protein
+MOPFLJEK_00266	CDS	204				hypothetical protein
+MOPFLJEK_00267	CDS	375				hypothetical protein
+MOPFLJEK_00268	CDS	1614	vgb_2	4.2.99.-		Virginiamycin B lyase
+MOPFLJEK_00269	CDS	321				hypothetical protein
+MOPFLJEK_00270	CDS	705				hypothetical protein
+MOPFLJEK_00271	CDS	999				hypothetical protein
+MOPFLJEK_00272	CDS	318				hypothetical protein
+MOPFLJEK_00273	CDS	747				hypothetical protein
+MOPFLJEK_00274	CDS	813	adhT_1	1.1.1.1		Alcohol dehydrogenase
+MOPFLJEK_00275	CDS	234				hypothetical protein
+MOPFLJEK_00276	CDS	255				hypothetical protein
+MOPFLJEK_00277	CDS	141				hypothetical protein
+MOPFLJEK_00278	CDS	906	ldh	1.1.1.27		L-lactate dehydrogenase
+MOPFLJEK_00279	CDS	771				hypothetical protein
+MOPFLJEK_00280	CDS	819	thi4_1	2.4.2.59		Thiamine thiazole synthase
+MOPFLJEK_00281	CDS	816				hypothetical protein
+MOPFLJEK_00282	CDS	996				hypothetical protein
+MOPFLJEK_00283	tRNA	74				tRNA-Thr(cgt)
+MOPFLJEK_00284	CDS	1299	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+MOPFLJEK_00285	CDS	942	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+MOPFLJEK_00286	CDS	321				hypothetical protein
+MOPFLJEK_00287	CDS	516				hypothetical protein
+MOPFLJEK_00288	CDS	309				hypothetical protein
+MOPFLJEK_00289	CDS	408				hypothetical protein
+MOPFLJEK_00290	CDS	1440	rtcB_2	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+MOPFLJEK_00291	CDS	198				hypothetical protein
+MOPFLJEK_00292	CDS	1362	purB_1	4.3.2.2		Adenylosuccinate lyase
+MOPFLJEK_00293	CDS	669	tal	2.2.1.2	COG0176	Transaldolase
+MOPFLJEK_00294	CDS	264				hypothetical protein
+MOPFLJEK_00295	CDS	1023	corA		COG0598	Cobalt/magnesium transport protein CorA
+MOPFLJEK_00296	CDS	414	ctaA	1.3.-.-	COG1612	Heme A synthase
+MOPFLJEK_00297	CDS	525				hypothetical protein
+MOPFLJEK_00298	CDS	351				hypothetical protein
+MOPFLJEK_00299	CDS	399				hypothetical protein
+MOPFLJEK_00300	CDS	285				hypothetical protein
+MOPFLJEK_00301	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+MOPFLJEK_00302	CDS	2100				hypothetical protein
+MOPFLJEK_00303	CDS	780				hypothetical protein
+MOPFLJEK_00304	CDS	198	drgA			Protein DrgA
+MOPFLJEK_00305	CDS	525	ttuD		COG2897	Sulfur carrier protein TtuD
+MOPFLJEK_00306	CDS	780				hypothetical protein
+MOPFLJEK_00307	CDS	153				hypothetical protein
+MOPFLJEK_00308	CDS	333				hypothetical protein
+MOPFLJEK_00309	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+MOPFLJEK_00310	CDS	642	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+MOPFLJEK_00311	CDS	1065				hypothetical protein
+MOPFLJEK_00312	CDS	747				hypothetical protein
+MOPFLJEK_00313	CDS	975				hypothetical protein
+MOPFLJEK_00314	CDS	519				hypothetical protein
+MOPFLJEK_00315	CDS	297				hypothetical protein
+MOPFLJEK_00316	CDS	264				hypothetical protein
+MOPFLJEK_00317	CDS	510				hypothetical protein
+MOPFLJEK_00318	CDS	600				hypothetical protein
+MOPFLJEK_00319	CDS	657				hypothetical protein
+MOPFLJEK_00320	CDS	1014	thiI	2.8.1.4		tRNA sulfurtransferase
+MOPFLJEK_00321	CDS	279				hypothetical protein
+MOPFLJEK_00322	CDS	1941	rnj_1	3.1.-.-		Ribonuclease J
+MOPFLJEK_00323	CDS	642	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+MOPFLJEK_00324	CDS	132				hypothetical protein
+MOPFLJEK_00325	CDS	2043				hypothetical protein
+MOPFLJEK_00326	CDS	603				hypothetical protein
+MOPFLJEK_00327	CDS	918	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+MOPFLJEK_00328	CDS	936	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+MOPFLJEK_00329	CDS	360				hypothetical protein
+MOPFLJEK_00330	CDS	1356		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+MOPFLJEK_00331	CDS	666				hypothetical protein
+MOPFLJEK_00332	CDS	498				hypothetical protein
+MOPFLJEK_00333	CDS	2142	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MOPFLJEK_00334	CDS	219				hypothetical protein
+MOPFLJEK_00335	CDS	435				hypothetical protein
+MOPFLJEK_00336	CDS	741				hypothetical protein
+MOPFLJEK_00337	CDS	750	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+MOPFLJEK_00338	CDS	345				hypothetical protein
+MOPFLJEK_00339	CDS	432				hypothetical protein
+MOPFLJEK_00340	CDS	1296	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+MOPFLJEK_00341	CDS	174				hypothetical protein
+MOPFLJEK_00342	CDS	153				hypothetical protein
+MOPFLJEK_00343	CDS	756	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+MOPFLJEK_00344	CDS	348				hypothetical protein
+MOPFLJEK_00345	CDS	774				hypothetical protein
+MOPFLJEK_00346	CDS	522				hypothetical protein
+MOPFLJEK_00347	CDS	630	ywlC_2	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+MOPFLJEK_00348	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+MOPFLJEK_00349	CDS	1182	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+MOPFLJEK_00350	CDS	420	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+MOPFLJEK_00351	CDS	1233	frbC	2.3.3.19		2-phosphonomethylmalate synthase
+MOPFLJEK_00352	CDS	144				hypothetical protein
+MOPFLJEK_00353	CDS	870	RBKS	2.7.1.15		Ribokinase
+MOPFLJEK_00354	CDS	288				hypothetical protein
+MOPFLJEK_00355	CDS	573		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+MOPFLJEK_00356	CDS	876	speB	3.5.3.11	COG0010	Agmatinase
+MOPFLJEK_00357	CDS	969	thrS	6.1.1.3		Threonine--tRNA ligase
+MOPFLJEK_00358	CDS	405	hit		COG0537	Protein hit
+MOPFLJEK_00359	CDS	600				hypothetical protein
+MOPFLJEK_00360	CDS	195				hypothetical protein
+MOPFLJEK_00361	CDS	654	cysG	4.99.1.4		Siroheme synthase
+MOPFLJEK_00362	CDS	1026				hypothetical protein
+MOPFLJEK_00363	CDS	390				hypothetical protein
+MOPFLJEK_00364	CDS	999	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+MOPFLJEK_00365	CDS	609			COG3253	putative protein/MSMEI_2713
+MOPFLJEK_00366	CDS	771	sufC		COG0396	Vegetative protein 296
+MOPFLJEK_00367	CDS	957				hypothetical protein
+MOPFLJEK_00368	CDS	330				hypothetical protein
+MOPFLJEK_00369	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+MOPFLJEK_00370	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+MOPFLJEK_00371	CDS	249				hypothetical protein
+MOPFLJEK_00372	CDS	2088				hypothetical protein
+MOPFLJEK_00373	CDS	519				hypothetical protein
+MOPFLJEK_00374	CDS	1059	recA			Protein RecA
+MOPFLJEK_00375	CDS	615	yihX	3.1.3.10	COG1011	Alpha-D-glucose 1-phosphate phosphatase YihX
+MOPFLJEK_00376	CDS	1056	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+MOPFLJEK_00377	CDS	300				hypothetical protein
+MOPFLJEK_00378	CDS	327				hypothetical protein
+MOPFLJEK_00379	CDS	567				hypothetical protein
+MOPFLJEK_00380	CDS	705	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+MOPFLJEK_00381	CDS	537				hypothetical protein
+MOPFLJEK_00382	CDS	1011	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+MOPFLJEK_00383	CDS	759	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+MOPFLJEK_00384	tRNA	87				tRNA-Ser(gct)
+MOPFLJEK_00385	CDS	543	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+MOPFLJEK_00386	CDS	909				hypothetical protein
+MOPFLJEK_00387	CDS	990				hypothetical protein
+MOPFLJEK_00388	CDS	309				hypothetical protein
+MOPFLJEK_00389	CDS	198				hypothetical protein
+MOPFLJEK_00390	CDS	1374	purB_2	4.3.2.2		Adenylosuccinate lyase
+MOPFLJEK_00391	CDS	330				hypothetical protein
+MOPFLJEK_00392	CDS	594				hypothetical protein
+MOPFLJEK_00393	CDS	423	teaD		COG0589	TRAP-T-associated universal stress protein TeaD
+MOPFLJEK_00394	CDS	789	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+MOPFLJEK_00395	CDS	342				hypothetical protein
+MOPFLJEK_00396	CDS	276	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+MOPFLJEK_00397	CDS	828				hypothetical protein
+MOPFLJEK_00398	CDS	825				hypothetical protein
+MOPFLJEK_00399	CDS	747				hypothetical protein
+MOPFLJEK_00400	CDS	1626	ggt	3.4.19.13	COG0405	Glutathione hydrolase proenzyme
+MOPFLJEK_00401	CDS	2226	ddl	6.3.2.4		D-alanine--D-alanine ligase
+MOPFLJEK_00402	CDS	294				hypothetical protein
+MOPFLJEK_00403	CDS	174				hypothetical protein
+MOPFLJEK_00404	CDS	306				hypothetical protein
+MOPFLJEK_00405	CDS	117				hypothetical protein
+MOPFLJEK_00406	CDS	96				hypothetical protein
+MOPFLJEK_00407	CDS	246				hypothetical protein
+MOPFLJEK_00408	CDS	921				hypothetical protein
+MOPFLJEK_00409	CDS	615				hypothetical protein
+MOPFLJEK_00410	tRNA	87				tRNA-Leu(gag)
+MOPFLJEK_00411	CDS	720	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+MOPFLJEK_00412	CDS	585	leuD1_2	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+MOPFLJEK_00413	CDS	1416	leuC_2	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+MOPFLJEK_00414	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+MOPFLJEK_00415	CDS	1269	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+MOPFLJEK_00416	CDS	780	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+MOPFLJEK_00417	CDS	570				hypothetical protein
+MOPFLJEK_00418	CDS	390				hypothetical protein
+MOPFLJEK_00419	CDS	534				hypothetical protein
+MOPFLJEK_00420	CDS	441				hypothetical protein
+MOPFLJEK_00421	CDS	384				hypothetical protein
+MOPFLJEK_00422	CDS	537	napF			Ferredoxin-type protein NapF
+MOPFLJEK_00423	tRNA	86				tRNA-Ser(tga)
+MOPFLJEK_00424	CDS	912				hypothetical protein
+MOPFLJEK_00425	CDS	435				hypothetical protein
+MOPFLJEK_00426	CDS	684				hypothetical protein
+MOPFLJEK_00427	CDS	1143				hypothetical protein
+MOPFLJEK_00428	CDS	369				hypothetical protein
+MOPFLJEK_00429	CDS	369				hypothetical protein
+MOPFLJEK_00430	CDS	387				hypothetical protein
+MOPFLJEK_00431	CDS	879	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+MOPFLJEK_00432	CDS	1020				hypothetical protein
+MOPFLJEK_00433	CDS	684				hypothetical protein
+MOPFLJEK_00434	CDS	435				hypothetical protein
+MOPFLJEK_00435	CDS	618	hldE	2.7.7.70		Bifunctional protein HldE
+MOPFLJEK_00436	CDS	1038				hypothetical protein
+MOPFLJEK_00437	CDS	1362	uvrA_1		COG0178	UvrABC system protein A
+MOPFLJEK_00438	CDS	1587	uvrC_1		COG0322	UvrABC system protein C
+MOPFLJEK_00439	CDS	915	petE_3			Plastocyanin
+MOPFLJEK_00440	CDS	348				hypothetical protein
+MOPFLJEK_00441	CDS	207				hypothetical protein
+MOPFLJEK_00442	CDS	1164	citZ_2	2.3.3.16	COG0372	Citrate synthase 2
+MOPFLJEK_00443	CDS	192				hypothetical protein
+MOPFLJEK_00444	CDS	1113				hypothetical protein
+MOPFLJEK_00445	CDS	1278	gltP_2		COG1301	Proton/glutamate-aspartate symporter
+MOPFLJEK_00446	CDS	1212	cueO		COG2132	Blue copper oxidase CueO
+MOPFLJEK_00447	CDS	123				hypothetical protein
+MOPFLJEK_00448	CDS	495				hypothetical protein
+MOPFLJEK_00449	CDS	651	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+MOPFLJEK_00450	CDS	258				hypothetical protein
+MOPFLJEK_00451	CDS	1146	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+MOPFLJEK_00452	CDS	777	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+MOPFLJEK_00453	CDS	390				hypothetical protein
+MOPFLJEK_00454	CDS	228				hypothetical protein
+MOPFLJEK_00455	CDS	633				hypothetical protein
+MOPFLJEK_00456	CDS	180				hypothetical protein
+MOPFLJEK_00457	CDS	216				hypothetical protein
+MOPFLJEK_00458	CDS	1074				hypothetical protein
+MOPFLJEK_00459	CDS	867				hypothetical protein
+MOPFLJEK_00460	CDS	663	rplA_1		COG0081	50S ribosomal protein L1
+MOPFLJEK_00461	CDS	531				hypothetical protein
+MOPFLJEK_00462	CDS	105				hypothetical protein
+MOPFLJEK_00463	CDS	141				hypothetical protein
+MOPFLJEK_00464	CDS	480	rplK_1		COG0080	50S ribosomal protein L11
+MOPFLJEK_00465	CDS	399				hypothetical protein
+MOPFLJEK_00466	CDS	525	ndhK_1	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+MOPFLJEK_00467	CDS	333	ndhC_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+MOPFLJEK_00468	CDS	465	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+MOPFLJEK_00469	CDS	726	resE	2.7.13.3		Sensor histidine kinase ResE
+MOPFLJEK_00470	CDS	141				hypothetical protein
+MOPFLJEK_00471	CDS	579				hypothetical protein
+MOPFLJEK_00472	CDS	792				hypothetical protein
+MOPFLJEK_00473	CDS	1533				hypothetical protein
+MOPFLJEK_00474	CDS	3378				hypothetical protein
+MOPFLJEK_00475	CDS	753		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+MOPFLJEK_00476	CDS	363				hypothetical protein
+MOPFLJEK_00477	CDS	603				hypothetical protein
+MOPFLJEK_00478	CDS	162				hypothetical protein
+MOPFLJEK_00479	CDS	387				hypothetical protein
+MOPFLJEK_00480	CDS	843	lysX	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+MOPFLJEK_00481	CDS	1128	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+MOPFLJEK_00482	CDS	543				hypothetical protein
+MOPFLJEK_00483	CDS	1455	nhaP2_1			K(+)/H(+) antiporter NhaP2
+MOPFLJEK_00484	CDS	420				hypothetical protein
+MOPFLJEK_00485	CDS	111				hypothetical protein
+MOPFLJEK_00486	CDS	390				hypothetical protein
+MOPFLJEK_00487	CDS	687				hypothetical protein
+MOPFLJEK_00488	CDS	495				hypothetical protein
+MOPFLJEK_00489	CDS	480				hypothetical protein
+MOPFLJEK_00490	CDS	816	nadK_2	2.7.1.23		NAD kinase
+MOPFLJEK_00491	CDS	564				hypothetical protein
+MOPFLJEK_00492	CDS	555				hypothetical protein
+MOPFLJEK_00493	CDS	1107		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+MOPFLJEK_00494	CDS	234				hypothetical protein
+MOPFLJEK_00495	CDS	420				hypothetical protein
+MOPFLJEK_00496	CDS	198				hypothetical protein
+MOPFLJEK_00497	CDS	207				hypothetical protein
+MOPFLJEK_00498	CDS	270				hypothetical protein
+MOPFLJEK_00499	CDS	165				hypothetical protein
+MOPFLJEK_00500	CDS	1272		2.7.1.165	COG2379	D-glycerate 2-kinase
+MOPFLJEK_00501	CDS	966				hypothetical protein
+MOPFLJEK_00502	CDS	207				hypothetical protein
+MOPFLJEK_00503	CDS	915	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+MOPFLJEK_00504	CDS	162				hypothetical protein
+MOPFLJEK_00505	CDS	555				hypothetical protein
+MOPFLJEK_00506	CDS	1791	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+MOPFLJEK_00507	CDS	378	cheY		COG0784	Chemotaxis protein CheY
+MOPFLJEK_00508	tRNA	75				tRNA-Lys(ctt)
+MOPFLJEK_00509	CDS	267				hypothetical protein
+MOPFLJEK_00510	CDS	582				hypothetical protein
+MOPFLJEK_00511	CDS	207				hypothetical protein
+MOPFLJEK_00512	CDS	1209	thi4_2	2.4.2.59		Thiamine thiazole synthase
+MOPFLJEK_00513	CDS	624	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+MOPFLJEK_00514	CDS	462	pyrI_2		COG1781	Aspartate carbamoyltransferase regulatory chain
+MOPFLJEK_00515	CDS	309	atpH_2			ATP synthase subunit c
+MOPFLJEK_00516	CDS	132				hypothetical protein
+MOPFLJEK_00517	CDS	555	ntpD_2			V-type sodium ATPase subunit D
+MOPFLJEK_00518	CDS	813	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+MOPFLJEK_00519	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+MOPFLJEK_00520	CDS	249				hypothetical protein
+MOPFLJEK_00521	CDS	348				hypothetical protein
+MOPFLJEK_00522	CDS	360				hypothetical protein
+MOPFLJEK_00523	CDS	477				hypothetical protein
+MOPFLJEK_00524	CDS	2163				hypothetical protein
+MOPFLJEK_00525	CDS	162				hypothetical protein
+MOPFLJEK_00526	CDS	366				hypothetical protein
+MOPFLJEK_00527	CDS	417	catD_1	1.-.-.-	COG2259	Putative oxidoreductase CatD
+MOPFLJEK_00528	CDS	777				hypothetical protein
+MOPFLJEK_00529	CDS	609	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+MOPFLJEK_00530	CDS	525	petE_4			Plastocyanin
+MOPFLJEK_00531	CDS	342				hypothetical protein
+MOPFLJEK_00532	CDS	600				hypothetical protein
+MOPFLJEK_00533	CDS	399	hrp1		COG0517	Hypoxic response protein 1
+MOPFLJEK_00534	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+MOPFLJEK_00535	CDS	606		1.-.-.-	COG5424	putative oxidoreductase CT_610
+MOPFLJEK_00536	tRNA	74				tRNA-Met(cat)
+MOPFLJEK_00537	CDS	606	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+MOPFLJEK_00538	CDS	1083				hypothetical protein
+MOPFLJEK_00539	CDS	1107				hypothetical protein
+MOPFLJEK_00540	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+MOPFLJEK_00541	CDS	1566				hypothetical protein
+MOPFLJEK_00542	CDS	699		2.7.1.165	COG2379	D-glycerate 2-kinase
+MOPFLJEK_00543	CDS	966				hypothetical protein
+MOPFLJEK_00544	CDS	576	purN_2	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+MOPFLJEK_00545	CDS	321				hypothetical protein
+MOPFLJEK_00546	CDS	285				hypothetical protein
+MOPFLJEK_00547	CDS	864	folD_2		COG0190	Bifunctional protein FolD protein
+MOPFLJEK_00548	CDS	564	yqgN_2		COG0212	putative protein YqgN
+MOPFLJEK_00549	CDS	1248	purD_2	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+MOPFLJEK_00550	CDS	3198	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+MOPFLJEK_00551	CDS	234				hypothetical protein
+MOPFLJEK_00552	CDS	453	ideR		COG1321	Iron-dependent repressor IdeR
+MOPFLJEK_00553	CDS	165				hypothetical protein
+MOPFLJEK_00554	CDS	420				hypothetical protein
+MOPFLJEK_00555	CDS	414				hypothetical protein
+MOPFLJEK_00556	CDS	1050				hypothetical protein
+MOPFLJEK_00557	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+MOPFLJEK_00558	CDS	153				hypothetical protein
+MOPFLJEK_00559	CDS	408				hypothetical protein
+MOPFLJEK_00560	CDS	156				hypothetical protein
+MOPFLJEK_00561	CDS	153				hypothetical protein
+MOPFLJEK_00562	CDS	435				hypothetical protein
+MOPFLJEK_00563	CDS	228				hypothetical protein
+MOPFLJEK_00564	CDS	249				hypothetical protein
+MOPFLJEK_00565	tRNA	77				tRNA-Asn(gtt)
+MOPFLJEK_00566	CDS	288				hypothetical protein
+MOPFLJEK_00567	CDS	558				hypothetical protein
+MOPFLJEK_00568	CDS	393	rpsH_2			30S ribosomal protein S8
+MOPFLJEK_00569	CDS	180				hypothetical protein
+MOPFLJEK_00570	CDS	522				hypothetical protein
+MOPFLJEK_00571	CDS	717				hypothetical protein
+MOPFLJEK_00572	CDS	414				hypothetical protein
+MOPFLJEK_00573	CDS	423	rplN			50S ribosomal protein L14
+MOPFLJEK_00574	CDS	324				hypothetical protein
+MOPFLJEK_00575	CDS	267				hypothetical protein
+MOPFLJEK_00576	CDS	207				hypothetical protein
+MOPFLJEK_00577	CDS	756				hypothetical protein
+MOPFLJEK_00578	CDS	468				hypothetical protein
+MOPFLJEK_00579	CDS	396				hypothetical protein
+MOPFLJEK_00580	CDS	267				hypothetical protein
+MOPFLJEK_00581	CDS	2028				hypothetical protein
+MOPFLJEK_00582	CDS	234				hypothetical protein
+MOPFLJEK_00583	CDS	1332				hypothetical protein
+MOPFLJEK_00584	CDS	1035	adhT_2	1.1.1.1		Alcohol dehydrogenase
+MOPFLJEK_00585	CDS	153				hypothetical protein
+MOPFLJEK_00586	CDS	234				hypothetical protein
+MOPFLJEK_00587	CDS	423				hypothetical protein
+MOPFLJEK_00588	CDS	318				hypothetical protein
+MOPFLJEK_00589	CDS	633				hypothetical protein
+MOPFLJEK_00590	CDS	1488				hypothetical protein
+MOPFLJEK_00591	CDS	567				hypothetical protein
+MOPFLJEK_00592	CDS	261				hypothetical protein
+MOPFLJEK_00593	CDS	210				hypothetical protein
+MOPFLJEK_00594	CDS	186				hypothetical protein
+MOPFLJEK_00595	CDS	1524	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+MOPFLJEK_00596	CDS	357				hypothetical protein
+MOPFLJEK_00597	CDS	267				hypothetical protein
+MOPFLJEK_00598	CDS	870	mak_1	2.7.1.4	COG1940	Fructokinase
+MOPFLJEK_00599	CDS	246				hypothetical protein
+MOPFLJEK_00600	CDS	1524	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+MOPFLJEK_00601	CDS	357				hypothetical protein
+MOPFLJEK_00602	CDS	267				hypothetical protein
+MOPFLJEK_00603	CDS	870	mak_2	2.7.1.4	COG1940	Fructokinase
+MOPFLJEK_00604	CDS	384				hypothetical protein
+MOPFLJEK_00605	CDS	1524				hypothetical protein
+MOPFLJEK_00606	CDS	1326	magA		COG0475	Iron transporter MagA
+MOPFLJEK_00607	CDS	420	rppH_1	3.6.1.-		RNA pyrophosphohydrolase
+MOPFLJEK_00608	CDS	552	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+MOPFLJEK_00609	CDS	918				hypothetical protein
+MOPFLJEK_00610	CDS	633				hypothetical protein
+MOPFLJEK_00611	CDS	216				hypothetical protein
+MOPFLJEK_00612	CDS	1098				hypothetical protein
+MOPFLJEK_00613	CDS	825				hypothetical protein
+MOPFLJEK_00614	CDS	672	rplA_2		COG0081	50S ribosomal protein L1
+MOPFLJEK_00615	CDS	534				hypothetical protein
+MOPFLJEK_00616	CDS	111				hypothetical protein
+MOPFLJEK_00617	CDS	141				hypothetical protein
+MOPFLJEK_00618	CDS	480	rplK_2		COG0080	50S ribosomal protein L11
+MOPFLJEK_00619	CDS	399				hypothetical protein
+MOPFLJEK_00620	CDS	165				hypothetical protein
+MOPFLJEK_00621	CDS	1746				hypothetical protein
+MOPFLJEK_00622	CDS	654				hypothetical protein
+MOPFLJEK_00623	CDS	2454				hypothetical protein
+MOPFLJEK_00624	CDS	432				hypothetical protein
+MOPFLJEK_00625	CDS	177				hypothetical protein
+MOPFLJEK_00626	CDS	378				hypothetical protein
+MOPFLJEK_00627	CDS	537				hypothetical protein
+MOPFLJEK_00628	CDS	540				hypothetical protein
+MOPFLJEK_00629	CDS	258				hypothetical protein
+MOPFLJEK_00630	CDS	795		1.-.-.-		putative oxidoreductase
+MOPFLJEK_00631	CDS	1017				hypothetical protein
+MOPFLJEK_00632	CDS	153				hypothetical protein
+MOPFLJEK_00633	CDS	1251				hypothetical protein
+MOPFLJEK_00634	CDS	207				hypothetical protein
+MOPFLJEK_00635	CDS	282				hypothetical protein
+MOPFLJEK_00636	CDS	2142	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MOPFLJEK_00637	CDS	684				hypothetical protein
+MOPFLJEK_00638	CDS	375				hypothetical protein
+MOPFLJEK_00639	CDS	1281	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+MOPFLJEK_00640	CDS	504				hypothetical protein
+MOPFLJEK_00641	CDS	222				hypothetical protein
+MOPFLJEK_00642	CDS	384				hypothetical protein
+MOPFLJEK_00643	CDS	699	prcA_1			Proteasome subunit alpha
+MOPFLJEK_00644	CDS	693	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+MOPFLJEK_00645	CDS	1161	ycaD			putative MFS-type transporter YcaD
+MOPFLJEK_00646	CDS	348	tatA			Sec-independent protein translocase protein TatA
+MOPFLJEK_00647	CDS	777	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+MOPFLJEK_00648	CDS	2448	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+MOPFLJEK_00649	CDS	831				hypothetical protein
+MOPFLJEK_00650	CDS	1656				hypothetical protein
+MOPFLJEK_00651	CDS	513				hypothetical protein
+MOPFLJEK_00652	CDS	363				hypothetical protein
+MOPFLJEK_00653	CDS	1101		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+MOPFLJEK_00654	CDS	231				hypothetical protein
+MOPFLJEK_00655	CDS	444				hypothetical protein
+MOPFLJEK_00656	CDS	90				hypothetical protein
+MOPFLJEK_00657	CDS	228				hypothetical protein
+MOPFLJEK_00658	CDS	633				hypothetical protein
+MOPFLJEK_00659	CDS	2025				hypothetical protein
+MOPFLJEK_00660	CDS	1503	pckA_2	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+MOPFLJEK_00661	CDS	405				hypothetical protein
+MOPFLJEK_00662	CDS	255				hypothetical protein
+MOPFLJEK_00663	CDS	513				hypothetical protein
+MOPFLJEK_00664	CDS	633	rtcA	6.5.1.4		RNA 3'-terminal phosphate cyclase
+MOPFLJEK_00665	CDS	498				hypothetical protein
+MOPFLJEK_00666	CDS	495				hypothetical protein
+MOPFLJEK_00667	CDS	1146				hypothetical protein
+MOPFLJEK_00668	CDS	1329	ffh		COG0541	Signal recognition particle protein
+MOPFLJEK_00669	CDS	690				hypothetical protein
+MOPFLJEK_00670	CDS	411				hypothetical protein
+MOPFLJEK_00671	CDS	609				hypothetical protein
+MOPFLJEK_00672	CDS	198				hypothetical protein
+MOPFLJEK_00673	CDS	330	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+MOPFLJEK_00674	CDS	561				hypothetical protein
+MOPFLJEK_00675	CDS	1122				hypothetical protein
+MOPFLJEK_00676	CDS	180				hypothetical protein
+MOPFLJEK_00677	CDS	894		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+MOPFLJEK_00678	CDS	1791	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+MOPFLJEK_00679	CDS	180				hypothetical protein
+MOPFLJEK_00680	CDS	192				hypothetical protein
+MOPFLJEK_00681	CDS	315				hypothetical protein
+MOPFLJEK_00682	CDS	444				hypothetical protein
+MOPFLJEK_00683	CDS	126				hypothetical protein
+MOPFLJEK_00684	CDS	270				hypothetical protein
+MOPFLJEK_00685	CDS	519				hypothetical protein
+MOPFLJEK_00686	CDS	234				hypothetical protein
+MOPFLJEK_00687	CDS	306				hypothetical protein
+MOPFLJEK_00688	CDS	654	udgB	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+MOPFLJEK_00689	CDS	2868	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+MOPFLJEK_00690	CDS	2670	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+MOPFLJEK_00691	CDS	588				hypothetical protein
+MOPFLJEK_00692	CDS	951	neoA	1.1.1.329		2-deoxy-scyllo-inosamine dehydrogenase
+MOPFLJEK_00693	CDS	441				hypothetical protein
+MOPFLJEK_00694	CDS	1251				hypothetical protein
+MOPFLJEK_00695	CDS	510				hypothetical protein
+MOPFLJEK_00696	CDS	567				hypothetical protein
+MOPFLJEK_00697	CDS	1752				hypothetical protein
+MOPFLJEK_00698	CDS	459	petE_5			Plastocyanin
+MOPFLJEK_00699	tRNA	72				tRNA-Cys(gca)
+MOPFLJEK_00700	CDS	357				hypothetical protein
+MOPFLJEK_00701	CDS	1911				hypothetical protein
+MOPFLJEK_00702	CDS	147				hypothetical protein
+MOPFLJEK_00703	CDS	969	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+MOPFLJEK_00704	CDS	219				hypothetical protein
+MOPFLJEK_00705	CDS	1278	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+MOPFLJEK_00706	CDS	369	aqpZ_2			Aquaporin Z
+MOPFLJEK_00707	CDS	1455	nhaP2_2			K(+)/H(+) antiporter NhaP2
+MOPFLJEK_00708	CDS	420				hypothetical protein
+MOPFLJEK_00709	CDS	1686				hypothetical protein
+MOPFLJEK_00710	CDS	378				hypothetical protein
+MOPFLJEK_00711	CDS	2034	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+MOPFLJEK_00712	CDS	189				hypothetical protein
+MOPFLJEK_00713	CDS	675	uvrB_1			UvrABC system protein B
+MOPFLJEK_00714	CDS	2820	uvrA_2			UvrABC system protein A
+MOPFLJEK_00715	CDS	285				hypothetical protein
+MOPFLJEK_00716	CDS	462				hypothetical protein
+MOPFLJEK_00717	CDS	1002	purA_1	6.3.4.4	COG0104	Adenylosuccinate synthetase
+MOPFLJEK_00718	CDS	687				hypothetical protein
+MOPFLJEK_00719	CDS	741	pyrF			Orotidine 5'-phosphate decarboxylase
+MOPFLJEK_00720	CDS	420	rppH_2	3.6.1.-		RNA pyrophosphohydrolase
+MOPFLJEK_00721	CDS	918	petE_6			Plastocyanin
+MOPFLJEK_00722	CDS	1587	uvrC_2		COG0322	UvrABC system protein C
+MOPFLJEK_00723	CDS	2820	uvrA_3			UvrABC system protein A
+MOPFLJEK_00724	CDS	1953	uvrB_2			UvrABC system protein B
+MOPFLJEK_00725	CDS	189				hypothetical protein
+MOPFLJEK_00726	CDS	1212	rpoC2	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+MOPFLJEK_00727	CDS	234				hypothetical protein
+MOPFLJEK_00728	CDS	1179				hypothetical protein
+MOPFLJEK_00729	CDS	666				hypothetical protein
+MOPFLJEK_00730	CDS	762				hypothetical protein
+MOPFLJEK_00731	CDS	465				hypothetical protein
+MOPFLJEK_00732	CDS	657				hypothetical protein
+MOPFLJEK_00733	CDS	516				hypothetical protein
+MOPFLJEK_00734	CDS	801				hypothetical protein
+MOPFLJEK_00735	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+MOPFLJEK_00736	CDS	237				hypothetical protein
+MOPFLJEK_00737	CDS	489				hypothetical protein
+MOPFLJEK_00738	CDS	234				hypothetical protein
+MOPFLJEK_00739	CDS	153				hypothetical protein
+MOPFLJEK_00740	CDS	366				hypothetical protein
+MOPFLJEK_00741	CDS	1584		2.3.1.-		tRNA uridine(34) acetyltransferase
+MOPFLJEK_00742	CDS	324				hypothetical protein
+MOPFLJEK_00743	CDS	1251	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+MOPFLJEK_00744	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+MOPFLJEK_00745	CDS	534				hypothetical protein
+MOPFLJEK_00746	CDS	1518				hypothetical protein
+MOPFLJEK_00747	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+MOPFLJEK_00748	CDS	342				hypothetical protein
+MOPFLJEK_00749	CDS	1332	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+MOPFLJEK_00750	CDS	486		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+MOPFLJEK_00751	CDS	414				hypothetical protein
+MOPFLJEK_00752	CDS	1026				hypothetical protein
+MOPFLJEK_00753	CDS	684				hypothetical protein
+MOPFLJEK_00754	CDS	393	rpsH_3			30S ribosomal protein S8
+MOPFLJEK_00755	CDS	558				hypothetical protein
+MOPFLJEK_00756	CDS	288				hypothetical protein
+MOPFLJEK_00757	tRNA	75				tRNA-Asn(gtt)
+MOPFLJEK_00758	CDS	786				hypothetical protein
+MOPFLJEK_00759	CDS	444	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+MOPFLJEK_00760	CDS	192				hypothetical protein
+MOPFLJEK_00761	CDS	711				hypothetical protein
+MOPFLJEK_00762	CDS	960				hypothetical protein
+MOPFLJEK_00763	CDS	1515	abfD_2	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+MOPFLJEK_00764	CDS	522	FCS1_2	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+MOPFLJEK_00765	CDS	1941	rnj_2	3.1.-.-		Ribonuclease J
+MOPFLJEK_00766	CDS	279				hypothetical protein
+MOPFLJEK_00767	CDS	324				hypothetical protein
+MOPFLJEK_00768	CDS	411				hypothetical protein
+MOPFLJEK_00769	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+MOPFLJEK_00770	CDS	999	truB	5.4.99.25		tRNA pseudouridine synthase B
+MOPFLJEK_00771	CDS	375				hypothetical protein
+MOPFLJEK_00772	CDS	1203				hypothetical protein
+MOPFLJEK_00773	CDS	1353				hypothetical protein
+MOPFLJEK_00774	CDS	687				hypothetical protein
+MOPFLJEK_00775	CDS	1002	purA_2	6.3.4.4	COG0104	Adenylosuccinate synthetase
+MOPFLJEK_00776	CDS	462				hypothetical protein
+MOPFLJEK_00777	CDS	813				hypothetical protein
+MOPFLJEK_00778	CDS	441	prcA_2			Proteasome subunit alpha
+MOPFLJEK_00779	CDS	465	bcp_3	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+MOPFLJEK_00780	CDS	333	ndhC_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+MOPFLJEK_00781	CDS	525	ndhK_2	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+MOPFLJEK_00782	CDS	264				hypothetical protein
+MOPFLJEK_00783	CDS	1311				hypothetical protein
+MOPFLJEK_00784	CDS	648				hypothetical protein
+MOPFLJEK_00785	CDS	1119				hypothetical protein
+MOPFLJEK_00786	CDS	450				hypothetical protein
+MOPFLJEK_00787	CDS	531				hypothetical protein
+MOPFLJEK_00788	CDS	408				hypothetical protein
+MOPFLJEK_00789	CDS	1146	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+MOPFLJEK_00790	CDS	240				hypothetical protein
+MOPFLJEK_00791	CDS	1311	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+MOPFLJEK_00792	CDS	282				hypothetical protein
+MOPFLJEK_00793	CDS	909	ftsH4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 4
+MOPFLJEK_00794	CDS	297				hypothetical protein
+MOPFLJEK_00795	CDS	270	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+MOPFLJEK_00796	CDS	540			COG0586	putative membrane protein
+MOPFLJEK_00797	CDS	366				hypothetical protein
+MOPFLJEK_00798	CDS	465	bcp_4	1.11.1.15	COG1225	Putative peroxiredoxin
+MOPFLJEK_00799	CDS	363				hypothetical protein
+MOPFLJEK_00800	CDS	282				hypothetical protein
+MOPFLJEK_00801	CDS	516				hypothetical protein
+MOPFLJEK_00802	CDS	339		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+MOPFLJEK_00803	CDS	1029				hypothetical protein
+MOPFLJEK_00804	CDS	264				hypothetical protein
+MOPFLJEK_00805	CDS	279				hypothetical protein
+MOPFLJEK_00806	CDS	528				hypothetical protein
+MOPFLJEK_00807	CDS	360				hypothetical protein
+MOPFLJEK_00808	tRNA	73				tRNA-Ala(cgc)
+MOPFLJEK_00809	CDS	672				hypothetical protein
+MOPFLJEK_00810	CDS	624	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+MOPFLJEK_00811	CDS	1422				hypothetical protein
+MOPFLJEK_00812	CDS	447	pfdA			Prefoldin subunit alpha
+MOPFLJEK_00813	CDS	630				hypothetical protein
+MOPFLJEK_00814	CDS	420				hypothetical protein
+MOPFLJEK_00815	CDS	348				hypothetical protein
+MOPFLJEK_00816	CDS	360				hypothetical protein
+MOPFLJEK_00817	CDS	477				hypothetical protein
+MOPFLJEK_00818	CDS	642				hypothetical protein
+MOPFLJEK_00819	CDS	861				hypothetical protein
+MOPFLJEK_00820	CDS	237				hypothetical protein
+MOPFLJEK_00821	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+MOPFLJEK_00822	CDS	1443	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+MOPFLJEK_00823	CDS	375				hypothetical protein
+MOPFLJEK_00824	CDS	1734				hypothetical protein
+MOPFLJEK_00825	CDS	183				hypothetical protein
+MOPFLJEK_00826	CDS	246				hypothetical protein
+MOPFLJEK_00827	CDS	363				hypothetical protein
+MOPFLJEK_00828	CDS	1014	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+MOPFLJEK_00829	CDS	1515	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+MOPFLJEK_00830	CDS	486	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+MOPFLJEK_00831	CDS	510	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+MOPFLJEK_00832	CDS	378				hypothetical protein
+MOPFLJEK_00833	CDS	537				hypothetical protein
+MOPFLJEK_00834	CDS	540				hypothetical protein
+MOPFLJEK_00835	CDS	402				hypothetical protein
+MOPFLJEK_00836	CDS	753	infB_1			Translation initiation factor IF-2
+MOPFLJEK_00837	CDS	882	hemC	2.5.1.61		Porphobilinogen deaminase
+MOPFLJEK_00838	CDS	741	sumT_2	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+MOPFLJEK_00839	CDS	312	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+MOPFLJEK_00840	CDS	477				hypothetical protein
+MOPFLJEK_00841	CDS	597	prcB_3	3.4.25.1	COG0638	Proteasome subunit beta
+MOPFLJEK_00842	CDS	417	catD_2	1.-.-.-	COG2259	Putative oxidoreductase CatD
+MOPFLJEK_00843	CDS	1356	dapE_2	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+MOPFLJEK_00844	CDS	864	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+MOPFLJEK_00845	CDS	876	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+MOPFLJEK_00846	CDS	120				hypothetical protein
+MOPFLJEK_00847	CDS	174				hypothetical protein
+MOPFLJEK_00848	CDS	342				hypothetical protein
+MOPFLJEK_00849	CDS	504				hypothetical protein
+MOPFLJEK_00850	CDS	402				hypothetical protein
+MOPFLJEK_00851	CDS	1761	infB_2			Translation initiation factor IF-2
+MOPFLJEK_00852	CDS	1767				hypothetical protein

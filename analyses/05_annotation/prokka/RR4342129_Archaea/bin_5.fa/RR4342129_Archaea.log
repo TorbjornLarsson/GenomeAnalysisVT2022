@@ -1,0 +1,136 @@
+[13:01:25] This is prokka 1.14.6
+[13:01:25] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[13:01:25] Homepage is https://github.com/tseemann/prokka
+[13:01:25] Local time is Tue May  3 13:01:25 2022
+[13:01:25] You are tola2495
+[13:01:25] Operating system is linux
+[13:01:25] You have BioPerl 1.007001
+[13:01:25] System has 16 cores.
+[13:01:25] Will use maximum of 2 cores.
+[13:01:25] Annotating as >>> Archaea <<<
+[13:01:25] Generating locus_tag from 'bin_5.fa' contents.
+[13:01:25] Setting --locustag DPFJOEPD from MD5 d9f38e9d5db59822c4182511b3f443e5
+[13:01:25] Creating new output folder: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa
+[13:01:25] Running: mkdir -p \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa
+[13:01:25] Using filename prefix: RR4342129_Archaea.XXX
+[13:01:25] Setting HMMER_NCPU=1
+[13:01:25] Writing log to: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.log
+[13:01:25] Command: /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka --metagenome --cpus 2 --kingdom Archaea --prefix RR4342129_Archaea --outdir /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa bin_5.fa
+[13:01:25] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux
+[13:01:25] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/../common
+[13:01:25] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin
+[13:01:25] Looking for 'aragorn' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/aragorn
+[13:01:25] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[13:01:25] Looking for 'barrnap' - found /sw/bioinfo/barrnap/0.8/snowy/bin/barrnap
+[13:01:25] Determined barrnap version is 000008 from 'barrnap 0.8'
+[13:01:25] Looking for 'blastp' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/blastp
+[13:01:26] Determined blastp version is 002011 from 'blastp: 2.11.0+'
+[13:01:26] Looking for 'cmpress' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmpress
+[13:01:26] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[13:01:26] Looking for 'cmscan' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmscan
+[13:01:26] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[13:01:26] Looking for 'egrep' - found /usr/bin/egrep
+[13:01:26] Looking for 'find' - found /usr/bin/find
+[13:01:26] Looking for 'grep' - found /usr/bin/grep
+[13:01:26] Looking for 'hmmpress' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmpress
+[13:01:26] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[13:01:26] Looking for 'hmmscan' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmscan
+[13:01:26] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[13:01:26] Looking for 'java' - found /usr/bin/java
+[13:01:26] Looking for 'makeblastdb' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/makeblastdb
+[13:01:27] Determined makeblastdb version is 002011 from 'makeblastdb: 2.11.0+'
+[13:01:27] Looking for 'minced' - found /sw/apps/bioinfo/minced/0.2.0/snowy/minced
+[13:01:27] Determined minced version is 002000 from 'minced 0.2.0'
+[13:01:27] Looking for 'parallel' - found /sw/parallel/gnuparallel/20170122/snowy/bin/parallel
+[13:01:27] Determined parallel version is 20170122 from 'GNU parallel 20170122'
+[13:01:27] Looking for 'prodigal' - found /sw/apps/bioinfo/prodigal/2.6.3/snowy/bin/prodigal
+[13:01:27] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[13:01:27] Looking for 'prokka-genbank_to_fasta_db' - found /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka-genbank_to_fasta_db
+[13:01:27] Looking for 'sed' - found /usr/bin/sed
+[13:01:27] Looking for 'signalp' - found /sw/bioinfo/SignalP/4.1f/snowy/signalp
+[13:01:27] Determined signalp version is 004001 from '4.1 6180816'
+[13:01:27] Looking for 'tbl2asn' - found /sw/bioinfo/tbl2asn/25.8/snowy/tbl2asn
+[13:01:27] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[13:01:27] Using genetic code table 11.
+[13:01:27] Loading and checking input file: bin_5.fa
+[13:01:27] Wrote 129 contigs totalling 263991 bp.
+[13:01:27] Predicting tRNAs and tmRNAs
+[13:01:27] Running: aragorn -l -gc11  -w \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.fna
+[13:01:28] 1 tRNA-Lys c[241,312] 33 (ttt)
+[13:01:28] 1 tRNA-Leu c[225,307] 35 (tag)
+[13:01:28] 1 tRNA-Arg [919,992] 35 (ccg)
+[13:01:28] 1 tRNA-Asp [169,244] 36 (gtc)
+[13:01:28] 1 tRNA-Val c[1809,1880] 33 (gac)
+[13:01:28] 1 tRNA-SeC c[1097,1168] 31 (tca)
+[13:01:28] Found 6 tRNAs
+[13:01:28] Predicting Ribosomal RNAs
+[13:01:28] Running Barrnap with 2 threads
+[13:01:28] Found 0 rRNAs
+[13:01:28] Skipping ncRNA search, enable with --rfam if desired.
+[13:01:28] Total of 6 tRNA + rRNA features
+[13:01:28] Searching for CRISPR repeats
+[13:01:28] Found 0 CRISPRs
+[13:01:28] Predicting coding sequences
+[13:01:28] Contigs total 263991 bp, so using meta mode
+[13:01:28] Running: prodigal -i \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.fna -c -m -g 11 -p meta -f sco -q
+[13:01:28] Excluding CDS which overlaps existing RNA (tRNA) at k105_97517:81..863 on + strand
+[13:01:29] Excluding CDS which overlaps existing RNA (tRNA) at k105_128385:896..1048 on - strand
+[13:01:29] Excluding CDS which overlaps existing RNA (tRNA) at k105_62327:921..1475 on + strand
+[13:01:30] Found 327 CDS
+[13:01:30] Connecting features back to sequences
+[13:01:30] Not using genus-specific database. Try --usegenus to enable it.
+[13:01:30] Annotating CDS, please be patient.
+[13:01:30] Will use 2 CPUs for similarity searching.
+[13:01:30] There are still 327 unannotated CDS left (started with 327)
+[13:01:30] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Archaea/sprot with 2 CPUs
+[13:01:30] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.sprot\.tmp\.42517\.faa | parallel --gnu --plain -j 2 --block 17168 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Archaea/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.sprot\.tmp\.42517\.blast 2> /dev/null
+[13:01:33] Modify product: Probable hydrogenase maturation factor HypB => putative hydrogenase maturation factor HypB
+[13:01:33] Modify product: Probable branched-chain amino acid transport ATP-binding protein LivG => putative branched-chain amino acid transport ATP-binding protein LivG
+[13:01:34] Cleaned 2 /product names
+[13:01:34] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.sprot.tmp.42517.faa
+[13:01:34] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.sprot.tmp.42517.blast
+[13:01:34] There are still 302 unannotated CDS left (started with 327)
+[13:01:34] Will use hmmer3 to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm with 2 CPUs
+[13:01:34] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.HAMAP\.hmm\.tmp\.42517\.faa | parallel --gnu --plain -j 2 --block 15404 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm /dev/stdin > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.HAMAP\.hmm\.tmp\.42517\.hmmer3 2> /dev/null
+[13:01:49] Modify product: Uncharacterized MFS-type transporter YhhS => putative MFS-type transporter YhhS
+[13:01:49] Cleaned 1 /product names
+[13:01:49] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.HAMAP.hmm.tmp.42517.faa
+[13:01:49] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.HAMAP.hmm.tmp.42517.hmmer3
+[13:01:49] Labelling remaining 222 proteins as 'hypothetical protein'
+[13:01:49] Found 92 unique /gene codes.
+[13:01:49] Fixed 3 duplicate /gene - btuD_1 btuD_2 btuD_3
+[13:01:49] Fixed 2 duplicate /gene - norW_1 norW_2
+[13:01:49] Fixed 2 colliding /gene names.
+[13:01:49] Adding /locus_tag identifiers
+[13:01:49] Assigned 333 locus_tags to CDS and RNA features.
+[13:01:49] Writing outputs to /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/
+[13:01:49] Generating annotation statistics file
+[13:01:49] Generating Genbank and Sequin files
+[13:01:49] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.err -i \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.fsa 2> /dev/null
+[13:01:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/errorsummary.val
+[13:01:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.dr
+[13:01:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.fixedproducts
+[13:01:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.ecn
+[13:01:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.val
+[13:01:50] Repairing broken .GBK output that tbl2asn produces...
+[13:01:50] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.gbf > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Archaea\/bin_5\.fa\/RR4342129_Archaea\.gbk
+[13:01:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.gbf
+[13:01:50] Output files:
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.log
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.fna
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.gff
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.faa
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.ffn
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.tbl
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.fsa
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.tsv
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.txt
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.sqn
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.gbk
+[13:01:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Archaea/bin_5.fa/RR4342129_Archaea.err
+[13:01:50] Annotation finished successfully.
+[13:01:50] Walltime used: 0.42 minutes
+[13:01:50] If you use this result please cite the Prokka paper:
+[13:01:50] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[13:01:50] Type 'prokka --citation' for more details.
+[13:01:50] Share and enjoy!

@@ -1,0 +1,694 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CMPMCBPK_00001	CDS	828	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CMPMCBPK_00002	CDS	714		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+CMPMCBPK_00003	CDS	1011	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+CMPMCBPK_00004	CDS	651				hypothetical protein
+CMPMCBPK_00005	CDS	480				hypothetical protein
+CMPMCBPK_00006	CDS	1524				hypothetical protein
+CMPMCBPK_00007	CDS	1113				hypothetical protein
+CMPMCBPK_00008	CDS	876				hypothetical protein
+CMPMCBPK_00009	CDS	1047				hypothetical protein
+CMPMCBPK_00010	CDS	198				hypothetical protein
+CMPMCBPK_00011	CDS	717				hypothetical protein
+CMPMCBPK_00012	CDS	771				hypothetical protein
+CMPMCBPK_00013	CDS	480				hypothetical protein
+CMPMCBPK_00014	CDS	669				hypothetical protein
+CMPMCBPK_00015	CDS	567	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+CMPMCBPK_00016	CDS	558	orn	3.1.-.-	COG1949	Oligoribonuclease
+CMPMCBPK_00017	CDS	729				hypothetical protein
+CMPMCBPK_00018	CDS	138				hypothetical protein
+CMPMCBPK_00019	CDS	1053				hypothetical protein
+CMPMCBPK_00020	CDS	174				hypothetical protein
+CMPMCBPK_00021	CDS	165				hypothetical protein
+CMPMCBPK_00022	CDS	147				hypothetical protein
+CMPMCBPK_00023	CDS	1374				hypothetical protein
+CMPMCBPK_00024	CDS	780	tatC2		COG0805	Sec-independent protein translocase protein TatCy
+CMPMCBPK_00025	CDS	429				hypothetical protein
+CMPMCBPK_00026	CDS	318	arsC	1.20.4.1		Glutaredoxin arsenate reductase
+CMPMCBPK_00027	tRNA	73				tRNA-Gly(gcc)
+CMPMCBPK_00028	CDS	405				hypothetical protein
+CMPMCBPK_00029	CDS	366				hypothetical protein
+CMPMCBPK_00030	CDS	1839				hypothetical protein
+CMPMCBPK_00031	CDS	618				hypothetical protein
+CMPMCBPK_00032	CDS	900	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+CMPMCBPK_00033	CDS	609	etfB		COG2086	Electron transfer flavoprotein subunit beta
+CMPMCBPK_00034	CDS	234				hypothetical protein
+CMPMCBPK_00035	CDS	885				hypothetical protein
+CMPMCBPK_00036	CDS	369				hypothetical protein
+CMPMCBPK_00037	CDS	816				hypothetical protein
+CMPMCBPK_00038	CDS	231				hypothetical protein
+CMPMCBPK_00039	CDS	381				hypothetical protein
+CMPMCBPK_00040	CDS	369				hypothetical protein
+CMPMCBPK_00041	CDS	468				hypothetical protein
+CMPMCBPK_00042	CDS	1011				hypothetical protein
+CMPMCBPK_00043	CDS	324				hypothetical protein
+CMPMCBPK_00044	CDS	480				hypothetical protein
+CMPMCBPK_00045	CDS	507				hypothetical protein
+CMPMCBPK_00046	CDS	507				hypothetical protein
+CMPMCBPK_00047	CDS	297				hypothetical protein
+CMPMCBPK_00048	CDS	516				hypothetical protein
+CMPMCBPK_00049	CDS	567				hypothetical protein
+CMPMCBPK_00050	CDS	2325				hypothetical protein
+CMPMCBPK_00051	CDS	894				hypothetical protein
+CMPMCBPK_00052	CDS	243				hypothetical protein
+CMPMCBPK_00053	CDS	759				hypothetical protein
+CMPMCBPK_00054	CDS	957	glpX	3.1.3.11	COG1494	Fructose-1,6-bisphosphatase class 2
+CMPMCBPK_00055	CDS	501	moaC2	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase 2
+CMPMCBPK_00056	CDS	186	moaE	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit
+CMPMCBPK_00057	CDS	492				hypothetical protein
+CMPMCBPK_00058	CDS	1365				hypothetical protein
+CMPMCBPK_00059	CDS	744				hypothetical protein
+CMPMCBPK_00060	CDS	522				hypothetical protein
+CMPMCBPK_00061	CDS	447	yhaH		COG3152	Inner membrane protein YhaH
+CMPMCBPK_00062	CDS	333				hypothetical protein
+CMPMCBPK_00063	CDS	276				hypothetical protein
+CMPMCBPK_00064	CDS	465				hypothetical protein
+CMPMCBPK_00065	CDS	822				hypothetical protein
+CMPMCBPK_00066	CDS	996	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+CMPMCBPK_00067	CDS	165				hypothetical protein
+CMPMCBPK_00068	CDS	1311				hypothetical protein
+CMPMCBPK_00069	CDS	564	nfuA		COG0316	Fe/S biogenesis protein NfuA
+CMPMCBPK_00070	CDS	768				hypothetical protein
+CMPMCBPK_00071	CDS	747				hypothetical protein
+CMPMCBPK_00072	CDS	231	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+CMPMCBPK_00073	CDS	1287				hypothetical protein
+CMPMCBPK_00074	CDS	1404				hypothetical protein
+CMPMCBPK_00075	CDS	828				hypothetical protein
+CMPMCBPK_00076	tRNA	85				tRNA-Ser(tga)
+CMPMCBPK_00077	CDS	351				hypothetical protein
+CMPMCBPK_00078	CDS	405				hypothetical protein
+CMPMCBPK_00079	CDS	303	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+CMPMCBPK_00080	CDS	2319	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+CMPMCBPK_00081	CDS	1548				hypothetical protein
+CMPMCBPK_00082	CDS	747				hypothetical protein
+CMPMCBPK_00083	CDS	1641	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+CMPMCBPK_00084	CDS	648	glmU	2.7.7.23		Bifunctional protein GlmU
+CMPMCBPK_00085	CDS	237				hypothetical protein
+CMPMCBPK_00086	CDS	288				hypothetical protein
+CMPMCBPK_00087	CDS	318				hypothetical protein
+CMPMCBPK_00088	CDS	465				hypothetical protein
+CMPMCBPK_00089	CDS	270				hypothetical protein
+CMPMCBPK_00090	CDS	867		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2346
+CMPMCBPK_00091	CDS	516				hypothetical protein
+CMPMCBPK_00092	CDS	228				hypothetical protein
+CMPMCBPK_00093	CDS	312				hypothetical protein
+CMPMCBPK_00094	CDS	1332	pepC	3.4.22.40	COG3579	Aminopeptidase C
+CMPMCBPK_00095	CDS	663	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+CMPMCBPK_00096	CDS	828				hypothetical protein
+CMPMCBPK_00097	CDS	912				hypothetical protein
+CMPMCBPK_00098	CDS	441				hypothetical protein
+CMPMCBPK_00099	CDS	636				hypothetical protein
+CMPMCBPK_00100	CDS	159				hypothetical protein
+CMPMCBPK_00101	CDS	315	ybgI		COG0327	GTP cyclohydrolase 1 type 2 
+CMPMCBPK_00102	CDS	450				hypothetical protein
+CMPMCBPK_00103	CDS	2787				hypothetical protein
+CMPMCBPK_00104	CDS	1320				hypothetical protein
+CMPMCBPK_00105	CDS	1122	kynA	1.13.11.11	COG3483	Tryptophan 2,3-dioxygenase
+CMPMCBPK_00106	CDS	195				hypothetical protein
+CMPMCBPK_00107	CDS	840				hypothetical protein
+CMPMCBPK_00108	CDS	261				hypothetical protein
+CMPMCBPK_00109	CDS	213				hypothetical protein
+CMPMCBPK_00110	CDS	1626				hypothetical protein
+CMPMCBPK_00111	CDS	216				hypothetical protein
+CMPMCBPK_00112	CDS	201				hypothetical protein
+CMPMCBPK_00113	CDS	180				hypothetical protein
+CMPMCBPK_00114	CDS	324				hypothetical protein
+CMPMCBPK_00115	CDS	834				hypothetical protein
+CMPMCBPK_00116	CDS	291	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+CMPMCBPK_00117	CDS	1737	mutL		COG0323	DNA mismatch repair protein MutL
+CMPMCBPK_00118	CDS	1377				hypothetical protein
+CMPMCBPK_00119	CDS	120				hypothetical protein
+CMPMCBPK_00120	CDS	633				hypothetical protein
+CMPMCBPK_00121	CDS	615				hypothetical protein
+CMPMCBPK_00122	CDS	1140				hypothetical protein
+CMPMCBPK_00123	CDS	420				hypothetical protein
+CMPMCBPK_00124	CDS	981				hypothetical protein
+CMPMCBPK_00125	CDS	483				hypothetical protein
+CMPMCBPK_00126	CDS	567	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+CMPMCBPK_00127	CDS	1038	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+CMPMCBPK_00128	CDS	1842				hypothetical protein
+CMPMCBPK_00129	CDS	558				hypothetical protein
+CMPMCBPK_00130	CDS	1071				hypothetical protein
+CMPMCBPK_00131	CDS	813				hypothetical protein
+CMPMCBPK_00132	CDS	129				hypothetical protein
+CMPMCBPK_00133	CDS	180				hypothetical protein
+CMPMCBPK_00134	CDS	411				hypothetical protein
+CMPMCBPK_00135	CDS	336				Ferredoxin, 2Fe-2S
+CMPMCBPK_00136	CDS	327		4.2.1.96		Putative pterin-4-alpha-carbinolamine dehydratase
+CMPMCBPK_00137	CDS	525				hypothetical protein
+CMPMCBPK_00138	CDS	1149	bcd	1.3.8.1	COG1960	Acyl-CoA dehydrogenase, short-chain specific
+CMPMCBPK_00139	CDS	987	bfmBAB	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+CMPMCBPK_00140	CDS	1755				hypothetical protein
+CMPMCBPK_00141	CDS	1032				hypothetical protein
+CMPMCBPK_00142	CDS	930				hypothetical protein
+CMPMCBPK_00143	CDS	513				hypothetical protein
+CMPMCBPK_00144	CDS	1026				hypothetical protein
+CMPMCBPK_00145	CDS	621				hypothetical protein
+CMPMCBPK_00146	CDS	297				hypothetical protein
+CMPMCBPK_00147	CDS	444				hypothetical protein
+CMPMCBPK_00148	CDS	384				hypothetical protein
+CMPMCBPK_00149	CDS	1740				hypothetical protein
+CMPMCBPK_00150	CDS	810				hypothetical protein
+CMPMCBPK_00151	CDS	261	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+CMPMCBPK_00152	CDS	453				hypothetical protein
+CMPMCBPK_00153	CDS	939	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+CMPMCBPK_00154	CDS	429				hypothetical protein
+CMPMCBPK_00155	CDS	129				hypothetical protein
+CMPMCBPK_00156	CDS	969				hypothetical protein
+CMPMCBPK_00157	CDS	780				hypothetical protein
+CMPMCBPK_00158	CDS	585				hypothetical protein
+CMPMCBPK_00159	CDS	762	kaiC	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+CMPMCBPK_00160	CDS	246				hypothetical protein
+CMPMCBPK_00161	CDS	957				hypothetical protein
+CMPMCBPK_00162	CDS	765				hypothetical protein
+CMPMCBPK_00163	CDS	468				hypothetical protein
+CMPMCBPK_00164	CDS	594				hypothetical protein
+CMPMCBPK_00165	CDS	384	rpsK		COG0100	30S ribosomal protein S11
+CMPMCBPK_00166	CDS	519				hypothetical protein
+CMPMCBPK_00167	CDS	783				hypothetical protein
+CMPMCBPK_00168	CDS	255				hypothetical protein
+CMPMCBPK_00169	CDS	771	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+CMPMCBPK_00170	CDS	207				hypothetical protein
+CMPMCBPK_00171	CDS	561				hypothetical protein
+CMPMCBPK_00172	CDS	324				hypothetical protein
+CMPMCBPK_00173	CDS	759				hypothetical protein
+CMPMCBPK_00174	CDS	1143	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+CMPMCBPK_00175	CDS	2961	uvrA			UvrABC system protein A
+CMPMCBPK_00176	CDS	1836				hypothetical protein
+CMPMCBPK_00177	CDS	651				hypothetical protein
+CMPMCBPK_00178	CDS	168				hypothetical protein
+CMPMCBPK_00179	CDS	4203				hypothetical protein
+CMPMCBPK_00180	CDS	552				hypothetical protein
+CMPMCBPK_00181	CDS	822	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+CMPMCBPK_00182	CDS	585				hypothetical protein
+CMPMCBPK_00183	CDS	993	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+CMPMCBPK_00184	CDS	1320	ydfJ		COG2409	Membrane protein YdfJ
+CMPMCBPK_00185	CDS	1449				hypothetical protein
+CMPMCBPK_00186	CDS	789	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+CMPMCBPK_00187	CDS	696				hypothetical protein
+CMPMCBPK_00188	CDS	1413	purL_1	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+CMPMCBPK_00189	CDS	816	purL_2	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+CMPMCBPK_00190	CDS	846				hypothetical protein
+CMPMCBPK_00191	CDS	282				hypothetical protein
+CMPMCBPK_00192	CDS	1251				hypothetical protein
+CMPMCBPK_00193	CDS	249				hypothetical protein
+CMPMCBPK_00194	CDS	396				hypothetical protein
+CMPMCBPK_00195	CDS	1401				hypothetical protein
+CMPMCBPK_00196	CDS	477				hypothetical protein
+CMPMCBPK_00197	CDS	1326				hypothetical protein
+CMPMCBPK_00198	CDS	708				hypothetical protein
+CMPMCBPK_00199	CDS	609				hypothetical protein
+CMPMCBPK_00200	CDS	630				hypothetical protein
+CMPMCBPK_00201	CDS	876				hypothetical protein
+CMPMCBPK_00202	CDS	264				hypothetical protein
+CMPMCBPK_00203	CDS	441				hypothetical protein
+CMPMCBPK_00204	CDS	339				hypothetical protein
+CMPMCBPK_00205	CDS	1305				hypothetical protein
+CMPMCBPK_00206	CDS	336				hypothetical protein
+CMPMCBPK_00207	CDS	1455				hypothetical protein
+CMPMCBPK_00208	CDS	483				hypothetical protein
+CMPMCBPK_00209	CDS	597				hypothetical protein
+CMPMCBPK_00210	CDS	858				hypothetical protein
+CMPMCBPK_00211	CDS	741	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+CMPMCBPK_00212	CDS	162				hypothetical protein
+CMPMCBPK_00213	CDS	270				hypothetical protein
+CMPMCBPK_00214	CDS	576				hypothetical protein
+CMPMCBPK_00215	CDS	1191				hypothetical protein
+CMPMCBPK_00216	CDS	483				hypothetical protein
+CMPMCBPK_00217	CDS	657				hypothetical protein
+CMPMCBPK_00218	CDS	216				hypothetical protein
+CMPMCBPK_00219	CDS	600	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+CMPMCBPK_00220	CDS	531	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+CMPMCBPK_00221	CDS	330				hypothetical protein
+CMPMCBPK_00222	CDS	1263		3.5.4.32	COG0402	8-oxoguanine deaminase
+CMPMCBPK_00223	CDS	690				putative protein
+CMPMCBPK_00224	CDS	378	ald	1.2.1.83		3-succinoylsemialdehyde-pyridine dehydrogenase
+CMPMCBPK_00225	CDS	633				hypothetical protein
+CMPMCBPK_00226	CDS	441				hypothetical protein
+CMPMCBPK_00227	CDS	1014	bkdA2	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+CMPMCBPK_00228	CDS	420	bkdA1	1.2.4.4	COG1071	2-oxoisovalerate dehydrogenase subunit alpha
+CMPMCBPK_00229	CDS	621				hypothetical protein
+CMPMCBPK_00230	CDS	852				hypothetical protein
+CMPMCBPK_00231	CDS	315				hypothetical protein
+CMPMCBPK_00232	CDS	3189				hypothetical protein
+CMPMCBPK_00233	CDS	1722				hypothetical protein
+CMPMCBPK_00234	CDS	363				hypothetical protein
+CMPMCBPK_00235	CDS	519				hypothetical protein
+CMPMCBPK_00236	CDS	354				hypothetical protein
+CMPMCBPK_00237	CDS	291				hypothetical protein
+CMPMCBPK_00238	CDS	864				hypothetical protein
+CMPMCBPK_00239	CDS	225				hypothetical protein
+CMPMCBPK_00240	CDS	198				hypothetical protein
+CMPMCBPK_00241	CDS	1107	xerC			Tyrosine recombinase XerC
+CMPMCBPK_00242	CDS	1263	gshB	6.3.2.3		Glutathione synthetase
+CMPMCBPK_00243	CDS	546	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+CMPMCBPK_00244	CDS	834	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+CMPMCBPK_00245	CDS	612				hypothetical protein
+CMPMCBPK_00246	CDS	1413				hypothetical protein
+CMPMCBPK_00247	CDS	606	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+CMPMCBPK_00248	CDS	429				hypothetical protein
+CMPMCBPK_00249	CDS	753	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+CMPMCBPK_00250	CDS	2757	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+CMPMCBPK_00251	CDS	510				hypothetical protein
+CMPMCBPK_00252	CDS	390				hypothetical protein
+CMPMCBPK_00253	CDS	747				hypothetical protein
+CMPMCBPK_00254	tRNA	75				tRNA-Phe(gaa)
+CMPMCBPK_00255	CDS	822	rph	2.7.7.56	COG0689	Ribonuclease PH
+CMPMCBPK_00256	CDS	585	mog	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+CMPMCBPK_00257	CDS	600				hypothetical protein
+CMPMCBPK_00258	CDS	927				hypothetical protein
+CMPMCBPK_00259	CDS	1146	moeZ		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+CMPMCBPK_00260	CDS	279	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+CMPMCBPK_00261	CDS	1725				hypothetical protein
+CMPMCBPK_00262	CDS	1971				hypothetical protein
+CMPMCBPK_00263	CDS	231				hypothetical protein
+CMPMCBPK_00264	CDS	732				hypothetical protein
+CMPMCBPK_00265	CDS	489				hypothetical protein
+CMPMCBPK_00266	CDS	252				hypothetical protein
+CMPMCBPK_00267	CDS	945	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+CMPMCBPK_00268	CDS	618				hypothetical protein
+CMPMCBPK_00269	CDS	996	obg	3.6.5.-		GTPase Obg
+CMPMCBPK_00270	CDS	573				hypothetical protein
+CMPMCBPK_00271	CDS	321				hypothetical protein
+CMPMCBPK_00272	CDS	1374	pyrH			Uridylate kinase
+CMPMCBPK_00273	CDS	1233				hypothetical protein
+CMPMCBPK_00274	tRNA	74				tRNA-Gln(ctg)
+CMPMCBPK_00275	CDS	1188	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+CMPMCBPK_00276	CDS	1488	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+CMPMCBPK_00277	CDS	462	ndhH	7.1.1.-	COG0649	NAD(P)H-quinone oxidoreductase subunit H
+CMPMCBPK_00278	CDS	375				hypothetical protein
+CMPMCBPK_00279	CDS	690				hypothetical protein
+CMPMCBPK_00280	CDS	1287				hypothetical protein
+CMPMCBPK_00281	CDS	1251				hypothetical protein
+CMPMCBPK_00282	CDS	174				hypothetical protein
+CMPMCBPK_00283	CDS	426				hypothetical protein
+CMPMCBPK_00284	CDS	447				hypothetical protein
+CMPMCBPK_00285	CDS	585		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+CMPMCBPK_00286	CDS	399				hypothetical protein
+CMPMCBPK_00287	CDS	384	gcvH		COG0509	Glycine cleavage system H protein
+CMPMCBPK_00288	CDS	1254	eno	4.2.1.11	COG0148	Enolase
+CMPMCBPK_00289	CDS	1143	aspC	2.6.1.1		Aspartate aminotransferase
+CMPMCBPK_00290	CDS	165				hypothetical protein
+CMPMCBPK_00291	CDS	1179				hypothetical protein
+CMPMCBPK_00292	CDS	1452				hypothetical protein
+CMPMCBPK_00293	CDS	423				hypothetical protein
+CMPMCBPK_00294	CDS	822	algD	1.1.1.132	COG1004	GDP-mannose 6-dehydrogenase
+CMPMCBPK_00295	CDS	195				hypothetical protein
+CMPMCBPK_00296	CDS	306				hypothetical protein
+CMPMCBPK_00297	CDS	1332				hypothetical protein
+CMPMCBPK_00298	CDS	1995	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+CMPMCBPK_00299	CDS	279				hypothetical protein
+CMPMCBPK_00300	CDS	1125	ftsZ_1			Cell division protein FtsZ
+CMPMCBPK_00301	CDS	576				hypothetical protein
+CMPMCBPK_00302	CDS	351	pfdA			Prefoldin subunit alpha
+CMPMCBPK_00303	CDS	1377	ftsY			Signal recognition particle receptor FtsY
+CMPMCBPK_00304	CDS	372				hypothetical protein
+CMPMCBPK_00305	CDS	657				hypothetical protein
+CMPMCBPK_00306	CDS	273				hypothetical protein
+CMPMCBPK_00307	CDS	309	pyrF			Orotidine 5'-phosphate decarboxylase
+CMPMCBPK_00308	CDS	381				hypothetical protein
+CMPMCBPK_00309	tRNA	73				tRNA-Ala(cgc)
+CMPMCBPK_00310	CDS	1482				hypothetical protein
+CMPMCBPK_00311	CDS	153				hypothetical protein
+CMPMCBPK_00312	CDS	450				hypothetical protein
+CMPMCBPK_00313	CDS	741				hypothetical protein
+CMPMCBPK_00314	CDS	717	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+CMPMCBPK_00315	CDS	1110	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CMPMCBPK_00316	CDS	1620	groL_1			60 kDa chaperonin
+CMPMCBPK_00317	CDS	1167				Ca(2+)/H(+) antiporter
+CMPMCBPK_00318	CDS	1365	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+CMPMCBPK_00319	CDS	1215				hypothetical protein
+CMPMCBPK_00320	CDS	393				hypothetical protein
+CMPMCBPK_00321	CDS	183				hypothetical protein
+CMPMCBPK_00322	CDS	1311				hypothetical protein
+CMPMCBPK_00323	CDS	888				hypothetical protein
+CMPMCBPK_00324	CDS	3531				hypothetical protein
+CMPMCBPK_00325	CDS	741				hypothetical protein
+CMPMCBPK_00326	CDS	1206	yteT	1.-.-.-	COG0673	Putative oxidoreductase YteT
+CMPMCBPK_00327	CDS	639				hypothetical protein
+CMPMCBPK_00328	CDS	831	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+CMPMCBPK_00329	CDS	402	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+CMPMCBPK_00330	CDS	771				hypothetical protein
+CMPMCBPK_00331	CDS	147				hypothetical protein
+CMPMCBPK_00332	CDS	456				putative epimerase/dehydratase
+CMPMCBPK_00333	CDS	1434	groL_2		COG0459	60 kDa chaperonin
+CMPMCBPK_00334	CDS	297				hypothetical protein
+CMPMCBPK_00335	CDS	1011	fda	4.1.2.13		Fructose-bisphosphate aldolase class 1
+CMPMCBPK_00336	CDS	267				hypothetical protein
+CMPMCBPK_00337	CDS	834				hypothetical protein
+CMPMCBPK_00338	CDS	294				hypothetical protein
+CMPMCBPK_00339	CDS	294				hypothetical protein
+CMPMCBPK_00340	CDS	375				hypothetical protein
+CMPMCBPK_00341	CDS	1041				hypothetical protein
+CMPMCBPK_00342	CDS	633				hypothetical protein
+CMPMCBPK_00343	CDS	501	grpE		COG0576	Protein GrpE
+CMPMCBPK_00344	CDS	405				hypothetical protein
+CMPMCBPK_00345	CDS	558				hypothetical protein
+CMPMCBPK_00346	CDS	651				hypothetical protein
+CMPMCBPK_00347	CDS	492				hypothetical protein
+CMPMCBPK_00348	CDS	312				hypothetical protein
+CMPMCBPK_00349	CDS	534				hypothetical protein
+CMPMCBPK_00350	CDS	1389				hypothetical protein
+CMPMCBPK_00351	CDS	942	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+CMPMCBPK_00352	CDS	228				hypothetical protein
+CMPMCBPK_00353	CDS	249				hypothetical protein
+CMPMCBPK_00354	CDS	567				hypothetical protein
+CMPMCBPK_00355	CDS	1251	glyA2	2.1.2.1		Serine hydroxymethyltransferase 2
+CMPMCBPK_00356	CDS	1182				hypothetical protein
+CMPMCBPK_00357	CDS	336				hypothetical protein
+CMPMCBPK_00358	CDS	639				hypothetical protein
+CMPMCBPK_00359	CDS	2514				hypothetical protein
+CMPMCBPK_00360	CDS	969	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CMPMCBPK_00361	CDS	702				hypothetical protein
+CMPMCBPK_00362	CDS	156				hypothetical protein
+CMPMCBPK_00363	CDS	618				hypothetical protein
+CMPMCBPK_00364	CDS	849				hypothetical protein
+CMPMCBPK_00365	CDS	498	lpdV	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+CMPMCBPK_00366	CDS	453	decR		COG1522	DNA-binding transcriptional activator DecR
+CMPMCBPK_00367	CDS	351				hypothetical protein
+CMPMCBPK_00368	CDS	174				hypothetical protein
+CMPMCBPK_00369	CDS	288				Ferredoxin
+CMPMCBPK_00370	CDS	1092				hypothetical protein
+CMPMCBPK_00371	CDS	921	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+CMPMCBPK_00372	CDS	291				hypothetical protein
+CMPMCBPK_00373	CDS	1083				hypothetical protein
+CMPMCBPK_00374	CDS	558				hypothetical protein
+CMPMCBPK_00375	CDS	666	dnaJ		COG0484	Chaperone protein DnaJ
+CMPMCBPK_00376	CDS	144				hypothetical protein
+CMPMCBPK_00377	CDS	1098				hypothetical protein
+CMPMCBPK_00378	CDS	1227	csd	2.8.1.7		putative cysteine desulfurase
+CMPMCBPK_00379	CDS	417	sufE		COG2166	Cysteine desulfuration protein SufE
+CMPMCBPK_00380	CDS	291				hypothetical protein
+CMPMCBPK_00381	CDS	504				hypothetical protein
+CMPMCBPK_00382	CDS	615				hypothetical protein
+CMPMCBPK_00383	CDS	288				hypothetical protein
+CMPMCBPK_00384	CDS	1062				hypothetical protein
+CMPMCBPK_00385	CDS	675				hypothetical protein
+CMPMCBPK_00386	CDS	207				hypothetical protein
+CMPMCBPK_00387	CDS	783				hypothetical protein
+CMPMCBPK_00388	CDS	1044				hypothetical protein
+CMPMCBPK_00389	CDS	693				hypothetical protein
+CMPMCBPK_00390	CDS	207				hypothetical protein
+CMPMCBPK_00391	CDS	1152	ftsZ_2			Cell division protein FtsZ
+CMPMCBPK_00392	CDS	834				hypothetical protein
+CMPMCBPK_00393	CDS	288				hypothetical protein
+CMPMCBPK_00394	CDS	216				hypothetical protein
+CMPMCBPK_00395	CDS	1716				hypothetical protein
+CMPMCBPK_00396	CDS	723				hypothetical protein
+CMPMCBPK_00397	CDS	630				hypothetical protein
+CMPMCBPK_00398	CDS	177				hypothetical protein
+CMPMCBPK_00399	CDS	270				hypothetical protein
+CMPMCBPK_00400	CDS	1008				hypothetical protein
+CMPMCBPK_00401	CDS	468				hypothetical protein
+CMPMCBPK_00402	CDS	786				hypothetical protein
+CMPMCBPK_00403	CDS	291				hypothetical protein
+CMPMCBPK_00404	CDS	1176				hypothetical protein
+CMPMCBPK_00405	CDS	1314				hypothetical protein
+CMPMCBPK_00406	CDS	1803	polB	2.7.7.7	COG0417	DNA polymerase II
+CMPMCBPK_00407	CDS	582				hypothetical protein
+CMPMCBPK_00408	CDS	1053				hypothetical protein
+CMPMCBPK_00409	CDS	1257				hypothetical protein
+CMPMCBPK_00410	CDS	984	mccB	4.4.1.1	COG0626	Cystathionine gamma-lyase
+CMPMCBPK_00411	CDS	1422				hypothetical protein
+CMPMCBPK_00412	CDS	417				hypothetical protein
+CMPMCBPK_00413	CDS	222				hypothetical protein
+CMPMCBPK_00414	CDS	1014				hypothetical protein
+CMPMCBPK_00415	CDS	906	amnB	1.13.11.74		2-aminophenol 1,6-dioxygenase beta subunit
+CMPMCBPK_00416	CDS	1041				hypothetical protein
+CMPMCBPK_00417	CDS	1617				hypothetical protein
+CMPMCBPK_00418	CDS	270				hypothetical protein
+CMPMCBPK_00419	CDS	612				hypothetical protein
+CMPMCBPK_00420	CDS	924	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+CMPMCBPK_00421	CDS	828				hypothetical protein
+CMPMCBPK_00422	CDS	483				hypothetical protein
+CMPMCBPK_00423	CDS	678				hypothetical protein
+CMPMCBPK_00424	CDS	729				hypothetical protein
+CMPMCBPK_00425	CDS	1794				hypothetical protein
+CMPMCBPK_00426	CDS	780				hypothetical protein
+CMPMCBPK_00427	CDS	1119				hypothetical protein
+CMPMCBPK_00428	CDS	675				hypothetical protein
+CMPMCBPK_00429	CDS	1281				hypothetical protein
+CMPMCBPK_00430	CDS	846				hypothetical protein
+CMPMCBPK_00431	CDS	444				hypothetical protein
+CMPMCBPK_00432	CDS	177				hypothetical protein
+CMPMCBPK_00433	CDS	2325	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+CMPMCBPK_00434	CDS	210				hypothetical protein
+CMPMCBPK_00435	CDS	999				hypothetical protein
+CMPMCBPK_00436	CDS	564				hypothetical protein
+CMPMCBPK_00437	CDS	273				hypothetical protein
+CMPMCBPK_00438	CDS	441				hypothetical protein
+CMPMCBPK_00439	CDS	273				hypothetical protein
+CMPMCBPK_00440	CDS	444				hypothetical protein
+CMPMCBPK_00441	CDS	762	truD	5.4.99.27		tRNA pseudouridine synthase D
+CMPMCBPK_00442	CDS	273				hypothetical protein
+CMPMCBPK_00443	CDS	162				hypothetical protein
+CMPMCBPK_00444	CDS	1137				hypothetical protein
+CMPMCBPK_00445	CDS	258	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+CMPMCBPK_00446	CDS	663	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+CMPMCBPK_00447	CDS	672				hypothetical protein
+CMPMCBPK_00448	CDS	351			COG1695	Transcriptional regulator
+CMPMCBPK_00449	CDS	606				hypothetical protein
+CMPMCBPK_00450	CDS	1296				hypothetical protein
+CMPMCBPK_00451	tRNA	76				tRNA-Asp(gtc)
+CMPMCBPK_00452	CDS	795	mtnB	4.2.1.109		Methylthioribulose-1-phosphate dehydratase
+CMPMCBPK_00453	CDS	591	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+CMPMCBPK_00454	CDS	150				hypothetical protein
+CMPMCBPK_00455	CDS	1143				hypothetical protein
+CMPMCBPK_00456	tRNA	77				tRNA-Arg(cct)
+CMPMCBPK_00457	CDS	207				hypothetical protein
+CMPMCBPK_00458	CDS	105				hypothetical protein
+CMPMCBPK_00459	CDS	903				hypothetical protein
+CMPMCBPK_00460	tRNA	75				tRNA-Val(tac)
+CMPMCBPK_00461	CDS	744	cinA			Putative competence-damage inducible protein
+CMPMCBPK_00462	CDS	1137				hypothetical protein
+CMPMCBPK_00463	CDS	567				hypothetical protein
+CMPMCBPK_00464	CDS	1095				hypothetical protein
+CMPMCBPK_00465	CDS	1428	pepX	3.4.14.11		Xaa-Pro dipeptidyl-peptidase
+CMPMCBPK_00466	CDS	729				hypothetical protein
+CMPMCBPK_00467	CDS	423				hypothetical protein
+CMPMCBPK_00468	CDS	441	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+CMPMCBPK_00469	CDS	819				hypothetical protein
+CMPMCBPK_00470	CDS	687				hypothetical protein
+CMPMCBPK_00471	CDS	1272				hypothetical protein
+CMPMCBPK_00472	CDS	843				hypothetical protein
+CMPMCBPK_00473	CDS	243				hypothetical protein
+CMPMCBPK_00474	CDS	729	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+CMPMCBPK_00475	CDS	696				hypothetical protein
+CMPMCBPK_00476	CDS	774	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+CMPMCBPK_00477	CDS	795				hypothetical protein
+CMPMCBPK_00478	CDS	435				hypothetical protein
+CMPMCBPK_00479	CDS	1746				hypothetical protein
+CMPMCBPK_00480	CDS	585				hypothetical protein
+CMPMCBPK_00481	CDS	975	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+CMPMCBPK_00482	CDS	435	cfiA_1	6.4.1.7	COG0511	2-oxoglutarate carboxylase large subunit
+CMPMCBPK_00483	CDS	783	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+CMPMCBPK_00484	CDS	894				hypothetical protein
+CMPMCBPK_00485	CDS	378				hypothetical protein
+CMPMCBPK_00486	CDS	948				hypothetical protein
+CMPMCBPK_00487	CDS	999				hypothetical protein
+CMPMCBPK_00488	CDS	453				hypothetical protein
+CMPMCBPK_00489	CDS	609	pyk	2.7.1.40		Pyruvate kinase
+CMPMCBPK_00490	CDS	1110				hypothetical protein
+CMPMCBPK_00491	CDS	1407				hypothetical protein
+CMPMCBPK_00492	CDS	186				hypothetical protein
+CMPMCBPK_00493	CDS	462				hypothetical protein
+CMPMCBPK_00494	CDS	348				hypothetical protein
+CMPMCBPK_00495	CDS	963	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+CMPMCBPK_00496	CDS	321				hypothetical protein
+CMPMCBPK_00497	CDS	924	cysJ	1.8.1.2	COG0369	Sulfite reductase [NADPH] flavoprotein alpha-component
+CMPMCBPK_00498	CDS	1374				hypothetical protein
+CMPMCBPK_00499	CDS	456				hypothetical protein
+CMPMCBPK_00500	CDS	858				hypothetical protein
+CMPMCBPK_00501	CDS	1209				hypothetical protein
+CMPMCBPK_00502	CDS	1008				hypothetical protein
+CMPMCBPK_00503	CDS	1071	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+CMPMCBPK_00504	CDS	570				hypothetical protein
+CMPMCBPK_00505	CDS	192				hypothetical protein
+CMPMCBPK_00506	CDS	1479	ctaD	1.9.3.1		Cytochrome c oxidase subunit 1
+CMPMCBPK_00507	CDS	870				hypothetical protein
+CMPMCBPK_00508	CDS	351				hypothetical protein
+CMPMCBPK_00509	CDS	555				hypothetical protein
+CMPMCBPK_00510	tRNA	75				tRNA-Thr(cgt)
+CMPMCBPK_00511	CDS	357				hypothetical protein
+CMPMCBPK_00512	CDS	1263	pgk/tpi		COG0126	Bifunctional PGK/TIM
+CMPMCBPK_00513	CDS	1284	argD	2.6.1.11	COG4992	Acetylornithine/succinyldiaminopimelate aminotransferase
+CMPMCBPK_00514	CDS	507				hypothetical protein
+CMPMCBPK_00515	CDS	234		2.5.-.-		Deoxyhypusine synthase-like protein
+CMPMCBPK_00516	CDS	387				hypothetical protein
+CMPMCBPK_00517	CDS	567				hypothetical protein
+CMPMCBPK_00518	CDS	1110				hypothetical protein
+CMPMCBPK_00519	CDS	657				hypothetical protein
+CMPMCBPK_00520	CDS	693				hypothetical protein
+CMPMCBPK_00521	CDS	1098	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+CMPMCBPK_00522	tRNA	84				tRNA-Leu(gag)
+CMPMCBPK_00523	CDS	288				hypothetical protein
+CMPMCBPK_00524	CDS	1125	ribD		COG0117	Riboflavin biosynthesis protein RibD
+CMPMCBPK_00525	CDS	363				hypothetical protein
+CMPMCBPK_00526	tRNA	76				tRNA-Arg(tcg)
+CMPMCBPK_00527	CDS	1122				hypothetical protein
+CMPMCBPK_00528	CDS	939	mdh	1.1.1.37		Malate dehydrogenase
+CMPMCBPK_00529	CDS	642				hypothetical protein
+CMPMCBPK_00530	CDS	1680				hypothetical protein
+CMPMCBPK_00531	CDS	153				hypothetical protein
+CMPMCBPK_00532	CDS	438				hypothetical protein
+CMPMCBPK_00533	CDS	546				hypothetical protein
+CMPMCBPK_00534	CDS	381				hypothetical protein
+CMPMCBPK_00535	CDS	438				hypothetical protein
+CMPMCBPK_00536	CDS	492				hypothetical protein
+CMPMCBPK_00537	CDS	771				hypothetical protein
+CMPMCBPK_00538	CDS	204				hypothetical protein
+CMPMCBPK_00539	CDS	582				hypothetical protein
+CMPMCBPK_00540	CDS	606				hypothetical protein
+CMPMCBPK_00541	CDS	894		1.1.1.35	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+CMPMCBPK_00542	CDS	126				hypothetical protein
+CMPMCBPK_00543	CDS	954				hypothetical protein
+CMPMCBPK_00544	CDS	222				hypothetical protein
+CMPMCBPK_00545	CDS	903				hypothetical protein
+CMPMCBPK_00546	CDS	306				hypothetical protein
+CMPMCBPK_00547	CDS	1017				hypothetical protein
+CMPMCBPK_00548	CDS	645	rplA		COG0081	50S ribosomal protein L1
+CMPMCBPK_00549	CDS	279				hypothetical protein
+CMPMCBPK_00550	CDS	627				hypothetical protein
+CMPMCBPK_00551	CDS	858				hypothetical protein
+CMPMCBPK_00552	CDS	246				hypothetical protein
+CMPMCBPK_00553	CDS	405	cfiA_2	6.4.1.7	COG0511	2-oxoglutarate carboxylase large subunit
+CMPMCBPK_00554	CDS	270				hypothetical protein
+CMPMCBPK_00555	CDS	513	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+CMPMCBPK_00556	CDS	231				hypothetical protein
+CMPMCBPK_00557	CDS	780				hypothetical protein
+CMPMCBPK_00558	CDS	363				hypothetical protein
+CMPMCBPK_00559	CDS	240				hypothetical protein
+CMPMCBPK_00560	CDS	1560				hypothetical protein
+CMPMCBPK_00561	CDS	324	trxA		COG0526	Thioredoxin 1
+CMPMCBPK_00562	CDS	681	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+CMPMCBPK_00563	CDS	2133				hypothetical protein
+CMPMCBPK_00564	CDS	1218				hypothetical protein
+CMPMCBPK_00565	CDS	444				hypothetical protein
+CMPMCBPK_00566	CDS	414				hypothetical protein
+CMPMCBPK_00567	CDS	228				hypothetical protein
+CMPMCBPK_00568	CDS	423				hypothetical protein
+CMPMCBPK_00569	CDS	429				hypothetical protein
+CMPMCBPK_00570	CDS	675				hypothetical protein
+CMPMCBPK_00571	CDS	900				hypothetical protein
+CMPMCBPK_00572	CDS	1011				hypothetical protein
+CMPMCBPK_00573	CDS	156				hypothetical protein
+CMPMCBPK_00574	CDS	501				hypothetical protein
+CMPMCBPK_00575	CDS	231				hypothetical protein
+CMPMCBPK_00576	CDS	2502	mutS		COG0249	DNA mismatch repair protein MutS
+CMPMCBPK_00577	CDS	537	pucA	1.17.1.4	COG1975	putative xanthine dehydrogenase subunit A
+CMPMCBPK_00578	CDS	1230				hypothetical protein
+CMPMCBPK_00579	CDS	243				hypothetical protein
+CMPMCBPK_00580	CDS	978				hypothetical protein
+CMPMCBPK_00581	CDS	531				hypothetical protein
+CMPMCBPK_00582	CDS	1119				hypothetical protein
+CMPMCBPK_00583	CDS	372	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+CMPMCBPK_00584	CDS	516	tpx	1.11.1.15		Thiol peroxidase
+CMPMCBPK_00585	CDS	582				hypothetical protein
+CMPMCBPK_00586	CDS	384				hypothetical protein
+CMPMCBPK_00587	CDS	249	acrC	1.3.1.95		Acryloyl-CoA reductase (NADH)
+CMPMCBPK_00588	tRNA	73				tRNA-Gln(ttg)
+CMPMCBPK_00589	CDS	303				hypothetical protein
+CMPMCBPK_00590	CDS	1782				hypothetical protein
+CMPMCBPK_00591	CDS	639				hypothetical protein
+CMPMCBPK_00592	CDS	810				hypothetical protein
+CMPMCBPK_00593	CDS	468				hypothetical protein
+CMPMCBPK_00594	CDS	156				hypothetical protein
+CMPMCBPK_00595	CDS	1902	clsB	2.7.8.-		Cardiolipin synthase B
+CMPMCBPK_00596	CDS	747				hypothetical protein
+CMPMCBPK_00597	CDS	705				hypothetical protein
+CMPMCBPK_00598	CDS	1413				hypothetical protein
+CMPMCBPK_00599	CDS	978				hypothetical protein
+CMPMCBPK_00600	CDS	1536				hypothetical protein
+CMPMCBPK_00601	CDS	720	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+CMPMCBPK_00602	CDS	627	scpB			Segregation and condensation protein B
+CMPMCBPK_00603	CDS	198				hypothetical protein
+CMPMCBPK_00604	CDS	1395	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+CMPMCBPK_00605	CDS	243				hypothetical protein
+CMPMCBPK_00606	CDS	783	rutC	1.-.-.-		Putative aminoacrylate peracid reductase RutC
+CMPMCBPK_00607	CDS	1227				hypothetical protein
+CMPMCBPK_00608	CDS	1011				hypothetical protein
+CMPMCBPK_00609	CDS	471	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+CMPMCBPK_00610	CDS	1713				hypothetical protein
+CMPMCBPK_00611	CDS	183				hypothetical protein
+CMPMCBPK_00612	CDS	630				hypothetical protein
+CMPMCBPK_00613	CDS	768				hypothetical protein
+CMPMCBPK_00614	CDS	198				hypothetical protein
+CMPMCBPK_00615	CDS	435				hypothetical protein
+CMPMCBPK_00616	CDS	531	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+CMPMCBPK_00617	CDS	438				hypothetical protein
+CMPMCBPK_00618	CDS	162				hypothetical protein
+CMPMCBPK_00619	CDS	636				hypothetical protein
+CMPMCBPK_00620	CDS	1356				hypothetical protein
+CMPMCBPK_00621	CDS	387				hypothetical protein
+CMPMCBPK_00622	CDS	684				hypothetical protein
+CMPMCBPK_00623	CDS	1434				hypothetical protein
+CMPMCBPK_00624	CDS	642				hypothetical protein
+CMPMCBPK_00625	CDS	1119				hypothetical protein
+CMPMCBPK_00626	CDS	183				hypothetical protein
+CMPMCBPK_00627	CDS	498				hypothetical protein
+CMPMCBPK_00628	CDS	1233				hypothetical protein
+CMPMCBPK_00629	CDS	783	pchA	1.2.1.96		4-hydroxybenzaldehyde dehydrogenase (NADP(+))
+CMPMCBPK_00630	CDS	105				hypothetical protein
+CMPMCBPK_00631	CDS	858				hypothetical protein
+CMPMCBPK_00632	CDS	972				hypothetical protein
+CMPMCBPK_00633	CDS	459				hypothetical protein
+CMPMCBPK_00634	CDS	795				hypothetical protein
+CMPMCBPK_00635	CDS	810				hypothetical protein
+CMPMCBPK_00636	CDS	654				hypothetical protein
+CMPMCBPK_00637	CDS	699	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+CMPMCBPK_00638	CDS	528				hypothetical protein
+CMPMCBPK_00639	CDS	345				hypothetical protein
+CMPMCBPK_00640	CDS	570	apt	2.4.2.7		Adenine phosphoribosyltransferase
+CMPMCBPK_00641	CDS	540				hypothetical protein
+CMPMCBPK_00642	CDS	1212				hypothetical protein
+CMPMCBPK_00643	CDS	972				hypothetical protein
+CMPMCBPK_00644	CDS	264				hypothetical protein
+CMPMCBPK_00645	CDS	1659	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+CMPMCBPK_00646	CDS	600				hypothetical protein
+CMPMCBPK_00647	CDS	387				hypothetical protein
+CMPMCBPK_00648	CDS	903	phnE		COG3639	Phosphate-import permease protein PhnE
+CMPMCBPK_00649	CDS	216				hypothetical protein
+CMPMCBPK_00650	tRNA	87				tRNA-Leu(tag)
+CMPMCBPK_00651	CDS	720				hypothetical protein
+CMPMCBPK_00652	CDS	1398				hypothetical protein
+CMPMCBPK_00653	CDS	204				hypothetical protein
+CMPMCBPK_00654	CDS	393	yhfA		COG1765	Protein YhfA
+CMPMCBPK_00655	CDS	693				hypothetical protein
+CMPMCBPK_00656	CDS	249				hypothetical protein
+CMPMCBPK_00657	CDS	981				hypothetical protein
+CMPMCBPK_00658	CDS	1224				hypothetical protein
+CMPMCBPK_00659	CDS	771				hypothetical protein
+CMPMCBPK_00660	CDS	582				hypothetical protein
+CMPMCBPK_00661	CDS	1134	smc			Chromosome partition protein Smc
+CMPMCBPK_00662	CDS	483				hypothetical protein
+CMPMCBPK_00663	CDS	978				hypothetical protein
+CMPMCBPK_00664	CDS	273				hypothetical protein
+CMPMCBPK_00665	CDS	237				hypothetical protein
+CMPMCBPK_00666	CDS	747		2.4.-.-	COG0463	putative glycosyltransferase
+CMPMCBPK_00667	CDS	540				hypothetical protein
+CMPMCBPK_00668	CDS	1185				hypothetical protein
+CMPMCBPK_00669	CDS	291				hypothetical protein
+CMPMCBPK_00670	CDS	966				hypothetical protein
+CMPMCBPK_00671	CDS	276				hypothetical protein
+CMPMCBPK_00672	CDS	531				hypothetical protein
+CMPMCBPK_00673	CDS	861				hypothetical protein
+CMPMCBPK_00674	CDS	798				hypothetical protein
+CMPMCBPK_00675	CDS	1143				hypothetical protein
+CMPMCBPK_00676	CDS	762	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+CMPMCBPK_00677	CDS	213				hypothetical protein
+CMPMCBPK_00678	CDS	336	grxD		COG0278	Glutaredoxin 4
+CMPMCBPK_00679	CDS	1275				hypothetical protein
+CMPMCBPK_00680	CDS	1011				hypothetical protein
+CMPMCBPK_00681	CDS	474				hypothetical protein
+CMPMCBPK_00682	CDS	954	fadM	1.5.5.2		Proline dehydrogenase 1
+CMPMCBPK_00683	CDS	795				hypothetical protein
+CMPMCBPK_00684	CDS	351				hypothetical protein
+CMPMCBPK_00685	CDS	288				hypothetical protein
+CMPMCBPK_00686	CDS	237				hypothetical protein
+CMPMCBPK_00687	CDS	780				hypothetical protein
+CMPMCBPK_00688	CDS	621				hypothetical protein
+CMPMCBPK_00689	CDS	531				hypothetical protein
+CMPMCBPK_00690	CDS	123				hypothetical protein
+CMPMCBPK_00691	CDS	819	mutY	3.2.2.31		Adenine DNA glycosylase
+CMPMCBPK_00692	CDS	153				hypothetical protein
+CMPMCBPK_00693	CDS	243				hypothetical protein

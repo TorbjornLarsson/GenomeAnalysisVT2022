@@ -1,0 +1,788 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BNMNEFAF_00001	CDS	1191	triA_1	3.5.4.45		Melamine deaminase
+BNMNEFAF_00002	CDS	657	ribD2_1	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+BNMNEFAF_00003	CDS	273				hypothetical protein
+BNMNEFAF_00004	CDS	513	lhyD_1	3.5.2.-		L-hydantoinase
+BNMNEFAF_00005	CDS	828				hypothetical protein
+BNMNEFAF_00006	CDS	1143	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+BNMNEFAF_00007	CDS	540	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+BNMNEFAF_00008	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+BNMNEFAF_00009	CDS	837				hypothetical protein
+BNMNEFAF_00010	CDS	123				hypothetical protein
+BNMNEFAF_00011	CDS	792				hypothetical protein
+BNMNEFAF_00012	CDS	372				hypothetical protein
+BNMNEFAF_00013	CDS	387				hypothetical protein
+BNMNEFAF_00014	CDS	411				hypothetical protein
+BNMNEFAF_00015	CDS	219				hypothetical protein
+BNMNEFAF_00016	CDS	240				hypothetical protein
+BNMNEFAF_00017	CDS	276				hypothetical protein
+BNMNEFAF_00018	CDS	1548	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+BNMNEFAF_00019	CDS	1689	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+BNMNEFAF_00020	CDS	357	tcrA		COG0745	Transcriptional regulatory protein TcrA
+BNMNEFAF_00021	tRNA	77				tRNA-Phe(gaa)
+BNMNEFAF_00022	CDS	537	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+BNMNEFAF_00023	CDS	546				hypothetical protein
+BNMNEFAF_00024	CDS	225				hypothetical protein
+BNMNEFAF_00025	CDS	300				hypothetical protein
+BNMNEFAF_00026	CDS	348				hypothetical protein
+BNMNEFAF_00027	CDS	1224				hypothetical protein
+BNMNEFAF_00028	CDS	840				hypothetical protein
+BNMNEFAF_00029	CDS	621				hypothetical protein
+BNMNEFAF_00030	CDS	1359	hisC	2.6.1.9		Histidinol-phosphate aminotransferase
+BNMNEFAF_00031	CDS	1926	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+BNMNEFAF_00032	CDS	264				hypothetical protein
+BNMNEFAF_00033	CDS	1404	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+BNMNEFAF_00034	CDS	1446	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+BNMNEFAF_00035	CDS	267				hypothetical protein
+BNMNEFAF_00036	CDS	1311	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+BNMNEFAF_00037	CDS	171				hypothetical protein
+BNMNEFAF_00038	CDS	210				hypothetical protein
+BNMNEFAF_00039	CDS	1026				hypothetical protein
+BNMNEFAF_00040	CDS	792	phnE		COG3639	Phosphate-import permease protein PhnE
+BNMNEFAF_00041	CDS	831	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+BNMNEFAF_00042	CDS	1089				hypothetical protein
+BNMNEFAF_00043	CDS	351				hypothetical protein
+BNMNEFAF_00044	CDS	333				hypothetical protein
+BNMNEFAF_00045	CDS	729				hypothetical protein
+BNMNEFAF_00046	CDS	216				hypothetical protein
+BNMNEFAF_00047	CDS	630				hypothetical protein
+BNMNEFAF_00048	CDS	648				hypothetical protein
+BNMNEFAF_00049	CDS	1281				hypothetical protein
+BNMNEFAF_00050	CDS	405	hit		COG0537	Protein hit
+BNMNEFAF_00051	CDS	231	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BNMNEFAF_00052	CDS	936	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+BNMNEFAF_00053	CDS	258				hypothetical protein
+BNMNEFAF_00054	CDS	1332				hypothetical protein
+BNMNEFAF_00055	CDS	1344				hypothetical protein
+BNMNEFAF_00056	CDS	951				hypothetical protein
+BNMNEFAF_00057	CDS	873			COG1721	putative protein
+BNMNEFAF_00058	CDS	801				hypothetical protein
+BNMNEFAF_00059	CDS	1350	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+BNMNEFAF_00060	CDS	186				hypothetical protein
+BNMNEFAF_00061	CDS	687	bioD	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD
+BNMNEFAF_00062	CDS	153	cph1	2.7.13.3		Phytochrome-like protein cph1
+BNMNEFAF_00063	CDS	399				hypothetical protein
+BNMNEFAF_00064	CDS	864				hypothetical protein
+BNMNEFAF_00065	CDS	306				hypothetical protein
+BNMNEFAF_00066	CDS	588				hypothetical protein
+BNMNEFAF_00067	CDS	303				hypothetical protein
+BNMNEFAF_00068	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+BNMNEFAF_00069	CDS	711				hypothetical protein
+BNMNEFAF_00070	CDS	714				hypothetical protein
+BNMNEFAF_00071	CDS	1155				hypothetical protein
+BNMNEFAF_00072	CDS	1053				hypothetical protein
+BNMNEFAF_00073	CDS	1254				hypothetical protein
+BNMNEFAF_00074	CDS	1338				hypothetical protein
+BNMNEFAF_00075	CDS	363				hypothetical protein
+BNMNEFAF_00076	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+BNMNEFAF_00077	CDS	258				hypothetical protein
+BNMNEFAF_00078	CDS	612				hypothetical protein
+BNMNEFAF_00079	CDS	351	cheY_1		COG0784	Chemotaxis protein CheY
+BNMNEFAF_00080	CDS	144				hypothetical protein
+BNMNEFAF_00081	CDS	726				hypothetical protein
+BNMNEFAF_00082	CDS	594	ribE_1	2.5.1.9	COG0307	Riboflavin synthase
+BNMNEFAF_00083	CDS	666	ribBA_1		COG0108	Riboflavin biosynthesis protein RibBA
+BNMNEFAF_00084	CDS	417	ribH_1	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+BNMNEFAF_00085	CDS	753				hypothetical protein
+BNMNEFAF_00086	CDS	225				hypothetical protein
+BNMNEFAF_00087	CDS	732				hypothetical protein
+BNMNEFAF_00088	CDS	846	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+BNMNEFAF_00089	CDS	582				hypothetical protein
+BNMNEFAF_00090	CDS	333	glnB		COG0347	Nitrogen regulatory protein P-II 1
+BNMNEFAF_00091	CDS	1308	nrgA			Ammonium transporter
+BNMNEFAF_00092	CDS	366				hypothetical protein
+BNMNEFAF_00093	CDS	936	yrbG		COG0530	Inner membrane protein YrbG
+BNMNEFAF_00094	CDS	1359	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+BNMNEFAF_00095	CDS	1260	fbiC		COG1060	FO synthase
+BNMNEFAF_00096	CDS	204	cofG	4.3.1.32		7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+BNMNEFAF_00097	CDS	654	recA			Protein RecA
+BNMNEFAF_00098	CDS	906				hypothetical protein
+BNMNEFAF_00099	CDS	828	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+BNMNEFAF_00100	CDS	291				hypothetical protein
+BNMNEFAF_00101	CDS	3045	smc_1			Chromosome partition protein Smc
+BNMNEFAF_00102	CDS	234				hypothetical protein
+BNMNEFAF_00103	CDS	306				hypothetical protein
+BNMNEFAF_00104	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+BNMNEFAF_00105	CDS	174				hypothetical protein
+BNMNEFAF_00106	CDS	477				hypothetical protein
+BNMNEFAF_00107	CDS	228				hypothetical protein
+BNMNEFAF_00108	CDS	444	lrp		COG1522	Leucine-responsive regulatory protein
+BNMNEFAF_00109	CDS	549	dnaJ_1			Chaperone protein DnaJ
+BNMNEFAF_00110	CDS	405				hypothetical protein
+BNMNEFAF_00111	CDS	1314				hypothetical protein
+BNMNEFAF_00112	CDS	1446			COG0247	putative protein
+BNMNEFAF_00113	CDS	606	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+BNMNEFAF_00114	CDS	1083				hypothetical protein
+BNMNEFAF_00115	CDS	1107				hypothetical protein
+BNMNEFAF_00116	CDS	498				hypothetical protein
+BNMNEFAF_00117	CDS	219				hypothetical protein
+BNMNEFAF_00118	CDS	837				hypothetical protein
+BNMNEFAF_00119	CDS	1788	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BNMNEFAF_00120	rRNA	96				5S ribosomal RNA
+BNMNEFAF_00121	CDS	666				hypothetical protein
+BNMNEFAF_00122	CDS	498				hypothetical protein
+BNMNEFAF_00123	CDS	651				hypothetical protein
+BNMNEFAF_00124	CDS	1140				hypothetical protein
+BNMNEFAF_00125	CDS	1458	groL			60 kDa chaperonin
+BNMNEFAF_00126	CDS	1461	glnA_1	6.3.1.2		Glutamine synthetase
+BNMNEFAF_00127	CDS	948				hypothetical protein
+BNMNEFAF_00128	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+BNMNEFAF_00129	CDS	1467				hypothetical protein
+BNMNEFAF_00130	CDS	312				hypothetical protein
+BNMNEFAF_00131	CDS	558				hypothetical protein
+BNMNEFAF_00132	CDS	291				hypothetical protein
+BNMNEFAF_00133	CDS	657	ribD2_2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+BNMNEFAF_00134	CDS	1191	triA_2	3.5.4.45		Melamine deaminase
+BNMNEFAF_00135	CDS	753				hypothetical protein
+BNMNEFAF_00136	CDS	411	ribH_2	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+BNMNEFAF_00137	CDS	270				hypothetical protein
+BNMNEFAF_00138	CDS	267				hypothetical protein
+BNMNEFAF_00139	CDS	669	hddC	2.7.7.71		D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+BNMNEFAF_00140	CDS	966		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+BNMNEFAF_00141	CDS	1110	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+BNMNEFAF_00142	CDS	465	yisK_1		COG0179	putative protein YisK
+BNMNEFAF_00143	CDS	777				hypothetical protein
+BNMNEFAF_00144	CDS	309	bphA3			Biphenyl dioxygenase ferredoxin subunit
+BNMNEFAF_00145	CDS	270				hypothetical protein
+BNMNEFAF_00146	CDS	768				hypothetical protein
+BNMNEFAF_00147	CDS	336				hypothetical protein
+BNMNEFAF_00148	tRNA	73				tRNA-His(gtg)
+BNMNEFAF_00149	CDS	1023	corA		COG0598	Cobalt/magnesium transport protein CorA
+BNMNEFAF_00150	CDS	270				hypothetical protein
+BNMNEFAF_00151	CDS	669	tal	2.2.1.2	COG0176	Transaldolase
+BNMNEFAF_00152	CDS	960	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+BNMNEFAF_00153	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+BNMNEFAF_00154	CDS	273				hypothetical protein
+BNMNEFAF_00155	CDS	504				hypothetical protein
+BNMNEFAF_00156	CDS	210				hypothetical protein
+BNMNEFAF_00157	CDS	213				hypothetical protein
+BNMNEFAF_00158	CDS	1266		3.1.-.-	COG1236	Ribonuclease
+BNMNEFAF_00159	tRNA	73				tRNA-His(gtg)
+BNMNEFAF_00160	CDS	387				hypothetical protein
+BNMNEFAF_00161	CDS	348				hypothetical protein
+BNMNEFAF_00162	CDS	762				hypothetical protein
+BNMNEFAF_00163	CDS	270				hypothetical protein
+BNMNEFAF_00164	CDS	549				hypothetical protein
+BNMNEFAF_00165	CDS	735	apgM_1			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+BNMNEFAF_00166	CDS	384				hypothetical protein
+BNMNEFAF_00167	CDS	1917	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+BNMNEFAF_00168	CDS	525				hypothetical protein
+BNMNEFAF_00169	CDS	1023				hypothetical protein
+BNMNEFAF_00170	CDS	264				hypothetical protein
+BNMNEFAF_00171	tRNA	84				tRNA-Ser(cga)
+BNMNEFAF_00172	CDS	186				hypothetical protein
+BNMNEFAF_00173	CDS	597				hypothetical protein
+BNMNEFAF_00174	CDS	762				hypothetical protein
+BNMNEFAF_00175	CDS	168				hypothetical protein
+BNMNEFAF_00176	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+BNMNEFAF_00177	CDS	2493	pepN	3.4.11.2	COG0308	Aminopeptidase N
+BNMNEFAF_00178	CDS	408				hypothetical protein
+BNMNEFAF_00179	CDS	918	argK	3.6.5.-	COG1703	GTPase ArgK
+BNMNEFAF_00180	CDS	1812	lig	6.5.1.1		DNA ligase
+BNMNEFAF_00181	CDS	771	yfcA		COG0730	putative membrane transporter protein YfcA
+BNMNEFAF_00182	CDS	642				hypothetical protein
+BNMNEFAF_00183	CDS	492				hypothetical protein
+BNMNEFAF_00184	CDS	744				hypothetical protein
+BNMNEFAF_00185	CDS	357				hypothetical protein
+BNMNEFAF_00186	CDS	465	mntR			HTH-type transcriptional regulator MntR
+BNMNEFAF_00187	CDS	1818				hypothetical protein
+BNMNEFAF_00188	CDS	357	cheY_2		COG0784	Chemotaxis protein CheY
+BNMNEFAF_00189	CDS	354				hypothetical protein
+BNMNEFAF_00190	CDS	1890	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+BNMNEFAF_00191	CDS	1422				hypothetical protein
+BNMNEFAF_00192	CDS	591	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+BNMNEFAF_00193	CDS	558		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+BNMNEFAF_00194	CDS	510				hypothetical protein
+BNMNEFAF_00195	CDS	375				hypothetical protein
+BNMNEFAF_00196	CDS	294				hypothetical protein
+BNMNEFAF_00197	CDS	936	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+BNMNEFAF_00198	CDS	912	thrB_1	2.7.1.39		Homoserine kinase
+BNMNEFAF_00199	CDS	765				hypothetical protein
+BNMNEFAF_00200	CDS	840	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+BNMNEFAF_00201	CDS	1254	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+BNMNEFAF_00202	CDS	180				hypothetical protein
+BNMNEFAF_00203	CDS	843	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+BNMNEFAF_00204	CDS	483				hypothetical protein
+BNMNEFAF_00205	CDS	1065	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+BNMNEFAF_00206	CDS	411				hypothetical protein
+BNMNEFAF_00207	CDS	609				hypothetical protein
+BNMNEFAF_00208	CDS	192	cspLA_1		COG1278	Cold shock-like protein CspLA
+BNMNEFAF_00209	CDS	312				hypothetical protein
+BNMNEFAF_00210	CDS	468		1.-.-.-		putative oxidoreductase
+BNMNEFAF_00211	CDS	1149		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+BNMNEFAF_00212	CDS	210				hypothetical protein
+BNMNEFAF_00213	tRNA	74				tRNA-Pro(ggg)
+BNMNEFAF_00214	CDS	762				hypothetical protein
+BNMNEFAF_00215	CDS	1332				hypothetical protein
+BNMNEFAF_00216	CDS	543		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+BNMNEFAF_00217	CDS	348				hypothetical protein
+BNMNEFAF_00218	CDS	399				hypothetical protein
+BNMNEFAF_00219	CDS	198				hypothetical protein
+BNMNEFAF_00220	CDS	123				hypothetical protein
+BNMNEFAF_00221	CDS	333				hypothetical protein
+BNMNEFAF_00222	CDS	234				hypothetical protein
+BNMNEFAF_00223	CDS	1431	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+BNMNEFAF_00224	CDS	597	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+BNMNEFAF_00225	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+BNMNEFAF_00226	CDS	777	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+BNMNEFAF_00227	CDS	1188	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+BNMNEFAF_00228	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+BNMNEFAF_00229	CDS	684				hypothetical protein
+BNMNEFAF_00230	CDS	207				hypothetical protein
+BNMNEFAF_00231	CDS	291				hypothetical protein
+BNMNEFAF_00232	CDS	267				hypothetical protein
+BNMNEFAF_00233	CDS	132				hypothetical protein
+BNMNEFAF_00234	CDS	234				hypothetical protein
+BNMNEFAF_00235	CDS	318				hypothetical protein
+BNMNEFAF_00236	CDS	1920	yoaA	3.6.4.12	COG1199	putative ATP-dependent DNA helicase YoaA
+BNMNEFAF_00237	CDS	159				hypothetical protein
+BNMNEFAF_00238	CDS	126				hypothetical protein
+BNMNEFAF_00239	CDS	216				hypothetical protein
+BNMNEFAF_00240	CDS	444	argH_1	4.3.2.1		Argininosuccinate lyase
+BNMNEFAF_00241	tRNA	75				tRNA-Lys(ttt)
+BNMNEFAF_00242	tRNA	78				tRNA-Asp(gtc)
+BNMNEFAF_00243	CDS	732				hypothetical protein
+BNMNEFAF_00244	CDS	1077	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+BNMNEFAF_00245	CDS	219				hypothetical protein
+BNMNEFAF_00246	CDS	843	mimB	1.18.1.-	COG0543	Propane 2-monooxygenase, reductase component
+BNMNEFAF_00247	CDS	420				hypothetical protein
+BNMNEFAF_00248	CDS	297				hypothetical protein
+BNMNEFAF_00249	CDS	174				hypothetical protein
+BNMNEFAF_00250	CDS	441				hypothetical protein
+BNMNEFAF_00251	CDS	549				hypothetical protein
+BNMNEFAF_00252	CDS	1287	apgM_2			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+BNMNEFAF_00253	CDS	1071				hypothetical protein
+BNMNEFAF_00254	CDS	447				hypothetical protein
+BNMNEFAF_00255	CDS	438				hypothetical protein
+BNMNEFAF_00256	CDS	711	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BNMNEFAF_00257	CDS	1302	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+BNMNEFAF_00258	CDS	219				hypothetical protein
+BNMNEFAF_00259	CDS	1329	bzaF_1	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+BNMNEFAF_00260	CDS	405				hypothetical protein
+BNMNEFAF_00261	CDS	852				hypothetical protein
+BNMNEFAF_00262	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+BNMNEFAF_00263	CDS	1098	aroC	4.2.3.5	COG0082	Chorismate synthase
+BNMNEFAF_00264	CDS	1269	aroA_1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+BNMNEFAF_00265	CDS	855	thrB_2	2.7.1.39		Homoserine kinase
+BNMNEFAF_00266	CDS	822	aroE_1	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+BNMNEFAF_00267	CDS	672	aroD_1	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+BNMNEFAF_00268	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+BNMNEFAF_00269	CDS	783	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+BNMNEFAF_00270	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+BNMNEFAF_00271	CDS	1443	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+BNMNEFAF_00272	CDS	375				hypothetical protein
+BNMNEFAF_00273	CDS	1332	sad	1.2.1.16	COG1012	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+BNMNEFAF_00274	CDS	516				hypothetical protein
+BNMNEFAF_00275	CDS	522				hypothetical protein
+BNMNEFAF_00276	CDS	1116	hflX		COG2262	GTPase HflX
+BNMNEFAF_00277	CDS	1041				hypothetical protein
+BNMNEFAF_00278	CDS	474				hypothetical protein
+BNMNEFAF_00279	CDS	342				hypothetical protein
+BNMNEFAF_00280	CDS	960				hypothetical protein
+BNMNEFAF_00281	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+BNMNEFAF_00282	CDS	1071				hypothetical protein
+BNMNEFAF_00283	CDS	642				hypothetical protein
+BNMNEFAF_00284	CDS	828				hypothetical protein
+BNMNEFAF_00285	CDS	513	lhyD_2	3.5.2.-		L-hydantoinase
+BNMNEFAF_00286	tRNA	87				tRNA-Ser(gct)
+BNMNEFAF_00287	CDS	759	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+BNMNEFAF_00288	CDS	1011	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+BNMNEFAF_00289	CDS	537				hypothetical protein
+BNMNEFAF_00290	CDS	705	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+BNMNEFAF_00291	CDS	426				hypothetical protein
+BNMNEFAF_00292	CDS	483	larE_1	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+BNMNEFAF_00293	CDS	1167	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+BNMNEFAF_00294	CDS	804				hypothetical protein
+BNMNEFAF_00295	CDS	564	rnz	3.1.26.11	COG1234	Ribonuclease Z
+BNMNEFAF_00296	CDS	723	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+BNMNEFAF_00297	CDS	402				hypothetical protein
+BNMNEFAF_00298	CDS	405				hypothetical protein
+BNMNEFAF_00299	CDS	516				hypothetical protein
+BNMNEFAF_00300	CDS	891	menA_1	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+BNMNEFAF_00301	CDS	204				hypothetical protein
+BNMNEFAF_00302	CDS	402				hypothetical protein
+BNMNEFAF_00303	rRNA	112				5S ribosomal RNA
+BNMNEFAF_00304	CDS	1467	pepA_1	3.4.11.1	COG0260	Cytosol aminopeptidase
+BNMNEFAF_00305	CDS	1308	hemL1	5.4.3.8		Glutamate-1-semialdehyde 2,1-aminomutase 1
+BNMNEFAF_00306	CDS	369				hypothetical protein
+BNMNEFAF_00307	CDS	675				hypothetical protein
+BNMNEFAF_00308	CDS	123				hypothetical protein
+BNMNEFAF_00309	CDS	822	cpoB			Cell division coordinator CpoB
+BNMNEFAF_00310	CDS	705				hypothetical protein
+BNMNEFAF_00311	CDS	363				hypothetical protein
+BNMNEFAF_00312	CDS	456				hypothetical protein
+BNMNEFAF_00313	CDS	363				hypothetical protein
+BNMNEFAF_00314	CDS	678	dnaJ_2			Chaperone protein DnaJ
+BNMNEFAF_00315	CDS	408				hypothetical protein
+BNMNEFAF_00316	CDS	306				hypothetical protein
+BNMNEFAF_00317	CDS	171				hypothetical protein
+BNMNEFAF_00318	CDS	510				hypothetical protein
+BNMNEFAF_00319	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+BNMNEFAF_00320	CDS	696				hypothetical protein
+BNMNEFAF_00321	CDS	228				hypothetical protein
+BNMNEFAF_00322	CDS	1110	obg	3.6.5.-		GTPase Obg
+BNMNEFAF_00323	CDS	177				hypothetical protein
+BNMNEFAF_00324	CDS	282				hypothetical protein
+BNMNEFAF_00325	CDS	477				hypothetical protein
+BNMNEFAF_00326	CDS	1134	desV_1	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+BNMNEFAF_00327	CDS	573				hypothetical protein
+BNMNEFAF_00328	CDS	201				hypothetical protein
+BNMNEFAF_00329	CDS	210				hypothetical protein
+BNMNEFAF_00330	CDS	423				hypothetical protein
+BNMNEFAF_00331	tRNA	75				tRNA-Lys(ttt)
+BNMNEFAF_00332	CDS	1458	argH_2	4.3.2.1	COG0165	Argininosuccinate lyase
+BNMNEFAF_00333	CDS	393	mec	3.13.1.6	COG1310	CysO-cysteine peptidase
+BNMNEFAF_00334	CDS	384				hypothetical protein
+BNMNEFAF_00335	CDS	222				hypothetical protein
+BNMNEFAF_00336	CDS	528				hypothetical protein
+BNMNEFAF_00337	CDS	450	nhaX_1		COG0589	Stress response protein NhaX
+BNMNEFAF_00338	CDS	717				hypothetical protein
+BNMNEFAF_00339	CDS	381				hypothetical protein
+BNMNEFAF_00340	CDS	1221	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+BNMNEFAF_00341	CDS	798	larE_2	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+BNMNEFAF_00342	CDS	1077	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+BNMNEFAF_00343	CDS	957	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+BNMNEFAF_00344	tRNA	76				tRNA-Met(cat)
+BNMNEFAF_00345	CDS	1353				hypothetical protein
+BNMNEFAF_00346	CDS	513	aroD_2	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+BNMNEFAF_00347	CDS	822	aroE_2	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+BNMNEFAF_00348	CDS	855	thrB_3	2.7.1.39		Homoserine kinase
+BNMNEFAF_00349	CDS	1269	aroA_2	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+BNMNEFAF_00350	CDS	1731				hypothetical protein
+BNMNEFAF_00351	CDS	180				hypothetical protein
+BNMNEFAF_00352	CDS	417	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+BNMNEFAF_00353	CDS	258				hypothetical protein
+BNMNEFAF_00354	CDS	651	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+BNMNEFAF_00355	CDS	495				hypothetical protein
+BNMNEFAF_00356	CDS	147				hypothetical protein
+BNMNEFAF_00357	CDS	1158				hypothetical protein
+BNMNEFAF_00358	CDS	312				hypothetical protein
+BNMNEFAF_00359	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+BNMNEFAF_00360	CDS	453				hypothetical protein
+BNMNEFAF_00361	CDS	402	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+BNMNEFAF_00362	CDS	426				hypothetical protein
+BNMNEFAF_00363	CDS	552	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+BNMNEFAF_00364	CDS	372				hypothetical protein
+BNMNEFAF_00365	CDS	324				hypothetical protein
+BNMNEFAF_00366	CDS	378				hypothetical protein
+BNMNEFAF_00367	CDS	342				hypothetical protein
+BNMNEFAF_00368	CDS	759				hypothetical protein
+BNMNEFAF_00369	CDS	690				hypothetical protein
+BNMNEFAF_00370	CDS	291				hypothetical protein
+BNMNEFAF_00371	CDS	234				hypothetical protein
+BNMNEFAF_00372	CDS	1323	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+BNMNEFAF_00373	CDS	798				hypothetical protein
+BNMNEFAF_00374	tRNA	75				tRNA-Thr(tgt)
+BNMNEFAF_00375	CDS	552	pdaD_1	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+BNMNEFAF_00376	CDS	1146				hypothetical protein
+BNMNEFAF_00377	CDS	573				hypothetical protein
+BNMNEFAF_00378	CDS	1773	pepF1_1	3.4.24.-		Oligoendopeptidase F, plasmid
+BNMNEFAF_00379	CDS	171				hypothetical protein
+BNMNEFAF_00380	CDS	258				hypothetical protein
+BNMNEFAF_00381	CDS	540	ppa_1	3.6.1.1		Inorganic pyrophosphatase
+BNMNEFAF_00382	CDS	420				hypothetical protein
+BNMNEFAF_00383	CDS	132				hypothetical protein
+BNMNEFAF_00384	tRNA	96				tRNA-Val(cac)
+BNMNEFAF_00385	CDS	249				hypothetical protein
+BNMNEFAF_00386	CDS	168				hypothetical protein
+BNMNEFAF_00387	CDS	147				hypothetical protein
+BNMNEFAF_00388	CDS	843	purU_1	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+BNMNEFAF_00389	CDS	723	mftE_1	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+BNMNEFAF_00390	CDS	237				hypothetical protein
+BNMNEFAF_00391	CDS	558				hypothetical protein
+BNMNEFAF_00392	CDS	189				hypothetical protein
+BNMNEFAF_00393	CDS	324				hypothetical protein
+BNMNEFAF_00394	CDS	1509	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+BNMNEFAF_00395	CDS	276				hypothetical protein
+BNMNEFAF_00396	CDS	279	prsA1	5.2.1.8	COG0760	Foldase protein PrsA 1
+BNMNEFAF_00397	CDS	195				hypothetical protein
+BNMNEFAF_00398	CDS	255				hypothetical protein
+BNMNEFAF_00399	CDS	405				hypothetical protein
+BNMNEFAF_00400	CDS	291				hypothetical protein
+BNMNEFAF_00401	CDS	774				hypothetical protein
+BNMNEFAF_00402	CDS	891	menA_2	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+BNMNEFAF_00403	CDS	186				hypothetical protein
+BNMNEFAF_00404	CDS	243				hypothetical protein
+BNMNEFAF_00405	CDS	402				hypothetical protein
+BNMNEFAF_00406	CDS	141	prcB_1			Proteasome subunit beta
+BNMNEFAF_00407	CDS	477				hypothetical protein
+BNMNEFAF_00408	CDS	1011	hom_1	1.1.1.3	COG0460	Homoserine dehydrogenase
+BNMNEFAF_00409	CDS	408	msrB_1	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+BNMNEFAF_00410	CDS	1638	thyX_1	2.1.1.148		Flavin-dependent thymidylate synthase
+BNMNEFAF_00411	CDS	294				hypothetical protein
+BNMNEFAF_00412	CDS	1647	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+BNMNEFAF_00413	CDS	477				hypothetical protein
+BNMNEFAF_00414	CDS	1137				hypothetical protein
+BNMNEFAF_00415	CDS	375				hypothetical protein
+BNMNEFAF_00416	CDS	1614	vgb	4.2.99.-		Virginiamycin B lyase
+BNMNEFAF_00417	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+BNMNEFAF_00418	CDS	216				hypothetical protein
+BNMNEFAF_00419	CDS	795	gluD	1.4.1.2		NAD-specific glutamate dehydrogenase
+BNMNEFAF_00420	CDS	375				hypothetical protein
+BNMNEFAF_00421	CDS	684				hypothetical protein
+BNMNEFAF_00422	CDS	1125	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+BNMNEFAF_00423	CDS	474				hypothetical protein
+BNMNEFAF_00424	CDS	750	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+BNMNEFAF_00425	CDS	1131				hypothetical protein
+BNMNEFAF_00426	CDS	402				hypothetical protein
+BNMNEFAF_00427	CDS	453	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+BNMNEFAF_00428	CDS	432	nhaX_2		COG0589	Stress response protein NhaX
+BNMNEFAF_00429	CDS	792			COG0596	putative protein
+BNMNEFAF_00430	CDS	426				hypothetical protein
+BNMNEFAF_00431	CDS	396				hypothetical protein
+BNMNEFAF_00432	CDS	147				hypothetical protein
+BNMNEFAF_00433	CDS	1467	pepA_2	3.4.11.1	COG0260	Cytosol aminopeptidase
+BNMNEFAF_00434	CDS	327				hypothetical protein
+BNMNEFAF_00435	CDS	663				hypothetical protein
+BNMNEFAF_00436	CDS	1098	dipZ		COG0785	Protein DipZ
+BNMNEFAF_00437	CDS	735				hypothetical protein
+BNMNEFAF_00438	CDS	783		2.3.1.-		Putative pyridoxal phosphate-dependent acyltransferase
+BNMNEFAF_00439	CDS	294				hypothetical protein
+BNMNEFAF_00440	CDS	1617	thyX_2	2.1.1.148		Flavin-dependent thymidylate synthase
+BNMNEFAF_00441	CDS	408	msrB_2	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+BNMNEFAF_00442	CDS	1011	hom_2	1.1.1.3	COG0460	Homoserine dehydrogenase
+BNMNEFAF_00443	CDS	477				hypothetical protein
+BNMNEFAF_00444	CDS	585	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+BNMNEFAF_00445	CDS	417	catD	1.-.-.-	COG2259	Putative oxidoreductase CatD
+BNMNEFAF_00446	CDS	1353	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+BNMNEFAF_00447	CDS	864	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BNMNEFAF_00448	CDS	381				hypothetical protein
+BNMNEFAF_00449	CDS	1308				hypothetical protein
+BNMNEFAF_00450	CDS	252				hypothetical protein
+BNMNEFAF_00451	CDS	453				hypothetical protein
+BNMNEFAF_00452	CDS	882				hypothetical protein
+BNMNEFAF_00453	CDS	303				hypothetical protein
+BNMNEFAF_00454	CDS	285				hypothetical protein
+BNMNEFAF_00455	CDS	444				hypothetical protein
+BNMNEFAF_00456	CDS	357				hypothetical protein
+BNMNEFAF_00457	CDS	231				hypothetical protein
+BNMNEFAF_00458	CDS	567				hypothetical protein
+BNMNEFAF_00459	CDS	747				hypothetical protein
+BNMNEFAF_00460	CDS	621				hypothetical protein
+BNMNEFAF_00461	CDS	567		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+BNMNEFAF_00462	CDS	2664	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+BNMNEFAF_00463	CDS	558				hypothetical protein
+BNMNEFAF_00464	CDS	396	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+BNMNEFAF_00465	CDS	1365	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+BNMNEFAF_00466	CDS	432				Putative universal stress protein
+BNMNEFAF_00467	CDS	402				hypothetical protein
+BNMNEFAF_00468	CDS	855	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+BNMNEFAF_00469	CDS	426	teaD_1		COG0589	TRAP-T-associated universal stress protein TeaD
+BNMNEFAF_00470	CDS	432	teaD_2		COG0589	TRAP-T-associated universal stress protein TeaD
+BNMNEFAF_00471	CDS	438	hrp1		COG0517	Hypoxic response protein 1
+BNMNEFAF_00472	CDS	1005	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+BNMNEFAF_00473	CDS	213				hypothetical protein
+BNMNEFAF_00474	CDS	525				hypothetical protein
+BNMNEFAF_00475	CDS	993	cysM	2.5.1.47	COG0031	Cysteine synthase B
+BNMNEFAF_00476	CDS	237	tusA		COG0425	Sulfur carrier protein TusA
+BNMNEFAF_00477	CDS	915				hypothetical protein
+BNMNEFAF_00478	CDS	726	fbiB		COG0778	Bifunctional F420 biosynthesis protein FbiB
+BNMNEFAF_00479	CDS	669	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+BNMNEFAF_00480	CDS	285				hypothetical protein
+BNMNEFAF_00481	CDS	1065	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+BNMNEFAF_00482	CDS	579				hypothetical protein
+BNMNEFAF_00483	CDS	393				hypothetical protein
+BNMNEFAF_00484	CDS	405	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+BNMNEFAF_00485	CDS	948				hypothetical protein
+BNMNEFAF_00486	CDS	1437				hypothetical protein
+BNMNEFAF_00487	CDS	348				hypothetical protein
+BNMNEFAF_00488	CDS	1005	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+BNMNEFAF_00489	CDS	522				hypothetical protein
+BNMNEFAF_00490	CDS	411	yccU		COG1832	putative protein YccU
+BNMNEFAF_00491	CDS	429				hypothetical protein
+BNMNEFAF_00492	CDS	1212	OLA1			Obg-like ATPase 1
+BNMNEFAF_00493	CDS	183				hypothetical protein
+BNMNEFAF_00494	CDS	912				hypothetical protein
+BNMNEFAF_00495	CDS	153				hypothetical protein
+BNMNEFAF_00496	CDS	141				hypothetical protein
+BNMNEFAF_00497	CDS	360				hypothetical protein
+BNMNEFAF_00498	CDS	453				hypothetical protein
+BNMNEFAF_00499	CDS	1353				hypothetical protein
+BNMNEFAF_00500	CDS	843				hypothetical protein
+BNMNEFAF_00501	CDS	351				hypothetical protein
+BNMNEFAF_00502	CDS	1380				hypothetical protein
+BNMNEFAF_00503	CDS	927	btuF		COG0614	Vitamin B12-binding protein
+BNMNEFAF_00504	CDS	1158				hypothetical protein
+BNMNEFAF_00505	CDS	528				hypothetical protein
+BNMNEFAF_00506	CDS	156				hypothetical protein
+BNMNEFAF_00507	CDS	306				hypothetical protein
+BNMNEFAF_00508	CDS	969				hypothetical protein
+BNMNEFAF_00509	CDS	966				hypothetical protein
+BNMNEFAF_00510	CDS	858	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+BNMNEFAF_00511	CDS	354	kdpE		COG0745	Transcriptional regulatory protein KdpE
+BNMNEFAF_00512	CDS	945				hypothetical protein
+BNMNEFAF_00513	CDS	786	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+BNMNEFAF_00514	CDS	957	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+BNMNEFAF_00515	CDS	402				hypothetical protein
+BNMNEFAF_00516	CDS	594				hypothetical protein
+BNMNEFAF_00517	CDS	819	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+BNMNEFAF_00518	CDS	189				hypothetical protein
+BNMNEFAF_00519	CDS	705	desV_2	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+BNMNEFAF_00520	CDS	477				hypothetical protein
+BNMNEFAF_00521	CDS	348				hypothetical protein
+BNMNEFAF_00522	CDS	183				hypothetical protein
+BNMNEFAF_00523	CDS	897				hypothetical protein
+BNMNEFAF_00524	CDS	474				hypothetical protein
+BNMNEFAF_00525	CDS	2454				hypothetical protein
+BNMNEFAF_00526	CDS	612				hypothetical protein
+BNMNEFAF_00527	CDS	360	cheY_3		COG0784	Chemotaxis protein CheY
+BNMNEFAF_00528	CDS	144				hypothetical protein
+BNMNEFAF_00529	CDS	726				hypothetical protein
+BNMNEFAF_00530	CDS	585	ribE_2	2.5.1.9	COG0307	Riboflavin synthase
+BNMNEFAF_00531	CDS	666	ribBA_2		COG0108	Riboflavin biosynthesis protein RibBA
+BNMNEFAF_00532	CDS	390				hypothetical protein
+BNMNEFAF_00533	CDS	477				hypothetical protein
+BNMNEFAF_00534	CDS	759				hypothetical protein
+BNMNEFAF_00535	CDS	201				hypothetical protein
+BNMNEFAF_00536	CDS	1590	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+BNMNEFAF_00537	CDS	1104		2.3.1.-		tRNA uridine(34) acetyltransferase
+BNMNEFAF_00538	CDS	276				hypothetical protein
+BNMNEFAF_00539	CDS	339				hypothetical protein
+BNMNEFAF_00540	CDS	579				hypothetical protein
+BNMNEFAF_00541	CDS	231				hypothetical protein
+BNMNEFAF_00542	CDS	231				hypothetical protein
+BNMNEFAF_00543	CDS	426				hypothetical protein
+BNMNEFAF_00544	CDS	231				hypothetical protein
+BNMNEFAF_00545	CDS	1446				hypothetical protein
+BNMNEFAF_00546	CDS	615	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+BNMNEFAF_00547	CDS	378				hypothetical protein
+BNMNEFAF_00548	CDS	348				hypothetical protein
+BNMNEFAF_00549	CDS	207				hypothetical protein
+BNMNEFAF_00550	CDS	213				hypothetical protein
+BNMNEFAF_00551	CDS	294				hypothetical protein
+BNMNEFAF_00552	CDS	567				hypothetical protein
+BNMNEFAF_00553	CDS	234				hypothetical protein
+BNMNEFAF_00554	CDS	264				hypothetical protein
+BNMNEFAF_00555	CDS	813				hypothetical protein
+BNMNEFAF_00556	CDS	1818	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+BNMNEFAF_00557	CDS	444				hypothetical protein
+BNMNEFAF_00558	CDS	219				hypothetical protein
+BNMNEFAF_00559	CDS	192				hypothetical protein
+BNMNEFAF_00560	CDS	516				hypothetical protein
+BNMNEFAF_00561	CDS	369				hypothetical protein
+BNMNEFAF_00562	tRNA	77				tRNA-Val(tac)
+BNMNEFAF_00563	CDS	1023	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+BNMNEFAF_00564	CDS	1416	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+BNMNEFAF_00565	CDS	207				hypothetical protein
+BNMNEFAF_00566	CDS	915	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BNMNEFAF_00567	CDS	162				hypothetical protein
+BNMNEFAF_00568	CDS	555				hypothetical protein
+BNMNEFAF_00569	CDS	1794	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+BNMNEFAF_00570	CDS	396	cheY_4		COG0784	Chemotaxis protein CheY
+BNMNEFAF_00571	tRNA	75				tRNA-Lys(ctt)
+BNMNEFAF_00572	CDS	399				hypothetical protein
+BNMNEFAF_00573	CDS	1281				hypothetical protein
+BNMNEFAF_00574	CDS	462				hypothetical protein
+BNMNEFAF_00575	CDS	342				hypothetical protein
+BNMNEFAF_00576	CDS	378				hypothetical protein
+BNMNEFAF_00577	CDS	177				hypothetical protein
+BNMNEFAF_00578	CDS	234				hypothetical protein
+BNMNEFAF_00579	CDS	294				hypothetical protein
+BNMNEFAF_00580	CDS	213				hypothetical protein
+BNMNEFAF_00581	CDS	1266		3.1.-.-	COG1236	Ribonuclease
+BNMNEFAF_00582	CDS	864				hypothetical protein
+BNMNEFAF_00583	CDS	624				hypothetical protein
+BNMNEFAF_00584	CDS	942	thrB_4	2.7.1.39		Homoserine kinase
+BNMNEFAF_00585	CDS	744	argB	2.7.2.8		Acetylglutamate kinase
+BNMNEFAF_00586	CDS	651	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+BNMNEFAF_00587	CDS	981				hypothetical protein
+BNMNEFAF_00588	CDS	480				hypothetical protein
+BNMNEFAF_00589	CDS	753	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+BNMNEFAF_00590	CDS	642	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+BNMNEFAF_00591	CDS	1353	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+BNMNEFAF_00592	CDS	702	sufC		COG0396	Vegetative protein 296
+BNMNEFAF_00593	CDS	678			COG3253	putative protein/MSMEI_2713
+BNMNEFAF_00594	CDS	999	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+BNMNEFAF_00595	CDS	339				hypothetical protein
+BNMNEFAF_00596	CDS	1026				hypothetical protein
+BNMNEFAF_00597	CDS	654	cysG	4.99.1.4		Siroheme synthase
+BNMNEFAF_00598	CDS	1266	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+BNMNEFAF_00599	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+BNMNEFAF_00600	CDS	312				hypothetical protein
+BNMNEFAF_00601	CDS	621	yedJ		COG1418	putative protein YedJ
+BNMNEFAF_00602	CDS	621				hypothetical protein
+BNMNEFAF_00603	CDS	312				hypothetical protein
+BNMNEFAF_00604	CDS	606				hypothetical protein
+BNMNEFAF_00605	CDS	441	teaD_3		COG0589	TRAP-T-associated universal stress protein TeaD
+BNMNEFAF_00606	CDS	1155	dnaJ_3			Chaperone protein DnaJ
+BNMNEFAF_00607	CDS	252				hypothetical protein
+BNMNEFAF_00608	CDS	375				hypothetical protein
+BNMNEFAF_00609	CDS	1260				hypothetical protein
+BNMNEFAF_00610	CDS	648	sodA	1.15.1.1		Superoxide dismutase [Mn]
+BNMNEFAF_00611	CDS	582				hypothetical protein
+BNMNEFAF_00612	CDS	615				hypothetical protein
+BNMNEFAF_00613	CDS	1713				hypothetical protein
+BNMNEFAF_00614	CDS	681				hypothetical protein
+BNMNEFAF_00615	CDS	660				hypothetical protein
+BNMNEFAF_00616	CDS	873				hypothetical protein
+BNMNEFAF_00617	CDS	273	spxA		COG1393	Regulatory protein Spx
+BNMNEFAF_00618	CDS	243				hypothetical protein
+BNMNEFAF_00619	CDS	324				hypothetical protein
+BNMNEFAF_00620	CDS	1047				hypothetical protein
+BNMNEFAF_00621	CDS	1368				hypothetical protein
+BNMNEFAF_00622	CDS	312				hypothetical protein
+BNMNEFAF_00623	CDS	267				hypothetical protein
+BNMNEFAF_00624	CDS	144				hypothetical protein
+BNMNEFAF_00625	CDS	504	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+BNMNEFAF_00626	CDS	429				hypothetical protein
+BNMNEFAF_00627	CDS	207	tatA			Sec-independent protein translocase protein TatA
+BNMNEFAF_00628	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+BNMNEFAF_00629	CDS	465				hypothetical protein
+BNMNEFAF_00630	CDS	387				hypothetical protein
+BNMNEFAF_00631	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+BNMNEFAF_00632	CDS	426	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+BNMNEFAF_00633	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+BNMNEFAF_00634	CDS	2166	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+BNMNEFAF_00635	CDS	1470	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+BNMNEFAF_00636	CDS	279				hypothetical protein
+BNMNEFAF_00637	CDS	387				hypothetical protein
+BNMNEFAF_00638	CDS	843	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+BNMNEFAF_00639	CDS	504				hypothetical protein
+BNMNEFAF_00640	CDS	321				hypothetical protein
+BNMNEFAF_00641	CDS	405				hypothetical protein
+BNMNEFAF_00642	CDS	402				hypothetical protein
+BNMNEFAF_00643	CDS	486				hypothetical protein
+BNMNEFAF_00644	CDS	126				hypothetical protein
+BNMNEFAF_00645	CDS	153				hypothetical protein
+BNMNEFAF_00646	CDS	435				hypothetical protein
+BNMNEFAF_00647	CDS	1320	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+BNMNEFAF_00648	CDS	852				hypothetical protein
+BNMNEFAF_00649	CDS	405				hypothetical protein
+BNMNEFAF_00650	CDS	1329	bzaF_2	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+BNMNEFAF_00651	CDS	219				hypothetical protein
+BNMNEFAF_00652	CDS	201				hypothetical protein
+BNMNEFAF_00653	CDS	1320	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+BNMNEFAF_00654	CDS	711	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BNMNEFAF_00655	CDS	438				hypothetical protein
+BNMNEFAF_00656	CDS	447				hypothetical protein
+BNMNEFAF_00657	CDS	1017				hypothetical protein
+BNMNEFAF_00658	CDS	495				hypothetical protein
+BNMNEFAF_00659	CDS	498				hypothetical protein
+BNMNEFAF_00660	CDS	1023	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+BNMNEFAF_00661	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+BNMNEFAF_00662	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+BNMNEFAF_00663	CDS	747				hypothetical protein
+BNMNEFAF_00664	CDS	1044	aroB	4.2.3.4		3-dehydroquinate synthase
+BNMNEFAF_00665	CDS	819				hypothetical protein
+BNMNEFAF_00666	CDS	1197				hypothetical protein
+BNMNEFAF_00667	CDS	867				hypothetical protein
+BNMNEFAF_00668	CDS	411				hypothetical protein
+BNMNEFAF_00669	CDS	570				hypothetical protein
+BNMNEFAF_00670	CDS	1251				hypothetical protein
+BNMNEFAF_00671	CDS	552	pdaD_2	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+BNMNEFAF_00672	CDS	1284	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+BNMNEFAF_00673	CDS	666				hypothetical protein
+BNMNEFAF_00674	CDS	1128	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+BNMNEFAF_00675	CDS	1023	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+BNMNEFAF_00676	CDS	912	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BNMNEFAF_00677	CDS	3525	smc_2			Chromosome partition protein Smc
+BNMNEFAF_00678	CDS	738				hypothetical protein
+BNMNEFAF_00679	CDS	246	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+BNMNEFAF_00680	CDS	732	mftE_2	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+BNMNEFAF_00681	CDS	843	purU_2	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+BNMNEFAF_00682	CDS	741	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+BNMNEFAF_00683	CDS	804				hypothetical protein
+BNMNEFAF_00684	CDS	384				hypothetical protein
+BNMNEFAF_00685	CDS	684				hypothetical protein
+BNMNEFAF_00686	CDS	666				hypothetical protein
+BNMNEFAF_00687	CDS	324				hypothetical protein
+BNMNEFAF_00688	CDS	732	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+BNMNEFAF_00689	CDS	303	todB		COG2146	Toluene 1,2-dioxygenase system ferredoxin subunit
+BNMNEFAF_00690	CDS	792	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+BNMNEFAF_00691	CDS	1389	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+BNMNEFAF_00692	CDS	315				hypothetical protein
+BNMNEFAF_00693	CDS	435				hypothetical protein
+BNMNEFAF_00694	CDS	384				hypothetical protein
+BNMNEFAF_00695	CDS	579				hypothetical protein
+BNMNEFAF_00696	CDS	300				hypothetical protein
+BNMNEFAF_00697	CDS	774				hypothetical protein
+BNMNEFAF_00698	CDS	546				hypothetical protein
+BNMNEFAF_00699	CDS	405				hypothetical protein
+BNMNEFAF_00700	CDS	408				hypothetical protein
+BNMNEFAF_00701	CDS	336				hypothetical protein
+BNMNEFAF_00702	CDS	1092		2.5.-.-		Deoxyhypusine synthase-like protein
+BNMNEFAF_00703	CDS	213				hypothetical protein
+BNMNEFAF_00704	CDS	366				hypothetical protein
+BNMNEFAF_00705	CDS	276				hypothetical protein
+BNMNEFAF_00706	CDS	549				hypothetical protein
+BNMNEFAF_00707	CDS	315				hypothetical protein
+BNMNEFAF_00708	CDS	417				hypothetical protein
+BNMNEFAF_00709	CDS	1032	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+BNMNEFAF_00710	CDS	366				hypothetical protein
+BNMNEFAF_00711	CDS	1101				hypothetical protein
+BNMNEFAF_00712	CDS	288				hypothetical protein
+BNMNEFAF_00713	CDS	942				hypothetical protein
+BNMNEFAF_00714	CDS	1095	dinB	2.7.7.7		DNA polymerase IV
+BNMNEFAF_00715	CDS	252				hypothetical protein
+BNMNEFAF_00716	CDS	1773	pepF1_2	3.4.24.-		Oligoendopeptidase F, plasmid
+BNMNEFAF_00717	CDS	258				hypothetical protein
+BNMNEFAF_00718	CDS	540	ppa_2	3.6.1.1		Inorganic pyrophosphatase
+BNMNEFAF_00719	CDS	420				hypothetical protein
+BNMNEFAF_00720	CDS	249				hypothetical protein
+BNMNEFAF_00721	CDS	300				hypothetical protein
+BNMNEFAF_00722	CDS	384				hypothetical protein
+BNMNEFAF_00723	CDS	579	scpB			Segregation and condensation protein B
+BNMNEFAF_00724	CDS	678				hypothetical protein
+BNMNEFAF_00725	CDS	1053		1.1.1.1		Alcohol dehydrogenase
+BNMNEFAF_00726	CDS	753	rssB			Regulator of RpoS
+BNMNEFAF_00727	CDS	501				hypothetical protein
+BNMNEFAF_00728	CDS	564				hypothetical protein
+BNMNEFAF_00729	CDS	312				hypothetical protein
+BNMNEFAF_00730	CDS	192	cspLA_2		COG1278	Cold shock-like protein CspLA
+BNMNEFAF_00731	CDS	609				hypothetical protein
+BNMNEFAF_00732	CDS	549	nudL	3.6.1.-		putative Nudix hydrolase NudL
+BNMNEFAF_00733	CDS	516				hypothetical protein
+BNMNEFAF_00734	CDS	507				hypothetical protein
+BNMNEFAF_00735	CDS	300				hypothetical protein
+BNMNEFAF_00736	CDS	417				hypothetical protein
+BNMNEFAF_00737	CDS	525				hypothetical protein
+BNMNEFAF_00738	CDS	210				hypothetical protein
+BNMNEFAF_00739	CDS	174				hypothetical protein
+BNMNEFAF_00740	CDS	351				hypothetical protein
+BNMNEFAF_00741	CDS	237				hypothetical protein
+BNMNEFAF_00742	CDS	159				hypothetical protein
+BNMNEFAF_00743	CDS	468				hypothetical protein
+BNMNEFAF_00744	CDS	234				hypothetical protein
+BNMNEFAF_00745	CDS	150				hypothetical protein
+BNMNEFAF_00746	CDS	90				hypothetical protein
+BNMNEFAF_00747	CDS	336				hypothetical protein
+BNMNEFAF_00748	CDS	456				hypothetical protein
+BNMNEFAF_00749	CDS	159				hypothetical protein
+BNMNEFAF_00750	CDS	207				hypothetical protein
+BNMNEFAF_00751	CDS	828				hypothetical protein
+BNMNEFAF_00752	CDS	201				hypothetical protein
+BNMNEFAF_00753	CDS	549				hypothetical protein
+BNMNEFAF_00754	CDS	168				hypothetical protein
+BNMNEFAF_00755	CDS	144				hypothetical protein
+BNMNEFAF_00756	CDS	897				hypothetical protein
+BNMNEFAF_00757	tRNA	76				tRNA-Glu(ctc)
+BNMNEFAF_00758	CDS	657				hypothetical protein
+BNMNEFAF_00759	CDS	564				hypothetical protein
+BNMNEFAF_00760	CDS	963	metH	2.1.1.13	COG0646	Methionine synthase
+BNMNEFAF_00761	CDS	1140				hypothetical protein
+BNMNEFAF_00762	CDS	150				hypothetical protein
+BNMNEFAF_00763	CDS	366				hypothetical protein
+BNMNEFAF_00764	CDS	681				hypothetical protein
+BNMNEFAF_00765	CDS	1296	yhdG		COG0531	putative amino acid permease YhdG
+BNMNEFAF_00766	CDS	657				hypothetical protein
+BNMNEFAF_00767	CDS	1446	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+BNMNEFAF_00768	CDS	249				hypothetical protein
+BNMNEFAF_00769	CDS	597	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BNMNEFAF_00770	CDS	609	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+BNMNEFAF_00771	CDS	1062	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+BNMNEFAF_00772	CDS	1761	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+BNMNEFAF_00773	CDS	660				hypothetical protein
+BNMNEFAF_00774	CDS	366				hypothetical protein
+BNMNEFAF_00775	CDS	186				hypothetical protein
+BNMNEFAF_00776	CDS	1371	phr	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+BNMNEFAF_00777	CDS	498				hypothetical protein
+BNMNEFAF_00778	CDS	162				hypothetical protein
+BNMNEFAF_00779	CDS	423				hypothetical protein
+BNMNEFAF_00780	CDS	297				hypothetical protein
+BNMNEFAF_00781	CDS	816				hypothetical protein
+BNMNEFAF_00782	CDS	600				hypothetical protein
+BNMNEFAF_00783	CDS	549				hypothetical protein
+BNMNEFAF_00784	CDS	1524	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+BNMNEFAF_00785	CDS	870	yisK_2		COG0179	putative protein YisK
+BNMNEFAF_00786	CDS	777				hypothetical protein
+BNMNEFAF_00787	CDS	492				hypothetical protein

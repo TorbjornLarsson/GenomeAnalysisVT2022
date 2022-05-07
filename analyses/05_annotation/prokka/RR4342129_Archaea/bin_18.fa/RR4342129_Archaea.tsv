@@ -1,0 +1,380 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GLLPHMDP_00001	CDS	360				hypothetical protein
+GLLPHMDP_00002	CDS	354				hypothetical protein
+GLLPHMDP_00003	CDS	1101	pyrD	1.3.5.2		Dihydroorotate dehydrogenase (quinone)
+GLLPHMDP_00004	CDS	414				hypothetical protein
+GLLPHMDP_00005	CDS	2289	topA	5.6.2.1		DNA topoisomerase 1
+GLLPHMDP_00006	CDS	1209		1.3.7.11	COG0644	Digeranylgeranylglycerophospholipid reductase
+GLLPHMDP_00007	CDS	1077				hypothetical protein
+GLLPHMDP_00008	CDS	1188	cofH_1	2.5.1.147	COG1060	5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase
+GLLPHMDP_00009	CDS	1347	pepQ	3.4.13.9		Xaa-Pro dipeptidase
+GLLPHMDP_00010	CDS	1485				hypothetical protein
+GLLPHMDP_00011	CDS	1053	hldE	2.7.7.70		Bifunctional protein HldE
+GLLPHMDP_00012	CDS	999				hypothetical protein
+GLLPHMDP_00013	CDS	2034				hypothetical protein
+GLLPHMDP_00014	CDS	1107				hypothetical protein
+GLLPHMDP_00015	CDS	993				hypothetical protein
+GLLPHMDP_00016	CDS	1428				hypothetical protein
+GLLPHMDP_00017	CDS	312				hypothetical protein
+GLLPHMDP_00018	CDS	1161	ald	1.4.1.1	COG0686	Alanine dehydrogenase
+GLLPHMDP_00019	CDS	633				hypothetical protein
+GLLPHMDP_00020	CDS	939	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+GLLPHMDP_00021	CDS	762				hypothetical protein
+GLLPHMDP_00022	tRNA	78				tRNA-Pro(tgg)
+GLLPHMDP_00023	CDS	453				hypothetical protein
+GLLPHMDP_00024	CDS	285				hypothetical protein
+GLLPHMDP_00025	CDS	1917	rnj	3.1.-.-		Ribonuclease J
+GLLPHMDP_00026	CDS	627	psmB	3.4.25.1	COG0638	Proteasome subunit beta
+GLLPHMDP_00027	CDS	471				hypothetical protein
+GLLPHMDP_00028	CDS	501				hypothetical protein
+GLLPHMDP_00029	CDS	1383				hypothetical protein
+GLLPHMDP_00030	CDS	1059				hypothetical protein
+GLLPHMDP_00031	CDS	1110				hypothetical protein
+GLLPHMDP_00032	CDS	777				hypothetical protein
+GLLPHMDP_00033	CDS	795	thyA	2.1.1.45		Thymidylate synthase
+GLLPHMDP_00034	CDS	498	hdrB	1.5.1.3	COG0262	Dihydrofolate reductase HdrB
+GLLPHMDP_00035	CDS	1404				hypothetical protein
+GLLPHMDP_00036	CDS	261				hypothetical protein
+GLLPHMDP_00037	CDS	1197				hypothetical protein
+GLLPHMDP_00038	CDS	1170	gltA	2.3.3.16	COG0372	Citrate synthase
+GLLPHMDP_00039	CDS	447				hypothetical protein
+GLLPHMDP_00040	CDS	675				hypothetical protein
+GLLPHMDP_00041	CDS	1161	kbl	2.3.1.29		2-amino-3-ketobutyrate coenzyme A ligase
+GLLPHMDP_00042	CDS	888	pqqB			Coenzyme PQQ synthesis protein B
+GLLPHMDP_00043	CDS	435	ribK	2.7.1.161	COG1339	Riboflavin kinase
+GLLPHMDP_00044	CDS	867	truA	5.4.99.12		tRNA pseudouridine synthase A
+GLLPHMDP_00045	CDS	549				hypothetical protein
+GLLPHMDP_00046	CDS	1194				hypothetical protein
+GLLPHMDP_00047	CDS	1623				hypothetical protein
+GLLPHMDP_00048	CDS	942	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GLLPHMDP_00049	CDS	1128				hypothetical protein
+GLLPHMDP_00050	CDS	996	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GLLPHMDP_00051	CDS	2169	tgtA	2.4.2.48	COG0343	tRNA-guanine(15) transglycosylase
+GLLPHMDP_00052	CDS	1746				hypothetical protein
+GLLPHMDP_00053	CDS	426	nikR			Nickel-responsive regulator
+GLLPHMDP_00054	CDS	639				hypothetical protein
+GLLPHMDP_00055	CDS	633				hypothetical protein
+GLLPHMDP_00056	CDS	615		2.7.7.1	COG1056	Nicotinamide-nucleotide adenylyltransferase
+GLLPHMDP_00057	CDS	1290				hypothetical protein
+GLLPHMDP_00058	CDS	579	grpE			Protein GrpE
+GLLPHMDP_00059	CDS	1779	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GLLPHMDP_00060	CDS	1251				hypothetical protein
+GLLPHMDP_00061	CDS	1095				hypothetical protein
+GLLPHMDP_00062	CDS	1446				hypothetical protein
+GLLPHMDP_00063	CDS	924	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+GLLPHMDP_00064	CDS	1209				hypothetical protein
+GLLPHMDP_00065	CDS	963	glmU		COG1208	Bifunctional protein GlmU
+GLLPHMDP_00066	CDS	2787				hypothetical protein
+GLLPHMDP_00067	CDS	744				hypothetical protein
+GLLPHMDP_00068	CDS	1752				hypothetical protein
+GLLPHMDP_00069	CDS	612				hypothetical protein
+GLLPHMDP_00070	tRNA	77				tRNA-Ala(tgc)
+GLLPHMDP_00071	CDS	978	tfb			Transcription initiation factor IIB
+GLLPHMDP_00072	CDS	1152	gcvT	2.1.2.10	COG0404	putative aminomethyltransferase
+GLLPHMDP_00073	CDS	1875				hypothetical protein
+GLLPHMDP_00074	CDS	846				hypothetical protein
+GLLPHMDP_00075	CDS	1332	gcvPA	1.4.4.2		glycine dehydrogenase (decarboxylating) subunit 1
+GLLPHMDP_00076	CDS	1509	gcvPB	1.4.4.2		glycine dehydrogenase (decarboxylating) subunit 2
+GLLPHMDP_00077	CDS	714				hypothetical protein
+GLLPHMDP_00078	CDS	474	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+GLLPHMDP_00079	CDS	948	guaAB	6.3.5.2	COG0519	GMP synthase [glutamine-hydrolyzing] subunit B
+GLLPHMDP_00080	tRNA	76				tRNA-Asn(gtt)
+GLLPHMDP_00081	CDS	2616				hypothetical protein
+GLLPHMDP_00082	CDS	2274				hypothetical protein
+GLLPHMDP_00083	CDS	1281	glyA	2.1.2.-	COG0112	Serine hydroxymethyltransferase
+GLLPHMDP_00084	CDS	1563				hypothetical protein
+GLLPHMDP_00085	CDS	2247				hypothetical protein
+GLLPHMDP_00086	CDS	1056				hypothetical protein
+GLLPHMDP_00087	CDS	1278	deoA	2.4.2.57	COG0213	AMP phosphorylase
+GLLPHMDP_00088	CDS	4602	clsB	2.7.8.-		Cardiolipin synthase B
+GLLPHMDP_00089	CDS	2766				hypothetical protein
+GLLPHMDP_00090	CDS	1656				hypothetical protein
+GLLPHMDP_00091	CDS	1560				hypothetical protein
+GLLPHMDP_00092	tRNA	77				tRNA-Met(cat)
+GLLPHMDP_00093	CDS	903				hypothetical protein
+GLLPHMDP_00094	CDS	1212				hypothetical protein
+GLLPHMDP_00095	CDS	1773				hypothetical protein
+GLLPHMDP_00096	CDS	687	carS	2.7.7.67	COG0575	CDP-archaeol synthase
+GLLPHMDP_00097	CDS	1254	purD	6.3.4.13		Phosphoribosylamine--glycine ligase
+GLLPHMDP_00098	CDS	9510				hypothetical protein
+GLLPHMDP_00099	CDS	1251				hypothetical protein
+GLLPHMDP_00100	CDS	4245				hypothetical protein
+GLLPHMDP_00101	CDS	2529	malT			HTH-type transcriptional regulator MalT
+GLLPHMDP_00102	CDS	810				hypothetical protein
+GLLPHMDP_00103	CDS	5751				hypothetical protein
+GLLPHMDP_00104	CDS	471				hypothetical protein
+GLLPHMDP_00105	CDS	816				hypothetical protein
+GLLPHMDP_00106	CDS	162				hypothetical protein
+GLLPHMDP_00107	CDS	1095	pcp	3.4.19.3		Pyrrolidone-carboxylate peptidase
+GLLPHMDP_00108	CDS	561				hypothetical protein
+GLLPHMDP_00109	CDS	918				hypothetical protein
+GLLPHMDP_00110	CDS	1146	dnaJ			Chaperone protein DnaJ
+GLLPHMDP_00111	CDS	2145				hypothetical protein
+GLLPHMDP_00112	CDS	1809				hypothetical protein
+GLLPHMDP_00113	CDS	456			COG0184	30S ribosomal protein S15
+GLLPHMDP_00114	CDS	879				hypothetical protein
+GLLPHMDP_00115	CDS	2001				hypothetical protein
+GLLPHMDP_00116	CDS	1716	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+GLLPHMDP_00117	CDS	738	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+GLLPHMDP_00118	CDS	2835				hypothetical protein
+GLLPHMDP_00119	CDS	180				hypothetical protein
+GLLPHMDP_00120	CDS	1707	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+GLLPHMDP_00121	CDS	1542				hypothetical protein
+GLLPHMDP_00122	CDS	1077	gap	1.2.1.59	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+GLLPHMDP_00123	CDS	4788				hypothetical protein
+GLLPHMDP_00124	CDS	708	adk	2.7.4.3	COG0563	Adenylate kinase
+GLLPHMDP_00125	CDS	327				hypothetical protein
+GLLPHMDP_00126	CDS	276				hypothetical protein
+GLLPHMDP_00127	CDS	1632				hypothetical protein
+GLLPHMDP_00128	CDS	654				hypothetical protein
+GLLPHMDP_00129	CDS	504				hypothetical protein
+GLLPHMDP_00130	CDS	2115				hypothetical protein
+GLLPHMDP_00131	CDS	2064				hypothetical protein
+GLLPHMDP_00132	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+GLLPHMDP_00133	CDS	2445				hypothetical protein
+GLLPHMDP_00134	CDS	822				hypothetical protein
+GLLPHMDP_00135	CDS	318				hypothetical protein
+GLLPHMDP_00136	CDS	303				hypothetical protein
+GLLPHMDP_00137	CDS	756		2.4.2.1	COG0005	putative 6-oxopurine nucleoside phosphorylase
+GLLPHMDP_00138	CDS	942				hypothetical protein
+GLLPHMDP_00139	CDS	441				hypothetical protein
+GLLPHMDP_00140	CDS	276	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+GLLPHMDP_00141	CDS	990	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+GLLPHMDP_00142	CDS	1026				hypothetical protein
+GLLPHMDP_00143	CDS	1647				hypothetical protein
+GLLPHMDP_00144	CDS	654	mntR			HTH-type transcriptional regulator MntR
+GLLPHMDP_00145	CDS	1998				hypothetical protein
+GLLPHMDP_00146	CDS	900				hypothetical protein
+GLLPHMDP_00147	CDS	966				hypothetical protein
+GLLPHMDP_00148	CDS	882				hypothetical protein
+GLLPHMDP_00149	CDS	960				hypothetical protein
+GLLPHMDP_00150	CDS	297			COG1911	50S ribosomal protein L30e
+GLLPHMDP_00151	CDS	1584	rpoC_1	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+GLLPHMDP_00152	CDS	3099	rpoC_2	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+GLLPHMDP_00153	CDS	3687	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+GLLPHMDP_00154	CDS	588				hypothetical protein
+GLLPHMDP_00155	tRNA	76				tRNA-Lys(ttt)
+GLLPHMDP_00156	CDS	1374	birA	6.3.4.15		Bifunctional ligase/repressor BirA
+GLLPHMDP_00157	CDS	312				hypothetical protein
+GLLPHMDP_00158	CDS	906	ftsZ			Cell division protein FtsZ
+GLLPHMDP_00159	CDS	306				hypothetical protein
+GLLPHMDP_00160	CDS	747			COG1136	putative ABC transporter ATP-binding protein
+GLLPHMDP_00161	CDS	1071				hypothetical protein
+GLLPHMDP_00162	CDS	405				hypothetical protein
+GLLPHMDP_00163	CDS	873	nadK	2.7.1.23		NAD kinase
+GLLPHMDP_00164	CDS	1071				hypothetical protein
+GLLPHMDP_00165	CDS	1452				hypothetical protein
+GLLPHMDP_00166	CDS	1779	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GLLPHMDP_00167	CDS	345				hypothetical protein
+GLLPHMDP_00168	CDS	600				hypothetical protein
+GLLPHMDP_00169	rRNA	112				5S ribosomal RNA
+GLLPHMDP_00170	CDS	663	eif6		COG1976	Translation initiation factor 6
+GLLPHMDP_00171	CDS	1227	thrC	4.2.3.1	COG0498	Threonine synthase
+GLLPHMDP_00172	CDS	231				hypothetical protein
+GLLPHMDP_00173	CDS	408	pycB	6.4.1.1	COG0511	Pyruvate carboxylase subunit B
+GLLPHMDP_00174	CDS	198				hypothetical protein
+GLLPHMDP_00175	CDS	1554	pccB	6.4.1.3		Propionyl-CoA carboxylase, carboxyltransferase subunit
+GLLPHMDP_00176	CDS	435	icmF_1	5.4.99.13		Fused isobutyryl-CoA mutase
+GLLPHMDP_00177	CDS	879	icmF_2	5.4.99.13		Fused isobutyryl-CoA mutase
+GLLPHMDP_00178	CDS	636				hypothetical protein
+GLLPHMDP_00179	CDS	120				hypothetical protein
+GLLPHMDP_00180	CDS	486	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+GLLPHMDP_00181	CDS	333				hypothetical protein
+GLLPHMDP_00182	CDS	504	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+GLLPHMDP_00183	CDS	2778				hypothetical protein
+GLLPHMDP_00184	CDS	867	petB			Cytochrome b6
+GLLPHMDP_00185	CDS	855				hypothetical protein
+GLLPHMDP_00186	CDS	2964				hypothetical protein
+GLLPHMDP_00187	CDS	240				hypothetical protein
+GLLPHMDP_00188	CDS	387	eif5a		COG0231	Translation initiation factor 5A
+GLLPHMDP_00189	CDS	963				hypothetical protein
+GLLPHMDP_00190	CDS	954	surE1	3.1.3.5	COG0496	5'-nucleotidase SurE1
+GLLPHMDP_00191	CDS	624	trmY	2.1.1.257	COG1901	tRNA (pseudouridine(54)-N(1))-methyltransferase
+GLLPHMDP_00192	CDS	1356			COG0541	Signal recognition particle 54 kDa protein
+GLLPHMDP_00193	CDS	804				hypothetical protein
+GLLPHMDP_00194	CDS	1419	kefC			Glutathione-regulated potassium-efflux system protein KefC
+GLLPHMDP_00195	CDS	1572				hypothetical protein
+GLLPHMDP_00196	CDS	384				hypothetical protein
+GLLPHMDP_00197	CDS	1524				hypothetical protein
+GLLPHMDP_00198	CDS	1482	rfcL		COG0470	Replication factor C large subunit
+GLLPHMDP_00199	CDS	1830				hypothetical protein
+GLLPHMDP_00200	CDS	5295	cshB	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshB
+GLLPHMDP_00201	CDS	1044				hypothetical protein
+GLLPHMDP_00202	CDS	570	gmhA	5.3.1.28		Phosphoheptose isomerase
+GLLPHMDP_00203	CDS	642	hisB	3.1.3.15		Histidine biosynthesis bifunctional protein HisB
+GLLPHMDP_00204	CDS	1299	tiaS	6.3.4.22	COG1571	tRNA(Ile2) 2-agmatinylcytidine synthetase TiaS
+GLLPHMDP_00205	CDS	225				hypothetical protein
+GLLPHMDP_00206	CDS	570				hypothetical protein
+GLLPHMDP_00207	CDS	1350	argH	4.3.2.1		Argininosuccinate lyase
+GLLPHMDP_00208	CDS	636				hypothetical protein
+GLLPHMDP_00209	CDS	237				hypothetical protein
+GLLPHMDP_00210	CDS	711	psmA	3.4.25.1	COG0638	Proteasome subunit alpha
+GLLPHMDP_00211	CDS	690			COG1500	Ribosome maturation protein SDO1 
+GLLPHMDP_00212	CDS	102				hypothetical protein
+GLLPHMDP_00213	CDS	678	rrp4		COG1097	Exosome complex component Rrp4
+GLLPHMDP_00214	CDS	714		3.1.13.-	COG0689	Exosome complex component Rrp41
+GLLPHMDP_00215	CDS	792			COG2123	Exosome complex component Rrp42
+GLLPHMDP_00216	CDS	369				hypothetical protein
+GLLPHMDP_00217	CDS	252				hypothetical protein
+GLLPHMDP_00218	CDS	303				hypothetical protein
+GLLPHMDP_00219	CDS	960	ppaC	3.6.1.1		manganese-dependent inorganic pyrophosphatase
+GLLPHMDP_00220	CDS	951				hypothetical protein
+GLLPHMDP_00221	CDS	405				hypothetical protein
+GLLPHMDP_00222	CDS	987				hypothetical protein
+GLLPHMDP_00223	CDS	1272	FDC1	4.1.1.-		Ferulic acid decarboxylase 1
+GLLPHMDP_00224	CDS	483			COG0048	30S ribosomal protein S12
+GLLPHMDP_00225	CDS	615	rps7		COG0049	30S ribosomal protein S7
+GLLPHMDP_00226	CDS	2208	fusA		COG0480	Elongation factor 2
+GLLPHMDP_00227	CDS	1689	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+GLLPHMDP_00228	CDS	792		2.7.4.26	COG1608	Isopentenyl phosphate kinase
+GLLPHMDP_00229	CDS	324				hypothetical protein
+GLLPHMDP_00230	CDS	693	kptA	2.7.1.-	COG1859	putative RNA 2'-phosphotransferase
+GLLPHMDP_00231	CDS	1215	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+GLLPHMDP_00232	CDS	591				hypothetical protein
+GLLPHMDP_00233	CDS	1215	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+GLLPHMDP_00234	CDS	1620				hypothetical protein
+GLLPHMDP_00235	CDS	513				hypothetical protein
+GLLPHMDP_00236	CDS	939	dxs_1	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+GLLPHMDP_00237	CDS	807	dxs_2	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+GLLPHMDP_00238	CDS	1203	cofH_2	2.5.1.147	COG1060	5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase
+GLLPHMDP_00239	CDS	795	mqnA	4.2.1.151		Chorismate dehydratase
+GLLPHMDP_00240	CDS	480				hypothetical protein
+GLLPHMDP_00241	CDS	855	mqnD	4.1.-.-		1,4-dihydroxy-6-naphtoate synthase
+GLLPHMDP_00242	CDS	195				hypothetical protein
+GLLPHMDP_00243	CDS	960	priS	2.7.7.-	COG1467	DNA primase small subunit PriS
+GLLPHMDP_00244	CDS	861				hypothetical protein
+GLLPHMDP_00245	CDS	816				hypothetical protein
+GLLPHMDP_00246	CDS	951				hypothetical protein
+GLLPHMDP_00247	CDS	2139	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+GLLPHMDP_00248	CDS	582			COG2042	putative ribosome biogenesis protein
+GLLPHMDP_00249	CDS	312				hypothetical protein
+GLLPHMDP_00250	CDS	117				hypothetical protein
+GLLPHMDP_00251	CDS	1230	pan		COG1222	Proteasome-activating nucleotidase
+GLLPHMDP_00252	CDS	1041		2.1.2.5	COG3643	Glutamate formimidoyltransferase
+GLLPHMDP_00253	CDS	618				hypothetical protein
+GLLPHMDP_00254	CDS	2022	hutU	4.2.1.49		Urocanate hydratase
+GLLPHMDP_00255	CDS	1527	hutH	4.3.1.3		Histidine ammonia-lyase
+GLLPHMDP_00256	CDS	762	alaXM		COG2872	Alanyl-tRNA editing protein AlaX-M
+GLLPHMDP_00257	tRNA	76				tRNA-Val(gac)
+GLLPHMDP_00258	CDS	3396				hypothetical protein
+GLLPHMDP_00259	CDS	255				hypothetical protein
+GLLPHMDP_00260	CDS	777				hypothetical protein
+GLLPHMDP_00261	CDS	570				hypothetical protein
+GLLPHMDP_00262	CDS	942	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+GLLPHMDP_00263	CDS	750	rlmE	2.1.1.166		Ribosomal RNA large subunit methyltransferase E
+GLLPHMDP_00264	CDS	390				hypothetical protein
+GLLPHMDP_00265	CDS	453				hypothetical protein
+GLLPHMDP_00266	CDS	345				hypothetical protein
+GLLPHMDP_00267	CDS	1422	truD	5.4.99.27	COG0585	putative tRNA pseudouridine synthase D
+GLLPHMDP_00268	CDS	300	rpoL	2.7.7.6	COG1761	DNA-directed RNA polymerase subunit L
+GLLPHMDP_00269	CDS	2553				hypothetical protein
+GLLPHMDP_00270	CDS	675				hypothetical protein
+GLLPHMDP_00271	CDS	1365				hypothetical protein
+GLLPHMDP_00272	CDS	285				hypothetical protein
+GLLPHMDP_00273	CDS	1425	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+GLLPHMDP_00274	CDS	459	tusA			Sulfur carrier protein TusA
+GLLPHMDP_00275	CDS	636	ribA	3.5.4.25		GTP cyclohydrolase-2
+GLLPHMDP_00276	tRNA	75				tRNA-His(gtg)
+GLLPHMDP_00277	CDS	2373				hypothetical protein
+GLLPHMDP_00278	CDS	966	truB	5.4.99.25	COG0130	putative tRNA pseudouridine synthase B
+GLLPHMDP_00279	CDS	567	cmk	2.7.4.25		Cytidylate kinase
+GLLPHMDP_00280	CDS	930				hypothetical protein
+GLLPHMDP_00281	CDS	2886				hypothetical protein
+GLLPHMDP_00282	CDS	846		3.6.5.-	COG1100	GPN-loop GTPase
+GLLPHMDP_00283	CDS	951	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase, anabolic
+GLLPHMDP_00284	CDS	936		2.5.1.42	COG0382	Digeranylgeranylglyceryl phosphate synthase
+GLLPHMDP_00285	CDS	255				hypothetical protein
+GLLPHMDP_00286	tRNA	78				tRNA-Glu(ctc)
+GLLPHMDP_00287	CDS	2211				hypothetical protein
+GLLPHMDP_00288	CDS	1053	GMPR	1.7.1.7		GMP reductase
+GLLPHMDP_00289	CDS	504				Protein archease
+GLLPHMDP_00290	CDS	3051				hypothetical protein
+GLLPHMDP_00291	CDS	1110				hypothetical protein
+GLLPHMDP_00292	CDS	1200	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+GLLPHMDP_00293	CDS	1080				hypothetical protein
+GLLPHMDP_00294	CDS	828				hypothetical protein
+GLLPHMDP_00295	CDS	201				hypothetical protein
+GLLPHMDP_00296	CDS	903				hypothetical protein
+GLLPHMDP_00297	CDS	570				hypothetical protein
+GLLPHMDP_00298	CDS	2958	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+GLLPHMDP_00299	CDS	1473	rtcB	6.5.1.-	COG1690	tRNA-splicing ligase RtcB
+GLLPHMDP_00300	CDS	492				hypothetical protein
+GLLPHMDP_00301	CDS	630				hypothetical protein
+GLLPHMDP_00302	CDS	171				hypothetical protein
+GLLPHMDP_00303	CDS	6801				hypothetical protein
+GLLPHMDP_00304	tRNA	75				tRNA-Thr(ggt)
+GLLPHMDP_00305	tRNA	86				tRNA-Ser(gga)
+GLLPHMDP_00306	CDS	1155				hypothetical protein
+GLLPHMDP_00307	CDS	1434				hypothetical protein
+GLLPHMDP_00308	CDS	795				hypothetical protein
+GLLPHMDP_00309	CDS	663				hypothetical protein
+GLLPHMDP_00310	CDS	975				hypothetical protein
+GLLPHMDP_00311	CDS	933				hypothetical protein
+GLLPHMDP_00312	CDS	894				hypothetical protein
+GLLPHMDP_00313	CDS	165				hypothetical protein
+GLLPHMDP_00314	CDS	303				hypothetical protein
+GLLPHMDP_00315	CDS	219				hypothetical protein
+GLLPHMDP_00316	CDS	549	rpoE1	2.7.7.6	COG1095	DNA-directed RNA polymerase subunit E'
+GLLPHMDP_00317	CDS	5709				hypothetical protein
+GLLPHMDP_00318	CDS	645				hypothetical protein
+GLLPHMDP_00319	CDS	741				hypothetical protein
+GLLPHMDP_00320	CDS	909	ilvE	2.6.1.42	COG0115	Putative branched-chain-amino-acid aminotransferase
+GLLPHMDP_00321	CDS	912	purC	6.3.2.6		Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GLLPHMDP_00322	CDS	2163	hcf136			Ycf48-like protein
+GLLPHMDP_00323	CDS	831	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GLLPHMDP_00324	CDS	1455	gdhA1	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase A1
+GLLPHMDP_00325	CDS	1317				hypothetical protein
+GLLPHMDP_00326	CDS	366				hypothetical protein
+GLLPHMDP_00327	CDS	2913				hypothetical protein
+GLLPHMDP_00328	CDS	2016		3.6.4.12	COG1199	ATP-dependent DNA helicase
+GLLPHMDP_00329	CDS	459				hypothetical protein
+GLLPHMDP_00330	CDS	102				hypothetical protein
+GLLPHMDP_00331	CDS	8940				hypothetical protein
+GLLPHMDP_00332	CDS	2940				hypothetical protein
+GLLPHMDP_00333	tRNA	86				tRNA-Leu(taa)
+GLLPHMDP_00334	CDS	402				hypothetical protein
+GLLPHMDP_00335	CDS	768	rhaD	1.1.1.377	COG1028	L-rhamnose 1-dehydrogenase (NADP(+))
+GLLPHMDP_00336	CDS	1113	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+GLLPHMDP_00337	CDS	1251				hypothetical protein
+GLLPHMDP_00338	CDS	1011	dxs_3	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+GLLPHMDP_00339	CDS	1335				hypothetical protein
+GLLPHMDP_00340	CDS	1437	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+GLLPHMDP_00341	CDS	687	lipB	2.3.1.181		Octanoyltransferase
+GLLPHMDP_00342	CDS	1056	egtE	4.4.-.-		hercynylcysteine sulfoxide lyase
+GLLPHMDP_00343	CDS	576	PAD1	2.5.1.129		Flavin prenyltransferase PAD1, mitochondrial
+GLLPHMDP_00344	CDS	1611				hypothetical protein
+GLLPHMDP_00345	CDS	459		1.11.1.15	COG0450	Peroxiredoxin
+GLLPHMDP_00346	CDS	1728	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+GLLPHMDP_00347	CDS	1248	prf1		COG1503	Peptide chain release factor subunit 1
+GLLPHMDP_00348	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+GLLPHMDP_00349	CDS	198				hypothetical protein
+GLLPHMDP_00350	CDS	585				hypothetical protein
+GLLPHMDP_00351	CDS	1134	obg	3.6.5.-		GTPase Obg
+GLLPHMDP_00352	CDS	456				hypothetical protein
+GLLPHMDP_00353	CDS	327		4.2.1.96		Putative pterin-4-alpha-carbinolamine dehydratase
+GLLPHMDP_00354	CDS	315				hypothetical protein
+GLLPHMDP_00355	CDS	1017		1.3.1.84	COG1064	Acryloyl-coenzyme A reductase
+GLLPHMDP_00356	CDS	276				hypothetical protein
+GLLPHMDP_00357	CDS	411	eif2b		COG1601	Translation initiation factor 2 subunit beta
+GLLPHMDP_00358	CDS	450	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+GLLPHMDP_00359	CDS	585	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+GLLPHMDP_00360	CDS	1578	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+GLLPHMDP_00361	CDS	243				hypothetical protein
+GLLPHMDP_00362	CDS	3369	carB			Carbamoyl-phosphate synthase large chain
+GLLPHMDP_00363	CDS	1389	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+GLLPHMDP_00364	CDS	582		2.1.1.206	COG1303	tRNA (cytidine(56)-2'-O)-methyltransferase
+GLLPHMDP_00365	CDS	669				hypothetical protein
+GLLPHMDP_00366	CDS	834				hypothetical protein
+GLLPHMDP_00367	CDS	474				hypothetical protein
+GLLPHMDP_00368	tRNA	77				tRNA-Lys(ctt)
+GLLPHMDP_00369	CDS	1329	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+GLLPHMDP_00370	CDS	1212	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+GLLPHMDP_00371	tRNA	76				tRNA-Gln(ttg)
+GLLPHMDP_00372	CDS	6360				hypothetical protein
+GLLPHMDP_00373	CDS	882	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+GLLPHMDP_00374	CDS	3825				hypothetical protein
+GLLPHMDP_00375	CDS	4833				hypothetical protein
+GLLPHMDP_00376	CDS	663				hypothetical protein
+GLLPHMDP_00377	CDS	195				hypothetical protein
+GLLPHMDP_00378	CDS	1062		1.14.13.239		Carnitine monooxygenase oxygenase subunit
+GLLPHMDP_00379	CDS	1347	gatD	6.3.5.-	COG0252	Glutamyl-tRNA(Gln) amidotransferase subunit D

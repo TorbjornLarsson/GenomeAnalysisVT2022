@@ -1,0 +1,1028 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OMAHEEIC_00001	CDS	264				hypothetical protein
+OMAHEEIC_00002	CDS	735	yjmC	1.1.1.-	COG2055	putative oxidoreductase YjmC
+OMAHEEIC_00003	CDS	423				hypothetical protein
+OMAHEEIC_00004	CDS	384				hypothetical protein
+OMAHEEIC_00005	CDS	429	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+OMAHEEIC_00006	CDS	144				hypothetical protein
+OMAHEEIC_00007	CDS	1053	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+OMAHEEIC_00008	tRNA	76				tRNA-Asn(gtt)
+OMAHEEIC_00009	CDS	525				hypothetical protein
+OMAHEEIC_00010	CDS	297	rimK	6.3.2.-	COG0189	Ribosomal protein S6--L-glutamate ligase
+OMAHEEIC_00011	CDS	756	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+OMAHEEIC_00012	CDS	225				hypothetical protein
+OMAHEEIC_00013	CDS	552				hypothetical protein
+OMAHEEIC_00014	CDS	849	rdpA	1.14.11.44		(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+OMAHEEIC_00015	CDS	780				hypothetical protein
+OMAHEEIC_00016	CDS	855				hypothetical protein
+OMAHEEIC_00017	CDS	813				hypothetical protein
+OMAHEEIC_00018	CDS	1302	oprM		COG1538	Outer membrane protein OprM
+OMAHEEIC_00019	CDS	426	cc4_1		COG2863	Cytochrome c4
+OMAHEEIC_00020	CDS	621	dsbA		COG0526	Thiol:disulfide interchange protein DsbA
+OMAHEEIC_00021	CDS	417				hypothetical protein
+OMAHEEIC_00022	CDS	231				hypothetical protein
+OMAHEEIC_00023	CDS	624				hypothetical protein
+OMAHEEIC_00024	CDS	1428	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+OMAHEEIC_00025	CDS	1443	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+OMAHEEIC_00026	CDS	288	gatC_1	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+OMAHEEIC_00027	CDS	630	aroB_1	4.2.3.4	COG0337	3-dehydroquinate synthase
+OMAHEEIC_00028	CDS	1359			COG2239	Magnesium transporter MgtE
+OMAHEEIC_00029	CDS	465				hypothetical protein
+OMAHEEIC_00030	CDS	189				hypothetical protein
+OMAHEEIC_00031	CDS	795	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+OMAHEEIC_00032	CDS	948	prfA		COG0216	Peptide chain release factor RF1
+OMAHEEIC_00033	CDS	1014	mtgB_1	2.1.1.-	COG5598	Glycine betaine methyltransferase
+OMAHEEIC_00034	CDS	1551	pnbA	3.1.1.-	COG2272	Para-nitrobenzyl esterase
+OMAHEEIC_00035	CDS	468	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+OMAHEEIC_00036	CDS	885	ksdD_1	1.3.99.4	COG1053	3-oxosteroid 1-dehydrogenase
+OMAHEEIC_00037	CDS	234				hypothetical protein
+OMAHEEIC_00038	CDS	1110	bchB	1.3.7.7	COG2710	Light-independent protochlorophyllide reductase subunit B
+OMAHEEIC_00039	CDS	153				hypothetical protein
+OMAHEEIC_00040	tRNA	74				tRNA-Cys(gca)
+OMAHEEIC_00041	tRNA	76				tRNA-Gly(gcc)
+OMAHEEIC_00042	CDS	585	pgsA_1	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+OMAHEEIC_00043	tRNA	77				tRNA-Arg(acg)
+OMAHEEIC_00044	CDS	405	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+OMAHEEIC_00045	CDS	309	fadN	1.1.1.35	COG1024	putative 3-hydroxyacyl-CoA dehydrogenase
+OMAHEEIC_00046	CDS	1188	fadA	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+OMAHEEIC_00047	CDS	981				hypothetical protein
+OMAHEEIC_00048	CDS	576				hypothetical protein
+OMAHEEIC_00049	CDS	600				hypothetical protein
+OMAHEEIC_00050	CDS	261				hypothetical protein
+OMAHEEIC_00051	CDS	189				hypothetical protein
+OMAHEEIC_00052	CDS	1551	yidK		COG4146	putative symporter YidK
+OMAHEEIC_00053	CDS	1044	lhpH	4.2.1.77	COG3938	Trans-3-hydroxy-L-proline dehydratase
+OMAHEEIC_00054	CDS	738	pmpR		COG0217	Transcriptional regulatory protein PmpR
+OMAHEEIC_00055	CDS	420				hypothetical protein
+OMAHEEIC_00056	CDS	402	ybgC	3.1.2.-	COG0824	Acyl-CoA thioesterase YbgC
+OMAHEEIC_00057	CDS	669	tolQ_1		COG0811	Tol-Pal system protein TolQ
+OMAHEEIC_00058	CDS	423	tolR_1		COG0848	Tol-Pal system protein TolR
+OMAHEEIC_00059	CDS	591	ribE	2.5.1.9	COG0307	Riboflavin synthase
+OMAHEEIC_00060	CDS	750	mtgB_2	2.1.1.-	COG5598	Glycine betaine methyltransferase
+OMAHEEIC_00061	CDS	507				hypothetical protein
+OMAHEEIC_00062	CDS	300				hypothetical protein
+OMAHEEIC_00063	CDS	411				hypothetical protein
+OMAHEEIC_00064	CDS	312	rpsJ_1		COG0051	30S ribosomal protein S10
+OMAHEEIC_00065	CDS	1410	fusA_1		COG0480	Elongation factor G
+OMAHEEIC_00066	CDS	210				hypothetical protein
+OMAHEEIC_00067	CDS	540	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+OMAHEEIC_00068	CDS	1044	adhT	1.1.1.1		Alcohol dehydrogenase
+OMAHEEIC_00069	CDS	753	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+OMAHEEIC_00070	CDS	318	yhbY		COG1534	RNA-binding protein YhbY
+OMAHEEIC_00071	CDS	1011	lysA_1	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+OMAHEEIC_00072	CDS	186	gshB	6.3.2.3		Glutathione synthetase
+OMAHEEIC_00073	CDS	603				hypothetical protein
+OMAHEEIC_00074	CDS	393	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+OMAHEEIC_00075	CDS	1341	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+OMAHEEIC_00076	CDS	306	yajC		COG1862	Sec translocon accessory complex subunit YajC
+OMAHEEIC_00077	CDS	1860	secD		COG0342	Protein translocase subunit SecD
+OMAHEEIC_00078	CDS	1239				hypothetical protein
+OMAHEEIC_00079	CDS	1743				hypothetical protein
+OMAHEEIC_00080	CDS	732				hypothetical protein
+OMAHEEIC_00081	CDS	1380	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+OMAHEEIC_00082	CDS	846	ubiA	2.5.1.39	COG0382	4-hydroxybenzoate octaprenyltransferase
+OMAHEEIC_00083	CDS	438	ubiC	4.1.3.40		Chorismate pyruvate-lyase
+OMAHEEIC_00084	CDS	270	purC_1	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OMAHEEIC_00085	CDS	438	iscR_1		COG1959	HTH-type transcriptional regulator IscR
+OMAHEEIC_00086	CDS	1221	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+OMAHEEIC_00087	CDS	405	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+OMAHEEIC_00088	CDS	366	iscA		COG0316	Iron-binding protein IscA
+OMAHEEIC_00089	CDS	339	fdx_1		COG0633	2Fe-2S ferredoxin
+OMAHEEIC_00090	CDS	201	iscX_1		COG2975	Protein IscX
+OMAHEEIC_00091	CDS	423	ndk_1	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+OMAHEEIC_00092	CDS	240				hypothetical protein
+OMAHEEIC_00093	CDS	234	fdx_2		COG0633	2Fe-2S ferredoxin
+OMAHEEIC_00094	CDS	195	iscX_2		COG2975	Protein IscX
+OMAHEEIC_00095	CDS	420	ndk_2	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+OMAHEEIC_00096	CDS	183				hypothetical protein
+OMAHEEIC_00097	CDS	687				hypothetical protein
+OMAHEEIC_00098	CDS	1149				hypothetical protein
+OMAHEEIC_00099	CDS	126				hypothetical protein
+OMAHEEIC_00100	CDS	1098	tmpC_1		COG1744	Membrane lipoprotein TmpC
+OMAHEEIC_00101	CDS	669				hypothetical protein
+OMAHEEIC_00102	CDS	435	lpxA_1	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+OMAHEEIC_00103	CDS	714	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+OMAHEEIC_00104	CDS	417				hypothetical protein
+OMAHEEIC_00105	tRNA	76				tRNA-Met(cat)
+OMAHEEIC_00106	CDS	597	pdxH	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+OMAHEEIC_00107	CDS	1803	rpoD		COG0568	RNA polymerase sigma factor RpoD
+OMAHEEIC_00108	CDS	1284	dnaG	2.7.7.-		DNA primase
+OMAHEEIC_00109	CDS	315	aprA	1.8.99.2		Adenylylsulfate reductase subunit alpha
+OMAHEEIC_00110	CDS	351				hypothetical protein
+OMAHEEIC_00111	CDS	471	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+OMAHEEIC_00112	CDS	486				hypothetical protein
+OMAHEEIC_00113	CDS	636	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+OMAHEEIC_00114	CDS	993				hypothetical protein
+OMAHEEIC_00115	CDS	720	purC_2	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OMAHEEIC_00116	CDS	438	iscR_2		COG1959	HTH-type transcriptional regulator IscR
+OMAHEEIC_00117	CDS	258	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+OMAHEEIC_00118	CDS	642	kshA_1	1.14.13.-		putative 3-ketosteroid-9-alpha-monooxygenase, oxygenase component
+OMAHEEIC_00119	CDS	540	rplF_1		COG0097	50S ribosomal protein L6
+OMAHEEIC_00120	CDS	345	rplR_1			50S ribosomal protein L18
+OMAHEEIC_00121	CDS	552				hypothetical protein
+OMAHEEIC_00122	CDS	924	bamA			Outer membrane protein assembly factor BamA
+OMAHEEIC_00123	CDS	270				hypothetical protein
+OMAHEEIC_00124	CDS	675	eltD	1.1.1.-	COG1063	Erythritol/L-threitol dehydrogenase
+OMAHEEIC_00125	CDS	303				hypothetical protein
+OMAHEEIC_00126	CDS	1392	betA	1.1.99.1	COG2303	Oxygen-dependent choline dehydrogenase
+OMAHEEIC_00127	CDS	321				hypothetical protein
+OMAHEEIC_00128	CDS	1107	smtB_1	2.8.3.22	COG1804	Succinyl-CoA--L-malate CoA-transferase beta subunit
+OMAHEEIC_00129	CDS	813		3.5.4.2	COG1816	Adenine deaminase
+OMAHEEIC_00130	CDS	567				hypothetical protein
+OMAHEEIC_00131	CDS	1818	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+OMAHEEIC_00132	CDS	609	sauS	1.2.1.81	COG1012	Sulfoacetaldehyde dehydrogenase (acylating)
+OMAHEEIC_00133	CDS	351				hypothetical protein
+OMAHEEIC_00134	CDS	459				hypothetical protein
+OMAHEEIC_00135	CDS	1209				hypothetical protein
+OMAHEEIC_00136	CDS	711	hflX		COG2262	GTPase HflX
+OMAHEEIC_00137	CDS	963	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+OMAHEEIC_00138	CDS	363				hypothetical protein
+OMAHEEIC_00139	CDS	846	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+OMAHEEIC_00140	CDS	768				hypothetical protein
+OMAHEEIC_00141	CDS	909	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+OMAHEEIC_00142	CDS	240				hypothetical protein
+OMAHEEIC_00143	CDS	1086				hypothetical protein
+OMAHEEIC_00144	CDS	411				hypothetical protein
+OMAHEEIC_00145	CDS	804	nirQ		COG0714	Denitrification regulatory protein NirQ
+OMAHEEIC_00146	CDS	360	cbbS1	4.1.1.39	COG4451	Ribulose bisphosphate carboxylase small chain 1
+OMAHEEIC_00147	CDS	810	cbbL1	4.1.1.39	COG1850	Ribulose bisphosphate carboxylase large chain 1
+OMAHEEIC_00148	CDS	228				hypothetical protein
+OMAHEEIC_00149	CDS	279				hypothetical protein
+OMAHEEIC_00150	CDS	1368	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+OMAHEEIC_00151	CDS	447	rplI		COG0359	50S ribosomal protein L9
+OMAHEEIC_00152	CDS	459	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+OMAHEEIC_00153	CDS	366				hypothetical protein
+OMAHEEIC_00154	CDS	855	rsgA	3.6.1.-		Small ribosomal subunit biogenesis GTPase RsgA
+OMAHEEIC_00155	CDS	549	orn_1	3.1.-.-	COG1949	Oligoribonuclease
+OMAHEEIC_00156	CDS	597	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OMAHEEIC_00157	CDS	249				hypothetical protein
+OMAHEEIC_00158	CDS	861				hypothetical protein
+OMAHEEIC_00159	CDS	915	ccl	4.1.3.46	COG0119	(R)-citramalyl-CoA lyase
+OMAHEEIC_00160	CDS	873				hypothetical protein
+OMAHEEIC_00161	CDS	135				hypothetical protein
+OMAHEEIC_00162	CDS	774				hypothetical protein
+OMAHEEIC_00163	CDS	483	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+OMAHEEIC_00164	CDS	669		3.1.3.-	COG0560	putative phosphatase
+OMAHEEIC_00165	CDS	2823	gcvP	1.4.4.2		Glycine dehydrogenase (decarboxylating)
+OMAHEEIC_00166	CDS	387	gcvH		COG0509	Glycine cleavage system H protein
+OMAHEEIC_00167	CDS	186				hypothetical protein
+OMAHEEIC_00168	CDS	1530	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+OMAHEEIC_00169	CDS	1329				hypothetical protein
+OMAHEEIC_00170	CDS	2091	fusA_2		COG0480	Elongation factor G
+OMAHEEIC_00171	CDS	312	rpsJ_2		COG0051	30S ribosomal protein S10
+OMAHEEIC_00172	CDS	642				hypothetical protein
+OMAHEEIC_00173	CDS	336				hypothetical protein
+OMAHEEIC_00174	CDS	270	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+OMAHEEIC_00175	CDS	315	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+OMAHEEIC_00176	CDS	843	yisK		COG0179	putative protein YisK
+OMAHEEIC_00177	CDS	960				hypothetical protein
+OMAHEEIC_00178	CDS	432				hypothetical protein
+OMAHEEIC_00179	CDS	1152				hypothetical protein
+OMAHEEIC_00180	CDS	318	grxD		COG0278	Glutaredoxin 4
+OMAHEEIC_00181	CDS	600				hypothetical protein
+OMAHEEIC_00182	CDS	459				hypothetical protein
+OMAHEEIC_00183	CDS	885	mpdB	1.1.1.400		2-methyl-1,2-propanediol dehydrogenase
+OMAHEEIC_00184	CDS	168				hypothetical protein
+OMAHEEIC_00185	CDS	540				hypothetical protein
+OMAHEEIC_00186	CDS	393				hypothetical protein
+OMAHEEIC_00187	CDS	450				hypothetical protein
+OMAHEEIC_00188	CDS	888	epmA	6.3.1.-	COG2269	Elongation factor P--(R)-beta-lysine ligase
+OMAHEEIC_00189	CDS	561	efp_1		COG0231	Elongation factor P
+OMAHEEIC_00190	CDS	1086	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+OMAHEEIC_00191	CDS	612	nahD	5.99.1.4		2-hydroxychromene-2-carboxylate isomerase
+OMAHEEIC_00192	CDS	183	rplN			50S ribosomal protein L14
+OMAHEEIC_00193	CDS	327	rplX		COG0198	50S ribosomal protein L24
+OMAHEEIC_00194	CDS	537	rplE		COG0094	50S ribosomal protein L5
+OMAHEEIC_00195	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+OMAHEEIC_00196	CDS	1590		6.2.1.42		3-oxocholest-4-en-26-oate--CoA ligase
+OMAHEEIC_00197	CDS	144	rubA1		COG1773	Rubredoxin-1
+OMAHEEIC_00198	CDS	1572	acnB	4.2.1.3	COG1049	Aconitate hydratase B
+OMAHEEIC_00199	CDS	1479	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+OMAHEEIC_00200	CDS	1095			COG4663	Lactate-binding periplasmic protein
+OMAHEEIC_00201	CDS	312				hypothetical protein
+OMAHEEIC_00202	CDS	714				hypothetical protein
+OMAHEEIC_00203	CDS	495				hypothetical protein
+OMAHEEIC_00204	CDS	543				hypothetical protein
+OMAHEEIC_00205	CDS	732	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+OMAHEEIC_00206	CDS	1011	cysC	2.7.1.25		Adenylyl-sulfate kinase
+OMAHEEIC_00207	CDS	426	dddP_1	4.4.1.3	COG0006	Dimethlysulfonioproprionate lyase DddP
+OMAHEEIC_00208	CDS	603	lexA	3.4.21.88	COG1974	LexA repressor
+OMAHEEIC_00209	CDS	258				hypothetical protein
+OMAHEEIC_00210	CDS	858	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+OMAHEEIC_00211	CDS	672				hypothetical protein
+OMAHEEIC_00212	CDS	906				hypothetical protein
+OMAHEEIC_00213	CDS	384	apaG		COG2967	Protein ApaG
+OMAHEEIC_00214	CDS	1401	pyk	2.7.1.40		Pyruvate kinase
+OMAHEEIC_00215	CDS	621	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+OMAHEEIC_00216	CDS	720	tig	5.2.1.8	COG0544	Trigger factor
+OMAHEEIC_00217	CDS	144				hypothetical protein
+OMAHEEIC_00218	CDS	960		1.6.5.11	COG2070	NADH:quinone reductase
+OMAHEEIC_00219	CDS	444				hypothetical protein
+OMAHEEIC_00220	CDS	1821	sppA	3.4.21.-	COG0616	Protease 4
+OMAHEEIC_00221	CDS	462	hda_1		COG0593	DnaA regulatory inactivator Hda
+OMAHEEIC_00222	CDS	1533				hypothetical protein
+OMAHEEIC_00223	CDS	408		1.3.99.-	COG1960	putative acyl-CoA dehydrogenase fadE25
+OMAHEEIC_00224	CDS	267				hypothetical protein
+OMAHEEIC_00225	CDS	1254	surA_1	5.2.1.8	COG0760	Chaperone SurA
+OMAHEEIC_00226	CDS	285	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+OMAHEEIC_00227	CDS	492				hypothetical protein
+OMAHEEIC_00228	CDS	462				hypothetical protein
+OMAHEEIC_00229	CDS	1830	putA		COG0506	Bifunctional protein PutA
+OMAHEEIC_00230	CDS	912	ilvD_1	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+OMAHEEIC_00231	CDS	711				hypothetical protein
+OMAHEEIC_00232	CDS	1284				hypothetical protein
+OMAHEEIC_00233	CDS	831	pstB	7.3.2.1		Phosphate import ATP-binding protein PstB
+OMAHEEIC_00234	CDS	714	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+OMAHEEIC_00235	CDS	690	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+OMAHEEIC_00236	CDS	489	aroA_1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+OMAHEEIC_00237	CDS	672	cmk_1	2.7.4.25	COG0283	Cytidylate kinase
+OMAHEEIC_00238	CDS	495				hypothetical protein
+OMAHEEIC_00239	CDS	642	rpiA_1	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+OMAHEEIC_00240	CDS	372				hypothetical protein
+OMAHEEIC_00241	CDS	204	tgnD	3.5.1.-		(E)-2-((N-methylformamido)methylene)succinate hydrolase
+OMAHEEIC_00242	CDS	936		1.5.1.-		putative flavin reductase
+OMAHEEIC_00243	CDS	417	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+OMAHEEIC_00244	CDS	1071				hypothetical protein
+OMAHEEIC_00245	CDS	930				hypothetical protein
+OMAHEEIC_00246	CDS	918		3.1.1.23	COG2267	Monoacylglycerol lipase
+OMAHEEIC_00247	CDS	1299				hypothetical protein
+OMAHEEIC_00248	CDS	591	recR_1		COG0353	Recombination protein RecR
+OMAHEEIC_00249	CDS	570	dcd	3.5.4.13		dCTP deaminase
+OMAHEEIC_00250	CDS	531	cc4_2		COG2863	Cytochrome c4
+OMAHEEIC_00251	CDS	765	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OMAHEEIC_00252	CDS	246				hypothetical protein
+OMAHEEIC_00253	CDS	1893	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+OMAHEEIC_00254	CDS	1668	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+OMAHEEIC_00255	CDS	1491				hypothetical protein
+OMAHEEIC_00256	CDS	1134	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+OMAHEEIC_00257	CDS	201	PROSC			Pyridoxal phosphate homeostasis protein
+OMAHEEIC_00258	CDS	810	proC_1	1.5.1.2		Pyrroline-5-carboxylate reductase
+OMAHEEIC_00259	CDS	531				hypothetical protein
+OMAHEEIC_00260	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+OMAHEEIC_00261	CDS	462	ispD	2.7.7.60		2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+OMAHEEIC_00262	CDS	741	suhB_1	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+OMAHEEIC_00263	CDS	576	gmhA	5.3.1.28	COG0279	Phosphoheptose isomerase
+OMAHEEIC_00264	CDS	237				hypothetical protein
+OMAHEEIC_00265	CDS	441	prfB		COG1186	Peptide chain release factor RF2
+OMAHEEIC_00266	CDS	903	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+OMAHEEIC_00267	CDS	339	glnK_1		COG0347	Nitrogen regulatory protein P-II 2
+OMAHEEIC_00268	CDS	393	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+OMAHEEIC_00269	CDS	186				hypothetical protein
+OMAHEEIC_00270	CDS	714				hypothetical protein
+OMAHEEIC_00271	CDS	453	ibpA		COG0071	Small heat shock protein IbpA
+OMAHEEIC_00272	CDS	264				hypothetical protein
+OMAHEEIC_00273	CDS	393				hypothetical protein
+OMAHEEIC_00274	CDS	423				hypothetical protein
+OMAHEEIC_00275	CDS	459				hypothetical protein
+OMAHEEIC_00276	CDS	447	recX_1		COG2137	Regulatory protein RecX
+OMAHEEIC_00277	tRNA	75				tRNA-Gln(ttg)
+OMAHEEIC_00278	CDS	543	orn_2	3.1.-.-	COG1949	Oligoribonuclease
+OMAHEEIC_00279	CDS	537	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+OMAHEEIC_00280	CDS	354				hypothetical protein
+OMAHEEIC_00281	CDS	963				hypothetical protein
+OMAHEEIC_00282	CDS	963	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+OMAHEEIC_00283	CDS	240	sauT	6.2.1.-	COG0318	putative sulfoacetate--CoA ligase
+OMAHEEIC_00284	CDS	723	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+OMAHEEIC_00285	CDS	771	lpxA_2	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+OMAHEEIC_00286	CDS	438	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+OMAHEEIC_00287	CDS	906	ybeZ_1		COG1702	PhoH-like protein
+OMAHEEIC_00288	CDS	1068				hypothetical protein
+OMAHEEIC_00289	CDS	237				hypothetical protein
+OMAHEEIC_00290	CDS	168	tatA		COG1826	Sec-independent protein translocase protein TatA
+OMAHEEIC_00291	CDS	1536	ubiB_1	2.7.-.-		protein kinase UbiB
+OMAHEEIC_00292	CDS	510				hypothetical protein
+OMAHEEIC_00293	CDS	174	ubiE_1	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+OMAHEEIC_00294	CDS	1047	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+OMAHEEIC_00295	CDS	432		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+OMAHEEIC_00296	CDS	447				hypothetical protein
+OMAHEEIC_00297	CDS	783	yddE	5.1.-.-	COG0384	putative isomerase YddE
+OMAHEEIC_00298	CDS	576				hypothetical protein
+OMAHEEIC_00299	CDS	717	suhB_2	3.1.3.25	COG0483	Inositol-1-monophosphatase
+OMAHEEIC_00300	CDS	267				hypothetical protein
+OMAHEEIC_00301	CDS	738	ccmC		COG0755	Heme exporter protein C
+OMAHEEIC_00302	CDS	168				hypothetical protein
+OMAHEEIC_00303	CDS	447	ccmE		COG2332	Cytochrome c-type biogenesis protein CcmE
+OMAHEEIC_00304	CDS	210				hypothetical protein
+OMAHEEIC_00305	CDS	192				hypothetical protein
+OMAHEEIC_00306	CDS	852				hypothetical protein
+OMAHEEIC_00307	CDS	438				hypothetical protein
+OMAHEEIC_00308	CDS	1626				hypothetical protein
+OMAHEEIC_00309	CDS	297				queuosine precursor transporter
+OMAHEEIC_00310	CDS	564	folE_1	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OMAHEEIC_00311	CDS	651	lipB	2.3.1.181	COG0321	Octanoyltransferase
+OMAHEEIC_00312	CDS	852				hypothetical protein
+OMAHEEIC_00313	CDS	621	gmk	2.7.4.8	COG0194	Guanylate kinase
+OMAHEEIC_00314	CDS	270	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+OMAHEEIC_00315	CDS	702				hypothetical protein
+OMAHEEIC_00316	CDS	759				hypothetical protein
+OMAHEEIC_00317	CDS	1626				hypothetical protein
+OMAHEEIC_00318	CDS	618	nicF	3.5.1.107	COG1335	Maleamate amidohydrolase
+OMAHEEIC_00319	CDS	942	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+OMAHEEIC_00320	CDS	963	purC_3	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OMAHEEIC_00321	CDS	630		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+OMAHEEIC_00322	CDS	1143	metK_1	2.5.1.6	COG0192	S-adenosylmethionine synthase
+OMAHEEIC_00323	CDS	1434				hypothetical protein
+OMAHEEIC_00324	CDS	1317	ftsH_1	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+OMAHEEIC_00325	CDS	975				hypothetical protein
+OMAHEEIC_00326	CDS	417				hypothetical protein
+OMAHEEIC_00327	CDS	411				hypothetical protein
+OMAHEEIC_00328	CDS	795	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+OMAHEEIC_00329	CDS	714	rutD	3.5.1.-		Putative aminoacrylate hydrolase RutD
+OMAHEEIC_00330	CDS	489				hypothetical protein
+OMAHEEIC_00331	CDS	1503				hypothetical protein
+OMAHEEIC_00332	CDS	825				hypothetical protein
+OMAHEEIC_00333	CDS	1317	dddP_2	4.4.1.3	COG0006	Dimethlysulfonioproprionate lyase DddP
+OMAHEEIC_00334	CDS	1536	dmg	1.5.3.10		Dimethylglycine oxidase
+OMAHEEIC_00335	CDS	1134	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+OMAHEEIC_00336	CDS	906	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+OMAHEEIC_00337	CDS	1026	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+OMAHEEIC_00338	CDS	672	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+OMAHEEIC_00339	CDS	285	soxD	1.5.3.1		Sarcosine oxidase subunit delta
+OMAHEEIC_00340	CDS	258	soxB	1.5.3.1		Sarcosine oxidase subunit beta
+OMAHEEIC_00341	CDS	729				hypothetical protein
+OMAHEEIC_00342	CDS	306	ybaB		COG0718	Nucleoid-associated protein YbaB
+OMAHEEIC_00343	CDS	588	recR_2		COG0353	Recombination protein RecR
+OMAHEEIC_00344	CDS	405	rplQ		COG0203	50S ribosomal protein L17
+OMAHEEIC_00345	CDS	2826	uvrA		COG0178	UvrABC system protein A
+OMAHEEIC_00346	CDS	435	ssb			Single-stranded DNA-binding protein
+OMAHEEIC_00347	CDS	477	gpx1_1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+OMAHEEIC_00348	CDS	1314				hypothetical protein
+OMAHEEIC_00349	CDS	258	rpmA		COG0211	50S ribosomal protein L27
+OMAHEEIC_00350	CDS	318	rplU		COG0261	50S ribosomal protein L21
+OMAHEEIC_00351	CDS	960	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+OMAHEEIC_00352	CDS	525	fabA_1	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+OMAHEEIC_00353	CDS	816				hypothetical protein
+OMAHEEIC_00354	CDS	186				hypothetical protein
+OMAHEEIC_00355	CDS	213				hypothetical protein
+OMAHEEIC_00356	CDS	1344				hypothetical protein
+OMAHEEIC_00357	CDS	198				hypothetical protein
+OMAHEEIC_00358	CDS	1557	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+OMAHEEIC_00359	CDS	1404	atpD_1	7.1.2.2	COG0055	ATP synthase subunit beta
+OMAHEEIC_00360	CDS	351	atpC_1		COG0355	ATP synthase epsilon chain
+OMAHEEIC_00361	CDS	1374	pntB_1	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+OMAHEEIC_00362	CDS	288	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+OMAHEEIC_00363	CDS	1119	pntAA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+OMAHEEIC_00364	CDS	633				hypothetical protein
+OMAHEEIC_00365	CDS	1023	mdtA_1			Multidrug resistance protein MdtA
+OMAHEEIC_00366	CDS	3075	cnrA			Nickel and cobalt resistance protein CnrA
+OMAHEEIC_00367	CDS	183				hypothetical protein
+OMAHEEIC_00368	CDS	1281	secY		COG0201	Protein translocase subunit SecY
+OMAHEEIC_00369	CDS	354	rpsM_1		COG0099	30S ribosomal protein S13
+OMAHEEIC_00370	CDS	276				hypothetical protein
+OMAHEEIC_00371	CDS	309				hypothetical protein
+OMAHEEIC_00372	CDS	1881	apc4	6.4.1.8	COG0146	Acetophenone carboxylase delta subunit
+OMAHEEIC_00373	CDS	657	mscS		COG0668	Small-conductance mechanosensitive channel
+OMAHEEIC_00374	CDS	222				hypothetical protein
+OMAHEEIC_00375	CDS	114				hypothetical protein
+OMAHEEIC_00376	CDS	165				hypothetical protein
+OMAHEEIC_00377	CDS	282	gatC_2	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+OMAHEEIC_00378	CDS	267				hypothetical protein
+OMAHEEIC_00379	CDS	1305	siaM		COG1593	Sialic acid TRAP transporter large permease protein SiaM
+OMAHEEIC_00380	CDS	870				hypothetical protein
+OMAHEEIC_00381	CDS	201				hypothetical protein
+OMAHEEIC_00382	CDS	444				hypothetical protein
+OMAHEEIC_00383	CDS	645	adk_1	2.7.4.3		Adenylate kinase
+OMAHEEIC_00384	CDS	378	acpS_1	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+OMAHEEIC_00385	CDS	693	recO		COG1381	DNA repair protein RecO
+OMAHEEIC_00386	CDS	903	era		COG1159	GTPase Era
+OMAHEEIC_00387	CDS	651	rnc	3.1.26.3		Ribonuclease 3
+OMAHEEIC_00388	CDS	489	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+OMAHEEIC_00389	CDS	867			COG1629	putative TonB-dependent receptor
+OMAHEEIC_00390	CDS	771	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+OMAHEEIC_00391	CDS	735	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+OMAHEEIC_00392	CDS	1020	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+OMAHEEIC_00393	CDS	447				hypothetical protein
+OMAHEEIC_00394	CDS	654	sdhB	1.3.5.1	COG0479	Succinate dehydrogenase iron-sulfur subunit
+OMAHEEIC_00395	CDS	1806	sdhA	1.3.5.1	COG1053	Succinate dehydrogenase flavoprotein subunit
+OMAHEEIC_00396	CDS	366				hypothetical protein
+OMAHEEIC_00397	CDS	1476				hypothetical protein
+OMAHEEIC_00398	CDS	1353		1.14.15.28		Steroid C26-monooxygenase
+OMAHEEIC_00399	CDS	369				hypothetical protein
+OMAHEEIC_00400	CDS	873				hypothetical protein
+OMAHEEIC_00401	CDS	579	folE_2	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OMAHEEIC_00402	CDS	360				hypothetical protein
+OMAHEEIC_00403	CDS	1032	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+OMAHEEIC_00404	CDS	1818	htpG		COG0326	Chaperone protein HtpG
+OMAHEEIC_00405	tRNA	78				tRNA-Asp(gtc)
+OMAHEEIC_00406	CDS	744				Green-light absorbing proteorhodopsin
+OMAHEEIC_00407	tRNA	76				tRNA-Val(tac)
+OMAHEEIC_00408	CDS	471				hypothetical protein
+OMAHEEIC_00409	CDS	795				hypothetical protein
+OMAHEEIC_00410	CDS	714	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OMAHEEIC_00411	CDS	1314				hypothetical protein
+OMAHEEIC_00412	CDS	576	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+OMAHEEIC_00413	CDS	765	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OMAHEEIC_00414	CDS	1368				hypothetical protein
+OMAHEEIC_00415	CDS	1176				hypothetical protein
+OMAHEEIC_00416	CDS	852				hypothetical protein
+OMAHEEIC_00417	CDS	1350				hypothetical protein
+OMAHEEIC_00418	CDS	300				hypothetical protein
+OMAHEEIC_00419	CDS	207				hypothetical protein
+OMAHEEIC_00420	CDS	759	mhpE	4.1.3.39	COG0119	4-hydroxy-2-oxovalerate aldolase
+OMAHEEIC_00421	CDS	855	rutA	1.14.99.46		Pyrimidine monooxygenase RutA
+OMAHEEIC_00422	CDS	432	kshA_2	1.14.15.30		3-ketosteroid-9-alpha-monooxygenase, oxygenase component
+OMAHEEIC_00423	CDS	963	cobS	6.6.1.2		Aerobic cobaltochelatase subunit CobS
+OMAHEEIC_00424	CDS	834	bglA	3.2.1.73		Beta-glucanase
+OMAHEEIC_00425	CDS	438				hypothetical protein
+OMAHEEIC_00426	CDS	819	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+OMAHEEIC_00427	CDS	1239				hypothetical protein
+OMAHEEIC_00428	CDS	2364				hypothetical protein
+OMAHEEIC_00429	CDS	1248			COG1055	putative transporter
+OMAHEEIC_00430	CDS	834				hypothetical protein
+OMAHEEIC_00431	CDS	207				hypothetical protein
+OMAHEEIC_00432	CDS	789	aceA_1	4.1.3.1	COG2224	Isocitrate lyase
+OMAHEEIC_00433	CDS	582	tdk_1	2.7.1.21	COG1435	Thymidine kinase
+OMAHEEIC_00434	CDS	786				hypothetical protein
+OMAHEEIC_00435	CDS	339		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+OMAHEEIC_00436	CDS	588	recR_3		COG0353	Recombination protein RecR
+OMAHEEIC_00437	CDS	837				hypothetical protein
+OMAHEEIC_00438	CDS	1665	nfdA	3.5.1.91		N-substituted formamide deformylase
+OMAHEEIC_00439	CDS	777	pomA		COG1291	Chemotaxis protein PomA
+OMAHEEIC_00440	CDS	414				hypothetical protein
+OMAHEEIC_00441	CDS	591	yceF	3.6.1.-	COG0424	7-methyl-GTP pyrophosphatase
+OMAHEEIC_00442	CDS	870	cfa_1	2.1.1.79	COG2230	Cyclopropane-fatty-acyl-phospholipid synthase
+OMAHEEIC_00443	CDS	735				hypothetical protein
+OMAHEEIC_00444	CDS	1224	pdxB	1.1.1.290		Erythronate-4-phosphate dehydrogenase
+OMAHEEIC_00445	CDS	621	fbpC	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+OMAHEEIC_00446	CDS	912	pqqB		COG1235	Coenzyme PQQ synthesis protein B
+OMAHEEIC_00447	CDS	297				hypothetical protein
+OMAHEEIC_00448	CDS	894				hypothetical protein
+OMAHEEIC_00449	CDS	666	ftsE		COG2884	Cell division ATP-binding protein FtsE
+OMAHEEIC_00450	CDS	1605	ubiB_2	2.7.-.-	COG0661	putative protein kinase UbiB
+OMAHEEIC_00451	CDS	516	ubiJ			Ubiquinone biosynthesis accessory factor UbiJ
+OMAHEEIC_00452	CDS	741	ubiE_2	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+OMAHEEIC_00453	CDS	279				hypothetical protein
+OMAHEEIC_00454	CDS	1080	malK	7.5.2.1		Maltose/maltodextrin import ATP-binding protein MalK
+OMAHEEIC_00455	CDS	342	hexR_1		COG1737	HTH-type transcriptional regulator HexR
+OMAHEEIC_00456	CDS	627				hypothetical protein
+OMAHEEIC_00457	CDS	1017				hypothetical protein
+OMAHEEIC_00458	CDS	717	rbsR		COG1609	Ribose operon repressor
+OMAHEEIC_00459	CDS	969				hypothetical protein
+OMAHEEIC_00460	CDS	969				hypothetical protein
+OMAHEEIC_00461	CDS	711		3.-.-.-		putative metallo-hydrolase
+OMAHEEIC_00462	CDS	387				hypothetical protein
+OMAHEEIC_00463	CDS	294	gbh	3.5.3.7		Guanidinobutyrase
+OMAHEEIC_00464	CDS	1278	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+OMAHEEIC_00465	CDS	642	dksA			RNA polymerase-binding transcription factor DksA
+OMAHEEIC_00466	CDS	789	RBKS	2.7.1.15		Ribokinase
+OMAHEEIC_00467	CDS	966	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+OMAHEEIC_00468	CDS	390	rpsK		COG0100	30S ribosomal protein S11
+OMAHEEIC_00469	CDS	357	rpsM_2		COG0099	30S ribosomal protein S13
+OMAHEEIC_00470	tRNA	77				tRNA-Ala(ggc)
+OMAHEEIC_00471	CDS	675				hypothetical protein
+OMAHEEIC_00472	CDS	222				hypothetical protein
+OMAHEEIC_00473	CDS	498	pacS	7.2.2.8		putative copper-transporting ATPase PacS
+OMAHEEIC_00474	CDS	261	arsC	1.20.4.4		Arsenate reductase
+OMAHEEIC_00475	CDS	480				hypothetical protein
+OMAHEEIC_00476	CDS	789				hypothetical protein
+OMAHEEIC_00477	CDS	378	aroE	1.1.1.25		Shikimate dehydrogenase (NADP(+))
+OMAHEEIC_00478	CDS	1149				hypothetical protein
+OMAHEEIC_00479	CDS	609	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+OMAHEEIC_00480	CDS	477	greA		COG0782	Transcription elongation factor GreA
+OMAHEEIC_00481	CDS	564	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+OMAHEEIC_00482	CDS	1914	ftsH_2	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+OMAHEEIC_00483	CDS	585	xylB	2.7.1.17	COG1070	Xylulose kinase
+OMAHEEIC_00484	CDS	492	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+OMAHEEIC_00485	CDS	300	secG		COG1314	Protein-export membrane protein SecG
+OMAHEEIC_00486	CDS	408				hypothetical protein
+OMAHEEIC_00487	tRNA	87				tRNA-Leu(gag)
+OMAHEEIC_00488	tRNA	77				tRNA-Met(cat)
+OMAHEEIC_00489	CDS	492	rimP		COG0779	Ribosome maturation factor RimP
+OMAHEEIC_00490	CDS	663				hypothetical protein
+OMAHEEIC_00491	CDS	1038				hypothetical protein
+OMAHEEIC_00492	CDS	1056		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+OMAHEEIC_00493	CDS	504	oppC		COG1173	Oligopeptide transport system permease protein OppC
+OMAHEEIC_00494	CDS	969				hypothetical protein
+OMAHEEIC_00495	CDS	2046				hypothetical protein
+OMAHEEIC_00496	CDS	387				hypothetical protein
+OMAHEEIC_00497	CDS	483	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+OMAHEEIC_00498	CDS	324	trxA		COG0526	Thioredoxin 1
+OMAHEEIC_00499	CDS	1263	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+OMAHEEIC_00500	CDS	189				hypothetical protein
+OMAHEEIC_00501	CDS	675				hypothetical protein
+OMAHEEIC_00502	CDS	537	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+OMAHEEIC_00503	CDS	288				hypothetical protein
+OMAHEEIC_00504	CDS	426				hypothetical protein
+OMAHEEIC_00505	CDS	1788	lepA_1	3.6.5.-	COG0481	Elongation factor 4
+OMAHEEIC_00506	CDS	279				hypothetical protein
+OMAHEEIC_00507	CDS	615				hypothetical protein
+OMAHEEIC_00508	tRNA	74				tRNA-Thr(cgt)
+OMAHEEIC_00509	CDS	447				hypothetical protein
+OMAHEEIC_00510	CDS	405				hypothetical protein
+OMAHEEIC_00511	CDS	903	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+OMAHEEIC_00512	CDS	288	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+OMAHEEIC_00513	CDS	600	tmk	2.7.4.9	COG0125	Thymidylate kinase
+OMAHEEIC_00514	CDS	930				hypothetical protein
+OMAHEEIC_00515	CDS	771	ucpA	1.-.-.-		Oxidoreductase UcpA
+OMAHEEIC_00516	CDS	237	grxC_1		COG0695	Glutaredoxin 3
+OMAHEEIC_00517	CDS	240				hypothetical protein
+OMAHEEIC_00518	CDS	1305	hpsN	1.1.1.308		Sulfopropanediol 3-dehydrogenase
+OMAHEEIC_00519	CDS	474				hypothetical protein
+OMAHEEIC_00520	CDS	846	hdfR			HTH-type transcriptional regulator HdfR
+OMAHEEIC_00521	CDS	738				hypothetical protein
+OMAHEEIC_00522	CDS	951				hypothetical protein
+OMAHEEIC_00523	CDS	828				hypothetical protein
+OMAHEEIC_00524	CDS	741				hypothetical protein
+OMAHEEIC_00525	CDS	900	garR_1	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+OMAHEEIC_00526	CDS	1269				hypothetical protein
+OMAHEEIC_00527	CDS	1005	kshA_3	1.14.13.-		putative 3-ketosteroid-9-alpha-monooxygenase, oxygenase component
+OMAHEEIC_00528	CDS	552	tdk_2	2.7.1.21		Thymidine kinase
+OMAHEEIC_00529	CDS	339				hypothetical protein
+OMAHEEIC_00530	CDS	606	echA6	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA6
+OMAHEEIC_00531	CDS	1410	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+OMAHEEIC_00532	CDS	345	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+OMAHEEIC_00533	CDS	1017	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+OMAHEEIC_00534	CDS	225				hypothetical protein
+OMAHEEIC_00535	CDS	879	pyrB_1	2.1.3.2		Aspartate carbamoyltransferase
+OMAHEEIC_00536	CDS	1152	pyrG	6.3.4.2		CTP synthase
+OMAHEEIC_00537	CDS	384	rplL_1			50S ribosomal protein L7/L12
+OMAHEEIC_00538	CDS	531	rplJ_1		COG0244	50S ribosomal protein L10
+OMAHEEIC_00539	CDS	771	frcA	7.5.2.-	COG1129	Fructose import ATP-binding protein FrcA
+OMAHEEIC_00540	CDS	981	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+OMAHEEIC_00541	CDS	945	mdtA_2			Multidrug resistance protein MdtA
+OMAHEEIC_00542	CDS	363				hypothetical protein
+OMAHEEIC_00543	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+OMAHEEIC_00544	CDS	345	rplR_2			50S ribosomal protein L18
+OMAHEEIC_00545	CDS	543	rplF_2		COG0097	50S ribosomal protein L6
+OMAHEEIC_00546	CDS	954	iaaA	3.4.19.5	COG1446	Isoaspartyl peptidase
+OMAHEEIC_00547	CDS	303				hypothetical protein
+OMAHEEIC_00548	CDS	171				hypothetical protein
+OMAHEEIC_00549	CDS	378				hypothetical protein
+OMAHEEIC_00550	CDS	375				hypothetical protein
+OMAHEEIC_00551	CDS	309	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+OMAHEEIC_00552	CDS	1413	pntB_2	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+OMAHEEIC_00553	CDS	480				hypothetical protein
+OMAHEEIC_00554	CDS	351				hypothetical protein
+OMAHEEIC_00555	CDS	468				hypothetical protein
+OMAHEEIC_00556	CDS	1710	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+OMAHEEIC_00557	CDS	489	ilvH	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+OMAHEEIC_00558	CDS	1206	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+OMAHEEIC_00559	CDS	795				hypothetical protein
+OMAHEEIC_00560	CDS	471	aprB			Adenylylsulfate reductase subunit beta
+OMAHEEIC_00561	CDS	1113	vioD	4.2.1.145		Capreomycidine synthase
+OMAHEEIC_00562	CDS	357	resA			Thiol-disulfide oxidoreductase ResA
+OMAHEEIC_00563	CDS	528	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+OMAHEEIC_00564	CDS	1476	dtpT		COG3104	Di-/tripeptide transporter
+OMAHEEIC_00565	CDS	411				hypothetical protein
+OMAHEEIC_00566	CDS	831				hypothetical protein
+OMAHEEIC_00567	CDS	1407	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+OMAHEEIC_00568	CDS	654	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+OMAHEEIC_00569	CDS	810				hypothetical protein
+OMAHEEIC_00570	CDS	735	hda_2			DnaA regulatory inactivator Hda
+OMAHEEIC_00571	CDS	561	pgsA_2	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+OMAHEEIC_00572	CDS	339	cobT	6.6.1.2		Aerobic cobaltochelatase subunit CobT
+OMAHEEIC_00573	CDS	1104				hypothetical protein
+OMAHEEIC_00574	CDS	1248				hypothetical protein
+OMAHEEIC_00575	CDS	444				hypothetical protein
+OMAHEEIC_00576	CDS	480				hypothetical protein
+OMAHEEIC_00577	CDS	678	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+OMAHEEIC_00578	CDS	414	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+OMAHEEIC_00579	CDS	1461	mmgE	4.2.1.-	COG2079	Citrate/2-methylcitrate dehydratase
+OMAHEEIC_00580	CDS	1992		3.5.1.93		Glutaryl-7-aminocephalosporanic-acid acylase
+OMAHEEIC_00581	CDS	702				queuosine precursor transporter
+OMAHEEIC_00582	CDS	771	hom_1	1.1.1.3	COG0460	Homoserine dehydrogenase
+OMAHEEIC_00583	CDS	960	oppA		COG4166	Oligopeptide-binding protein OppA
+OMAHEEIC_00584	CDS	813	aroA_2	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+OMAHEEIC_00585	CDS	666	cmk_2	2.7.4.25	COG0283	Cytidylate kinase
+OMAHEEIC_00586	CDS	216				hypothetical protein
+OMAHEEIC_00587	CDS	273	pntA_3	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+OMAHEEIC_00588	CDS	1122	pntAA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+OMAHEEIC_00589	CDS	1599				hypothetical protein
+OMAHEEIC_00590	CDS	381	acpS_2	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+OMAHEEIC_00591	CDS	642	adk_2	2.7.4.3		Adenylate kinase
+OMAHEEIC_00592	CDS	657	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+OMAHEEIC_00593	CDS	1689				hypothetical protein
+OMAHEEIC_00594	CDS	765	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OMAHEEIC_00595	CDS	450				hypothetical protein
+OMAHEEIC_00596	CDS	1194	hemL	5.4.3.8		Glutamate-1-semialdehyde 2,1-aminomutase
+OMAHEEIC_00597	CDS	600				hypothetical protein
+OMAHEEIC_00598	CDS	708				hypothetical protein
+OMAHEEIC_00599	CDS	405				hypothetical protein
+OMAHEEIC_00600	CDS	1308				hypothetical protein
+OMAHEEIC_00601	CDS	1209			COG1167	Putative aminotransferase/MSMEI_6121
+OMAHEEIC_00602	CDS	330	hspQ			Heat shock protein HspQ
+OMAHEEIC_00603	CDS	336				hypothetical protein
+OMAHEEIC_00604	CDS	411	tolR_2			Tol-Pal system protein TolR
+OMAHEEIC_00605	CDS	522				hypothetical protein
+OMAHEEIC_00606	CDS	588	tolQ_2			Tol-Pal system protein TolQ
+OMAHEEIC_00607	CDS	1419	ilvD_2	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+OMAHEEIC_00608	CDS	2094	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+OMAHEEIC_00609	CDS	147				hypothetical protein
+OMAHEEIC_00610	CDS	1542	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+OMAHEEIC_00611	CDS	318				hypothetical protein
+OMAHEEIC_00612	CDS	246				hypothetical protein
+OMAHEEIC_00613	CDS	636				hypothetical protein
+OMAHEEIC_00614	CDS	792	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+OMAHEEIC_00615	CDS	324	lysA_2	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+OMAHEEIC_00616	CDS	1671	clpB			Chaperone protein ClpB
+OMAHEEIC_00617	CDS	150				hypothetical protein
+OMAHEEIC_00618	CDS	453				hypothetical protein
+OMAHEEIC_00619	CDS	951				hypothetical protein
+OMAHEEIC_00620	CDS	795	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+OMAHEEIC_00621	CDS	2313	ade	3.5.4.2		Adenine deaminase
+OMAHEEIC_00622	CDS	435	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+OMAHEEIC_00623	CDS	1041	f1pep1	3.4.21.26		Prolyl endopeptidase
+OMAHEEIC_00624	CDS	1155	metZ	2.5.1.-	COG0626	O-succinylhomoserine sulfhydrylase
+OMAHEEIC_00625	CDS	513	fabA_2	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+OMAHEEIC_00626	CDS	900				hypothetical protein
+OMAHEEIC_00627	CDS	453				hypothetical protein
+OMAHEEIC_00628	CDS	405				hypothetical protein
+OMAHEEIC_00629	CDS	459				hypothetical protein
+OMAHEEIC_00630	CDS	1293	egtA	6.3.2.2		Glutamate--cysteine ligase EgtA
+OMAHEEIC_00631	CDS	540				hypothetical protein
+OMAHEEIC_00632	CDS	966				hypothetical protein
+OMAHEEIC_00633	CDS	969	mltB	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+OMAHEEIC_00634	CDS	1080	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+OMAHEEIC_00635	CDS	1389	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+OMAHEEIC_00636	CDS	1062	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+OMAHEEIC_00637	CDS	258				hypothetical protein
+OMAHEEIC_00638	CDS	585		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+OMAHEEIC_00639	CDS	714	tatC		COG0805	Sec-independent protein translocase protein TatC
+OMAHEEIC_00640	CDS	234	tatB			Sec-independent protein translocase protein TatB
+OMAHEEIC_00641	CDS	543				hypothetical protein
+OMAHEEIC_00642	CDS	972				hypothetical protein
+OMAHEEIC_00643	CDS	1179	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+OMAHEEIC_00644	CDS	162	iolB	5.3.1.30	COG3718	5-deoxy-glucuronate isomerase
+OMAHEEIC_00645	CDS	294		4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+OMAHEEIC_00646	CDS	129				hypothetical protein
+OMAHEEIC_00647	CDS	879	thyA2_1	2.1.1.45	COG0207	Thymidylate synthase 2
+OMAHEEIC_00648	CDS	465	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+OMAHEEIC_00649	CDS	567	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+OMAHEEIC_00650	CDS	1464	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+OMAHEEIC_00651	CDS	204				hypothetical protein
+OMAHEEIC_00652	CDS	387				hypothetical protein
+OMAHEEIC_00653	CDS	1707				hypothetical protein
+OMAHEEIC_00654	CDS	648				hypothetical protein
+OMAHEEIC_00655	CDS	1530	mtgB_3	2.1.1.-	COG5598	Glycine betaine methyltransferase
+OMAHEEIC_00656	CDS	1200				hypothetical protein
+OMAHEEIC_00657	CDS	609	doeA	3.5.4.44	COG0006	Ectoine hydrolase
+OMAHEEIC_00658	CDS	495	decR		COG1522	DNA-binding transcriptional activator DecR
+OMAHEEIC_00659	CDS	735	maiA	5.2.1.1		Maleate isomerase
+OMAHEEIC_00660	CDS	210			COG2076	Multidrug transporter
+OMAHEEIC_00661	CDS	1527	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+OMAHEEIC_00662	CDS	315				hypothetical protein
+OMAHEEIC_00663	CDS	393				hypothetical protein
+OMAHEEIC_00664	CDS	915				hypothetical protein
+OMAHEEIC_00665	CDS	129				hypothetical protein
+OMAHEEIC_00666	CDS	312				hypothetical protein
+OMAHEEIC_00667	CDS	309				hypothetical protein
+OMAHEEIC_00668	CDS	687	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+OMAHEEIC_00669	CDS	630	coq7	1.14.99.60	COG2941	3-demethoxyubiquinol 3-hydroxylase
+OMAHEEIC_00670	CDS	276	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+OMAHEEIC_00671	CDS	237				hypothetical protein
+OMAHEEIC_00672	CDS	615				hypothetical protein
+OMAHEEIC_00673	CDS	414				hypothetical protein
+OMAHEEIC_00674	CDS	501				hypothetical protein
+OMAHEEIC_00675	CDS	1617	dmdB	6.2.1.44	COG0318	3-methylmercaptopropionyl-CoA ligase
+OMAHEEIC_00676	CDS	801		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+OMAHEEIC_00677	CDS	399	yccU		COG1832	putative protein YccU
+OMAHEEIC_00678	CDS	1170	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+OMAHEEIC_00679	CDS	684	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+OMAHEEIC_00680	CDS	558	rpsA		COG0539	30S ribosomal protein S1
+OMAHEEIC_00681	CDS	270	pepP_1	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+OMAHEEIC_00682	CDS	1134	ubiI	1.14.13.240	COG0654	2-octaprenylphenol hydroxylase
+OMAHEEIC_00683	CDS	228				hypothetical protein
+OMAHEEIC_00684	CDS	843	hexR_2		COG1737	HTH-type transcriptional regulator HexR
+OMAHEEIC_00685	CDS	267	pyrB_2	2.1.3.2		Aspartate carbamoyltransferase
+OMAHEEIC_00686	CDS	612	ribC	2.5.1.9	COG0307	Riboflavin synthase
+OMAHEEIC_00687	CDS	648	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+OMAHEEIC_00688	CDS	705	rph	2.7.7.56	COG0689	Ribonuclease PH
+OMAHEEIC_00689	CDS	831	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+OMAHEEIC_00690	CDS	1308				hypothetical protein
+OMAHEEIC_00691	CDS	477				hypothetical protein
+OMAHEEIC_00692	CDS	825				hypothetical protein
+OMAHEEIC_00693	CDS	768				hypothetical protein
+OMAHEEIC_00694	CDS	309				hypothetical protein
+OMAHEEIC_00695	CDS	351				hypothetical protein
+OMAHEEIC_00696	CDS	453				hypothetical protein
+OMAHEEIC_00697	CDS	768	yaaA		COG3022	Peroxide stress resistance protein YaaA
+OMAHEEIC_00698	CDS	801	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+OMAHEEIC_00699	CDS	843	folD			Bifunctional protein FolD protein
+OMAHEEIC_00700	CDS	555	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+OMAHEEIC_00701	tRNA	77				tRNA-Thr(tgt)
+OMAHEEIC_00702	CDS	1677				hypothetical protein
+OMAHEEIC_00703	CDS	753	glmU			Bifunctional protein GlmU
+OMAHEEIC_00704	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+OMAHEEIC_00705	CDS	1305				hypothetical protein
+OMAHEEIC_00706	CDS	573				hypothetical protein
+OMAHEEIC_00707	CDS	615	ftsW	2.4.1.129		peptidoglycan glycosyltransferase FtsW
+OMAHEEIC_00708	CDS	1989	tktA	2.2.1.1	COG0021	Transketolase 1
+OMAHEEIC_00709	CDS	330				hypothetical protein
+OMAHEEIC_00710	CDS	2091	btuB_1			Vitamin B12 transporter BtuB
+OMAHEEIC_00711	CDS	609	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+OMAHEEIC_00712	CDS	1236	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+OMAHEEIC_00713	CDS	1275	dnaK		COG0443	Chaperone protein DnaK
+OMAHEEIC_00714	CDS	984				hypothetical protein
+OMAHEEIC_00715	CDS	453	recX_2		COG2137	Regulatory protein RecX
+OMAHEEIC_00716	CDS	465				hypothetical protein
+OMAHEEIC_00717	CDS	432				hypothetical protein
+OMAHEEIC_00718	CDS	384	yecN		COG3788	Inner membrane protein YecN
+OMAHEEIC_00719	CDS	264				hypothetical protein
+OMAHEEIC_00720	CDS	924	lepA_2	3.6.5.-	COG0481	Elongation factor 4
+OMAHEEIC_00721	CDS	879				hypothetical protein
+OMAHEEIC_00722	CDS	492				hypothetical protein
+OMAHEEIC_00723	CDS	1245	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+OMAHEEIC_00724	CDS	1164	thrC	4.2.3.1	COG0498	Threonine synthase
+OMAHEEIC_00725	CDS	792				hypothetical protein
+OMAHEEIC_00726	CDS	729				hypothetical protein
+OMAHEEIC_00727	CDS	1809				hypothetical protein
+OMAHEEIC_00728	CDS	561	efp_2		COG0231	Elongation factor P
+OMAHEEIC_00729	CDS	159				hypothetical protein
+OMAHEEIC_00730	CDS	1461				hypothetical protein
+OMAHEEIC_00731	CDS	363	gumD	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+OMAHEEIC_00732	CDS	849	fabG_4	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OMAHEEIC_00733	CDS	1953	priA	3.6.4.-	COG1198	Primosomal protein N'
+OMAHEEIC_00734	CDS	204	rpmE		COG0254	50S ribosomal protein L31
+OMAHEEIC_00735	CDS	816				hypothetical protein
+OMAHEEIC_00736	CDS	186				hypothetical protein
+OMAHEEIC_00737	CDS	456	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+OMAHEEIC_00738	CDS	495		3.1.3.-	COG2062	putative protein
+OMAHEEIC_00739	CDS	648	obg	3.6.5.-		GTPase Obg
+OMAHEEIC_00740	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+OMAHEEIC_00741	tmRNA	349	ssrA			transfer-messenger RNA, SsrA
+OMAHEEIC_00742	CDS	468	smpB		COG0691	SsrA-binding protein
+OMAHEEIC_00743	CDS	204	rsmC	2.1.1.172		Ribosomal RNA small subunit methyltransferase C
+OMAHEEIC_00744	CDS	801	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+OMAHEEIC_00745	CDS	468	atpB		COG0356	ATP synthase subunit a
+OMAHEEIC_00746	CDS	234	atpE		COG0636	ATP synthase subunit c
+OMAHEEIC_00747	CDS	471	atpF		COG0711	ATP synthase subunit b
+OMAHEEIC_00748	CDS	549	atpH		COG0712	ATP synthase subunit delta
+OMAHEEIC_00749	CDS	336	rpoB_1	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+OMAHEEIC_00750	CDS	501	dsbB_1			Disulfide bond formation protein B
+OMAHEEIC_00751	CDS	492				hypothetical protein
+OMAHEEIC_00752	CDS	897				hypothetical protein
+OMAHEEIC_00753	CDS	1155	mmgC	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+OMAHEEIC_00754	CDS	1392				hypothetical protein
+OMAHEEIC_00755	CDS	462				hypothetical protein
+OMAHEEIC_00756	CDS	234				hypothetical protein
+OMAHEEIC_00757	CDS	390				hypothetical protein
+OMAHEEIC_00758	CDS	897	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+OMAHEEIC_00759	CDS	429				hypothetical protein
+OMAHEEIC_00760	CDS	498				hypothetical protein
+OMAHEEIC_00761	CDS	1056				hypothetical protein
+OMAHEEIC_00762	CDS	384	thyA2_2	2.1.1.45	COG0207	Thymidylate synthase 2
+OMAHEEIC_00763	CDS	507	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+OMAHEEIC_00764	CDS	939				hypothetical protein
+OMAHEEIC_00765	CDS	117				hypothetical protein
+OMAHEEIC_00766	CDS	1011				hypothetical protein
+OMAHEEIC_00767	CDS	333				hypothetical protein
+OMAHEEIC_00768	CDS	144				hypothetical protein
+OMAHEEIC_00769	CDS	579				hypothetical protein
+OMAHEEIC_00770	CDS	369				hypothetical protein
+OMAHEEIC_00771	CDS	279				hypothetical protein
+OMAHEEIC_00772	CDS	1035	tmpC_2		COG1744	Membrane lipoprotein TmpC
+OMAHEEIC_00773	CDS	633	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+OMAHEEIC_00774	CDS	714				hypothetical protein
+OMAHEEIC_00775	CDS	411	tolR_3			Tol-Pal system protein TolR
+OMAHEEIC_00776	CDS	522	tolQ_3			Tol-Pal system protein TolQ
+OMAHEEIC_00777	CDS	168				hypothetical protein
+OMAHEEIC_00778	CDS	279	hupB		COG0776	DNA-binding protein HU-beta
+OMAHEEIC_00779	CDS	1830	surA_2	5.2.1.8		Chaperone SurA
+OMAHEEIC_00780	CDS	180	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+OMAHEEIC_00781	CDS	561	grpE_1		COG0576	Protein GrpE
+OMAHEEIC_00782	CDS	726	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+OMAHEEIC_00783	CDS	867			COG2141	putative protein
+OMAHEEIC_00784	CDS	483				hypothetical protein
+OMAHEEIC_00785	CDS	498	ybeZ_2		COG1702	PhoH-like protein
+OMAHEEIC_00786	CDS	447	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+OMAHEEIC_00787	CDS	1488	pepA	3.4.11.10		cytosol aminopeptidase
+OMAHEEIC_00788	CDS	2805	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+OMAHEEIC_00789	CDS	1314	astB	3.5.3.23	COG3724	N-succinylarginine dihydrolase
+OMAHEEIC_00790	CDS	1005	astD	1.2.1.71	COG1012	N-succinylglutamate 5-semialdehyde dehydrogenase
+OMAHEEIC_00791	CDS	144				hypothetical protein
+OMAHEEIC_00792	CDS	1002	proW		COG4176	Glycine betaine/proline betaine transport system permease protein ProW
+OMAHEEIC_00793	CDS	1317				hypothetical protein
+OMAHEEIC_00794	CDS	1380				hypothetical protein
+OMAHEEIC_00795	CDS	1050	pepP_2	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+OMAHEEIC_00796	CDS	1125				hypothetical protein
+OMAHEEIC_00797	CDS	609	lpdG	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+OMAHEEIC_00798	CDS	831	proC_2	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+OMAHEEIC_00799	CDS	717	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+OMAHEEIC_00800	CDS	981				hypothetical protein
+OMAHEEIC_00801	CDS	231				hypothetical protein
+OMAHEEIC_00802	CDS	300				hypothetical protein
+OMAHEEIC_00803	CDS	1428	lptD			LPS-assembly protein LptD
+OMAHEEIC_00804	CDS	1245	surA_3	5.2.1.8	COG0760	Chaperone SurA
+OMAHEEIC_00805	CDS	603				hypothetical protein
+OMAHEEIC_00806	CDS	417	arcA	3.5.3.6		Arginine deiminase
+OMAHEEIC_00807	CDS	1050	yeaW	1.14.13.239	COG4638	Carnitine monooxygenase oxygenase subunit
+OMAHEEIC_00808	CDS	249	grxC_2		COG0695	Glutaredoxin 3
+OMAHEEIC_00809	CDS	1374	glnG		COG2204	DNA-binding transcriptional regulator NtrC
+OMAHEEIC_00810	CDS	1134	glnL	2.7.13.3	COG3852	Sensory histidine kinase/phosphatase NtrB
+OMAHEEIC_00811	CDS	972	glnII	6.3.1.2	COG0174	Glutamine synthetase
+OMAHEEIC_00812	CDS	297				hypothetical protein
+OMAHEEIC_00813	CDS	546				hypothetical protein
+OMAHEEIC_00814	CDS	1413	rpoB_2	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+OMAHEEIC_00815	CDS	387	gpx1_2	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+OMAHEEIC_00816	CDS	762	rpiA_2	5.3.1.6		Ribose-5-phosphate isomerase A
+OMAHEEIC_00817	CDS	951	acrA			Acryloyl-CoA reductase electron transfer subunit beta
+OMAHEEIC_00818	CDS	474	etfB			Electron transfer flavoprotein subunit beta
+OMAHEEIC_00819	CDS	711	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+OMAHEEIC_00820	CDS	432	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+OMAHEEIC_00821	CDS	534		3.5.3.18	COG1834	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+OMAHEEIC_00822	CDS	861	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+OMAHEEIC_00823	CDS	252				hypothetical protein
+OMAHEEIC_00824	CDS	291				hypothetical protein
+OMAHEEIC_00825	CDS	195				hypothetical protein
+OMAHEEIC_00826	CDS	315				hypothetical protein
+OMAHEEIC_00827	CDS	957	metK_2	2.5.1.6	COG0192	S-adenosylmethionine synthase
+OMAHEEIC_00828	CDS	1074	leuB	1.1.1.85		3-isopropylmalate dehydrogenase
+OMAHEEIC_00829	CDS	684	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+OMAHEEIC_00830	CDS	888	garR_2	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+OMAHEEIC_00831	CDS	825				hypothetical protein
+OMAHEEIC_00832	CDS	552	nudE	3.6.1.-	COG0494	ADP compounds hydrolase NudE
+OMAHEEIC_00833	CDS	1632				hypothetical protein
+OMAHEEIC_00834	CDS	726				hypothetical protein
+OMAHEEIC_00835	CDS	243				hypothetical protein
+OMAHEEIC_00836	CDS	660				hypothetical protein
+OMAHEEIC_00837	CDS	516				hypothetical protein
+OMAHEEIC_00838	CDS	546				hypothetical protein
+OMAHEEIC_00839	CDS	582	tdk_3	2.7.1.21		Thymidine kinase
+OMAHEEIC_00840	CDS	849	kshA_4	1.14.13.-		putative 3-ketosteroid-9-alpha-monooxygenase, oxygenase component
+OMAHEEIC_00841	CDS	543	gltB	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+OMAHEEIC_00842	CDS	1065	aroB_2	4.2.3.4	COG0337	3-dehydroquinate synthase
+OMAHEEIC_00843	CDS	1053	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+OMAHEEIC_00844	CDS	369				hypothetical protein
+OMAHEEIC_00845	CDS	1179				hypothetical protein
+OMAHEEIC_00846	CDS	210	slyX			Protein SlyX
+OMAHEEIC_00847	CDS	255	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+OMAHEEIC_00848	CDS	1206	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+OMAHEEIC_00849	CDS	801		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+OMAHEEIC_00850	CDS	594				hypothetical protein
+OMAHEEIC_00851	CDS	483	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+OMAHEEIC_00852	CDS	1125	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+OMAHEEIC_00853	CDS	519	ghrA	1.1.1.79	COG0111	Glyoxylate/hydroxypyruvate reductase A
+OMAHEEIC_00854	CDS	513	novR	4.1.-.-		Decarboxylase NovR
+OMAHEEIC_00855	CDS	1422	ald	1.2.1.83		3-succinoylsemialdehyde-pyridine dehydrogenase
+OMAHEEIC_00856	CDS	354	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+OMAHEEIC_00857	CDS	1035	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+OMAHEEIC_00858	CDS	1353	accC	6.3.4.14	COG0439	Biotin carboxylase
+OMAHEEIC_00859	CDS	456	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+OMAHEEIC_00860	CDS	1353		1.14.-.-	COG2124	Putative cytochrome P450 136
+OMAHEEIC_00861	CDS	888				hypothetical protein
+OMAHEEIC_00862	CDS	792				hypothetical protein
+OMAHEEIC_00863	CDS	1518	phrB	4.1.99.13	COG3046	(6-4) photolyase
+OMAHEEIC_00864	CDS	453				hypothetical protein
+OMAHEEIC_00865	CDS	471	kce	2.3.1.247	COG3246	3-keto-5-aminohexanoate cleavage enzyme
+OMAHEEIC_00866	CDS	1479	lcdH	1.1.1.108		L-carnitine dehydrogenase
+OMAHEEIC_00867	CDS	1536	mtgB_4	2.1.1.-	COG5598	Glycine betaine methyltransferase
+OMAHEEIC_00868	CDS	354	kshA_5	1.14.15.30		3-ketosteroid-9-alpha-monooxygenase, oxygenase component
+OMAHEEIC_00869	CDS	465				hypothetical protein
+OMAHEEIC_00870	CDS	462				hypothetical protein
+OMAHEEIC_00871	CDS	231				hypothetical protein
+OMAHEEIC_00872	CDS	507	dsbB_2			Disulfide bond formation protein B
+OMAHEEIC_00873	CDS	1134	cfa_2	2.1.1.79	COG2230	Cyclopropane-fatty-acyl-phospholipid synthase
+OMAHEEIC_00874	CDS	363	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+OMAHEEIC_00875	CDS	1206	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+OMAHEEIC_00876	CDS	1047				hypothetical protein
+OMAHEEIC_00877	CDS	363				hypothetical protein
+OMAHEEIC_00878	CDS	1134	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+OMAHEEIC_00879	CDS	945	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+OMAHEEIC_00880	CDS	783				hypothetical protein
+OMAHEEIC_00881	CDS	945				hypothetical protein
+OMAHEEIC_00882	CDS	711	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+OMAHEEIC_00883	CDS	366				hypothetical protein
+OMAHEEIC_00884	CDS	975	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+OMAHEEIC_00885	CDS	846	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OMAHEEIC_00886	CDS	864				Putative enoyl-CoA hydratase EchA13
+OMAHEEIC_00887	CDS	222		2.8.3.-	COG2057	Putative CoA-transferase subunit beta
+OMAHEEIC_00888	CDS	189				hypothetical protein
+OMAHEEIC_00889	CDS	795				hypothetical protein
+OMAHEEIC_00890	CDS	699	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+OMAHEEIC_00891	CDS	555	frr			Ribosome-recycling factor
+OMAHEEIC_00892	CDS	714	pyrH	2.7.4.22	COG0528	Uridylate kinase
+OMAHEEIC_00893	CDS	216	tsf		COG0264	Elongation factor Ts
+OMAHEEIC_00894	CDS	183	cysG		COG0007	Siroheme synthase
+OMAHEEIC_00895	tRNA	85				tRNA-Leu(tag)
+OMAHEEIC_00896	CDS	564				hypothetical protein
+OMAHEEIC_00897	CDS	903				hypothetical protein
+OMAHEEIC_00898	CDS	1137	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+OMAHEEIC_00899	CDS	510	acs	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+OMAHEEIC_00900	CDS	597	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+OMAHEEIC_00901	CDS	480	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+OMAHEEIC_00902	CDS	2130	katG	1.11.1.21		Catalase-peroxidase
+OMAHEEIC_00903	CDS	885	oxyR			Hydrogen peroxide-inducible genes activator
+OMAHEEIC_00904	CDS	741				hypothetical protein
+OMAHEEIC_00905	CDS	1233		1.-.-.-		NADH oxidase
+OMAHEEIC_00906	CDS	393	atpD_2			ATP synthase subunit delta
+OMAHEEIC_00907	CDS	1545	atpA	7.1.2.2		ATP synthase subunit alpha
+OMAHEEIC_00908	CDS	264	pip	3.4.11.5		Proline iminopeptidase
+OMAHEEIC_00909	CDS	1032				hypothetical protein
+OMAHEEIC_00910	CDS	1035	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OMAHEEIC_00911	CDS	765				hypothetical protein
+OMAHEEIC_00912	CDS	498	gcvA			Glycine cleavage system transcriptional activator
+OMAHEEIC_00913	CDS	1014				hypothetical protein
+OMAHEEIC_00914	CDS	720	alkJ	1.1.99.-		Alcohol dehydrogenase [acceptor]
+OMAHEEIC_00915	CDS	1053				hypothetical protein
+OMAHEEIC_00916	CDS	474				hypothetical protein
+OMAHEEIC_00917	CDS	138				hypothetical protein
+OMAHEEIC_00918	CDS	1224	argS_1	6.1.1.19		Arginine--tRNA ligase
+OMAHEEIC_00919	CDS	246	atpC_2		COG0355	ATP synthase epsilon chain
+OMAHEEIC_00920	CDS	303	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+OMAHEEIC_00921	CDS	534	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+OMAHEEIC_00922	CDS	960	yidC			Membrane protein insertase YidC
+OMAHEEIC_00923	CDS	969	speB	3.5.3.11	COG0010	Agmatinase
+OMAHEEIC_00924	CDS	1269	puuB	1.4.3.-		Gamma-glutamylputrescine oxidoreductase
+OMAHEEIC_00925	CDS	585	spuC	2.6.1.113	COG0161	Putrescine--pyruvate aminotransferase
+OMAHEEIC_00926	CDS	561				hypothetical protein
+OMAHEEIC_00927	CDS	237				hypothetical protein
+OMAHEEIC_00928	CDS	1719	ksdD_2	1.3.99.4	COG1053	3-oxosteroid 1-dehydrogenase
+OMAHEEIC_00929	CDS	1134		1.13.12.-	COG2070	Putative monooxygenase
+OMAHEEIC_00930	CDS	534	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+OMAHEEIC_00931	CDS	1269	hom_2	1.1.1.3	COG0460	Homoserine dehydrogenase
+OMAHEEIC_00932	CDS	312				hypothetical protein
+OMAHEEIC_00933	CDS	900	acuC			Acetoin utilization protein AcuC
+OMAHEEIC_00934	CDS	1479				hypothetical protein
+OMAHEEIC_00935	CDS	327	cbbY	3.1.3.-	COG0637	Protein CbbY
+OMAHEEIC_00936	CDS	378	glnK_2		COG0347	Nitrogen regulatory protein P-II 2
+OMAHEEIC_00937	CDS	1272	amtB			Ammonia channel
+OMAHEEIC_00938	tmRNA	348	ssrA			transfer-messenger RNA, SsrA
+OMAHEEIC_00939	CDS	645				hypothetical protein
+OMAHEEIC_00940	CDS	636	argS_2	6.1.1.19	COG0018	Arginine--tRNA ligase
+OMAHEEIC_00941	CDS	921	psuT		COG1972	Putative pseudouridine transporter
+OMAHEEIC_00942	CDS	420	crtK-2		COG3476	Tryptophan-rich protein TspO
+OMAHEEIC_00943	CDS	390		2.3.1.207	COG0332	Beta-ketodecanoyl-[acyl-carrier-protein] synthase
+OMAHEEIC_00944	CDS	477				hypothetical protein
+OMAHEEIC_00945	CDS	801				hypothetical protein
+OMAHEEIC_00946	CDS	234				hypothetical protein
+OMAHEEIC_00947	CDS	654	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+OMAHEEIC_00948	CDS	774	fabG_5	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OMAHEEIC_00949	CDS	690				hypothetical protein
+OMAHEEIC_00950	CDS	783	fabG2	1.-.-.-		putative oxidoreductase
+OMAHEEIC_00951	CDS	468				hypothetical protein
+OMAHEEIC_00952	CDS	1362				hypothetical protein
+OMAHEEIC_00953	CDS	306				hypothetical protein
+OMAHEEIC_00954	CDS	1635				hypothetical protein
+OMAHEEIC_00955	CDS	342	rbfA			Ribosome-binding factor A
+OMAHEEIC_00956	CDS	1698	infB		COG0532	Translation initiation factor IF-2
+OMAHEEIC_00957	CDS	543	grpE_2		COG0576	Protein GrpE
+OMAHEEIC_00958	CDS	819	nadK	2.7.1.23	COG0061	NAD kinase
+OMAHEEIC_00959	CDS	1632	pvdQ	3.5.1.97	COG2366	Acyl-homoserine lactone acylase PvdQ
+OMAHEEIC_00960	CDS	744				hypothetical protein
+OMAHEEIC_00961	CDS	939	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+OMAHEEIC_00962	CDS	228	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+OMAHEEIC_00963	CDS	297				hypothetical protein
+OMAHEEIC_00964	CDS	261				hypothetical protein
+OMAHEEIC_00965	CDS	1035	ugpC	7.6.2.10	COG3839	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+OMAHEEIC_00966	CDS	324	glpR		COG1349	Glycerol-3-phosphate regulon repressor
+OMAHEEIC_00967	CDS	177				hypothetical protein
+OMAHEEIC_00968	CDS	948	mpl	6.3.2.45	COG0773	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+OMAHEEIC_00969	CDS	591	lon1	3.4.21.53	COG0466	Lon protease 1
+OMAHEEIC_00970	CDS	918	curA	1.3.1.-	COG2130	NADPH-dependent curcumin reductase
+OMAHEEIC_00971	CDS	219				hypothetical protein
+OMAHEEIC_00972	CDS	153				hypothetical protein
+OMAHEEIC_00973	CDS	429				hypothetical protein
+OMAHEEIC_00974	CDS	672				hypothetical protein
+OMAHEEIC_00975	CDS	243				hypothetical protein
+OMAHEEIC_00976	CDS	543		1.1.1.-	COG1028	Putative short-chain type dehydrogenase/reductase
+OMAHEEIC_00977	CDS	612	gstB	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+OMAHEEIC_00978	CDS	756	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+OMAHEEIC_00979	tRNA	76				tRNA-Ala(ggc)
+OMAHEEIC_00980	CDS	906	rbn	3.1.26.11		Ribonuclease BN
+OMAHEEIC_00981	CDS	1383	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+OMAHEEIC_00982	CDS	675	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OMAHEEIC_00983	CDS	510				hypothetical protein
+OMAHEEIC_00984	CDS	159	rplC		COG0087	50S ribosomal protein L3
+OMAHEEIC_00985	CDS	615	rplD		COG0088	50S ribosomal protein L4
+OMAHEEIC_00986	CDS	297	rplW		COG0089	50S ribosomal protein L23
+OMAHEEIC_00987	CDS	825	rplB		COG0090	50S ribosomal protein L2
+OMAHEEIC_00988	CDS	273	rpsS		COG0185	30S ribosomal protein S19
+OMAHEEIC_00989	CDS	342	rplV		COG0091	50S ribosomal protein L22
+OMAHEEIC_00990	CDS	381	rplL_2		COG0222	50S ribosomal protein L7/L12
+OMAHEEIC_00991	CDS	522	rplJ_2		COG0244	50S ribosomal protein L10
+OMAHEEIC_00992	CDS	426	recX_3		COG2137	Regulatory protein RecX
+OMAHEEIC_00993	CDS	1020	recA		COG0468	Protein RecA
+OMAHEEIC_00994	CDS	1050				hypothetical protein
+OMAHEEIC_00995	CDS	1572				hypothetical protein
+OMAHEEIC_00996	CDS	804	paaF	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+OMAHEEIC_00997	CDS	1008				hypothetical protein
+OMAHEEIC_00998	CDS	1017				hypothetical protein
+OMAHEEIC_00999	CDS	1056				hypothetical protein
+OMAHEEIC_01000	CDS	267				hypothetical protein
+OMAHEEIC_01001	CDS	924	mhpF	1.2.1.10	COG4569	Acetaldehyde dehydrogenase
+OMAHEEIC_01002	CDS	288	tesE	4.2.1.132		2-hydroxyhexa-2,4-dienoate hydratase
+OMAHEEIC_01003	CDS	564				hypothetical protein
+OMAHEEIC_01004	CDS	2193	btuB_2			Vitamin B12 transporter BtuB
+OMAHEEIC_01005	CDS	1149	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+OMAHEEIC_01006	CDS	393				hypothetical protein
+OMAHEEIC_01007	CDS	453				hypothetical protein
+OMAHEEIC_01008	CDS	369				hypothetical protein
+OMAHEEIC_01009	CDS	327				hypothetical protein
+OMAHEEIC_01010	CDS	774	yurK		COG2188	putative HTH-type transcriptional regulator YurK
+OMAHEEIC_01011	CDS	1176	siaT		COG1593	Sialic acid TRAP transporter permease protein SiaT
+OMAHEEIC_01012	CDS	1704				hypothetical protein
+OMAHEEIC_01013	CDS	393	hpcD	5.3.3.10		5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+OMAHEEIC_01014	CDS	600	tatD	3.1.11.-	COG0084	3'-5' ssDNA/RNA exonuclease TatD
+OMAHEEIC_01015	CDS	1107	smtB_2	2.8.3.22	COG1804	Succinyl-CoA--L-malate CoA-transferase beta subunit
+OMAHEEIC_01016	CDS	564				hypothetical protein
+OMAHEEIC_01017	CDS	783				hypothetical protein
+OMAHEEIC_01018	CDS	1152	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+OMAHEEIC_01019	CDS	642				hypothetical protein
+OMAHEEIC_01020	CDS	936				hypothetical protein
+OMAHEEIC_01021	tRNA	77				tRNA-Arg(tct)
+OMAHEEIC_01022	tRNA	77				tRNA-Pro(tgg)
+OMAHEEIC_01023	CDS	1131	aceA_2	4.1.3.1	COG2224	Isocitrate lyase
+OMAHEEIC_01024	CDS	207				hypothetical protein
+OMAHEEIC_01025	CDS	219				hypothetical protein
+OMAHEEIC_01026	CDS	555	nudC	3.6.1.22		NADH pyrophosphatase
+OMAHEEIC_01027	tRNA	87				tRNA-Leu(caa)

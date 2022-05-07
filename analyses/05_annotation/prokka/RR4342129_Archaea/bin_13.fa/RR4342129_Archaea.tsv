@@ -1,0 +1,327 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+AOEIEMDA_00001	CDS	465				hypothetical protein
+AOEIEMDA_00002	CDS	645				hypothetical protein
+AOEIEMDA_00003	CDS	1527				hypothetical protein
+AOEIEMDA_00004	CDS	1365				hypothetical protein
+AOEIEMDA_00005	CDS	675				hypothetical protein
+AOEIEMDA_00006	CDS	1581				hypothetical protein
+AOEIEMDA_00007	CDS	522				hypothetical protein
+AOEIEMDA_00008	CDS	966	yhaM	3.1.-.-		3'-5' exoribonuclease YhaM
+AOEIEMDA_00009	CDS	480				hypothetical protein
+AOEIEMDA_00010	CDS	861	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+AOEIEMDA_00011	CDS	591	resA			Thiol-disulfide oxidoreductase ResA
+AOEIEMDA_00012	CDS	135				hypothetical protein
+AOEIEMDA_00013	CDS	1266				hypothetical protein
+AOEIEMDA_00014	CDS	1878				hypothetical protein
+AOEIEMDA_00015	CDS	1269				hypothetical protein
+AOEIEMDA_00016	CDS	657	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+AOEIEMDA_00017	CDS	441				hypothetical protein
+AOEIEMDA_00018	CDS	486	cpoB			Cell division coordinator CpoB
+AOEIEMDA_00019	CDS	552				hypothetical protein
+AOEIEMDA_00020	CDS	1083				hypothetical protein
+AOEIEMDA_00021	CDS	363				hypothetical protein
+AOEIEMDA_00022	CDS	885	rlmN	2.1.1.192		Dual-specificity RNA methyltransferase RlmN
+AOEIEMDA_00023	CDS	717				hypothetical protein
+AOEIEMDA_00024	CDS	588				hypothetical protein
+AOEIEMDA_00025	CDS	1209				hypothetical protein
+AOEIEMDA_00026	CDS	213				hypothetical protein
+AOEIEMDA_00027	CDS	414				hypothetical protein
+AOEIEMDA_00028	CDS	660				hypothetical protein
+AOEIEMDA_00029	CDS	1293	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+AOEIEMDA_00030	CDS	927	ade	3.5.4.2		Adenine deaminase
+AOEIEMDA_00031	CDS	309				hypothetical protein
+AOEIEMDA_00032	CDS	684		3.1.3.-	COG1011	Glyceraldehyde 3-phosphate phosphatase
+AOEIEMDA_00033	CDS	978	ycf3			Photosystem I assembly protein Ycf3
+AOEIEMDA_00034	CDS	603				hypothetical protein
+AOEIEMDA_00035	CDS	738				hypothetical protein
+AOEIEMDA_00036	CDS	744				hypothetical protein
+AOEIEMDA_00037	CDS	447				hypothetical protein
+AOEIEMDA_00038	CDS	1746	dnaG	2.7.7.-		DNA primase
+AOEIEMDA_00039	CDS	303				hypothetical protein
+AOEIEMDA_00040	CDS	453	queC	6.3.4.20		7-cyano-7-deazaguanine synthase
+AOEIEMDA_00041	CDS	633	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+AOEIEMDA_00042	CDS	363				hypothetical protein
+AOEIEMDA_00043	CDS	390	queF	1.7.1.13		NADPH-dependent 7-cyano-7-deazaguanine reductase
+AOEIEMDA_00044	tRNA	74				tRNA-Lys(ttt)
+AOEIEMDA_00045	CDS	696	cobB1	2.3.1.286	COG0846	NAD-dependent protein deacylase 1
+AOEIEMDA_00046	CDS	1659	mfd	3.6.4.-		Transcription-repair-coupling factor
+AOEIEMDA_00047	CDS	1086				hypothetical protein
+AOEIEMDA_00048	CDS	960				hypothetical protein
+AOEIEMDA_00049	CDS	369				hypothetical protein
+AOEIEMDA_00050	CDS	549				hypothetical protein
+AOEIEMDA_00051	CDS	717	djlA			Co-chaperone protein DjlA
+AOEIEMDA_00052	CDS	396	atpC			ATP synthase epsilon chain
+AOEIEMDA_00053	CDS	1401	atpB	7.1.2.2		ATP synthase subunit beta
+AOEIEMDA_00054	CDS	759	atpG			ATP synthase gamma chain
+AOEIEMDA_00055	CDS	915	dapA	4.3.3.7		4-hydroxy-tetrahydrodipicolinate synthase
+AOEIEMDA_00056	CDS	228				hypothetical protein
+AOEIEMDA_00057	CDS	1794				hypothetical protein
+AOEIEMDA_00058	CDS	1212	xseA	3.1.11.6		Exodeoxyribonuclease 7 large subunit
+AOEIEMDA_00059	CDS	231	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+AOEIEMDA_00060	CDS	540	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+AOEIEMDA_00061	CDS	273				hypothetical protein
+AOEIEMDA_00062	CDS	651				hypothetical protein
+AOEIEMDA_00063	CDS	1506				hypothetical protein
+AOEIEMDA_00064	CDS	771	icmF_1	5.4.99.13		Fused isobutyryl-CoA mutase
+AOEIEMDA_00065	CDS	645				hypothetical protein
+AOEIEMDA_00066	CDS	768	birA	6.3.4.15		Bifunctional ligase/repressor BirA
+AOEIEMDA_00067	CDS	321				hypothetical protein
+AOEIEMDA_00068	CDS	1278	sctC			Type 3 secretion system secretin
+AOEIEMDA_00069	CDS	324	murB	1.3.1.98		UDP-N-acetylenolpyruvoylglucosamine reductase
+AOEIEMDA_00070	CDS	762	ftsQ			Cell division protein FtsQ
+AOEIEMDA_00071	CDS	279				hypothetical protein
+AOEIEMDA_00072	CDS	1368	agcS		COG1115	Sodium/alanine symporter AgcS
+AOEIEMDA_00073	CDS	150				hypothetical protein
+AOEIEMDA_00074	CDS	246				hypothetical protein
+AOEIEMDA_00075	CDS	477				hypothetical protein
+AOEIEMDA_00076	CDS	246				hypothetical protein
+AOEIEMDA_00077	CDS	267				hypothetical protein
+AOEIEMDA_00078	CDS	1203				hypothetical protein
+AOEIEMDA_00079	CDS	1179				hypothetical protein
+AOEIEMDA_00080	CDS	879	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+AOEIEMDA_00081	CDS	399	nsrR			HTH-type transcriptional repressor NsrR
+AOEIEMDA_00082	CDS	375				hypothetical protein
+AOEIEMDA_00083	CDS	363	iscA			Iron-binding protein IscA
+AOEIEMDA_00084	tRNA	73				tRNA-Gly(ccc)
+AOEIEMDA_00085	CDS	351				hypothetical protein
+AOEIEMDA_00086	CDS	327				hypothetical protein
+AOEIEMDA_00087	CDS	192				hypothetical protein
+AOEIEMDA_00088	CDS	648				hypothetical protein
+AOEIEMDA_00089	CDS	1299	tig	5.2.1.8		Trigger factor
+AOEIEMDA_00090	CDS	213				hypothetical protein
+AOEIEMDA_00091	CDS	210				hypothetical protein
+AOEIEMDA_00092	CDS	414	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+AOEIEMDA_00093	CDS	1170				hypothetical protein
+AOEIEMDA_00094	CDS	705				hypothetical protein
+AOEIEMDA_00095	CDS	609	sua5	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+AOEIEMDA_00096	CDS	660				hypothetical protein
+AOEIEMDA_00097	CDS	177				hypothetical protein
+AOEIEMDA_00098	CDS	426	qutE	4.2.1.10		Catabolic 3-dehydroquinase
+AOEIEMDA_00099	CDS	378				hypothetical protein
+AOEIEMDA_00100	CDS	201				hypothetical protein
+AOEIEMDA_00101	CDS	168				hypothetical protein
+AOEIEMDA_00102	CDS	705	rnc	3.1.26.3		Ribonuclease 3
+AOEIEMDA_00103	CDS	696				hypothetical protein
+AOEIEMDA_00104	CDS	231	OSGEPL1	2.3.1.234		tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial
+AOEIEMDA_00105	CDS	759	kae1	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+AOEIEMDA_00106	CDS	474	ala	1.4.1.1	COG2423	Alanine dehydrogenase
+AOEIEMDA_00107	CDS	630				hypothetical protein
+AOEIEMDA_00108	CDS	855				hypothetical protein
+AOEIEMDA_00109	CDS	489				hypothetical protein
+AOEIEMDA_00110	CDS	132				hypothetical protein
+AOEIEMDA_00111	CDS	288				hypothetical protein
+AOEIEMDA_00112	CDS	318				hypothetical protein
+AOEIEMDA_00113	CDS	240				hypothetical protein
+AOEIEMDA_00114	CDS	855				hypothetical protein
+AOEIEMDA_00115	CDS	603	lexA	3.4.21.88		LexA repressor
+AOEIEMDA_00116	CDS	1299				hypothetical protein
+AOEIEMDA_00117	CDS	1665	dxs_1	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+AOEIEMDA_00118	CDS	462				hypothetical protein
+AOEIEMDA_00119	CDS	288	ihfB			Integration host factor subunit beta
+AOEIEMDA_00120	CDS	567				hypothetical protein
+AOEIEMDA_00121	CDS	912				hypothetical protein
+AOEIEMDA_00122	CDS	252				hypothetical protein
+AOEIEMDA_00123	CDS	579				hypothetical protein
+AOEIEMDA_00124	CDS	1428	lutA			Lactate utilization protein A
+AOEIEMDA_00125	CDS	1362				hypothetical protein
+AOEIEMDA_00126	CDS	750				hypothetical protein
+AOEIEMDA_00127	CDS	627				hypothetical protein
+AOEIEMDA_00128	CDS	1473	ligN	6.5.1.2	COG0272	DNA ligase
+AOEIEMDA_00129	CDS	492				hypothetical protein
+AOEIEMDA_00130	CDS	1320	fusA		COG0480	Elongation factor 2
+AOEIEMDA_00131	CDS	225				hypothetical protein
+AOEIEMDA_00132	CDS	1869	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+AOEIEMDA_00133	CDS	237	cutC			Copper homeostasis protein CutC
+AOEIEMDA_00134	CDS	2064				hypothetical protein
+AOEIEMDA_00135	CDS	1080	bamA			Outer membrane protein assembly factor BamA
+AOEIEMDA_00136	CDS	981	murQ	4.2.1.126		N-acetylmuramic acid 6-phosphate etherase
+AOEIEMDA_00137	CDS	348	prfB			Peptide chain release factor 2
+AOEIEMDA_00138	CDS	1578				hypothetical protein
+AOEIEMDA_00139	CDS	780				hypothetical protein
+AOEIEMDA_00140	CDS	729				hypothetical protein
+AOEIEMDA_00141	CDS	879				hypothetical protein
+AOEIEMDA_00142	CDS	546				hypothetical protein
+AOEIEMDA_00143	CDS	408				hypothetical protein
+AOEIEMDA_00144	CDS	732				hypothetical protein
+AOEIEMDA_00145	CDS	651				hypothetical protein
+AOEIEMDA_00146	CDS	381	icmF_2	5.4.99.13		Fused isobutyryl-CoA mutase
+AOEIEMDA_00147	CDS	447	dtd	3.1.1.96		D-aminoacyl-tRNA deacylase
+AOEIEMDA_00148	CDS	357				hypothetical protein
+AOEIEMDA_00149	CDS	1494	aspS	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+AOEIEMDA_00150	CDS	975	obg	3.6.5.-		GTPase Obg
+AOEIEMDA_00151	CDS	888				hypothetical protein
+AOEIEMDA_00152	CDS	669				hypothetical protein
+AOEIEMDA_00153	CDS	978				hypothetical protein
+AOEIEMDA_00154	CDS	723				hypothetical protein
+AOEIEMDA_00155	CDS	1377	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+AOEIEMDA_00156	CDS	1374				hypothetical protein
+AOEIEMDA_00157	CDS	285				hypothetical protein
+AOEIEMDA_00158	CDS	1575	ghrB	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+AOEIEMDA_00159	CDS	531				hypothetical protein
+AOEIEMDA_00160	CDS	534				hypothetical protein
+AOEIEMDA_00161	CDS	813	kdsA	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+AOEIEMDA_00162	CDS	858				hypothetical protein
+AOEIEMDA_00163	CDS	1059	ispD	2.7.7.60		2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+AOEIEMDA_00164	CDS	798				hypothetical protein
+AOEIEMDA_00165	CDS	732	rlmB	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+AOEIEMDA_00166	CDS	429				hypothetical protein
+AOEIEMDA_00167	CDS	261	epd_1	1.2.1.72		D-erythrose-4-phosphate dehydrogenase
+AOEIEMDA_00168	CDS	1002	epd_2	1.2.1.72		D-erythrose-4-phosphate dehydrogenase
+AOEIEMDA_00169	CDS	1134	tgtA	2.4.2.48	COG0343	tRNA-guanine(15) transglycosylase
+AOEIEMDA_00170	CDS	897	radA			DNA repair protein RadA
+AOEIEMDA_00171	CDS	258				hypothetical protein
+AOEIEMDA_00172	CDS	351				hypothetical protein
+AOEIEMDA_00173	CDS	546	hslV	3.4.25.2		ATP-dependent protease subunit HslV
+AOEIEMDA_00174	CDS	1338	hslU			ATP-dependent protease ATPase subunit HslU
+AOEIEMDA_00175	CDS	573		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+AOEIEMDA_00176	CDS	366	nupG			Nucleoside permease NupG
+AOEIEMDA_00177	CDS	1251	iolG_1	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+AOEIEMDA_00178	CDS	972	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+AOEIEMDA_00179	CDS	489				hypothetical protein
+AOEIEMDA_00180	CDS	1485				hypothetical protein
+AOEIEMDA_00181	CDS	924				hypothetical protein
+AOEIEMDA_00182	CDS	1332	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+AOEIEMDA_00183	CDS	402				Single-stranded DNA-binding protein
+AOEIEMDA_00184	CDS	774				hypothetical protein
+AOEIEMDA_00185	CDS	2031				hypothetical protein
+AOEIEMDA_00186	CDS	570				hypothetical protein
+AOEIEMDA_00187	CDS	552				hypothetical protein
+AOEIEMDA_00188	CDS	327				hypothetical protein
+AOEIEMDA_00189	CDS	219				hypothetical protein
+AOEIEMDA_00190	CDS	282				hypothetical protein
+AOEIEMDA_00191	CDS	762	fixA			Protein FixA
+AOEIEMDA_00192	CDS	210				hypothetical protein
+AOEIEMDA_00193	CDS	396				hypothetical protein
+AOEIEMDA_00194	CDS	294				hypothetical protein
+AOEIEMDA_00195	CDS	648				hypothetical protein
+AOEIEMDA_00196	CDS	216				hypothetical protein
+AOEIEMDA_00197	CDS	168				hypothetical protein
+AOEIEMDA_00198	CDS	1017				hypothetical protein
+AOEIEMDA_00199	CDS	423				hypothetical protein
+AOEIEMDA_00200	CDS	300				hypothetical protein
+AOEIEMDA_00201	CDS	1230	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+AOEIEMDA_00202	CDS	198				hypothetical protein
+AOEIEMDA_00203	CDS	909				hypothetical protein
+AOEIEMDA_00204	CDS	948				hypothetical protein
+AOEIEMDA_00205	CDS	225				hypothetical protein
+AOEIEMDA_00206	CDS	1002				hypothetical protein
+AOEIEMDA_00207	CDS	213				hypothetical protein
+AOEIEMDA_00208	CDS	1119				hypothetical protein
+AOEIEMDA_00209	CDS	549	pepQ	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+AOEIEMDA_00210	CDS	153				hypothetical protein
+AOEIEMDA_00211	CDS	921				hypothetical protein
+AOEIEMDA_00212	CDS	333				hypothetical protein
+AOEIEMDA_00213	CDS	930				hypothetical protein
+AOEIEMDA_00214	CDS	354				hypothetical protein
+AOEIEMDA_00215	CDS	756				hypothetical protein
+AOEIEMDA_00216	CDS	984	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+AOEIEMDA_00217	CDS	1026	ilvE	2.6.1.42	COG0115	Putative branched-chain-amino-acid aminotransferase
+AOEIEMDA_00218	CDS	441	nusB			Transcription antitermination protein NusB
+AOEIEMDA_00219	CDS	147				hypothetical protein
+AOEIEMDA_00220	CDS	714	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+AOEIEMDA_00221	CDS	291	hpf			Ribosome hibernation promoting factor
+AOEIEMDA_00222	CDS	1194	metK	2.5.1.6		S-adenosylmethionine synthase
+AOEIEMDA_00223	CDS	837				hypothetical protein
+AOEIEMDA_00224	CDS	570		3.6.1.9		dTTP/UTP pyrophosphatase
+AOEIEMDA_00225	CDS	831				hypothetical protein
+AOEIEMDA_00226	CDS	1653	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+AOEIEMDA_00227	CDS	717	pyrH	2.7.4.22	COG0528	Uridylate kinase
+AOEIEMDA_00228	CDS	342	TSFM			Elongation factor Ts, mitochondrial
+AOEIEMDA_00229	CDS	1200		2.6.1.57		Aromatic-amino-acid aminotransferase 2
+AOEIEMDA_00230	CDS	807				hypothetical protein
+AOEIEMDA_00231	CDS	513				hypothetical protein
+AOEIEMDA_00232	CDS	372				hypothetical protein
+AOEIEMDA_00233	CDS	384			COG0517	putative protein
+AOEIEMDA_00234	CDS	213				hypothetical protein
+AOEIEMDA_00235	CDS	381				hypothetical protein
+AOEIEMDA_00236	CDS	849		2.3.3.14	COG0119	Homocitrate synthase
+AOEIEMDA_00237	CDS	543	lgt	2.5.1.145		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+AOEIEMDA_00238	CDS	756				hypothetical protein
+AOEIEMDA_00239	CDS	1185				hypothetical protein
+AOEIEMDA_00240	CDS	816	bamD			Outer membrane protein assembly factor BamD
+AOEIEMDA_00241	CDS	582	nadD	2.7.7.18		nicotinate-nucleotide adenylyltransferase
+AOEIEMDA_00242	CDS	225				hypothetical protein
+AOEIEMDA_00243	CDS	174				hypothetical protein
+AOEIEMDA_00244	CDS	927	queG	1.17.99.6		Epoxyqueuosine reductase
+AOEIEMDA_00245	CDS	630				hypothetical protein
+AOEIEMDA_00246	CDS	633				hypothetical protein
+AOEIEMDA_00247	CDS	513				hypothetical protein
+AOEIEMDA_00248	CDS	1101				hypothetical protein
+AOEIEMDA_00249	CDS	387	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+AOEIEMDA_00250	CDS	987	purC	6.3.2.6		Phosphoribosylaminoimidazole-succinocarboxamide synthase
+AOEIEMDA_00251	CDS	1200	purQ	3.5.1.2		Phosphoribosylformylglycinamidine synthase subunit PurQ
+AOEIEMDA_00252	CDS	1035	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+AOEIEMDA_00253	CDS	468	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurL
+AOEIEMDA_00254	CDS	693				hypothetical protein
+AOEIEMDA_00255	CDS	3648				hypothetical protein
+AOEIEMDA_00256	CDS	282				hypothetical protein
+AOEIEMDA_00257	CDS	435				hypothetical protein
+AOEIEMDA_00258	CDS	585	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+AOEIEMDA_00259	CDS	456				hypothetical protein
+AOEIEMDA_00260	CDS	549				hypothetical protein
+AOEIEMDA_00261	CDS	933				hypothetical protein
+AOEIEMDA_00262	CDS	333	mutS2	3.1.-.-		Endonuclease MutS2
+AOEIEMDA_00263	CDS	963				hypothetical protein
+AOEIEMDA_00264	CDS	1128	hmgA	1.1.1.34	COG1257	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+AOEIEMDA_00265	CDS	729				hypothetical protein
+AOEIEMDA_00266	CDS	870				hypothetical protein
+AOEIEMDA_00267	CDS	936	lpxK	2.7.1.130		Tetraacyldisaccharide 4'-kinase
+AOEIEMDA_00268	CDS	486				hypothetical protein
+AOEIEMDA_00269	CDS	2541				hypothetical protein
+AOEIEMDA_00270	CDS	570				hypothetical protein
+AOEIEMDA_00271	CDS	909	fcl	1.1.1.271		GDP-L-fucose synthase
+AOEIEMDA_00272	CDS	783				hypothetical protein
+AOEIEMDA_00273	CDS	828				hypothetical protein
+AOEIEMDA_00274	CDS	300	ftsB			Cell division protein FtsB
+AOEIEMDA_00275	CDS	678	eno	4.2.1.11	COG0148	Enolase
+AOEIEMDA_00276	CDS	231				hypothetical protein
+AOEIEMDA_00277	CDS	1143	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AOEIEMDA_00278	CDS	153				hypothetical protein
+AOEIEMDA_00279	CDS	2322	dxs_2	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+AOEIEMDA_00280	CDS	498	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+AOEIEMDA_00281	CDS	138				hypothetical protein
+AOEIEMDA_00282	CDS	189				hypothetical protein
+AOEIEMDA_00283	CDS	1449	gcvP	1.4.4.2		Glycine dehydrogenase (decarboxylating)
+AOEIEMDA_00284	CDS	774				hypothetical protein
+AOEIEMDA_00285	CDS	510				hypothetical protein
+AOEIEMDA_00286	CDS	1101				hypothetical protein
+AOEIEMDA_00287	CDS	573				hypothetical protein
+AOEIEMDA_00288	CDS	555				hypothetical protein
+AOEIEMDA_00289	CDS	675	miaB	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+AOEIEMDA_00290	CDS	318	lapA			Lipopolysaccharide assembly protein A
+AOEIEMDA_00291	CDS	1047	lapB			Lipopolysaccharide assembly protein B
+AOEIEMDA_00292	CDS	1248	rho	3.6.4.-		Transcription termination factor Rho
+AOEIEMDA_00293	CDS	1893				hypothetical protein
+AOEIEMDA_00294	CDS	270				hypothetical protein
+AOEIEMDA_00295	CDS	1023				Iron-sulfur cluster carrier protein
+AOEIEMDA_00296	CDS	792				hypothetical protein
+AOEIEMDA_00297	CDS	387				hypothetical protein
+AOEIEMDA_00298	CDS	753	uppS	2.5.1.89	COG0020	Tritrans,polycis-undecaprenyl-diphosphate synthase (GGDP specific)
+AOEIEMDA_00299	CDS	1404		2.7.1.40	COG0469	Pyruvate kinase
+AOEIEMDA_00300	CDS	384	apaG			Protein ApaG
+AOEIEMDA_00301	CDS	2055				hypothetical protein
+AOEIEMDA_00302	CDS	585				hypothetical protein
+AOEIEMDA_00303	CDS	1269				hypothetical protein
+AOEIEMDA_00304	CDS	309				hypothetical protein
+AOEIEMDA_00305	CDS	1107	lhgD	1.1.5.-		L-2-hydroxyglutarate dehydrogenase
+AOEIEMDA_00306	CDS	447	trmL	2.1.1.207		tRNA (cytidine(34)-2'-O)-methyltransferase
+AOEIEMDA_00307	CDS	978	dinB	2.7.7.7		DNA polymerase IV
+AOEIEMDA_00308	CDS	195				hypothetical protein
+AOEIEMDA_00309	CDS	780				hypothetical protein
+AOEIEMDA_00310	CDS	1116	iscS2	2.8.1.7	COG1104	Cysteine desulfurase IscS 2
+AOEIEMDA_00311	CDS	1080	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+AOEIEMDA_00312	CDS	465				hypothetical protein
+AOEIEMDA_00313	CDS	570				hypothetical protein
+AOEIEMDA_00314	CDS	222				hypothetical protein
+AOEIEMDA_00315	CDS	201				hypothetical protein
+AOEIEMDA_00316	CDS	1071	add	3.5.4.4		Adenosine deaminase
+AOEIEMDA_00317	CDS	504				hypothetical protein
+AOEIEMDA_00318	CDS	1824				hypothetical protein
+AOEIEMDA_00319	CDS	1095	tolB			Tol-Pal system protein TolB
+AOEIEMDA_00320	CDS	270				hypothetical protein
+AOEIEMDA_00321	CDS	567				hypothetical protein
+AOEIEMDA_00322	CDS	885				hypothetical protein
+AOEIEMDA_00323	CDS	849				hypothetical protein
+AOEIEMDA_00324	CDS	360				hypothetical protein
+AOEIEMDA_00325	CDS	339				hypothetical protein
+AOEIEMDA_00326	CDS	645		3.2.2.-		G/T mismatches repair enzyme

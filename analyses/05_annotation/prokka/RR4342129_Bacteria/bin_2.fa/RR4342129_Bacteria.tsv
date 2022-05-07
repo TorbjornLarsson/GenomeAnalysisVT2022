@@ -1,0 +1,874 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MMNBELJE_00001	CDS	576	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+MMNBELJE_00002	CDS	330				hypothetical protein
+MMNBELJE_00003	CDS	285				hypothetical protein
+MMNBELJE_00004	CDS	867	folD		COG0190	Bifunctional protein FolD protein
+MMNBELJE_00005	CDS	561	yqgN		COG0212	putative protein YqgN
+MMNBELJE_00006	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+MMNBELJE_00007	CDS	3198	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+MMNBELJE_00008	CDS	585				hypothetical protein
+MMNBELJE_00009	CDS	330				hypothetical protein
+MMNBELJE_00010	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+MMNBELJE_00011	CDS	912	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+MMNBELJE_00012	CDS	168				hypothetical protein
+MMNBELJE_00013	CDS	264				hypothetical protein
+MMNBELJE_00014	CDS	222				hypothetical protein
+MMNBELJE_00015	CDS	150				hypothetical protein
+MMNBELJE_00016	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+MMNBELJE_00017	CDS	159				hypothetical protein
+MMNBELJE_00018	CDS	471				hypothetical protein
+MMNBELJE_00019	CDS	444				hypothetical protein
+MMNBELJE_00020	CDS	882				hypothetical protein
+MMNBELJE_00021	CDS	267				hypothetical protein
+MMNBELJE_00022	CDS	264				hypothetical protein
+MMNBELJE_00023	CDS	507				hypothetical protein
+MMNBELJE_00024	CDS	981				hypothetical protein
+MMNBELJE_00025	tRNA	76				tRNA-Val(tac)
+MMNBELJE_00026	CDS	822	cpoB			Cell division coordinator CpoB
+MMNBELJE_00027	CDS	729				hypothetical protein
+MMNBELJE_00028	CDS	456				hypothetical protein
+MMNBELJE_00029	CDS	363				hypothetical protein
+MMNBELJE_00030	CDS	198				hypothetical protein
+MMNBELJE_00031	CDS	252				hypothetical protein
+MMNBELJE_00032	CDS	1149	obg	3.6.5.-		GTPase Obg
+MMNBELJE_00033	CDS	309				hypothetical protein
+MMNBELJE_00034	CDS	828				hypothetical protein
+MMNBELJE_00035	CDS	210				hypothetical protein
+MMNBELJE_00036	CDS	564				hypothetical protein
+MMNBELJE_00037	CDS	450				hypothetical protein
+MMNBELJE_00038	CDS	177				hypothetical protein
+MMNBELJE_00039	CDS	774				hypothetical protein
+MMNBELJE_00040	CDS	369				hypothetical protein
+MMNBELJE_00041	CDS	1821				hypothetical protein
+MMNBELJE_00042	CDS	144				hypothetical protein
+MMNBELJE_00043	CDS	1416				hypothetical protein
+MMNBELJE_00044	CDS	1302				hypothetical protein
+MMNBELJE_00045	CDS	246	cutA		COG1324	Divalent-cation tolerance protein CutA
+MMNBELJE_00046	CDS	1476	ftsY			Signal recognition particle receptor FtsY
+MMNBELJE_00047	CDS	426	pfdA			Prefoldin subunit alpha
+MMNBELJE_00048	CDS	624	sodA	1.15.1.1		Superoxide dismutase [Mn]
+MMNBELJE_00049	CDS	393				hypothetical protein
+MMNBELJE_00050	CDS	756	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+MMNBELJE_00051	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+MMNBELJE_00052	CDS	948				hypothetical protein
+MMNBELJE_00053	CDS	879	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+MMNBELJE_00054	CDS	1734				hypothetical protein
+MMNBELJE_00055	CDS	1347				hypothetical protein
+MMNBELJE_00056	CDS	1446	glnA	6.3.1.2		Glutamine synthetase
+MMNBELJE_00057	CDS	678				hypothetical protein
+MMNBELJE_00058	CDS	1149	dnaJ_1			Chaperone protein DnaJ
+MMNBELJE_00059	CDS	300	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+MMNBELJE_00060	CDS	615				hypothetical protein
+MMNBELJE_00061	CDS	1152	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+MMNBELJE_00062	CDS	258				hypothetical protein
+MMNBELJE_00063	CDS	495				hypothetical protein
+MMNBELJE_00064	CDS	147				hypothetical protein
+MMNBELJE_00065	CDS	153				hypothetical protein
+MMNBELJE_00066	CDS	831				hypothetical protein
+MMNBELJE_00067	CDS	315				hypothetical protein
+MMNBELJE_00068	CDS	747				hypothetical protein
+MMNBELJE_00069	CDS	207				hypothetical protein
+MMNBELJE_00070	CDS	183				hypothetical protein
+MMNBELJE_00071	CDS	1038				hypothetical protein
+MMNBELJE_00072	CDS	261				hypothetical protein
+MMNBELJE_00073	CDS	474				hypothetical protein
+MMNBELJE_00074	CDS	642				hypothetical protein
+MMNBELJE_00075	CDS	447				hypothetical protein
+MMNBELJE_00076	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+MMNBELJE_00077	CDS	726				hypothetical protein
+MMNBELJE_00078	CDS	345				hypothetical protein
+MMNBELJE_00079	CDS	231				hypothetical protein
+MMNBELJE_00080	CDS	468				hypothetical protein
+MMNBELJE_00081	CDS	531		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+MMNBELJE_00082	CDS	426	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+MMNBELJE_00083	CDS	1713	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+MMNBELJE_00084	CDS	414				hypothetical protein
+MMNBELJE_00085	CDS	897	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+MMNBELJE_00086	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+MMNBELJE_00087	CDS	294	atpF			V-type ATP synthase subunit F
+MMNBELJE_00088	CDS	303				hypothetical protein
+MMNBELJE_00089	CDS	255				hypothetical protein
+MMNBELJE_00090	CDS	315				hypothetical protein
+MMNBELJE_00091	CDS	3243	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+MMNBELJE_00092	CDS	1152	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+MMNBELJE_00093	CDS	639	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MMNBELJE_00094	CDS	1194				hypothetical protein
+MMNBELJE_00095	CDS	456				hypothetical protein
+MMNBELJE_00096	CDS	228	cofH	2.5.1.147		5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase
+MMNBELJE_00097	CDS	306				hypothetical protein
+MMNBELJE_00098	CDS	282				hypothetical protein
+MMNBELJE_00099	CDS	309				hypothetical protein
+MMNBELJE_00100	CDS	258				hypothetical protein
+MMNBELJE_00101	CDS	801	cbiB			Cobalamin biosynthesis protein CbiB
+MMNBELJE_00102	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+MMNBELJE_00103	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+MMNBELJE_00104	CDS	198				hypothetical protein
+MMNBELJE_00105	CDS	282				hypothetical protein
+MMNBELJE_00106	CDS	1764	ade	3.5.4.2	COG1001	Adenine deaminase
+MMNBELJE_00107	CDS	201				hypothetical protein
+MMNBELJE_00108	CDS	402				hypothetical protein
+MMNBELJE_00109	CDS	1170				hypothetical protein
+MMNBELJE_00110	CDS	636				hypothetical protein
+MMNBELJE_00111	CDS	420				hypothetical protein
+MMNBELJE_00112	CDS	585	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+MMNBELJE_00113	CDS	477				hypothetical protein
+MMNBELJE_00114	CDS	1011				hypothetical protein
+MMNBELJE_00115	CDS	399	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+MMNBELJE_00116	CDS	1623	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+MMNBELJE_00117	CDS	294				hypothetical protein
+MMNBELJE_00118	CDS	879				hypothetical protein
+MMNBELJE_00119	CDS	192				hypothetical protein
+MMNBELJE_00120	CDS	318	bioB	2.8.1.6	COG0502	Biotin synthase
+MMNBELJE_00121	CDS	597				hypothetical protein
+MMNBELJE_00122	CDS	573				hypothetical protein
+MMNBELJE_00123	CDS	153				hypothetical protein
+MMNBELJE_00124	CDS	312				hypothetical protein
+MMNBELJE_00125	CDS	507				hypothetical protein
+MMNBELJE_00126	CDS	963	mntA		COG0803	Manganese-binding lipoprotein MntA
+MMNBELJE_00127	CDS	765	mntB_1		COG1121	Manganese transport system ATP-binding protein MntB
+MMNBELJE_00128	CDS	960	mntC		COG1108	Manganese transport system membrane protein MntC
+MMNBELJE_00129	CDS	1101				hypothetical protein
+MMNBELJE_00130	CDS	507				hypothetical protein
+MMNBELJE_00131	CDS	936	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+MMNBELJE_00132	CDS	282				hypothetical protein
+MMNBELJE_00133	CDS	375				hypothetical protein
+MMNBELJE_00134	CDS	135				hypothetical protein
+MMNBELJE_00135	CDS	171				hypothetical protein
+MMNBELJE_00136	CDS	300				hypothetical protein
+MMNBELJE_00137	CDS	261				hypothetical protein
+MMNBELJE_00138	CDS	372				hypothetical protein
+MMNBELJE_00139	CDS	258				hypothetical protein
+MMNBELJE_00140	CDS	1011				hypothetical protein
+MMNBELJE_00141	CDS	1089				hypothetical protein
+MMNBELJE_00142	CDS	267				hypothetical protein
+MMNBELJE_00143	CDS	1437	dinG	3.1.-.-		3'-5' exonuclease DinG
+MMNBELJE_00144	CDS	189				hypothetical protein
+MMNBELJE_00145	CDS	594				hypothetical protein
+MMNBELJE_00146	CDS	1125	apbC		COG0489	Iron-sulfur cluster carrier protein
+MMNBELJE_00147	CDS	495				hypothetical protein
+MMNBELJE_00148	CDS	129				hypothetical protein
+MMNBELJE_00149	CDS	288				hypothetical protein
+MMNBELJE_00150	CDS	771				hypothetical protein
+MMNBELJE_00151	CDS	291				hypothetical protein
+MMNBELJE_00152	CDS	690				hypothetical protein
+MMNBELJE_00153	CDS	462				hypothetical protein
+MMNBELJE_00154	CDS	132				hypothetical protein
+MMNBELJE_00155	CDS	321				hypothetical protein
+MMNBELJE_00156	CDS	315				hypothetical protein
+MMNBELJE_00157	CDS	219				hypothetical protein
+MMNBELJE_00158	CDS	930				hypothetical protein
+MMNBELJE_00159	CDS	1113	hflX		COG2262	GTPase HflX
+MMNBELJE_00160	CDS	534				hypothetical protein
+MMNBELJE_00161	CDS	384				hypothetical protein
+MMNBELJE_00162	CDS	156				hypothetical protein
+MMNBELJE_00163	CDS	339				hypothetical protein
+MMNBELJE_00164	CDS	564				hypothetical protein
+MMNBELJE_00165	tRNA	77				tRNA-Pro(tgg)
+MMNBELJE_00166	CDS	537	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+MMNBELJE_00167	CDS	969				hypothetical protein
+MMNBELJE_00168	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+MMNBELJE_00169	CDS	609	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+MMNBELJE_00170	CDS	267				hypothetical protein
+MMNBELJE_00171	CDS	228				hypothetical protein
+MMNBELJE_00172	CDS	708	phnE		COG3639	Phosphate-import permease protein PhnE
+MMNBELJE_00173	CDS	447	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+MMNBELJE_00174	CDS	339				hypothetical protein
+MMNBELJE_00175	CDS	555				hypothetical protein
+MMNBELJE_00176	CDS	831	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+MMNBELJE_00177	CDS	879				hypothetical protein
+MMNBELJE_00178	CDS	951				hypothetical protein
+MMNBELJE_00179	CDS	1428				hypothetical protein
+MMNBELJE_00180	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+MMNBELJE_00181	CDS	414				hypothetical protein
+MMNBELJE_00182	CDS	213	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+MMNBELJE_00183	CDS	1008				hypothetical protein
+MMNBELJE_00184	CDS	267				hypothetical protein
+MMNBELJE_00185	CDS	216				hypothetical protein
+MMNBELJE_00186	CDS	756				hypothetical protein
+MMNBELJE_00187	CDS	375				hypothetical protein
+MMNBELJE_00188	CDS	1443	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+MMNBELJE_00189	CDS	777	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+MMNBELJE_00190	CDS	621	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+MMNBELJE_00191	CDS	309				hypothetical protein
+MMNBELJE_00192	CDS	357				hypothetical protein
+MMNBELJE_00193	CDS	426				hypothetical protein
+MMNBELJE_00194	CDS	735	pyrF_1	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+MMNBELJE_00195	CDS	687				hypothetical protein
+MMNBELJE_00196	CDS	441				hypothetical protein
+MMNBELJE_00197	tRNA	72				tRNA-Cys(gca)
+MMNBELJE_00198	CDS	219				hypothetical protein
+MMNBELJE_00199	CDS	759	yjjV	3.1.-.-	COG0084	putative metal-dependent hydrolase YjjV
+MMNBELJE_00200	CDS	351				hypothetical protein
+MMNBELJE_00201	CDS	774				hypothetical protein
+MMNBELJE_00202	CDS	522				hypothetical protein
+MMNBELJE_00203	CDS	606	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+MMNBELJE_00204	CDS	120				hypothetical protein
+MMNBELJE_00205	CDS	360	asnC		COG1522	Regulatory protein AsnC
+MMNBELJE_00206	CDS	1077	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+MMNBELJE_00207	CDS	174				hypothetical protein
+MMNBELJE_00208	CDS	510				hypothetical protein
+MMNBELJE_00209	CDS	327				hypothetical protein
+MMNBELJE_00210	CDS	639				hypothetical protein
+MMNBELJE_00211	CDS	867				hypothetical protein
+MMNBELJE_00212	CDS	663	rplA		COG0081	50S ribosomal protein L1
+MMNBELJE_00213	CDS	432	lrp_1		COG1522	Leucine-responsive regulatory protein
+MMNBELJE_00214	CDS	480	rplK		COG0080	50S ribosomal protein L11
+MMNBELJE_00215	CDS	459				hypothetical protein
+MMNBELJE_00216	CDS	174				hypothetical protein
+MMNBELJE_00217	CDS	777				hypothetical protein
+MMNBELJE_00218	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+MMNBELJE_00219	CDS	456				hypothetical protein
+MMNBELJE_00220	CDS	405				hypothetical protein
+MMNBELJE_00221	CDS	1605	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+MMNBELJE_00222	CDS	222				hypothetical protein
+MMNBELJE_00223	CDS	153				hypothetical protein
+MMNBELJE_00224	CDS	1365	purB	4.3.2.2		Adenylosuccinate lyase
+MMNBELJE_00225	CDS	756	asnB_1	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+MMNBELJE_00226	CDS	375				hypothetical protein
+MMNBELJE_00227	CDS	912	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+MMNBELJE_00228	CDS	3525	smc_1			Chromosome partition protein Smc
+MMNBELJE_00229	CDS	738				hypothetical protein
+MMNBELJE_00230	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+MMNBELJE_00231	CDS	717				hypothetical protein
+MMNBELJE_00232	CDS	621				hypothetical protein
+MMNBELJE_00233	CDS	237				hypothetical protein
+MMNBELJE_00234	CDS	234				hypothetical protein
+MMNBELJE_00235	CDS	201				hypothetical protein
+MMNBELJE_00236	CDS	1593	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+MMNBELJE_00237	CDS	1587		2.3.1.-		tRNA uridine(34) acetyltransferase
+MMNBELJE_00238	CDS	864	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+MMNBELJE_00239	CDS	900				hypothetical protein
+MMNBELJE_00240	CDS	252				hypothetical protein
+MMNBELJE_00241	CDS	171				hypothetical protein
+MMNBELJE_00242	CDS	162				hypothetical protein
+MMNBELJE_00243	tRNA	87				tRNA-Ser(gct)
+MMNBELJE_00244	CDS	1032	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+MMNBELJE_00245	CDS	351				hypothetical protein
+MMNBELJE_00246	CDS	216	egtD	2.1.1.44		Histidine N-alpha-methyltransferase
+MMNBELJE_00247	CDS	1311	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+MMNBELJE_00248	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+MMNBELJE_00249	CDS	291				hypothetical protein
+MMNBELJE_00250	CDS	243				hypothetical protein
+MMNBELJE_00251	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+MMNBELJE_00252	CDS	633				hypothetical protein
+MMNBELJE_00253	CDS	390	metH	2.1.1.13	COG0646	Methionine synthase
+MMNBELJE_00254	CDS	732				hypothetical protein
+MMNBELJE_00255	CDS	552	nudL	3.6.1.-		putative Nudix hydrolase NudL
+MMNBELJE_00256	CDS	423				hypothetical protein
+MMNBELJE_00257	CDS	135				hypothetical protein
+MMNBELJE_00258	CDS	228				hypothetical protein
+MMNBELJE_00259	CDS	588				hypothetical protein
+MMNBELJE_00260	CDS	204				hypothetical protein
+MMNBELJE_00261	CDS	225				hypothetical protein
+MMNBELJE_00262	CDS	510				hypothetical protein
+MMNBELJE_00263	CDS	711				hypothetical protein
+MMNBELJE_00264	CDS	186				hypothetical protein
+MMNBELJE_00265	CDS	405				hypothetical protein
+MMNBELJE_00266	CDS	561				hypothetical protein
+MMNBELJE_00267	CDS	1353	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MMNBELJE_00268	CDS	1014				hypothetical protein
+MMNBELJE_00269	CDS	444				hypothetical protein
+MMNBELJE_00270	CDS	873				hypothetical protein
+MMNBELJE_00271	CDS	618				hypothetical protein
+MMNBELJE_00272	CDS	207				hypothetical protein
+MMNBELJE_00273	CDS	267				hypothetical protein
+MMNBELJE_00274	CDS	2169	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MMNBELJE_00275	CDS	297				hypothetical protein
+MMNBELJE_00276	CDS	888	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+MMNBELJE_00277	CDS	1068	petE_1			Plastocyanin
+MMNBELJE_00278	CDS	393				hypothetical protein
+MMNBELJE_00279	CDS	258				hypothetical protein
+MMNBELJE_00280	CDS	177				hypothetical protein
+MMNBELJE_00281	CDS	444	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+MMNBELJE_00282	CDS	798	csd	2.8.1.7		putative cysteine desulfurase
+MMNBELJE_00283	CDS	726	prcA_1			Proteasome subunit alpha
+MMNBELJE_00284	CDS	1275	rocG	1.4.1.2	COG0334	Catabolic NAD-specific glutamate dehydrogenase RocG
+MMNBELJE_00285	CDS	684				hypothetical protein
+MMNBELJE_00286	CDS	201				hypothetical protein
+MMNBELJE_00287	CDS	1329	magA		COG0475	Iron transporter MagA
+MMNBELJE_00288	CDS	429				hypothetical protein
+MMNBELJE_00289	tRNA	77				tRNA-Gly(gcc)
+MMNBELJE_00290	CDS	264				hypothetical protein
+MMNBELJE_00291	CDS	594				hypothetical protein
+MMNBELJE_00292	CDS	564				hypothetical protein
+MMNBELJE_00293	CDS	657				hypothetical protein
+MMNBELJE_00294	CDS	381				hypothetical protein
+MMNBELJE_00295	CDS	846				hypothetical protein
+MMNBELJE_00296	CDS	480				hypothetical protein
+MMNBELJE_00297	CDS	282	tatC			Sec-independent protein translocase protein TatC
+MMNBELJE_00298	CDS	207	tatA			Sec-independent protein translocase protein TatA
+MMNBELJE_00299	CDS	474				hypothetical protein
+MMNBELJE_00300	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+MMNBELJE_00301	CDS	369				hypothetical protein
+MMNBELJE_00302	CDS	1122	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MMNBELJE_00303	CDS	1290				hypothetical protein
+MMNBELJE_00304	CDS	234				hypothetical protein
+MMNBELJE_00305	CDS	1143	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+MMNBELJE_00306	CDS	375				hypothetical protein
+MMNBELJE_00307	CDS	147				hypothetical protein
+MMNBELJE_00308	CDS	243				hypothetical protein
+MMNBELJE_00309	CDS	669	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+MMNBELJE_00310	CDS	144				hypothetical protein
+MMNBELJE_00311	CDS	966		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+MMNBELJE_00312	CDS	1110				hypothetical protein
+MMNBELJE_00313	CDS	1131				hypothetical protein
+MMNBELJE_00314	CDS	807	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+MMNBELJE_00315	CDS	1434	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+MMNBELJE_00316	CDS	144				hypothetical protein
+MMNBELJE_00317	CDS	234				hypothetical protein
+MMNBELJE_00318	CDS	153				hypothetical protein
+MMNBELJE_00319	CDS	153				hypothetical protein
+MMNBELJE_00320	CDS	1041	adhT_1	1.1.1.1		Alcohol dehydrogenase
+MMNBELJE_00321	CDS	234				hypothetical protein
+MMNBELJE_00322	CDS	2028				hypothetical protein
+MMNBELJE_00323	CDS	159				hypothetical protein
+MMNBELJE_00324	CDS	996				hypothetical protein
+MMNBELJE_00325	CDS	813				hypothetical protein
+MMNBELJE_00326	CDS	738	prcA_2			Proteasome subunit alpha
+MMNBELJE_00327	CDS	417				hypothetical protein
+MMNBELJE_00328	CDS	630				hypothetical protein
+MMNBELJE_00329	CDS	2658	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+MMNBELJE_00330	CDS	114				hypothetical protein
+MMNBELJE_00331	CDS	342				hypothetical protein
+MMNBELJE_00332	CDS	651				hypothetical protein
+MMNBELJE_00333	CDS	1104	dipZ		COG0785	Protein DipZ
+MMNBELJE_00334	CDS	726				hypothetical protein
+MMNBELJE_00335	CDS	132				hypothetical protein
+MMNBELJE_00336	CDS	693		2.3.1.-		Putative pyridoxal phosphate-dependent acyltransferase
+MMNBELJE_00337	CDS	183				hypothetical protein
+MMNBELJE_00338	CDS	132				hypothetical protein
+MMNBELJE_00339	CDS	1125	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+MMNBELJE_00340	CDS	483				hypothetical protein
+MMNBELJE_00341	CDS	456				hypothetical protein
+MMNBELJE_00342	CDS	522				hypothetical protein
+MMNBELJE_00343	CDS	180				hypothetical protein
+MMNBELJE_00344	CDS	393	rpsH			30S ribosomal protein S8
+MMNBELJE_00345	CDS	558				hypothetical protein
+MMNBELJE_00346	CDS	291				hypothetical protein
+MMNBELJE_00347	tRNA	75				tRNA-Asn(gtt)
+MMNBELJE_00348	CDS	249				hypothetical protein
+MMNBELJE_00349	CDS	228				hypothetical protein
+MMNBELJE_00350	CDS	588				hypothetical protein
+MMNBELJE_00351	CDS	486				hypothetical protein
+MMNBELJE_00352	CDS	399				hypothetical protein
+MMNBELJE_00353	CDS	408				hypothetical protein
+MMNBELJE_00354	CDS	504				hypothetical protein
+MMNBELJE_00355	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MMNBELJE_00356	CDS	387				hypothetical protein
+MMNBELJE_00357	CDS	279				hypothetical protein
+MMNBELJE_00358	CDS	1194	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+MMNBELJE_00359	CDS	207				hypothetical protein
+MMNBELJE_00360	CDS	900	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+MMNBELJE_00361	CDS	1101				hypothetical protein
+MMNBELJE_00362	CDS	945	asnB_2	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+MMNBELJE_00363	CDS	417				hypothetical protein
+MMNBELJE_00364	CDS	297				hypothetical protein
+MMNBELJE_00365	CDS	525				hypothetical protein
+MMNBELJE_00366	CDS	276				hypothetical protein
+MMNBELJE_00367	CDS	288				hypothetical protein
+MMNBELJE_00368	CDS	213				hypothetical protein
+MMNBELJE_00369	CDS	177				hypothetical protein
+MMNBELJE_00370	CDS	1305	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+MMNBELJE_00371	CDS	708	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+MMNBELJE_00372	CDS	438				hypothetical protein
+MMNBELJE_00373	CDS	840	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+MMNBELJE_00374	CDS	165				hypothetical protein
+MMNBELJE_00375	CDS	843	fpr	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+MMNBELJE_00376	CDS	855	cysQ_1	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+MMNBELJE_00377	CDS	1122				hypothetical protein
+MMNBELJE_00378	CDS	1158				hypothetical protein
+MMNBELJE_00379	CDS	1545	rhlB	3.6.4.13		ATP-dependent RNA helicase RhlB
+MMNBELJE_00380	CDS	840	nfo	3.1.21.2	COG0648	Endonuclease 4
+MMNBELJE_00381	CDS	1662				hypothetical protein
+MMNBELJE_00382	CDS	186				hypothetical protein
+MMNBELJE_00383	CDS	219				hypothetical protein
+MMNBELJE_00384	CDS	282				hypothetical protein
+MMNBELJE_00385	CDS	216				hypothetical protein
+MMNBELJE_00386	CDS	648				hypothetical protein
+MMNBELJE_00387	CDS	486				hypothetical protein
+MMNBELJE_00388	CDS	189				hypothetical protein
+MMNBELJE_00389	CDS	192				hypothetical protein
+MMNBELJE_00390	CDS	300				hypothetical protein
+MMNBELJE_00391	CDS	249				hypothetical protein
+MMNBELJE_00392	CDS	213				hypothetical protein
+MMNBELJE_00393	CDS	426				hypothetical protein
+MMNBELJE_00394	CDS	1815				hypothetical protein
+MMNBELJE_00395	CDS	825				hypothetical protein
+MMNBELJE_00396	CDS	255				hypothetical protein
+MMNBELJE_00397	CDS	255				hypothetical protein
+MMNBELJE_00398	CDS	576				hypothetical protein
+MMNBELJE_00399	CDS	276				hypothetical protein
+MMNBELJE_00400	CDS	228	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+MMNBELJE_00401	CDS	195				hypothetical protein
+MMNBELJE_00402	CDS	354				hypothetical protein
+MMNBELJE_00403	CDS	1191	triA	3.5.4.45		Melamine deaminase
+MMNBELJE_00404	CDS	657	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+MMNBELJE_00405	CDS	885	carB_2	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+MMNBELJE_00406	CDS	639	pyrF_2	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+MMNBELJE_00407	CDS	678	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+MMNBELJE_00408	CDS	357				hypothetical protein
+MMNBELJE_00409	CDS	435	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+MMNBELJE_00410	CDS	384				hypothetical protein
+MMNBELJE_00411	CDS	396				hypothetical protein
+MMNBELJE_00412	CDS	384	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MMNBELJE_00413	CDS	711				hypothetical protein
+MMNBELJE_00414	CDS	480				hypothetical protein
+MMNBELJE_00415	CDS	816				hypothetical protein
+MMNBELJE_00416	CDS	279	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+MMNBELJE_00417	CDS	345	pipB2		COG1357	Secreted effector protein PipB2
+MMNBELJE_00418	CDS	825				hypothetical protein
+MMNBELJE_00419	CDS	408	hit		COG0537	Protein hit
+MMNBELJE_00420	CDS	312				hypothetical protein
+MMNBELJE_00421	CDS	564				hypothetical protein
+MMNBELJE_00422	CDS	1050	adhT_2	1.1.1.1		Alcohol dehydrogenase
+MMNBELJE_00423	CDS	681				hypothetical protein
+MMNBELJE_00424	CDS	579	scpB			Segregation and condensation protein B
+MMNBELJE_00425	CDS	384				hypothetical protein
+MMNBELJE_00426	CDS	300				hypothetical protein
+MMNBELJE_00427	CDS	249				hypothetical protein
+MMNBELJE_00428	CDS	957				hypothetical protein
+MMNBELJE_00429	CDS	771	sufC		COG0396	Vegetative protein 296
+MMNBELJE_00430	CDS	675			COG3253	putative protein/MSMEI_2713
+MMNBELJE_00431	CDS	999	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+MMNBELJE_00432	CDS	339				hypothetical protein
+MMNBELJE_00433	CDS	1023				hypothetical protein
+MMNBELJE_00434	CDS	309				hypothetical protein
+MMNBELJE_00435	CDS	939	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+MMNBELJE_00436	CDS	762				hypothetical protein
+MMNBELJE_00437	CDS	738				hypothetical protein
+MMNBELJE_00438	tRNA	74				tRNA-Gln(ttg)
+MMNBELJE_00439	CDS	279				hypothetical protein
+MMNBELJE_00440	CDS	309	bphA3			Biphenyl dioxygenase ferredoxin subunit
+MMNBELJE_00441	CDS	780				hypothetical protein
+MMNBELJE_00442	CDS	870	yisK		COG0179	putative protein YisK
+MMNBELJE_00443	CDS	1710	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+MMNBELJE_00444	CDS	981				hypothetical protein
+MMNBELJE_00445	CDS	651	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+MMNBELJE_00446	CDS	753	argB	2.7.2.8		Acetylglutamate kinase
+MMNBELJE_00447	CDS	942	thrB_1	2.7.1.39		Homoserine kinase
+MMNBELJE_00448	CDS	624				hypothetical protein
+MMNBELJE_00449	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+MMNBELJE_00450	CDS	237				hypothetical protein
+MMNBELJE_00451	tRNA	86				tRNA-Leu(gag)
+MMNBELJE_00452	CDS	615				hypothetical protein
+MMNBELJE_00453	CDS	648	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+MMNBELJE_00454	CDS	1497				hypothetical protein
+MMNBELJE_00455	CDS	375				hypothetical protein
+MMNBELJE_00456	CDS	279				hypothetical protein
+MMNBELJE_00457	CDS	1311	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+MMNBELJE_00458	CDS	507				hypothetical protein
+MMNBELJE_00459	CDS	444				hypothetical protein
+MMNBELJE_00460	CDS	1008	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+MMNBELJE_00461	CDS	513				hypothetical protein
+MMNBELJE_00462	CDS	909	auaH	1.1.1.394		Aurachin B dehydrogenase
+MMNBELJE_00463	CDS	390				hypothetical protein
+MMNBELJE_00464	CDS	972	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+MMNBELJE_00465	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+MMNBELJE_00466	CDS	459				hypothetical protein
+MMNBELJE_00467	CDS	876	speB	3.5.3.11	COG0010	Agmatinase
+MMNBELJE_00468	CDS	1869				hypothetical protein
+MMNBELJE_00469	CDS	603	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+MMNBELJE_00470	CDS	792				hypothetical protein
+MMNBELJE_00471	CDS	1533				hypothetical protein
+MMNBELJE_00472	CDS	120				hypothetical protein
+MMNBELJE_00473	CDS	873	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+MMNBELJE_00474	CDS	210				hypothetical protein
+MMNBELJE_00475	CDS	1209	thi4	2.4.2.59		Thiamine thiazole synthase
+MMNBELJE_00476	CDS	237				hypothetical protein
+MMNBELJE_00477	CDS	630	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+MMNBELJE_00478	CDS	1305	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+MMNBELJE_00479	CDS	855	thrB_2	2.7.1.39		Homoserine kinase
+MMNBELJE_00480	CDS	819	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+MMNBELJE_00481	CDS	678	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+MMNBELJE_00482	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+MMNBELJE_00483	CDS	783	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+MMNBELJE_00484	CDS	1281	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+MMNBELJE_00485	CDS	687				hypothetical protein
+MMNBELJE_00486	CDS	123				hypothetical protein
+MMNBELJE_00487	CDS	240				hypothetical protein
+MMNBELJE_00488	CDS	375				hypothetical protein
+MMNBELJE_00489	CDS	687				hypothetical protein
+MMNBELJE_00490	CDS	489				hypothetical protein
+MMNBELJE_00491	CDS	1332	edcC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+MMNBELJE_00492	CDS	342				hypothetical protein
+MMNBELJE_00493	CDS	396				hypothetical protein
+MMNBELJE_00494	CDS	225				hypothetical protein
+MMNBELJE_00495	CDS	225				hypothetical protein
+MMNBELJE_00496	CDS	537				hypothetical protein
+MMNBELJE_00497	CDS	537	cobO_1	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+MMNBELJE_00498	CDS	270	spxA			Regulatory protein Spx
+MMNBELJE_00499	CDS	249				hypothetical protein
+MMNBELJE_00500	CDS	1053	dppB		COG0601	Dipeptide transport system permease protein DppB
+MMNBELJE_00501	CDS	303				hypothetical protein
+MMNBELJE_00502	CDS	429				hypothetical protein
+MMNBELJE_00503	CDS	405				hypothetical protein
+MMNBELJE_00504	CDS	1059	dnaJ_2		COG0484	Chaperone protein DnaJ
+MMNBELJE_00505	CDS	618				hypothetical protein
+MMNBELJE_00506	CDS	228				hypothetical protein
+MMNBELJE_00507	CDS	234				hypothetical protein
+MMNBELJE_00508	CDS	753	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+MMNBELJE_00509	CDS	1053	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+MMNBELJE_00510	CDS	1098	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+MMNBELJE_00511	CDS	870				hypothetical protein
+MMNBELJE_00512	CDS	465	metK	2.5.1.6		S-adenosylmethionine synthase
+MMNBELJE_00513	CDS	1299	glmM	5.4.2.10		Phosphoglucosamine mutase
+MMNBELJE_00514	tRNA	74				tRNA-Thr(cgt)
+MMNBELJE_00515	CDS	141				hypothetical protein
+MMNBELJE_00516	CDS	183				hypothetical protein
+MMNBELJE_00517	CDS	219				hypothetical protein
+MMNBELJE_00518	CDS	282				hypothetical protein
+MMNBELJE_00519	CDS	585				hypothetical protein
+MMNBELJE_00520	CDS	168				hypothetical protein
+MMNBELJE_00521	CDS	1098				hypothetical protein
+MMNBELJE_00522	CDS	447				hypothetical protein
+MMNBELJE_00523	CDS	363				hypothetical protein
+MMNBELJE_00524	CDS	2826	uvrA			UvrABC system protein A
+MMNBELJE_00525	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+MMNBELJE_00526	CDS	1143		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+MMNBELJE_00527	CDS	732				hypothetical protein
+MMNBELJE_00528	CDS	1044	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+MMNBELJE_00529	CDS	633	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+MMNBELJE_00530	CDS	1941	rnj	3.1.-.-		Ribonuclease J
+MMNBELJE_00531	CDS	279				hypothetical protein
+MMNBELJE_00532	CDS	1011	thiI	2.8.1.4		tRNA sulfurtransferase
+MMNBELJE_00533	CDS	1065	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+MMNBELJE_00534	CDS	495				hypothetical protein
+MMNBELJE_00535	CDS	177				hypothetical protein
+MMNBELJE_00536	CDS	846	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+MMNBELJE_00537	CDS	1242	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+MMNBELJE_00538	CDS	816	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+MMNBELJE_00539	CDS	741				hypothetical protein
+MMNBELJE_00540	CDS	912	thrB_3	2.7.1.39		Homoserine kinase
+MMNBELJE_00541	CDS	123				hypothetical protein
+MMNBELJE_00542	CDS	159				hypothetical protein
+MMNBELJE_00543	CDS	228				hypothetical protein
+MMNBELJE_00544	CDS	171				hypothetical protein
+MMNBELJE_00545	CDS	1260	fbiC_1		COG1060	FO synthase
+MMNBELJE_00546	CDS	1170	fbiC_2		COG1060	FO synthase
+MMNBELJE_00547	CDS	201				hypothetical protein
+MMNBELJE_00548	CDS	252				hypothetical protein
+MMNBELJE_00549	CDS	480				hypothetical protein
+MMNBELJE_00550	CDS	228				hypothetical protein
+MMNBELJE_00551	CDS	330				hypothetical protein
+MMNBELJE_00552	CDS	477	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+MMNBELJE_00553	CDS	1113				hypothetical protein
+MMNBELJE_00554	CDS	1389				hypothetical protein
+MMNBELJE_00555	CDS	1644				hypothetical protein
+MMNBELJE_00556	CDS	261				hypothetical protein
+MMNBELJE_00557	CDS	498				hypothetical protein
+MMNBELJE_00558	CDS	240				hypothetical protein
+MMNBELJE_00559	CDS	567				hypothetical protein
+MMNBELJE_00560	CDS	633				hypothetical protein
+MMNBELJE_00561	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+MMNBELJE_00562	CDS	612				hypothetical protein
+MMNBELJE_00563	CDS	414				hypothetical protein
+MMNBELJE_00564	CDS	690				hypothetical protein
+MMNBELJE_00565	CDS	1326	ffh		COG0541	Signal recognition particle protein
+MMNBELJE_00566	CDS	1155				hypothetical protein
+MMNBELJE_00567	CDS	438				hypothetical protein
+MMNBELJE_00568	CDS	465	nusA			Transcription termination/antitermination protein NusA
+MMNBELJE_00569	CDS	324				hypothetical protein
+MMNBELJE_00570	CDS	1179				hypothetical protein
+MMNBELJE_00571	CDS	270				hypothetical protein
+MMNBELJE_00572	CDS	423				hypothetical protein
+MMNBELJE_00573	CDS	342				hypothetical protein
+MMNBELJE_00574	CDS	324				hypothetical protein
+MMNBELJE_00575	CDS	669	oppC		COG1173	Oligopeptide transport system permease protein OppC
+MMNBELJE_00576	CDS	345				hypothetical protein
+MMNBELJE_00577	CDS	567				hypothetical protein
+MMNBELJE_00578	CDS	1524	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+MMNBELJE_00579	CDS	363				hypothetical protein
+MMNBELJE_00580	CDS	261				hypothetical protein
+MMNBELJE_00581	CDS	870	mak	2.7.1.4	COG1940	Fructokinase
+MMNBELJE_00582	CDS	1137	groL			60 kDa chaperonin
+MMNBELJE_00583	CDS	147				hypothetical protein
+MMNBELJE_00584	CDS	2193	fusA		COG0480	Elongation factor G
+MMNBELJE_00585	CDS	252				hypothetical protein
+MMNBELJE_00586	CDS	393	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+MMNBELJE_00587	CDS	1602	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+MMNBELJE_00588	CDS	918		3.6.-.-	COG1703	putative GTPase
+MMNBELJE_00589	CDS	408				hypothetical protein
+MMNBELJE_00590	CDS	612				hypothetical protein
+MMNBELJE_00591	CDS	912				hypothetical protein
+MMNBELJE_00592	CDS	150				hypothetical protein
+MMNBELJE_00593	CDS	528				hypothetical protein
+MMNBELJE_00594	CDS	1080				hypothetical protein
+MMNBELJE_00595	CDS	1725				hypothetical protein
+MMNBELJE_00596	CDS	474				hypothetical protein
+MMNBELJE_00597	CDS	606	drgA			Protein DrgA
+MMNBELJE_00598	CDS	237				hypothetical protein
+MMNBELJE_00599	CDS	855				hypothetical protein
+MMNBELJE_00600	CDS	582				hypothetical protein
+MMNBELJE_00601	CDS	564				hypothetical protein
+MMNBELJE_00602	CDS	489				hypothetical protein
+MMNBELJE_00603	CDS	996				hypothetical protein
+MMNBELJE_00604	CDS	462				hypothetical protein
+MMNBELJE_00605	CDS	351				hypothetical protein
+MMNBELJE_00606	tRNA	76				tRNA-Arg(tct)
+MMNBELJE_00607	CDS	558				hypothetical protein
+MMNBELJE_00608	CDS	186				hypothetical protein
+MMNBELJE_00609	CDS	1515	leuA	2.3.3.13		2-isopropylmalate synthase
+MMNBELJE_00610	CDS	816	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+MMNBELJE_00611	CDS	402				hypothetical protein
+MMNBELJE_00612	CDS	957	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+MMNBELJE_00613	CDS	540	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+MMNBELJE_00614	CDS	1383				hypothetical protein
+MMNBELJE_00615	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+MMNBELJE_00616	CDS	633	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+MMNBELJE_00617	CDS	393				hypothetical protein
+MMNBELJE_00618	CDS	411				hypothetical protein
+MMNBELJE_00619	CDS	513				hypothetical protein
+MMNBELJE_00620	CDS	321				hypothetical protein
+MMNBELJE_00621	CDS	744				hypothetical protein
+MMNBELJE_00622	CDS	99				hypothetical protein
+MMNBELJE_00623	CDS	213				hypothetical protein
+MMNBELJE_00624	CDS	765	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+MMNBELJE_00625	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+MMNBELJE_00626	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+MMNBELJE_00627	CDS	483				hypothetical protein
+MMNBELJE_00628	CDS	813				hypothetical protein
+MMNBELJE_00629	CDS	1236				hypothetical protein
+MMNBELJE_00630	CDS	420				hypothetical protein
+MMNBELJE_00631	CDS	399				hypothetical protein
+MMNBELJE_00632	CDS	801		1.-.-.-		putative oxidoreductase
+MMNBELJE_00633	CDS	1017				hypothetical protein
+MMNBELJE_00634	CDS	225				hypothetical protein
+MMNBELJE_00635	CDS	852	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+MMNBELJE_00636	CDS	759	cmoA	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+MMNBELJE_00637	CDS	492				hypothetical protein
+MMNBELJE_00638	CDS	303	bphF		COG2146	Biphenyl dioxygenase system ferredoxin subunit
+MMNBELJE_00639	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+MMNBELJE_00640	CDS	522				hypothetical protein
+MMNBELJE_00641	CDS	393	ctaA	1.3.-.-		Heme A synthase
+MMNBELJE_00642	CDS	957	petE_2			Plastocyanin
+MMNBELJE_00643	CDS	219	ctaD	1.9.3.1	COG0843	putative cytochrome c oxidase subunit 1
+MMNBELJE_00644	CDS	180				hypothetical protein
+MMNBELJE_00645	CDS	765	yfcA		COG0730	putative membrane transporter protein YfcA
+MMNBELJE_00646	CDS	630				hypothetical protein
+MMNBELJE_00647	CDS	495				hypothetical protein
+MMNBELJE_00648	CDS	351				hypothetical protein
+MMNBELJE_00649	CDS	399				hypothetical protein
+MMNBELJE_00650	CDS	1263	selB		COG3276	Selenocysteine-specific elongation factor
+MMNBELJE_00651	CDS	369				hypothetical protein
+MMNBELJE_00652	CDS	429				hypothetical protein
+MMNBELJE_00653	CDS	156				hypothetical protein
+MMNBELJE_00654	CDS	771				hypothetical protein
+MMNBELJE_00655	CDS	534	cobO_2	2.5.1.17		Corrinoid adenosyltransferase
+MMNBELJE_00656	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+MMNBELJE_00657	CDS	1515	phrB	4.1.99.13	COG3046	(6-4) photolyase
+MMNBELJE_00658	CDS	330	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+MMNBELJE_00659	CDS	558				hypothetical protein
+MMNBELJE_00660	CDS	339				hypothetical protein
+MMNBELJE_00661	CDS	414	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+MMNBELJE_00662	CDS	705	aqpZ		COG0580	Aquaporin Z
+MMNBELJE_00663	CDS	1278	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+MMNBELJE_00664	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+MMNBELJE_00665	CDS	741	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+MMNBELJE_00666	CDS	798				hypothetical protein
+MMNBELJE_00667	CDS	576	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+MMNBELJE_00668	CDS	1401				hypothetical protein
+MMNBELJE_00669	CDS	1410				hypothetical protein
+MMNBELJE_00670	CDS	1071	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MMNBELJE_00671	CDS	438				hypothetical protein
+MMNBELJE_00672	CDS	234				hypothetical protein
+MMNBELJE_00673	CDS	273				hypothetical protein
+MMNBELJE_00674	CDS	246				hypothetical protein
+MMNBELJE_00675	CDS	207				hypothetical protein
+MMNBELJE_00676	CDS	438				hypothetical protein
+MMNBELJE_00677	CDS	1044				hypothetical protein
+MMNBELJE_00678	CDS	411				hypothetical protein
+MMNBELJE_00679	CDS	195				hypothetical protein
+MMNBELJE_00680	CDS	309	rpsJ			30S ribosomal protein S10
+MMNBELJE_00681	CDS	1401	cysN	2.7.7.4	COG2895	Sulfate adenylyltransferase subunit 1
+MMNBELJE_00682	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+MMNBELJE_00683	CDS	411				hypothetical protein
+MMNBELJE_00684	CDS	1767	lig	6.5.1.1		DNA ligase
+MMNBELJE_00685	CDS	654				hypothetical protein
+MMNBELJE_00686	CDS	537				hypothetical protein
+MMNBELJE_00687	CDS	378				hypothetical protein
+MMNBELJE_00688	CDS	237				hypothetical protein
+MMNBELJE_00689	CDS	1767				hypothetical protein
+MMNBELJE_00690	CDS	453				hypothetical protein
+MMNBELJE_00691	CDS	264				hypothetical protein
+MMNBELJE_00692	CDS	537				hypothetical protein
+MMNBELJE_00693	CDS	1149	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+MMNBELJE_00694	CDS	273				hypothetical protein
+MMNBELJE_00695	CDS	276	ppiC	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+MMNBELJE_00696	CDS	315				hypothetical protein
+MMNBELJE_00697	CDS	657	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+MMNBELJE_00698	CDS	1140		3.5.2.-		D-hydantoinase
+MMNBELJE_00699	CDS	1908				hypothetical protein
+MMNBELJE_00700	CDS	963				hypothetical protein
+MMNBELJE_00701	CDS	192				hypothetical protein
+MMNBELJE_00702	CDS	1032				hypothetical protein
+MMNBELJE_00703	CDS	495				hypothetical protein
+MMNBELJE_00704	CDS	651				hypothetical protein
+MMNBELJE_00705	CDS	534				hypothetical protein
+MMNBELJE_00706	CDS	690				hypothetical protein
+MMNBELJE_00707	CDS	846	dpnA	2.1.1.72		Modification methylase DpnIIB
+MMNBELJE_00708	CDS	345				hypothetical protein
+MMNBELJE_00709	CDS	498				hypothetical protein
+MMNBELJE_00710	CDS	369	rbfA			Ribosome-binding factor A
+MMNBELJE_00711	CDS	249	rpsO			30S ribosomal protein S15
+MMNBELJE_00712	CDS	195				hypothetical protein
+MMNBELJE_00713	CDS	225				hypothetical protein
+MMNBELJE_00714	CDS	396	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+MMNBELJE_00715	CDS	645	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+MMNBELJE_00716	CDS	726	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+MMNBELJE_00717	CDS	237	tusA		COG0425	Sulfur carrier protein TusA
+MMNBELJE_00718	CDS	531				hypothetical protein
+MMNBELJE_00719	CDS	234				hypothetical protein
+MMNBELJE_00720	CDS	999	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+MMNBELJE_00721	CDS	1281	gltP		COG1301	Proton/glutamate-aspartate symporter
+MMNBELJE_00722	CDS	456				hypothetical protein
+MMNBELJE_00723	CDS	723	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+MMNBELJE_00724	CDS	237				hypothetical protein
+MMNBELJE_00725	CDS	168				hypothetical protein
+MMNBELJE_00726	CDS	960				hypothetical protein
+MMNBELJE_00727	CDS	555				hypothetical protein
+MMNBELJE_00728	CDS	198				hypothetical protein
+MMNBELJE_00729	CDS	330	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+MMNBELJE_00730	CDS	216				hypothetical protein
+MMNBELJE_00731	CDS	1923	uvrB			UvrABC system protein B
+MMNBELJE_00732	CDS	633				hypothetical protein
+MMNBELJE_00733	CDS	225				hypothetical protein
+MMNBELJE_00734	CDS	420				hypothetical protein
+MMNBELJE_00735	CDS	228				hypothetical protein
+MMNBELJE_00736	CDS	1110		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+MMNBELJE_00737	CDS	945				hypothetical protein
+MMNBELJE_00738	CDS	222				hypothetical protein
+MMNBELJE_00739	CDS	243				hypothetical protein
+MMNBELJE_00740	CDS	231				hypothetical protein
+MMNBELJE_00741	CDS	426				hypothetical protein
+MMNBELJE_00742	CDS	225				hypothetical protein
+MMNBELJE_00743	CDS	687	aroC	4.2.3.5	COG0082	Chorismate synthase
+MMNBELJE_00744	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+MMNBELJE_00745	CDS	852				hypothetical protein
+MMNBELJE_00746	CDS	405				hypothetical protein
+MMNBELJE_00747	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+MMNBELJE_00748	CDS	912	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+MMNBELJE_00749	CDS	219				hypothetical protein
+MMNBELJE_00750	CDS	366				hypothetical protein
+MMNBELJE_00751	CDS	195				hypothetical protein
+MMNBELJE_00752	CDS	300				hypothetical protein
+MMNBELJE_00753	CDS	441	lrp_2		COG1522	Leucine-responsive regulatory protein
+MMNBELJE_00754	CDS	240				hypothetical protein
+MMNBELJE_00755	CDS	504				hypothetical protein
+MMNBELJE_00756	CDS	705				hypothetical protein
+MMNBELJE_00757	CDS	321				hypothetical protein
+MMNBELJE_00758	tRNA	89				tRNA-Gln(ctg)
+MMNBELJE_00759	CDS	600				hypothetical protein
+MMNBELJE_00760	CDS	99				hypothetical protein
+MMNBELJE_00761	CDS	1029	glyQS	6.1.1.14		Glycine--tRNA ligase
+MMNBELJE_00762	CDS	510				hypothetical protein
+MMNBELJE_00763	CDS	249				hypothetical protein
+MMNBELJE_00764	CDS	873				hypothetical protein
+MMNBELJE_00765	CDS	1092	dinB	2.7.7.7		DNA polymerase IV
+MMNBELJE_00766	CDS	345				hypothetical protein
+MMNBELJE_00767	CDS	519				hypothetical protein
+MMNBELJE_00768	CDS	396				hypothetical protein
+MMNBELJE_00769	CDS	201				hypothetical protein
+MMNBELJE_00770	CDS	885				hypothetical protein
+MMNBELJE_00771	tRNA	76				tRNA-Glu(ctc)
+MMNBELJE_00772	CDS	867	Dml	4.1.3.32		2,3-dimethylmalate lyase
+MMNBELJE_00773	CDS	288				hypothetical protein
+MMNBELJE_00774	CDS	537				hypothetical protein
+MMNBELJE_00775	tRNA	75				tRNA-Ala(ggc)
+MMNBELJE_00776	CDS	924	thrB_4	2.7.1.39	COG0083	Homoserine kinase
+MMNBELJE_00777	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+MMNBELJE_00778	CDS	246				hypothetical protein
+MMNBELJE_00779	CDS	558	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+MMNBELJE_00780	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+MMNBELJE_00781	CDS	195				hypothetical protein
+MMNBELJE_00782	CDS	831				hypothetical protein
+MMNBELJE_00783	CDS	273				hypothetical protein
+MMNBELJE_00784	CDS	228				hypothetical protein
+MMNBELJE_00785	CDS	342				hypothetical protein
+MMNBELJE_00786	CDS	171				hypothetical protein
+MMNBELJE_00787	CDS	249				hypothetical protein
+MMNBELJE_00788	CDS	240				hypothetical protein
+MMNBELJE_00789	CDS	771				hypothetical protein
+MMNBELJE_00790	CDS	621	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+MMNBELJE_00791	CDS	615				hypothetical protein
+MMNBELJE_00792	CDS	306				hypothetical protein
+MMNBELJE_00793	CDS	264				hypothetical protein
+MMNBELJE_00794	CDS	927				hypothetical protein
+MMNBELJE_00795	CDS	285				hypothetical protein
+MMNBELJE_00796	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+MMNBELJE_00797	CDS	750	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+MMNBELJE_00798	CDS	675	ccrA2	1.3.1.86	COG0604	Crotonyl-CoA reductase
+MMNBELJE_00799	CDS	600				hypothetical protein
+MMNBELJE_00800	CDS	651				hypothetical protein
+MMNBELJE_00801	CDS	171				hypothetical protein
+MMNBELJE_00802	CDS	705				hypothetical protein
+MMNBELJE_00803	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+MMNBELJE_00804	CDS	666	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase
+MMNBELJE_00805	CDS	378				hypothetical protein
+MMNBELJE_00806	CDS	381				hypothetical protein
+MMNBELJE_00807	CDS	171				hypothetical protein
+MMNBELJE_00808	CDS	603	tmk	2.7.4.9	COG0125	Thymidylate kinase
+MMNBELJE_00809	CDS	168				hypothetical protein
+MMNBELJE_00810	CDS	207				hypothetical protein
+MMNBELJE_00811	CDS	687				hypothetical protein
+MMNBELJE_00812	CDS	339				hypothetical protein
+MMNBELJE_00813	CDS	249				hypothetical protein
+MMNBELJE_00814	CDS	366				hypothetical protein
+MMNBELJE_00815	CDS	363				hypothetical protein
+MMNBELJE_00816	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+MMNBELJE_00817	CDS	837	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+MMNBELJE_00818	CDS	315				hypothetical protein
+MMNBELJE_00819	CDS	618				hypothetical protein
+MMNBELJE_00820	CDS	621	yedJ		COG1418	putative protein YedJ
+MMNBELJE_00821	CDS	312				hypothetical protein
+MMNBELJE_00822	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+MMNBELJE_00823	CDS	1272	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+MMNBELJE_00824	CDS	654	cysG		COG0007	Siroheme synthase
+MMNBELJE_00825	CDS	321				hypothetical protein
+MMNBELJE_00826	CDS	507	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+MMNBELJE_00827	CDS	147				hypothetical protein
+MMNBELJE_00828	CDS	177				hypothetical protein
+MMNBELJE_00829	CDS	135				hypothetical protein
+MMNBELJE_00830	CDS	723	mntB_2		COG1121	Manganese transport system ATP-binding protein MntB
+MMNBELJE_00831	CDS	261				hypothetical protein
+MMNBELJE_00832	CDS	408	nikR			Nickel-responsive regulator
+MMNBELJE_00833	CDS	1092		1.-.-.-	COG0492	Putative flavoprotein monooxygenase
+MMNBELJE_00834	CDS	174				hypothetical protein
+MMNBELJE_00835	CDS	975	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+MMNBELJE_00836	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+MMNBELJE_00837	CDS	261				hypothetical protein
+MMNBELJE_00838	CDS	783				hypothetical protein
+MMNBELJE_00839	CDS	1023	corA		COG0598	Cobalt/magnesium transport protein CorA
+MMNBELJE_00840	tRNA	73				tRNA-His(gtg)
+MMNBELJE_00841	CDS	348				hypothetical protein
+MMNBELJE_00842	CDS	270				hypothetical protein
+MMNBELJE_00843	CDS	192				hypothetical protein
+MMNBELJE_00844	CDS	2070	smc_2			Chromosome partition protein Smc
+MMNBELJE_00845	CDS	786				hypothetical protein
+MMNBELJE_00846	CDS	816	cysQ_2	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+MMNBELJE_00847	CDS	249				hypothetical protein
+MMNBELJE_00848	CDS	180				hypothetical protein
+MMNBELJE_00849	CDS	399	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+MMNBELJE_00850	CDS	558		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+MMNBELJE_00851	CDS	657				hypothetical protein
+MMNBELJE_00852	CDS	501				hypothetical protein
+MMNBELJE_00853	CDS	381				hypothetical protein
+MMNBELJE_00854	CDS	390				hypothetical protein
+MMNBELJE_00855	CDS	978				hypothetical protein
+MMNBELJE_00856	CDS	243	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+MMNBELJE_00857	CDS	1332				hypothetical protein
+MMNBELJE_00858	CDS	762				hypothetical protein
+MMNBELJE_00859	tRNA	74				tRNA-Pro(ggg)
+MMNBELJE_00860	CDS	216				hypothetical protein
+MMNBELJE_00861	CDS	1131	sqr	1.8.5.4	COG0446	Sulfide-quinone reductase
+MMNBELJE_00862	CDS	741		1.-.-.-		putative oxidoreductase
+MMNBELJE_00863	CDS	219				hypothetical protein
+MMNBELJE_00864	CDS	285				hypothetical protein
+MMNBELJE_00865	CDS	738				hypothetical protein
+MMNBELJE_00866	CDS	687	pyrH	2.7.4.22		Uridylate kinase
+MMNBELJE_00867	CDS	351				hypothetical protein
+MMNBELJE_00868	CDS	246				hypothetical protein
+MMNBELJE_00869	CDS	210				hypothetical protein
+MMNBELJE_00870	CDS	177				hypothetical protein
+MMNBELJE_00871	CDS	354				hypothetical protein
+MMNBELJE_00872	CDS	417				hypothetical protein
+MMNBELJE_00873	CDS	1548				hypothetical protein

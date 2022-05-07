@@ -1,0 +1,940 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CNEANGEI_00001	CDS	1161				hypothetical protein
+CNEANGEI_00002	CDS	909	arcC1	2.7.2.2		Carbamate kinase 1
+CNEANGEI_00003	CDS	1953	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+CNEANGEI_00004	CDS	1719				hypothetical protein
+CNEANGEI_00005	CDS	2079				hypothetical protein
+CNEANGEI_00006	CDS	984	hddA_1	2.7.1.168		D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+CNEANGEI_00007	CDS	933	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+CNEANGEI_00008	CDS	468	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+CNEANGEI_00009	CDS	345				hypothetical protein
+CNEANGEI_00010	CDS	1002	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+CNEANGEI_00011	CDS	279				hypothetical protein
+CNEANGEI_00012	CDS	1218				hypothetical protein
+CNEANGEI_00013	CDS	1254				hypothetical protein
+CNEANGEI_00014	CDS	1563				hypothetical protein
+CNEANGEI_00015	CDS	243				hypothetical protein
+CNEANGEI_00016	CDS	2226	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+CNEANGEI_00017	CDS	1656	aldHT	1.2.1.5		Aldehyde dehydrogenase, thermostable
+CNEANGEI_00018	tRNA	75				tRNA-Gly(ccc)
+CNEANGEI_00019	CDS	1083				hypothetical protein
+CNEANGEI_00020	CDS	1848	sdhA	1.3.5.1	COG1053	Succinate dehydrogenase flavoprotein subunit
+CNEANGEI_00021	CDS	765				hypothetical protein
+CNEANGEI_00022	CDS	264				hypothetical protein
+CNEANGEI_00023	CDS	234				hypothetical protein
+CNEANGEI_00024	CDS	642		3.2.1.-		Protein-ADP-ribose hydrolase
+CNEANGEI_00025	CDS	753				hypothetical protein
+CNEANGEI_00026	CDS	603				hypothetical protein
+CNEANGEI_00027	CDS	270				hypothetical protein
+CNEANGEI_00028	CDS	1515				hypothetical protein
+CNEANGEI_00029	CDS	807				hypothetical protein
+CNEANGEI_00030	CDS	918				hypothetical protein
+CNEANGEI_00031	CDS	3021	rhlB_1	3.6.4.13		ATP-dependent RNA helicase RhlB
+CNEANGEI_00032	CDS	636				hypothetical protein
+CNEANGEI_00033	CDS	438	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+CNEANGEI_00034	CDS	324				hypothetical protein
+CNEANGEI_00035	CDS	1206				hypothetical protein
+CNEANGEI_00036	CDS	1128				hypothetical protein
+CNEANGEI_00037	CDS	1281	serS	6.1.1.11		Serine--tRNA ligase
+CNEANGEI_00038	CDS	549				hypothetical protein
+CNEANGEI_00039	CDS	501				hypothetical protein
+CNEANGEI_00040	CDS	1542	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+CNEANGEI_00041	CDS	873		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+CNEANGEI_00042	CDS	1611	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+CNEANGEI_00043	CDS	1278				hypothetical protein
+CNEANGEI_00044	CDS	597				hypothetical protein
+CNEANGEI_00045	CDS	729				hypothetical protein
+CNEANGEI_00046	CDS	882				hypothetical protein
+CNEANGEI_00047	CDS	561				hypothetical protein
+CNEANGEI_00048	CDS	1674	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+CNEANGEI_00049	CDS	792	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+CNEANGEI_00050	CDS	423	lrp		COG1522	Leucine-responsive regulatory protein
+CNEANGEI_00051	CDS	837		2.1.1.-		Phthiotriol/phenolphthiotriol dimycocerosates methyltransferase
+CNEANGEI_00052	CDS	468				hypothetical protein
+CNEANGEI_00053	CDS	2298	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+CNEANGEI_00054	CDS	1167				hypothetical protein
+CNEANGEI_00055	CDS	459				hypothetical protein
+CNEANGEI_00056	CDS	642				hypothetical protein
+CNEANGEI_00057	CDS	210				hypothetical protein
+CNEANGEI_00058	CDS	522	mobA_1	2.7.7.77		Molybdenum cofactor guanylyltransferase
+CNEANGEI_00059	CDS	636	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+CNEANGEI_00060	CDS	513				hypothetical protein
+CNEANGEI_00061	CDS	504	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+CNEANGEI_00062	CDS	1620	rocA	1.2.1.88		1-pyrroline-5-carboxylate dehydrogenase
+CNEANGEI_00063	CDS	291				hypothetical protein
+CNEANGEI_00064	CDS	1347	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+CNEANGEI_00065	CDS	609	argO		COG1279	Arginine exporter protein ArgO
+CNEANGEI_00066	CDS	741	scdA		COG2846	Iron-sulfur cluster repair protein ScdA
+CNEANGEI_00067	CDS	324				hypothetical protein
+CNEANGEI_00068	CDS	855	iaaA	3.4.19.5	COG1446	Isoaspartyl peptidase
+CNEANGEI_00069	CDS	2031	lon	3.4.21.53		Lon protease
+CNEANGEI_00070	CDS	3174				hypothetical protein
+CNEANGEI_00071	CDS	123				hypothetical protein
+CNEANGEI_00072	CDS	837	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+CNEANGEI_00073	CDS	1083	gpr	1.1.1.-	COG0667	L-glyceraldehyde 3-phosphate reductase
+CNEANGEI_00074	CDS	1410	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+CNEANGEI_00075	CDS	462	petE			Plastocyanin
+CNEANGEI_00076	CDS	789	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+CNEANGEI_00077	CDS	1290				hypothetical protein
+CNEANGEI_00078	tRNA	77				tRNA-Arg(gcg)
+CNEANGEI_00079	CDS	351				hypothetical protein
+CNEANGEI_00080	CDS	1167				hypothetical protein
+CNEANGEI_00081	CDS	816	dinG	3.1.-.-		3'-5' exonuclease DinG
+CNEANGEI_00082	CDS	1335				hypothetical protein
+CNEANGEI_00083	CDS	810				hypothetical protein
+CNEANGEI_00084	CDS	2136	ligA	6.5.1.2	COG0272	DNA ligase
+CNEANGEI_00085	tRNA	78				tRNA-Pro(ggg)
+CNEANGEI_00086	CDS	435				hypothetical protein
+CNEANGEI_00087	CDS	489				hypothetical protein
+CNEANGEI_00088	CDS	366				hypothetical protein
+CNEANGEI_00089	CDS	7869				hypothetical protein
+CNEANGEI_00090	CDS	381	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+CNEANGEI_00091	CDS	435	rlmH	2.1.1.177		Ribosomal RNA large subunit methyltransferase H
+CNEANGEI_00092	CDS	330				hypothetical protein
+CNEANGEI_00093	CDS	753				hypothetical protein
+CNEANGEI_00094	CDS	618	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+CNEANGEI_00095	CDS	429				hypothetical protein
+CNEANGEI_00096	CDS	1011				hypothetical protein
+CNEANGEI_00097	CDS	459				hypothetical protein
+CNEANGEI_00098	CDS	3411				hypothetical protein
+CNEANGEI_00099	CDS	972				hypothetical protein
+CNEANGEI_00100	CDS	498				hypothetical protein
+CNEANGEI_00101	CDS	279				hypothetical protein
+CNEANGEI_00102	CDS	1056	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+CNEANGEI_00103	CDS	1803	dmdC	1.3.8.-	COG1960	3-methylmercaptopropionyl-CoA dehydrogenase
+CNEANGEI_00104	CDS	2421	fadN	1.1.1.35	COG1024	putative 3-hydroxyacyl-CoA dehydrogenase
+CNEANGEI_00105	CDS	1134	fadA	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+CNEANGEI_00106	CDS	129				hypothetical protein
+CNEANGEI_00107	CDS	798	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+CNEANGEI_00108	CDS	933	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+CNEANGEI_00109	CDS	867				hypothetical protein
+CNEANGEI_00110	CDS	1113	aroC	4.2.3.5	COG0082	Chorismate synthase
+CNEANGEI_00111	CDS	933				hypothetical protein
+CNEANGEI_00112	CDS	1317				hypothetical protein
+CNEANGEI_00113	CDS	1005				hypothetical protein
+CNEANGEI_00114	CDS	1590				hypothetical protein
+CNEANGEI_00115	CDS	939				hypothetical protein
+CNEANGEI_00116	CDS	981	hcrB	1.3.7.9		4-hydroxybenzoyl-CoA reductase subunit beta
+CNEANGEI_00117	CDS	2781	hcrA	1.3.7.9		4-hydroxybenzoyl-CoA reductase subunit alpha
+CNEANGEI_00118	CDS	570				hypothetical protein
+CNEANGEI_00119	CDS	648				hypothetical protein
+CNEANGEI_00120	CDS	1227				hypothetical protein
+CNEANGEI_00121	CDS	837				hypothetical protein
+CNEANGEI_00122	CDS	1269				hypothetical protein
+CNEANGEI_00123	CDS	558	mobA_2	2.7.7.77		Molybdenum cofactor guanylyltransferase
+CNEANGEI_00124	CDS	426				hypothetical protein
+CNEANGEI_00125	CDS	2697	mutS		COG0249	DNA mismatch repair protein MutS
+CNEANGEI_00126	CDS	1977	mutL			DNA mismatch repair protein MutL
+CNEANGEI_00127	CDS	1119	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+CNEANGEI_00128	CDS	846				hypothetical protein
+CNEANGEI_00129	tRNA	87				tRNA-Ser(gct)
+CNEANGEI_00130	CDS	2706	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+CNEANGEI_00131	CDS	1971	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+CNEANGEI_00132	CDS	810	aroD	4.2.1.10		3-dehydroquinate dehydratase
+CNEANGEI_00133	CDS	816				hypothetical protein
+CNEANGEI_00134	CDS	4050				hypothetical protein
+CNEANGEI_00135	CDS	1077				hypothetical protein
+CNEANGEI_00136	CDS	738				hypothetical protein
+CNEANGEI_00137	CDS	1341	tmk	2.7.4.9		Thymidylate kinase
+CNEANGEI_00138	CDS	798				hypothetical protein
+CNEANGEI_00139	CDS	756				hypothetical protein
+CNEANGEI_00140	CDS	1104				hypothetical protein
+CNEANGEI_00141	CDS	1410				hypothetical protein
+CNEANGEI_00142	CDS	771	sufC		COG0396	Vegetative protein 296
+CNEANGEI_00143	CDS	429				hypothetical protein
+CNEANGEI_00144	CDS	465	mntR			HTH-type transcriptional regulator MntR
+CNEANGEI_00145	CDS	651		3.6.1.9		dTTP/UTP pyrophosphatase
+CNEANGEI_00146	CDS	4836				hypothetical protein
+CNEANGEI_00147	CDS	1038				hypothetical protein
+CNEANGEI_00148	CDS	1404	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CNEANGEI_00149	CDS	711	ccmC		COG0755	Heme exporter protein C
+CNEANGEI_00150	CDS	141				hypothetical protein
+CNEANGEI_00151	CDS	1053				hypothetical protein
+CNEANGEI_00152	CDS	1041				hypothetical protein
+CNEANGEI_00153	CDS	585				hypothetical protein
+CNEANGEI_00154	CDS	1272				hypothetical protein
+CNEANGEI_00155	CDS	1134	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+CNEANGEI_00156	CDS	594				hypothetical protein
+CNEANGEI_00157	CDS	1323				hypothetical protein
+CNEANGEI_00158	CDS	1788				hypothetical protein
+CNEANGEI_00159	CDS	5082				hypothetical protein
+CNEANGEI_00160	CDS	261				hypothetical protein
+CNEANGEI_00161	CDS	864				hypothetical protein
+CNEANGEI_00162	CDS	1179				hypothetical protein
+CNEANGEI_00163	tRNA	76				tRNA-Asp(gtc)
+CNEANGEI_00164	CDS	585	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+CNEANGEI_00165	CDS	150				hypothetical protein
+CNEANGEI_00166	CDS	153				hypothetical protein
+CNEANGEI_00167	CDS	1140				hypothetical protein
+CNEANGEI_00168	tRNA	78				tRNA-Arg(cct)
+CNEANGEI_00169	CDS	270				hypothetical protein
+CNEANGEI_00170	CDS	765	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+CNEANGEI_00171	CDS	318				hypothetical protein
+CNEANGEI_00172	CDS	2019				hypothetical protein
+CNEANGEI_00173	CDS	306				hypothetical protein
+CNEANGEI_00174	CDS	564	atpE			V-type proton ATPase subunit E
+CNEANGEI_00175	CDS	1041	atpC			V-type ATP synthase subunit C
+CNEANGEI_00176	CDS	300	atpF			V-type ATP synthase subunit F
+CNEANGEI_00177	CDS	1740	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+CNEANGEI_00178	CDS	1380	atpB		COG1156	V-type ATP synthase beta chain
+CNEANGEI_00179	CDS	618	ntpD			V-type sodium ATPase subunit D
+CNEANGEI_00180	CDS	2451				hypothetical protein
+CNEANGEI_00181	CDS	954				hypothetical protein
+CNEANGEI_00182	CDS	1647	nadB_1	1.4.3.16	COG0029	L-aspartate oxidase
+CNEANGEI_00183	CDS	3972	smc_1		COG1196	Chromosome partition protein Smc
+CNEANGEI_00184	CDS	1011				hypothetical protein
+CNEANGEI_00185	CDS	633	scpB			Segregation and condensation protein B
+CNEANGEI_00186	CDS	1296	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+CNEANGEI_00187	CDS	273				hypothetical protein
+CNEANGEI_00188	CDS	2262				hypothetical protein
+CNEANGEI_00189	CDS	300				hypothetical protein
+CNEANGEI_00190	CDS	915	hsaD	3.7.1.17		4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase
+CNEANGEI_00191	CDS	390				hypothetical protein
+CNEANGEI_00192	CDS	1248	tuf_1			Elongation factor Tu
+CNEANGEI_00193	CDS	498				hypothetical protein
+CNEANGEI_00194	CDS	1176				hypothetical protein
+CNEANGEI_00195	CDS	1155				hypothetical protein
+CNEANGEI_00196	CDS	1053				hypothetical protein
+CNEANGEI_00197	CDS	579	apt_1	2.4.2.7		Adenine phosphoribosyltransferase
+CNEANGEI_00198	CDS	546				hypothetical protein
+CNEANGEI_00199	CDS	942				hypothetical protein
+CNEANGEI_00200	CDS	402				hypothetical protein
+CNEANGEI_00201	CDS	222				hypothetical protein
+CNEANGEI_00202	CDS	210				hypothetical protein
+CNEANGEI_00203	CDS	2619				hypothetical protein
+CNEANGEI_00204	CDS	276				hypothetical protein
+CNEANGEI_00205	CDS	255				hypothetical protein
+CNEANGEI_00206	CDS	1020	fda	4.1.2.13		Fructose-bisphosphate aldolase class 1
+CNEANGEI_00207	CDS	954		3.1.3.11		D-fructose 1,6-bisphosphatase class 2/sedoheptulose 1,7-bisphosphatase
+CNEANGEI_00208	CDS	462	moaC2	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase 2
+CNEANGEI_00209	CDS	261	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+CNEANGEI_00210	CDS	1356				hypothetical protein
+CNEANGEI_00211	CDS	423				hypothetical protein
+CNEANGEI_00212	CDS	1272				hypothetical protein
+CNEANGEI_00213	CDS	858	paaF_1	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+CNEANGEI_00214	CDS	432				hypothetical protein
+CNEANGEI_00215	CDS	459				hypothetical protein
+CNEANGEI_00216	CDS	1464				hypothetical protein
+CNEANGEI_00217	CDS	1431	nadB_2	1.4.3.16	COG0029	L-aspartate oxidase
+CNEANGEI_00218	CDS	420				hypothetical protein
+CNEANGEI_00219	CDS	1491				hypothetical protein
+CNEANGEI_00220	CDS	654				hypothetical protein
+CNEANGEI_00221	CDS	5097				hypothetical protein
+CNEANGEI_00222	CDS	738				hypothetical protein
+CNEANGEI_00223	CDS	717				hypothetical protein
+CNEANGEI_00224	CDS	1101	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+CNEANGEI_00225	CDS	2127	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+CNEANGEI_00226	CDS	657				hypothetical protein
+CNEANGEI_00227	CDS	2055	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+CNEANGEI_00228	CDS	927				hypothetical protein
+CNEANGEI_00229	CDS	1335				hypothetical protein
+CNEANGEI_00230	CDS	3651				hypothetical protein
+CNEANGEI_00231	CDS	171				hypothetical protein
+CNEANGEI_00232	CDS	393	yhfA		COG1765	Protein YhfA
+CNEANGEI_00233	CDS	1230	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+CNEANGEI_00234	CDS	1398	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+CNEANGEI_00235	CDS	1074				hypothetical protein
+CNEANGEI_00236	CDS	555	eamB		COG1280	Cysteine/O-acetylserine efflux protein
+CNEANGEI_00237	CDS	1203	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+CNEANGEI_00238	CDS	471	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+CNEANGEI_00239	CDS	318	cutA		COG1324	Divalent-cation tolerance protein CutA
+CNEANGEI_00240	CDS	1413				hypothetical protein
+CNEANGEI_00241	CDS	789	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+CNEANGEI_00242	CDS	165				hypothetical protein
+CNEANGEI_00243	CDS	1311				hypothetical protein
+CNEANGEI_00244	CDS	1029				hypothetical protein
+CNEANGEI_00245	CDS	1539				hypothetical protein
+CNEANGEI_00246	CDS	1494				hypothetical protein
+CNEANGEI_00247	CDS	645				hypothetical protein
+CNEANGEI_00248	CDS	744				hypothetical protein
+CNEANGEI_00249	tRNA	85				tRNA-Ser(gga)
+CNEANGEI_00250	CDS	1206	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+CNEANGEI_00251	CDS	792				hypothetical protein
+CNEANGEI_00252	CDS	198				hypothetical protein
+CNEANGEI_00253	CDS	315				hypothetical protein
+CNEANGEI_00254	CDS	543	apt_2	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+CNEANGEI_00255	CDS	1605				Nucleobase transporter PlAzg1
+CNEANGEI_00256	CDS	1308		3.1.-.-	COG1236	Ribonuclease
+CNEANGEI_00257	CDS	225	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+CNEANGEI_00258	CDS	645				hypothetical protein
+CNEANGEI_00259	CDS	813		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+CNEANGEI_00260	CDS	969				hypothetical protein
+CNEANGEI_00261	CDS	633				hypothetical protein
+CNEANGEI_00262	CDS	168				hypothetical protein
+CNEANGEI_00263	CDS	282				hypothetical protein
+CNEANGEI_00264	CDS	807				hypothetical protein
+CNEANGEI_00265	CDS	630				hypothetical protein
+CNEANGEI_00266	CDS	810	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+CNEANGEI_00267	CDS	894				hypothetical protein
+CNEANGEI_00268	CDS	861	cysD	2.7.7.4	COG0175	Sulfate adenylyltransferase subunit 2
+CNEANGEI_00269	CDS	1785	cysNC		COG0529	Bifunctional enzyme CysN/CysC
+CNEANGEI_00270	CDS	540	pfdA			Prefoldin subunit alpha
+CNEANGEI_00271	CDS	1308	ftsY			Signal recognition particle receptor FtsY
+CNEANGEI_00272	CDS	738				hypothetical protein
+CNEANGEI_00273	CDS	234				hypothetical protein
+CNEANGEI_00274	CDS	801	pyrF			Orotidine 5'-phosphate decarboxylase
+CNEANGEI_00275	CDS	351				hypothetical protein
+CNEANGEI_00276	CDS	3063	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurL
+CNEANGEI_00277	CDS	822	purQ	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurQ
+CNEANGEI_00278	CDS	1050				hypothetical protein
+CNEANGEI_00279	CDS	897				hypothetical protein
+CNEANGEI_00280	CDS	2190	mmpL3		COG2409	Trehalose monomycolate exporter MmpL3
+CNEANGEI_00281	CDS	1167	qacA		COG0477	Antiseptic resistance protein
+CNEANGEI_00282	CDS	408				hypothetical protein
+CNEANGEI_00283	CDS	783				hypothetical protein
+CNEANGEI_00284	CDS	216				hypothetical protein
+CNEANGEI_00285	CDS	186				hypothetical protein
+CNEANGEI_00286	CDS	1743	pyrG	6.3.4.2		CTP synthase
+CNEANGEI_00287	CDS	963				putative epimerase/dehydratase
+CNEANGEI_00288	CDS	1596	groL_1		COG0459	60 kDa chaperonin
+CNEANGEI_00289	CDS	591				hypothetical protein
+CNEANGEI_00290	CDS	1899	dnaK		COG0443	Chaperone protein DnaK
+CNEANGEI_00291	CDS	1506	pepA	3.4.11.10		cytosol aminopeptidase
+CNEANGEI_00292	CDS	1353				hypothetical protein
+CNEANGEI_00293	CDS	984		3.5.3.24	COG0010	N(1)-aminopropylagmatine ureohydrolase
+CNEANGEI_00294	CDS	426				hypothetical protein
+CNEANGEI_00295	CDS	3015				hypothetical protein
+CNEANGEI_00296	CDS	2370				hypothetical protein
+CNEANGEI_00297	tRNA	75				tRNA-Gly(gcc)
+CNEANGEI_00298	CDS	309	arsC	1.20.4.1		Glutaredoxin arsenate reductase
+CNEANGEI_00299	CDS	999	apbC		COG0489	Iron-sulfur cluster carrier protein
+CNEANGEI_00300	CDS	2148				hypothetical protein
+CNEANGEI_00301	CDS	1086	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+CNEANGEI_00302	CDS	639	kdkA	2.7.1.166		3-deoxy-D-manno-octulosonic acid kinase
+CNEANGEI_00303	CDS	621		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+CNEANGEI_00304	CDS	945				hypothetical protein
+CNEANGEI_00305	CDS	825	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+CNEANGEI_00306	CDS	279				hypothetical protein
+CNEANGEI_00307	CDS	870				hypothetical protein
+CNEANGEI_00308	CDS	957				hypothetical protein
+CNEANGEI_00309	CDS	816	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+CNEANGEI_00310	CDS	1653	potE			Putrescine transporter PotE
+CNEANGEI_00311	CDS	489	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+CNEANGEI_00312	CDS	999				hypothetical protein
+CNEANGEI_00313	CDS	672	rutC	1.-.-.-		Putative aminoacrylate peracid reductase RutC
+CNEANGEI_00314	CDS	936	cnbCa			2-aminophenol 1,6-dioxygenase subunit alpha
+CNEANGEI_00315	CDS	915	cnbCb	1.13.11.74		2-aminophenol 1,6-dioxygenase subunit beta
+CNEANGEI_00316	CDS	498				hypothetical protein
+CNEANGEI_00317	CDS	1494				hypothetical protein
+CNEANGEI_00318	CDS	750				hypothetical protein
+CNEANGEI_00319	CDS	510				hypothetical protein
+CNEANGEI_00320	CDS	747				hypothetical protein
+CNEANGEI_00321	CDS	1782		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+CNEANGEI_00322	CDS	567				hypothetical protein
+CNEANGEI_00323	CDS	567				hypothetical protein
+CNEANGEI_00324	CDS	1599				hypothetical protein
+CNEANGEI_00325	CDS	1980				hypothetical protein
+CNEANGEI_00326	CDS	1023				hypothetical protein
+CNEANGEI_00327	CDS	441				hypothetical protein
+CNEANGEI_00328	CDS	291				hypothetical protein
+CNEANGEI_00329	CDS	354				hypothetical protein
+CNEANGEI_00330	CDS	570				hypothetical protein
+CNEANGEI_00331	CDS	873	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+CNEANGEI_00332	CDS	1092				hypothetical protein
+CNEANGEI_00333	CDS	288				hypothetical protein
+CNEANGEI_00334	CDS	162				hypothetical protein
+CNEANGEI_00335	CDS	360				hypothetical protein
+CNEANGEI_00336	CDS	294				hypothetical protein
+CNEANGEI_00337	CDS	534				hypothetical protein
+CNEANGEI_00338	CDS	1341				hypothetical protein
+CNEANGEI_00339	CDS	1236	pgk/tpi		COG0126	Bifunctional PGK/TIM
+CNEANGEI_00340	tRNA	76				tRNA-Thr(cgt)
+CNEANGEI_00341	CDS	531				hypothetical protein
+CNEANGEI_00342	CDS	1383	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+CNEANGEI_00343	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+CNEANGEI_00344	CDS	477				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+CNEANGEI_00345	CDS	891	uppS	2.5.1.89		Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+CNEANGEI_00346	CDS	546				hypothetical protein
+CNEANGEI_00347	CDS	1239				hypothetical protein
+CNEANGEI_00348	CDS	609	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+CNEANGEI_00349	CDS	1287				hypothetical protein
+CNEANGEI_00350	CDS	2124				hypothetical protein
+CNEANGEI_00351	CDS	1806				hypothetical protein
+CNEANGEI_00352	CDS	474				hypothetical protein
+CNEANGEI_00353	CDS	1287	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+CNEANGEI_00354	CDS	825				hypothetical protein
+CNEANGEI_00355	CDS	1128	ftsZ_1			Cell division protein FtsZ
+CNEANGEI_00356	CDS	705	infB			Translation initiation factor IF-2
+CNEANGEI_00357	CDS	978				hypothetical protein
+CNEANGEI_00358	CDS	675				hypothetical protein
+CNEANGEI_00359	CDS	912	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+CNEANGEI_00360	CDS	1101				hypothetical protein
+CNEANGEI_00361	CDS	390				hypothetical protein
+CNEANGEI_00362	CDS	2763	actP_1	7.2.2.9		Copper-transporting P-type ATPase
+CNEANGEI_00363	CDS	726	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+CNEANGEI_00364	CDS	189				hypothetical protein
+CNEANGEI_00365	tRNA	85				tRNA-Leu(caa)
+CNEANGEI_00366	CDS	906				hypothetical protein
+CNEANGEI_00367	CDS	1347	pepC	3.4.22.40	COG3579	Aminopeptidase C
+CNEANGEI_00368	CDS	330	rpsJ		COG0051	30S ribosomal protein S10
+CNEANGEI_00369	CDS	1284	tuf_2		COG0050	Elongation factor Tu
+CNEANGEI_00370	CDS	1203				hypothetical protein
+CNEANGEI_00371	CDS	2697				hypothetical protein
+CNEANGEI_00372	CDS	1038	ilvK	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase 2
+CNEANGEI_00373	CDS	966				hypothetical protein
+CNEANGEI_00374	CDS	2313				hypothetical protein
+CNEANGEI_00375	CDS	720				hypothetical protein
+CNEANGEI_00376	CDS	303				hypothetical protein
+CNEANGEI_00377	CDS	510				hypothetical protein
+CNEANGEI_00378	CDS	450	decR		COG1522	DNA-binding transcriptional activator DecR
+CNEANGEI_00379	CDS	1656	rsmF	2.1.1.178		Ribosomal RNA small subunit methyltransferase F
+CNEANGEI_00380	CDS	357				hypothetical protein
+CNEANGEI_00381	CDS	198				hypothetical protein
+CNEANGEI_00382	CDS	858				hypothetical protein
+CNEANGEI_00383	CDS	1173	xerC			Tyrosine recombinase XerC
+CNEANGEI_00384	CDS	954	rimK	6.3.2.-	COG0189	Ribosomal protein S6--L-glutamate ligase
+CNEANGEI_00385	CDS	2331				hypothetical protein
+CNEANGEI_00386	CDS	954				hypothetical protein
+CNEANGEI_00387	CDS	987	cntI			Pseudopaline exporter CntI
+CNEANGEI_00388	CDS	273				hypothetical protein
+CNEANGEI_00389	CDS	252				hypothetical protein
+CNEANGEI_00390	CDS	681	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+CNEANGEI_00391	CDS	555				hypothetical protein
+CNEANGEI_00392	CDS	258				hypothetical protein
+CNEANGEI_00393	CDS	552				hypothetical protein
+CNEANGEI_00394	CDS	582	thrH	3.1.3.3	COG0560	Phosphoserine phosphatase ThrH
+CNEANGEI_00395	CDS	396				hypothetical protein
+CNEANGEI_00396	CDS	444				hypothetical protein
+CNEANGEI_00397	CDS	180				hypothetical protein
+CNEANGEI_00398	CDS	600				hypothetical protein
+CNEANGEI_00399	CDS	732				hypothetical protein
+CNEANGEI_00400	CDS	1065				hypothetical protein
+CNEANGEI_00401	CDS	753				hypothetical protein
+CNEANGEI_00402	CDS	906				hypothetical protein
+CNEANGEI_00403	CDS	1494				hypothetical protein
+CNEANGEI_00404	CDS	456				hypothetical protein
+CNEANGEI_00405	tRNA	77				tRNA-Thr(tgt)
+CNEANGEI_00406	CDS	876	folD		COG0190	Bifunctional protein FolD protein
+CNEANGEI_00407	CDS	303	sufT			Fe-S protein maturation auxiliary factor SufT
+CNEANGEI_00408	CDS	426	sufE		COG2166	Cysteine desulfuration protein SufE
+CNEANGEI_00409	CDS	1227	csd	2.8.1.7	COG0520	putative cysteine desulfurase
+CNEANGEI_00410	CDS	450				hypothetical protein
+CNEANGEI_00411	CDS	549				hypothetical protein
+CNEANGEI_00412	tRNA	78				tRNA-Glu(ttc)
+CNEANGEI_00413	CDS	2979				hypothetical protein
+CNEANGEI_00414	CDS	147				hypothetical protein
+CNEANGEI_00415	CDS	1056				hypothetical protein
+CNEANGEI_00416	CDS	600				hypothetical protein
+CNEANGEI_00417	CDS	483				hypothetical protein
+CNEANGEI_00418	CDS	231	tatA			Sec-independent protein translocase protein TatA
+CNEANGEI_00419	CDS	267				hypothetical protein
+CNEANGEI_00420	CDS	696				hypothetical protein
+CNEANGEI_00421	CDS	1599				hypothetical protein
+CNEANGEI_00422	CDS	687	cinA			Putative competence-damage inducible protein
+CNEANGEI_00423	tRNA	76				tRNA-Val(tac)
+CNEANGEI_00424	CDS	993	pcm	2.1.1.77		Protein-L-isoaspartate O-methyltransferase
+CNEANGEI_00425	CDS	996				hypothetical protein
+CNEANGEI_00426	CDS	399				hypothetical protein
+CNEANGEI_00427	CDS	1260	cca	2.7.7.72		CCA-adding enzyme
+CNEANGEI_00428	CDS	498	gcvH_1		COG0509	Glycine cleavage system H protein
+CNEANGEI_00429	CDS	1176	acdA_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+CNEANGEI_00430	CDS	1551	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+CNEANGEI_00431	CDS	1122				hypothetical protein
+CNEANGEI_00432	CDS	519				hypothetical protein
+CNEANGEI_00433	CDS	1227				hypothetical protein
+CNEANGEI_00434	CDS	1173	mmgC	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+CNEANGEI_00435	CDS	198				hypothetical protein
+CNEANGEI_00436	CDS	273				hypothetical protein
+CNEANGEI_00437	CDS	294				hypothetical protein
+CNEANGEI_00438	CDS	762	etfB			Electron transfer flavoprotein subunit beta
+CNEANGEI_00439	CDS	915	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+CNEANGEI_00440	CDS	1461				hypothetical protein
+CNEANGEI_00441	CDS	1497	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+CNEANGEI_00442	CDS	387				hypothetical protein
+CNEANGEI_00443	CDS	609				hypothetical protein
+CNEANGEI_00444	CDS	282				hypothetical protein
+CNEANGEI_00445	CDS	252				hypothetical protein
+CNEANGEI_00446	CDS	789				hypothetical protein
+CNEANGEI_00447	CDS	213				hypothetical protein
+CNEANGEI_00448	CDS	759				hypothetical protein
+CNEANGEI_00449	CDS	729	pepE	3.4.13.21	COG3340	Peptidase E
+CNEANGEI_00450	CDS	204				hypothetical protein
+CNEANGEI_00451	tRNA	86				tRNA-Ser(cga)
+CNEANGEI_00452	CDS	1842				hypothetical protein
+CNEANGEI_00453	CDS	1152				hypothetical protein
+CNEANGEI_00454	CDS	582	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+CNEANGEI_00455	CDS	1134	serC	2.6.1.52		Phosphoserine aminotransferase
+CNEANGEI_00456	CDS	702	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+CNEANGEI_00457	tRNA	76				tRNA-Val(cac)
+CNEANGEI_00458	CDS	1524				hypothetical protein
+CNEANGEI_00459	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+CNEANGEI_00460	CDS	1047				hypothetical protein
+CNEANGEI_00461	CDS	2112				hypothetical protein
+CNEANGEI_00462	CDS	621				hypothetical protein
+CNEANGEI_00463	CDS	459				hypothetical protein
+CNEANGEI_00464	CDS	1008				hypothetical protein
+CNEANGEI_00465	CDS	444				hypothetical protein
+CNEANGEI_00466	CDS	318				hypothetical protein
+CNEANGEI_00467	CDS	327				hypothetical protein
+CNEANGEI_00468	CDS	1587	crtN	1.3.8.2		4,4'-diapophytoene desaturase (4,4'-diapolycopene-forming)
+CNEANGEI_00469	CDS	1026	crtB	2.5.1.32		15-cis-phytoene synthase
+CNEANGEI_00470	CDS	1020	dnaJ		COG0484	Chaperone protein DnaJ
+CNEANGEI_00471	CDS	618	ycgM		COG0179	putative protein YcgM
+CNEANGEI_00472	CDS	1287	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+CNEANGEI_00473	CDS	2307	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+CNEANGEI_00474	CDS	303	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+CNEANGEI_00475	CDS	267				hypothetical protein
+CNEANGEI_00476	CDS	270				hypothetical protein
+CNEANGEI_00477	CDS	984	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+CNEANGEI_00478	CDS	1539	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+CNEANGEI_00479	CDS	1137	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+CNEANGEI_00480	CDS	675	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+CNEANGEI_00481	CDS	597	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+CNEANGEI_00482	CDS	447	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+CNEANGEI_00483	CDS	2685				hypothetical protein
+CNEANGEI_00484	CDS	4590				hypothetical protein
+CNEANGEI_00485	CDS	576				hypothetical protein
+CNEANGEI_00486	CDS	4368				hypothetical protein
+CNEANGEI_00487	CDS	2586				hypothetical protein
+CNEANGEI_00488	CDS	255				hypothetical protein
+CNEANGEI_00489	CDS	588				hypothetical protein
+CNEANGEI_00490	CDS	1602	smc_2			Chromosome partition protein Smc
+CNEANGEI_00491	CDS	1371				hypothetical protein
+CNEANGEI_00492	CDS	327				hypothetical protein
+CNEANGEI_00493	CDS	1149	thrC	4.2.3.1	COG0498	Threonine synthase
+CNEANGEI_00494	CDS	1209				hypothetical protein
+CNEANGEI_00495	CDS	246				hypothetical protein
+CNEANGEI_00496	CDS	588				hypothetical protein
+CNEANGEI_00497	CDS	3306	icmF		COG1703	Fused isobutyryl-CoA mutase
+CNEANGEI_00498	CDS	669	aqpZ			Aquaporin Z
+CNEANGEI_00499	CDS	624				hypothetical protein
+CNEANGEI_00500	CDS	771				hypothetical protein
+CNEANGEI_00501	CDS	2910	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+CNEANGEI_00502	CDS	1455				hypothetical protein
+CNEANGEI_00503	CDS	2580	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+CNEANGEI_00504	CDS	1467	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+CNEANGEI_00505	CDS	702		2.4.2.-	COG2071	Putative glutamine amidotransferase
+CNEANGEI_00506	CDS	687		2.4.2.-	COG2071	Putative glutamine amidotransferase
+CNEANGEI_00507	CDS	360				hypothetical protein
+CNEANGEI_00508	CDS	2040		1.18.-.-	COG0247	EtfAB:quinone oxidoreductase
+CNEANGEI_00509	CDS	999	galK	2.7.1.6		Galactokinase
+CNEANGEI_00510	CDS	714				hypothetical protein
+CNEANGEI_00511	CDS	3576				hypothetical protein
+CNEANGEI_00512	CDS	483				hypothetical protein
+CNEANGEI_00513	CDS	831				hypothetical protein
+CNEANGEI_00514	CDS	489	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+CNEANGEI_00515	CDS	333				hypothetical protein
+CNEANGEI_00516	CDS	648	nth	4.2.99.18	COG0177	Endonuclease III
+CNEANGEI_00517	CDS	207				hypothetical protein
+CNEANGEI_00518	CDS	1935	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+CNEANGEI_00519	CDS	402				hypothetical protein
+CNEANGEI_00520	CDS	282				hypothetical protein
+CNEANGEI_00521	CDS	879				hypothetical protein
+CNEANGEI_00522	CDS	2064	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+CNEANGEI_00523	CDS	960				hypothetical protein
+CNEANGEI_00524	CDS	594				hypothetical protein
+CNEANGEI_00525	CDS	261				hypothetical protein
+CNEANGEI_00526	CDS	540				hypothetical protein
+CNEANGEI_00527	CDS	213				hypothetical protein
+CNEANGEI_00528	CDS	864		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2347
+CNEANGEI_00529	CDS	1509	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+CNEANGEI_00530	CDS	855				hypothetical protein
+CNEANGEI_00531	CDS	1035				hypothetical protein
+CNEANGEI_00532	CDS	2178				hypothetical protein
+CNEANGEI_00533	CDS	597	rimL	2.3.1.-	COG1670	Ribosomal-protein-serine acetyltransferase
+CNEANGEI_00534	CDS	1086	kynA	1.13.11.11	COG3483	Tryptophan 2,3-dioxygenase
+CNEANGEI_00535	CDS	1158	mmgA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+CNEANGEI_00536	CDS	261				hypothetical protein
+CNEANGEI_00537	CDS	1062	ctaA	1.3.-.-		Heme A synthase
+CNEANGEI_00538	CDS	1077	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+CNEANGEI_00539	CDS	1257	leuA	2.3.3.13		2-isopropylmalate synthase
+CNEANGEI_00540	CDS	3816				hypothetical protein
+CNEANGEI_00541	CDS	1362				hypothetical protein
+CNEANGEI_00542	CDS	477				hypothetical protein
+CNEANGEI_00543	CDS	2559	rhlB_2	3.6.4.13		ATP-dependent RNA helicase RhlB
+CNEANGEI_00544	CDS	588				hypothetical protein
+CNEANGEI_00545	CDS	249				hypothetical protein
+CNEANGEI_00546	CDS	1683				hypothetical protein
+CNEANGEI_00547	CDS	1221				hypothetical protein
+CNEANGEI_00548	CDS	1008	recA			Protein RecA
+CNEANGEI_00549	tRNA	78				tRNA-Met(cat)
+CNEANGEI_00550	CDS	1374	pyrC	3.5.2.3	COG0044	Dihydroorotase
+CNEANGEI_00551	CDS	2403				hypothetical protein
+CNEANGEI_00552	CDS	201				hypothetical protein
+CNEANGEI_00553	CDS	888				hypothetical protein
+CNEANGEI_00554	CDS	1032				hypothetical protein
+CNEANGEI_00555	CDS	606				hypothetical protein
+CNEANGEI_00556	CDS	1107	yhhT		COG0628	Putative transport protein YhhT
+CNEANGEI_00557	CDS	1140	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CNEANGEI_00558	CDS	753		2.4.-.-	COG0463	putative glycosyltransferase
+CNEANGEI_00559	CDS	723				hypothetical protein
+CNEANGEI_00560	CDS	579				hypothetical protein
+CNEANGEI_00561	CDS	726				hypothetical protein
+CNEANGEI_00562	CDS	4656				hypothetical protein
+CNEANGEI_00563	CDS	294				hypothetical protein
+CNEANGEI_00564	CDS	234				hypothetical protein
+CNEANGEI_00565	CDS	2154				hypothetical protein
+CNEANGEI_00566	CDS	1758	uvrC		COG0322	UvrABC system protein C
+CNEANGEI_00567	CDS	2997				hypothetical protein
+CNEANGEI_00568	CDS	882				hypothetical protein
+CNEANGEI_00569	CDS	1932				hypothetical protein
+CNEANGEI_00570	CDS	354				hypothetical protein
+CNEANGEI_00571	CDS	501	ywnH	2.3.1.183	COG1247	Putative phosphinothricin acetyltransferase YwnH
+CNEANGEI_00572	CDS	678				hypothetical protein
+CNEANGEI_00573	CDS	540	orn	3.1.-.-	COG1949	Oligoribonuclease
+CNEANGEI_00574	CDS	1251	bacE			Putative bacilysin exporter BacE
+CNEANGEI_00575	CDS	837				hypothetical protein
+CNEANGEI_00576	CDS	423				hypothetical protein
+CNEANGEI_00577	CDS	1047	alkB2	1.14.15.3		Alkane 1-monooxygenase 2
+CNEANGEI_00578	CDS	525	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+CNEANGEI_00579	CDS	1473				hypothetical protein
+CNEANGEI_00580	CDS	1464	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+CNEANGEI_00581	CDS	444				hypothetical protein
+CNEANGEI_00582	CDS	333				hypothetical protein
+CNEANGEI_00583	CDS	528				hypothetical protein
+CNEANGEI_00584	CDS	135				hypothetical protein
+CNEANGEI_00585	CDS	684				hypothetical protein
+CNEANGEI_00586	CDS	1020				hypothetical protein
+CNEANGEI_00587	CDS	333				hypothetical protein
+CNEANGEI_00588	CDS	921				hypothetical protein
+CNEANGEI_00589	CDS	771	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+CNEANGEI_00590	CDS	714	trmH	2.1.1.34		tRNA (guanosine(18)-2'-O)-methyltransferase
+CNEANGEI_00591	CDS	1047				hypothetical protein
+CNEANGEI_00592	CDS	903				hypothetical protein
+CNEANGEI_00593	CDS	357				hypothetical protein
+CNEANGEI_00594	tRNA	85				tRNA-Leu(tag)
+CNEANGEI_00595	CDS	1011	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+CNEANGEI_00596	CDS	927				hypothetical protein
+CNEANGEI_00597	CDS	762	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+CNEANGEI_00598	CDS	987				hypothetical protein
+CNEANGEI_00599	CDS	2004				hypothetical protein
+CNEANGEI_00600	CDS	156				hypothetical protein
+CNEANGEI_00601	CDS	840				hypothetical protein
+CNEANGEI_00602	CDS	1074				hypothetical protein
+CNEANGEI_00603	CDS	1266	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+CNEANGEI_00604	CDS	195				hypothetical protein
+CNEANGEI_00605	CDS	6420				hypothetical protein
+CNEANGEI_00606	CDS	627				hypothetical protein
+CNEANGEI_00607	CDS	2727	citB	4.2.1.-	COG1048	Aconitate/2-methylaconitate hydratase
+CNEANGEI_00608	CDS	1065				hypothetical protein
+CNEANGEI_00609	CDS	1863	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+CNEANGEI_00610	CDS	1038				hypothetical protein
+CNEANGEI_00611	tRNA	76				tRNA-Gln(ctg)
+CNEANGEI_00612	CDS	219				hypothetical protein
+CNEANGEI_00613	CDS	801	obg	3.6.5.-		GTPase Obg
+CNEANGEI_00614	CDS	771	tatC2		COG0805	Sec-independent protein translocase protein TatCy
+CNEANGEI_00615	CDS	1050				hypothetical protein
+CNEANGEI_00616	CDS	1116	acdA_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+CNEANGEI_00617	CDS	945	yrbG		COG0530	Inner membrane protein YrbG
+CNEANGEI_00618	CDS	2661	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+CNEANGEI_00619	CDS	1155	moeZ		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+CNEANGEI_00620	CDS	963	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+CNEANGEI_00621	CDS	861				hypothetical protein
+CNEANGEI_00622	CDS	396	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+CNEANGEI_00623	CDS	600	ribC	2.5.1.9	COG0307	Riboflavin synthase
+CNEANGEI_00624	CDS	459	hldE	2.7.7.70		Bifunctional protein HldE
+CNEANGEI_00625	CDS	723	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+CNEANGEI_00626	CDS	876	hddA_2	2.7.1.168		D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+CNEANGEI_00627	CDS	582				hypothetical protein
+CNEANGEI_00628	CDS	1419	ald	1.2.1.83		3-succinoylsemialdehyde-pyridine dehydrogenase
+CNEANGEI_00629	CDS	798	paaF_2	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+CNEANGEI_00630	CDS	891		1.1.1.35	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+CNEANGEI_00631	CDS	561				hypothetical protein
+CNEANGEI_00632	CDS	1143	boxB	1.14.13.208		Benzoyl-CoA oxygenase component B
+CNEANGEI_00633	CDS	654				hypothetical protein
+CNEANGEI_00634	CDS	663	tpiA			Triosephosphate isomerase
+CNEANGEI_00635	CDS	804				hypothetical protein
+CNEANGEI_00636	tRNA	77				tRNA-Arg(tct)
+CNEANGEI_00637	CDS	624				hypothetical protein
+CNEANGEI_00638	CDS	558				hypothetical protein
+CNEANGEI_00639	tRNA	77				tRNA-Ala(ggc)
+CNEANGEI_00640	CDS	2220				hypothetical protein
+CNEANGEI_00641	CDS	1155	dppB		COG0601	Dipeptide transport system permease protein DppB
+CNEANGEI_00642	CDS	1767				hypothetical protein
+CNEANGEI_00643	CDS	1731	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CNEANGEI_00644	CDS	1065	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CNEANGEI_00645	CDS	372				hypothetical protein
+CNEANGEI_00646	CDS	1254	entS			Enterobactin exporter EntS
+CNEANGEI_00647	CDS	1509				hypothetical protein
+CNEANGEI_00648	CDS	1401				hypothetical protein
+CNEANGEI_00649	CDS	2571	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+CNEANGEI_00650	CDS	936	aao	1.4.3.3	COG0665	putative D-amino-acid oxidase
+CNEANGEI_00651	CDS	1632				hypothetical protein
+CNEANGEI_00652	CDS	738				hypothetical protein
+CNEANGEI_00653	CDS	2325				hypothetical protein
+CNEANGEI_00654	CDS	2154				hypothetical protein
+CNEANGEI_00655	CDS	1086	aspC_1	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+CNEANGEI_00656	CDS	219				hypothetical protein
+CNEANGEI_00657	CDS	1191				hypothetical protein
+CNEANGEI_00658	CDS	3615				hypothetical protein
+CNEANGEI_00659	CDS	1611	groL_2		COG0459	60 kDa chaperonin
+CNEANGEI_00660	CDS	2079				hypothetical protein
+CNEANGEI_00661	CDS	861	sdhE	1.3.5.-	COG2048	8-methylmenaquinol:fumarate reductase membrane anchor subunit
+CNEANGEI_00662	CDS	2655	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+CNEANGEI_00663	CDS	1077				hypothetical protein
+CNEANGEI_00664	CDS	879				hypothetical protein
+CNEANGEI_00665	CDS	300				hypothetical protein
+CNEANGEI_00666	CDS	717				hypothetical protein
+CNEANGEI_00667	CDS	501				hypothetical protein
+CNEANGEI_00668	CDS	525				hypothetical protein
+CNEANGEI_00669	CDS	888				hypothetical protein
+CNEANGEI_00670	CDS	210				hypothetical protein
+CNEANGEI_00671	CDS	300				hypothetical protein
+CNEANGEI_00672	CDS	258				hypothetical protein
+CNEANGEI_00673	CDS	333				hypothetical protein
+CNEANGEI_00674	CDS	399	rplN		COG0093	50S ribosomal protein L14
+CNEANGEI_00675	CDS	438				hypothetical protein
+CNEANGEI_00676	CDS	699				hypothetical protein
+CNEANGEI_00677	CDS	528	rplE			50S ribosomal protein L5
+CNEANGEI_00678	CDS	390	rpsH		COG0096	30S ribosomal protein S8
+CNEANGEI_00679	CDS	555	rplF			50S ribosomal protein L6
+CNEANGEI_00680	CDS	684				hypothetical protein
+CNEANGEI_00681	CDS	477				hypothetical protein
+CNEANGEI_00682	CDS	516				hypothetical protein
+CNEANGEI_00683	CDS	771				hypothetical protein
+CNEANGEI_00684	CDS	471				hypothetical protein
+CNEANGEI_00685	CDS	429				hypothetical protein
+CNEANGEI_00686	CDS	1926	secY			Protein translocase subunit SecY
+CNEANGEI_00687	CDS	1089				hypothetical protein
+CNEANGEI_00688	CDS	222				hypothetical protein
+CNEANGEI_00689	CDS	381				hypothetical protein
+CNEANGEI_00690	CDS	930	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+CNEANGEI_00691	tRNA	78				tRNA-Ile(gat)
+CNEANGEI_00692	CDS	585				hypothetical protein
+CNEANGEI_00693	CDS	1641	argD	2.6.1.17		Acetylornithine/succinyldiaminopimelate aminotransferase
+CNEANGEI_00694	CDS	702				hypothetical protein
+CNEANGEI_00695	CDS	177				hypothetical protein
+CNEANGEI_00696	CDS	1059		2.5.-.-		Deoxyhypusine synthase-like protein
+CNEANGEI_00697	CDS	2313	uvrB		COG0556	UvrABC system protein B
+CNEANGEI_00698	CDS	885	plqA	2.5.1.39		4-hydroxybenzoate solanesyltransferase
+CNEANGEI_00699	CDS	1875	ubiD	4.1.1.98		3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+CNEANGEI_00700	CDS	1233				hypothetical protein
+CNEANGEI_00701	CDS	2397				hypothetical protein
+CNEANGEI_00702	CDS	1287				hypothetical protein
+CNEANGEI_00703	CDS	699				hypothetical protein
+CNEANGEI_00704	CDS	621				hypothetical protein
+CNEANGEI_00705	CDS	615				hypothetical protein
+CNEANGEI_00706	CDS	1539	dbpA_2	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+CNEANGEI_00707	CDS	981	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+CNEANGEI_00708	CDS	372				hypothetical protein
+CNEANGEI_00709	CDS	1095				hypothetical protein
+CNEANGEI_00710	CDS	654				hypothetical protein
+CNEANGEI_00711	CDS	438				hypothetical protein
+CNEANGEI_00712	CDS	2067	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+CNEANGEI_00713	CDS	2619				hypothetical protein
+CNEANGEI_00714	CDS	1179				hypothetical protein
+CNEANGEI_00715	CDS	579				hypothetical protein
+CNEANGEI_00716	CDS	1476				hypothetical protein
+CNEANGEI_00717	CDS	1242	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CNEANGEI_00718	CDS	1185		2.4.1.11	COG0438	Glycogen synthase
+CNEANGEI_00719	CDS	876				hypothetical protein
+CNEANGEI_00720	CDS	714	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+CNEANGEI_00721	CDS	3261				hypothetical protein
+CNEANGEI_00722	CDS	996	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CNEANGEI_00723	CDS	2088	actP_2			Cation/acetate symporter ActP
+CNEANGEI_00724	CDS	1425	accD5	6.4.1.3	COG4799	putative propionyl-CoA carboxylase beta chain 5
+CNEANGEI_00725	CDS	846				hypothetical protein
+CNEANGEI_00726	CDS	615				hypothetical protein
+CNEANGEI_00727	CDS	537				hypothetical protein
+CNEANGEI_00728	CDS	1209	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+CNEANGEI_00729	CDS	2994				hypothetical protein
+CNEANGEI_00730	CDS	3222				hypothetical protein
+CNEANGEI_00731	CDS	3129				hypothetical protein
+CNEANGEI_00732	CDS	1068	ltaA	4.1.2.49		L-allo-threonine aldolase
+CNEANGEI_00733	CDS	933				hypothetical protein
+CNEANGEI_00734	CDS	3603				hypothetical protein
+CNEANGEI_00735	CDS	5043	addA	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+CNEANGEI_00736	CDS	1413				hypothetical protein
+CNEANGEI_00737	CDS	333				hypothetical protein
+CNEANGEI_00738	CDS	636				hypothetical protein
+CNEANGEI_00739	CDS	720	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+CNEANGEI_00740	CDS	1140				hypothetical protein
+CNEANGEI_00741	CDS	258				hypothetical protein
+CNEANGEI_00742	CDS	1665				hypothetical protein
+CNEANGEI_00743	CDS	1308	ychF		COG0012	Ribosome-binding ATPase YchF
+CNEANGEI_00744	CDS	312				hypothetical protein
+CNEANGEI_00745	CDS	1026				hypothetical protein
+CNEANGEI_00746	CDS	645	rplA		COG0081	50S ribosomal protein L1
+CNEANGEI_00747	CDS	279				hypothetical protein
+CNEANGEI_00748	CDS	900				hypothetical protein
+CNEANGEI_00749	CDS	261				hypothetical protein
+CNEANGEI_00750	CDS	1194	ftsZ_2			Cell division protein FtsZ
+CNEANGEI_00751	CDS	681				hypothetical protein
+CNEANGEI_00752	CDS	549				hypothetical protein
+CNEANGEI_00753	CDS	366		3.5.5.1	COG0388	Nitrilase
+CNEANGEI_00754	CDS	732	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+CNEANGEI_00755	CDS	2655	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+CNEANGEI_00756	CDS	585				hypothetical protein
+CNEANGEI_00757	CDS	1533				hypothetical protein
+CNEANGEI_00758	CDS	1860	recD	3.1.11.5		RecBCD enzyme subunit RecD
+CNEANGEI_00759	CDS	576				hypothetical protein
+CNEANGEI_00760	CDS	630	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+CNEANGEI_00761	CDS	1014		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+CNEANGEI_00762	CDS	939				hypothetical protein
+CNEANGEI_00763	CDS	333	grxD		COG0278	Glutaredoxin 4
+CNEANGEI_00764	CDS	327				hypothetical protein
+CNEANGEI_00765	CDS	756	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+CNEANGEI_00766	CDS	318	trxA		COG0526	Thioredoxin 1
+CNEANGEI_00767	CDS	1551				hypothetical protein
+CNEANGEI_00768	CDS	1794	pepX	3.4.14.11		Xaa-Pro dipeptidyl-peptidase
+CNEANGEI_00769	CDS	1503		3.4.17.19	COG2317	Thermostable carboxypeptidase 1
+CNEANGEI_00770	CDS	1089				hypothetical protein
+CNEANGEI_00771	CDS	405				hypothetical protein
+CNEANGEI_00772	CDS	1602	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+CNEANGEI_00773	CDS	483	ppiB	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase
+CNEANGEI_00774	CDS	534				hypothetical protein
+CNEANGEI_00775	CDS	396				hypothetical protein
+CNEANGEI_00776	CDS	585	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+CNEANGEI_00777	CDS	3969				hypothetical protein
+CNEANGEI_00778	CDS	759				hypothetical protein
+CNEANGEI_00779	CDS	1194				hypothetical protein
+CNEANGEI_00780	CDS	1221				hypothetical protein
+CNEANGEI_00781	CDS	435				hypothetical protein
+CNEANGEI_00782	CDS	1188				hypothetical protein
+CNEANGEI_00783	CDS	651				hypothetical protein
+CNEANGEI_00784	CDS	4881				hypothetical protein
+CNEANGEI_00785	CDS	1647	ettA		COG0488	Energy-dependent translational throttle protein EttA
+CNEANGEI_00786	CDS	1239	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+CNEANGEI_00787	CDS	798				hypothetical protein
+CNEANGEI_00788	CDS	246				hypothetical protein
+CNEANGEI_00789	CDS	1080	mnmC	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+CNEANGEI_00790	CDS	990	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+CNEANGEI_00791	CDS	786				hypothetical protein
+CNEANGEI_00792	CDS	1191	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+CNEANGEI_00793	CDS	621				hypothetical protein
+CNEANGEI_00794	CDS	1971				hypothetical protein
+CNEANGEI_00795	CDS	585		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+CNEANGEI_00796	CDS	384				hypothetical protein
+CNEANGEI_00797	CDS	384	gcvH_2			Glycine cleavage system H protein
+CNEANGEI_00798	CDS	540	rnhA	3.1.26.4		Ribonuclease H
+CNEANGEI_00799	CDS	426				hypothetical protein
+CNEANGEI_00800	CDS	942	thadh	4.3.1.16		L-threo-3-hydroxyaspartate ammonia-lyase
+CNEANGEI_00801	CDS	363				hypothetical protein
+CNEANGEI_00802	tRNA	74				tRNA-Cys(gca)
+CNEANGEI_00803	CDS	876				hypothetical protein
+CNEANGEI_00804	CDS	1131	aspC_2	2.6.1.1		Aspartate aminotransferase
+CNEANGEI_00805	CDS	432	speH	4.1.1.50		S-adenosylmethionine decarboxylase proenzyme
+CNEANGEI_00806	CDS	951		2.5.-.-		Deoxyhypusine synthase-like protein
+CNEANGEI_00807	CDS	201				hypothetical protein
+CNEANGEI_00808	CDS	453	ndk	2.7.4.6		Nucleoside diphosphate kinase
+CNEANGEI_00809	CDS	546				hypothetical protein
+CNEANGEI_00810	CDS	1173				hypothetical protein
+CNEANGEI_00811	CDS	1179				hypothetical protein
+CNEANGEI_00812	CDS	1536	amnC	1.2.1.32		2-aminomuconic 6-semialdehyde dehydrogenase
+CNEANGEI_00813	CDS	981	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+CNEANGEI_00814	CDS	876				hypothetical protein
+CNEANGEI_00815	CDS	303				hypothetical protein
+CNEANGEI_00816	CDS	1137				Ca(2+)/H(+) antiporter
+CNEANGEI_00817	CDS	765				hypothetical protein
+CNEANGEI_00818	CDS	1014				hypothetical protein
+CNEANGEI_00819	CDS	648				hypothetical protein
+CNEANGEI_00820	CDS	1239				hypothetical protein
+CNEANGEI_00821	CDS	252				hypothetical protein
+CNEANGEI_00822	CDS	732	rbn	3.1.26.11		Ribonuclease BN
+CNEANGEI_00823	CDS	342				hypothetical protein
+CNEANGEI_00824	CDS	243				hypothetical protein
+CNEANGEI_00825	CDS	252				hypothetical protein
+CNEANGEI_00826	CDS	849	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+CNEANGEI_00827	CDS	387				hypothetical protein
+CNEANGEI_00828	CDS	375				hypothetical protein
+CNEANGEI_00829	CDS	357				hypothetical protein
+CNEANGEI_00830	CDS	705				hypothetical protein
+CNEANGEI_00831	CDS	1005				hypothetical protein
+CNEANGEI_00832	CDS	375	crcB			Putative fluoride ion transporter CrcB
+CNEANGEI_00833	CDS	381				hypothetical protein
+CNEANGEI_00834	CDS	792				hypothetical protein
+CNEANGEI_00835	CDS	1125				hypothetical protein
+CNEANGEI_00836	CDS	417		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+CNEANGEI_00837	CDS	426				hypothetical protein
+CNEANGEI_00838	CDS	546				hypothetical protein
+CNEANGEI_00839	CDS	651				hypothetical protein
+CNEANGEI_00840	CDS	561	nfuA		COG0316	Fe/S biogenesis protein NfuA
+CNEANGEI_00841	CDS	915	moaA	4.1.99.22	COG2896	GTP 3',8-cyclase
+CNEANGEI_00842	CDS	672				hypothetical protein
+CNEANGEI_00843	CDS	1335	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+CNEANGEI_00844	CDS	1146	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+CNEANGEI_00845	CDS	3072				hypothetical protein
+CNEANGEI_00846	CDS	3729				hypothetical protein
+CNEANGEI_00847	CDS	852	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+CNEANGEI_00848	CDS	717	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+CNEANGEI_00849	CDS	612				hypothetical protein
+CNEANGEI_00850	CDS	429				hypothetical protein
+CNEANGEI_00851	CDS	2160				hypothetical protein
+CNEANGEI_00852	CDS	2142	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+CNEANGEI_00853	CDS	552				hypothetical protein
+CNEANGEI_00854	CDS	654				hypothetical protein
+CNEANGEI_00855	CDS	345				hypothetical protein
+CNEANGEI_00856	CDS	585				hypothetical protein
+CNEANGEI_00857	CDS	1251	accC	6.3.4.14	COG0439	Biotin carboxylase
+CNEANGEI_00858	CDS	966	RBKS	2.7.1.15		Ribokinase
+CNEANGEI_00859	CDS	1899				hypothetical protein
+CNEANGEI_00860	CDS	1062	tuf_3			Elongation factor Tu
+CNEANGEI_00861	CDS	477		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+CNEANGEI_00862	CDS	810				hypothetical protein
+CNEANGEI_00863	CDS	531				hypothetical protein
+CNEANGEI_00864	CDS	894				hypothetical protein
+CNEANGEI_00865	CDS	204				hypothetical protein
+CNEANGEI_00866	tRNA	75				tRNA-Gly(tcc)
+CNEANGEI_00867	CDS	1887	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CNEANGEI_00868	CDS	714				hypothetical protein
+CNEANGEI_00869	CDS	1101	cbrA		COG0644	Protein CbrA
+CNEANGEI_00870	CDS	981	sdsA	2.5.1.84		All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+CNEANGEI_00871	CDS	1071				hypothetical protein
+CNEANGEI_00872	CDS	996				hypothetical protein
+CNEANGEI_00873	CDS	951				hypothetical protein
+CNEANGEI_00874	CDS	1692				hypothetical protein
+CNEANGEI_00875	CDS	546	mog	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+CNEANGEI_00876	CDS	828	rph	2.7.7.56	COG0689	Ribonuclease PH
+CNEANGEI_00877	tRNA	76				tRNA-Phe(gaa)
+CNEANGEI_00878	CDS	1158				hypothetical protein
+CNEANGEI_00879	CDS	627				hypothetical protein
+CNEANGEI_00880	CDS	1059				hypothetical protein
+CNEANGEI_00881	CDS	1827	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+CNEANGEI_00882	CDS	600				hypothetical protein
+CNEANGEI_00883	CDS	309				hypothetical protein
+CNEANGEI_00884	CDS	225				hypothetical protein
+CNEANGEI_00885	CDS	1218	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+CNEANGEI_00886	CDS	231				hypothetical protein
+CNEANGEI_00887	CDS	822				hypothetical protein
+CNEANGEI_00888	CDS	2787	napA	1.9.6.1		Periplasmic nitrate reductase
+CNEANGEI_00889	CDS	1413				hypothetical protein
+CNEANGEI_00890	CDS	1149	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+CNEANGEI_00891	CDS	243	dsrE2		COG2210	Sulfur carrier protein DsrE2
+CNEANGEI_00892	CDS	1764				hypothetical protein
+CNEANGEI_00893	CDS	2472				hypothetical protein
+CNEANGEI_00894	CDS	369				hypothetical protein
+CNEANGEI_00895	CDS	492				hypothetical protein
+CNEANGEI_00896	CDS	864				hypothetical protein
+CNEANGEI_00897	CDS	528				hypothetical protein
+CNEANGEI_00898	CDS	1719				hypothetical protein
+CNEANGEI_00899	CDS	855		3.5.3.18	COG1834	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+CNEANGEI_00900	CDS	456				hypothetical protein
+CNEANGEI_00901	CDS	1272	dgdA	4.1.1.64		2,2-dialkylglycine decarboxylase
+CNEANGEI_00902	CDS	381				hypothetical protein
+CNEANGEI_00903	CDS	639				hypothetical protein
+CNEANGEI_00904	tRNA	85				tRNA-Leu(gag)
+CNEANGEI_00905	CDS	462	yiiM		COG2258	Protein YiiM
+CNEANGEI_00906	CDS	933	thrB	2.7.1.39	COG2334	Homoserine kinase
+CNEANGEI_00907	CDS	711				hypothetical protein
+CNEANGEI_00908	CDS	1161	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CNEANGEI_00909	CDS	444				hypothetical protein
+CNEANGEI_00910	tRNA	77				tRNA-Arg(tcg)
+CNEANGEI_00911	CDS	726	yfcA		COG0730	putative membrane transporter protein YfcA
+CNEANGEI_00912	CDS	942	cysK	2.5.1.47		Cysteine synthase
+CNEANGEI_00913	CDS	300				hypothetical protein
+CNEANGEI_00914	CDS	1128	ribD		COG0117	Riboflavin biosynthesis protein RibD
+CNEANGEI_00915	CDS	1032	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+CNEANGEI_00916	CDS	234				hypothetical protein
+CNEANGEI_00917	tRNA	86				tRNA-Ser(tga)
+CNEANGEI_00918	CDS	1899				hypothetical protein
+CNEANGEI_00919	CDS	369				hypothetical protein
+CNEANGEI_00920	CDS	1089				hypothetical protein
+CNEANGEI_00921	CDS	975				hypothetical protein
+CNEANGEI_00922	CDS	990				hypothetical protein
+CNEANGEI_00923	CDS	384	rpsK			30S ribosomal protein S11
+CNEANGEI_00924	CDS	708				hypothetical protein
+CNEANGEI_00925	CDS	468	rpsM			30S ribosomal protein S13
+CNEANGEI_00926	CDS	1305				hypothetical protein
+CNEANGEI_00927	CDS	906				hypothetical protein
+CNEANGEI_00928	CDS	3828				hypothetical protein
+CNEANGEI_00929	CDS	1617	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+CNEANGEI_00930	CDS	945				hypothetical protein
+CNEANGEI_00931	CDS	2283	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+CNEANGEI_00932	CDS	8607				hypothetical protein
+CNEANGEI_00933	CDS	780				hypothetical protein
+CNEANGEI_00934	CDS	2277	menF	5.4.4.2		Isochorismate synthase MenF
+CNEANGEI_00935	CDS	258				hypothetical protein
+CNEANGEI_00936	CDS	1773				hypothetical protein
+CNEANGEI_00937	CDS	1008				hypothetical protein
+CNEANGEI_00938	CDS	1170				hypothetical protein
+CNEANGEI_00939	tRNA	77				tRNA-Arg(tcg)
