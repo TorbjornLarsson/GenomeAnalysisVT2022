@@ -1,0 +1,40 @@
+usage: phylophlan.py [-h] [-i] [-u] [-t] [--tax_test TAX_TEST] [-c]
+                     [--cleanall] [--nproc N] [-v]
+                     [PROJECT NAME]
+
+NAME AND VERSION:
+PhyloPhlAn version 0.99 (8 May 2013)
+
+AUTHORS:
+Nicola Segata (nsegata@hsph.harvard.edu) and Curtis Huttenhower (chuttenh@hsph.harvard.edu)
+
+DESCRIPTION
+PhyloPhlAn is a computational pipeline for reconstructing highly accurate and resolved 
+phylogenetic trees based on whole-genome sequence information. The pipeline is scalable 
+to thousands of genomes and uses the most conserved 400 proteins for extracting the 
+phylogenetic signal.
+PhyloPhlAn also implements taxonomic curation, estimation, and insertion operations.
+
+positional arguments:
+  PROJECT NAME          The basename of the project corresponding to the name of the input data folder inside 
+                        input/. The input data consist of a collection of multifasta files (extension .faa)
+                        containing the proteins in each genome. 
+                        If the project already exists, the already executed steps are not re-ran.
+                        The results will be stored in a folder with the project basename in output/
+                        Multiple project can be generated and they safetely coexists.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i, --integrate       Integrate user genomes into the PhyloPhlAn tree 
+  -u, --user_tree       Build a phylogenetic tree using user genomes only 
+  -t, --taxonomic_analysis
+                        Check taxonomic inconsistencies and refine/correct taxonomic labels
+  --tax_test TAX_TEST   nerrors:type:taxl:tmin:tex:name (alpha version, experimental!)
+  -c, --clean           Clean the final and partial data produced for the specified project.
+                         (use --cleanall for removing general installation and database files)
+  --cleanall            Remove all instalation and database file leaving untouched the initial compressed data 
+                        that is automatically extracted and formatted at the first pipeline run.
+                        Projects are not remove (specify a project and use -c for removing projects).
+  --nproc N             The number of CPUs to use for parallelizing the blasting
+                        [default 1, i.e. no parallelism]
+  -v, --version         Prints the current PhyloPhlAn version and exit
