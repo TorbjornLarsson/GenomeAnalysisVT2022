@@ -12,6 +12,8 @@ data/trimmed_data/
 *.sam
 *.sam.gz
 *.bam
+*.bai
+*.gff
 CheckM_data/
 storage/
 phylophlan/
@@ -22,11 +24,19 @@ phylophlan/
 *.gbk
 *.sqn
 *.tbl
+*.log
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+*pos
 
 # Ignore work notes used to compose code, run analysis and see graphs in windows
 *_notes.txt
 *.zip
 test/
+*.save
 
 # Ignore large logfiles
 *trimLogFile

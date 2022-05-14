@@ -3,7 +3,7 @@
 #SBATCH -M snowy
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 04:00:00
+#SBATCH -t 10:00:00
 #SBATCH -J prokka
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user tola2495@student.uu.se
@@ -81,5 +81,3 @@ prokka \
 --outdir ~/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342133_Archaea/"$RR4342133_file" \
 $RR4342133_file
 done
-
-

@@ -1,145 +1,145 @@
-[12:24:05] This is prokka 1.14.6
-[12:24:05] Written by Torsten Seemann <torsten.seemann@gmail.com>
-[12:24:05] Homepage is https://github.com/tseemann/prokka
-[12:24:05] Local time is Tue May  3 12:24:05 2022
-[12:24:05] You are tola2495
-[12:24:05] Operating system is linux
-[12:24:05] You have BioPerl 1.007001
-[12:24:05] System has 16 cores.
-[12:24:05] Will use maximum of 2 cores.
-[12:24:05] Annotating as >>> Bacteria <<<
-[12:24:05] Generating locus_tag from 'bin_9.fa' contents.
-[12:24:06] Setting --locustag JEPHFLLD from MD5 3e91f55de17e1ca69f10e1be7d6c8fa0
-[12:24:06] Creating new output folder: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa
-[12:24:06] Running: mkdir -p \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa
-[12:24:06] Using filename prefix: RR4342129_Bacteria.XXX
-[12:24:06] Setting HMMER_NCPU=1
-[12:24:06] Writing log to: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.log
-[12:24:06] Command: /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka --metagenome --cpus 2 --prefix RR4342129_Bacteria --outdir /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa bin_9.fa
-[12:24:06] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux
-[12:24:06] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/../common
-[12:24:06] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin
-[12:24:06] Looking for 'aragorn' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/aragorn
-[12:24:06] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
-[12:24:06] Looking for 'barrnap' - found /sw/bioinfo/barrnap/0.8/snowy/bin/barrnap
-[12:24:06] Determined barrnap version is 000008 from 'barrnap 0.8'
-[12:24:06] Looking for 'blastp' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/blastp
-[12:24:06] Determined blastp version is 002011 from 'blastp: 2.11.0+'
-[12:24:06] Looking for 'cmpress' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmpress
-[12:24:06] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
-[12:24:06] Looking for 'cmscan' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmscan
-[12:24:06] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
-[12:24:06] Looking for 'egrep' - found /usr/bin/egrep
-[12:24:06] Looking for 'find' - found /usr/bin/find
-[12:24:06] Looking for 'grep' - found /usr/bin/grep
-[12:24:06] Looking for 'hmmpress' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmpress
-[12:24:06] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
-[12:24:06] Looking for 'hmmscan' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmscan
-[12:24:06] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
-[12:24:06] Looking for 'java' - found /usr/bin/java
-[12:24:06] Looking for 'makeblastdb' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/makeblastdb
-[12:24:07] Determined makeblastdb version is 002011 from 'makeblastdb: 2.11.0+'
-[12:24:07] Looking for 'minced' - found /sw/apps/bioinfo/minced/0.2.0/snowy/minced
-[12:24:08] Determined minced version is 002000 from 'minced 0.2.0'
-[12:24:08] Looking for 'parallel' - found /sw/parallel/gnuparallel/20170122/snowy/bin/parallel
-[12:24:09] Determined parallel version is 20170122 from 'GNU parallel 20170122'
-[12:24:09] Looking for 'prodigal' - found /sw/apps/bioinfo/prodigal/2.6.3/snowy/bin/prodigal
-[12:24:09] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
-[12:24:09] Looking for 'prokka-genbank_to_fasta_db' - found /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka-genbank_to_fasta_db
-[12:24:09] Looking for 'sed' - found /usr/bin/sed
-[12:24:09] Looking for 'signalp' - found /sw/bioinfo/SignalP/4.1f/snowy/signalp
-[12:24:09] Determined signalp version is 004001 from '4.1 6180816'
-[12:24:09] Looking for 'tbl2asn' - found /sw/bioinfo/tbl2asn/25.8/snowy/tbl2asn
-[12:24:09] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
-[12:24:09] Using genetic code table 11.
-[12:24:09] Loading and checking input file: bin_9.fa
-[12:24:09] Wrote 135 contigs totalling 324310 bp.
-[12:24:09] Predicting tRNAs and tmRNAs
-[12:24:09] Running: aragorn -l -gc11  -w \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.fna
-[12:24:09] 1 tRNA-Gln c[131,205] 33 (ttg)
-[12:24:09] 1 tRNA-Gln [1378,1452] 33 (ttg)
-[12:24:09] Found 2 tRNAs
-[12:24:09] Predicting Ribosomal RNAs
-[12:24:09] Running Barrnap with 2 threads
-[12:24:09] Found 0 rRNAs
-[12:24:09] Skipping ncRNA search, enable with --rfam if desired.
-[12:24:09] Total of 2 tRNA + rRNA features
-[12:24:09] Searching for CRISPR repeats
-[12:24:10] Found 0 CRISPRs
-[12:24:10] Predicting coding sequences
-[12:24:10] Contigs total 324310 bp, so using meta mode
-[12:24:10] Running: prodigal -i \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.fna -c -m -g 11 -p meta -f sco -q
-[12:24:11] Excluding CDS which overlaps existing RNA (tRNA) at k105_115609:196..1029 on - strand
-[12:24:12] Found 342 CDS
-[12:24:12] Connecting features back to sequences
-[12:24:12] Not using genus-specific database. Try --usegenus to enable it.
-[12:24:12] Annotating CDS, please be patient.
-[12:24:12] Will use 2 CPUs for similarity searching.
-[12:24:13] There are still 342 unannotated CDS left (started with 342)
-[12:24:13] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS with 2 CPUs
-[12:24:13] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.IS\.tmp\.7172\.faa | parallel --gnu --plain -j 2 --block 20471 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.IS\.tmp\.7172\.blast 2> /dev/null
-[12:24:18] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.IS.tmp.7172.faa
-[12:24:18] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.IS.tmp.7172.blast
-[12:24:18] There are still 342 unannotated CDS left (started with 342)
-[12:24:18] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/AMR with 2 CPUs
-[12:24:18] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.AMR\.tmp\.7172\.faa | parallel --gnu --plain -j 2 --block 20471 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.AMR\.tmp\.7172\.blast 2> /dev/null
-[12:24:24] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.AMR.tmp.7172.faa
-[12:24:24] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.AMR.tmp.7172.blast
-[12:24:24] There are still 342 unannotated CDS left (started with 342)
-[12:24:24] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/sprot with 2 CPUs
-[12:24:24] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.sprot\.tmp\.7172\.faa | parallel --gnu --plain -j 2 --block 20471 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.sprot\.tmp\.7172\.blast 2> /dev/null
-[12:24:39] Modify product: UPF0234 protein XC_3703 => hypothetical protein
-[12:24:39] Modify product: Nudix hydrolase DR_0079 => Nudix hydrolase
-[12:24:39] Modify product: Probable enoyl-CoA hydratase echA8 => putative enoyl-CoA hydratase echA8
-[12:24:39] Modify product: Uncharacterized protein YqeY => putative protein YqeY
-[12:24:39] Modify product: Uncharacterized protein YfgD => putative protein YfgD
-[12:24:39] Modify product: Probable CtpA-like serine protease => putative CtpA-like serine protease
-[12:24:40] Modify product: Acetyltransferase SACOL1063 => Acetyltransferase
-[12:24:40] Cleaned 7 /product names
-[12:24:40] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.sprot.tmp.7172.faa
-[12:24:40] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.sprot.tmp.7172.blast
-[12:24:40] There are still 186 unannotated CDS left (started with 342)
-[12:24:40] Will use hmmer3 to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm with 2 CPUs
-[12:24:40] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.HAMAP\.hmm\.tmp\.7172\.faa | parallel --gnu --plain -j 2 --block 8249 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm /dev/stdin > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.HAMAP\.hmm\.tmp\.7172\.hmmer3 2> /dev/null
-[12:24:48] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.HAMAP.hmm.tmp.7172.faa
-[12:24:48] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.HAMAP.hmm.tmp.7172.hmmer3
-[12:24:48] Labelling remaining 163 proteins as 'hypothetical protein'
-[12:24:48] Found 158 unique /gene codes.
-[12:24:48] Fixed 2 duplicate /gene - argE_1 argE_2
-[12:24:48] Fixed 2 duplicate /gene - yabJ_1 yabJ_2
-[12:24:48] Fixed 2 duplicate /gene - betA_1 betA_2
-[12:24:48] Fixed 2 duplicate /gene - ctaA_1 ctaA_2
-[12:24:48] Fixed 4 colliding /gene names.
-[12:24:48] Adding /locus_tag identifiers
-[12:24:48] Assigned 344 locus_tags to CDS and RNA features.
-[12:24:48] Writing outputs to /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/
-[12:24:49] Generating annotation statistics file
-[12:24:49] Generating Genbank and Sequin files
-[12:24:49] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.err -i \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.fsa 2> /dev/null
-[12:24:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/errorsummary.val
-[12:24:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.dr
-[12:24:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.fixedproducts
-[12:24:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.ecn
-[12:24:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.val
-[12:24:50] Repairing broken .GBK output that tbl2asn produces...
-[12:24:50] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.gbf > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.gbk
-[12:24:50] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.gbf
-[12:24:50] Output files:
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.log
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.fna
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.gff
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.faa
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.ffn
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.tbl
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.fsa
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.tsv
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.txt
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.sqn
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.gbk
-[12:24:50] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.err
-[12:24:50] Annotation finished successfully.
-[12:24:50] Walltime used: 0.75 minutes
-[12:24:50] If you use this result please cite the Prokka paper:
-[12:24:50] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
-[12:24:50] Type 'prokka --citation' for more details.
-[12:24:50] Share and enjoy!
+[00:59:03] This is prokka 1.14.6
+[00:59:03] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[00:59:03] Homepage is https://github.com/tseemann/prokka
+[00:59:03] Local time is Thu May 12 00:59:03 2022
+[00:59:03] You are tola2495
+[00:59:03] Operating system is linux
+[00:59:03] You have BioPerl 1.007001
+[00:59:03] System has 16 cores.
+[00:59:03] Will use maximum of 2 cores.
+[00:59:03] Annotating as >>> Bacteria <<<
+[00:59:03] Generating locus_tag from 'bin_9.fa' contents.
+[00:59:03] Setting --locustag JEPHFLLD from MD5 3e91f55de17e1ca69f10e1be7d6c8fa0
+[00:59:03] Creating new output folder: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa
+[00:59:03] Running: mkdir -p \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa
+[00:59:03] Using filename prefix: RR4342129_Bacteria.XXX
+[00:59:03] Setting HMMER_NCPU=1
+[00:59:03] Writing log to: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.log
+[00:59:03] Command: /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka --metagenome --cpus 2 --prefix RR4342129_Bacteria --outdir /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa bin_9.fa
+[00:59:03] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux
+[00:59:03] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/../common
+[00:59:03] Appending to PATH: /sw/bioinfo/prokka/1.45-5b58020/rackham/bin
+[00:59:03] Looking for 'aragorn' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/aragorn
+[00:59:03] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[00:59:03] Looking for 'barrnap' - found /sw/bioinfo/barrnap/0.8/snowy/bin/barrnap
+[00:59:03] Determined barrnap version is 000008 from 'barrnap 0.8'
+[00:59:03] Looking for 'blastp' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/blastp
+[00:59:04] Determined blastp version is 002011 from 'blastp: 2.11.0+'
+[00:59:04] Looking for 'cmpress' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmpress
+[00:59:04] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[00:59:04] Looking for 'cmscan' - found /sw/bioinfo/prokka/1.45-5b58020/rackham/bin/../binaries/linux/cmscan
+[00:59:04] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[00:59:04] Looking for 'egrep' - found /usr/bin/egrep
+[00:59:04] Looking for 'find' - found /usr/bin/find
+[00:59:04] Looking for 'grep' - found /usr/bin/grep
+[00:59:04] Looking for 'hmmpress' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmpress
+[00:59:04] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[00:59:04] Looking for 'hmmscan' - found /sw/apps/bioinfo/hmmer/3.1b2/snowy/bin/hmmscan
+[00:59:04] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[00:59:04] Looking for 'java' - found /usr/bin/java
+[00:59:04] Looking for 'makeblastdb' - found /sw/bioinfo/blast/2.11.0+/snowy/bin/makeblastdb
+[00:59:05] Determined makeblastdb version is 002011 from 'makeblastdb: 2.11.0+'
+[00:59:05] Looking for 'minced' - found /sw/apps/bioinfo/minced/0.2.0/snowy/minced
+[00:59:05] Determined minced version is 002000 from 'minced 0.2.0'
+[00:59:05] Looking for 'parallel' - found /sw/parallel/gnuparallel/20170122/snowy/bin/parallel
+[00:59:05] Determined parallel version is 20170122 from 'GNU parallel 20170122'
+[00:59:05] Looking for 'prodigal' - found /sw/apps/bioinfo/prodigal/2.6.3/snowy/bin/prodigal
+[00:59:05] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[00:59:05] Looking for 'prokka-genbank_to_fasta_db' - found /sw/bioinfo/prokka/1.45-5b58020/snowy/bin/prokka-genbank_to_fasta_db
+[00:59:05] Looking for 'sed' - found /usr/bin/sed
+[00:59:05] Looking for 'signalp' - found /sw/bioinfo/SignalP/4.1f/snowy/signalp
+[00:59:05] Determined signalp version is 004001 from '4.1 6204265'
+[00:59:05] Looking for 'tbl2asn' - found /sw/bioinfo/tbl2asn/25.8/snowy/tbl2asn
+[00:59:05] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[00:59:05] Using genetic code table 11.
+[00:59:05] Loading and checking input file: bin_9.fa
+[00:59:05] Wrote 135 contigs totalling 324310 bp.
+[00:59:05] Predicting tRNAs and tmRNAs
+[00:59:05] Running: aragorn -l -gc11  -w \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.fna
+[00:59:05] 1 tRNA-Gln c[131,205] 33 (ttg)
+[00:59:05] 1 tRNA-Gln [1378,1452] 33 (ttg)
+[00:59:05] Found 2 tRNAs
+[00:59:05] Predicting Ribosomal RNAs
+[00:59:05] Running Barrnap with 2 threads
+[00:59:06] Found 0 rRNAs
+[00:59:06] Skipping ncRNA search, enable with --rfam if desired.
+[00:59:06] Total of 2 tRNA + rRNA features
+[00:59:06] Searching for CRISPR repeats
+[00:59:06] Found 0 CRISPRs
+[00:59:06] Predicting coding sequences
+[00:59:06] Contigs total 324310 bp, so using meta mode
+[00:59:06] Running: prodigal -i \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.fna -c -m -g 11 -p meta -f sco -q
+[00:59:07] Excluding CDS which overlaps existing RNA (tRNA) at k105_115609:196..1029 on - strand
+[00:59:08] Found 342 CDS
+[00:59:08] Connecting features back to sequences
+[00:59:08] Not using genus-specific database. Try --usegenus to enable it.
+[00:59:08] Annotating CDS, please be patient.
+[00:59:08] Will use 2 CPUs for similarity searching.
+[00:59:09] There are still 342 unannotated CDS left (started with 342)
+[00:59:09] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS with 2 CPUs
+[00:59:09] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.IS\.tmp\.13753\.faa | parallel --gnu --plain -j 2 --block 20471 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.IS\.tmp\.13753\.blast 2> /dev/null
+[00:59:14] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.IS.tmp.13753.faa
+[00:59:14] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.IS.tmp.13753.blast
+[00:59:14] There are still 342 unannotated CDS left (started with 342)
+[00:59:14] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/AMR with 2 CPUs
+[00:59:14] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.AMR\.tmp\.13753\.faa | parallel --gnu --plain -j 2 --block 20471 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.AMR\.tmp\.13753\.blast 2> /dev/null
+[00:59:19] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.AMR.tmp.13753.faa
+[00:59:19] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.AMR.tmp.13753.blast
+[00:59:19] There are still 342 unannotated CDS left (started with 342)
+[00:59:19] Will use blast to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/sprot with 2 CPUs
+[00:59:19] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.sprot\.tmp\.13753\.faa | parallel --gnu --plain -j 2 --block 20471 --recstart '>' --pipe blastp -query - -db /sw/bioinfo/prokka/1.45-5b58020/rackham/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.sprot\.tmp\.13753\.blast 2> /dev/null
+[00:59:36] Modify product: UPF0234 protein XC_3703 => hypothetical protein
+[00:59:36] Modify product: Nudix hydrolase DR_0079 => Nudix hydrolase
+[00:59:36] Modify product: Probable enoyl-CoA hydratase echA8 => putative enoyl-CoA hydratase echA8
+[00:59:36] Modify product: Uncharacterized protein YqeY => putative protein YqeY
+[00:59:36] Modify product: Uncharacterized protein YfgD => putative protein YfgD
+[00:59:36] Modify product: Probable CtpA-like serine protease => putative CtpA-like serine protease
+[00:59:36] Modify product: Acetyltransferase SACOL1063 => Acetyltransferase
+[00:59:36] Cleaned 7 /product names
+[00:59:36] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.sprot.tmp.13753.faa
+[00:59:36] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.sprot.tmp.13753.blast
+[00:59:36] There are still 186 unannotated CDS left (started with 342)
+[00:59:36] Will use hmmer3 to search against /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm with 2 CPUs
+[00:59:36] Running: cat \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.HAMAP\.hmm\.tmp\.13753\.faa | parallel --gnu --plain -j 2 --block 8249 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /sw/bioinfo/prokka/1.45-5b58020/rackham/db/hmm/HAMAP.hmm /dev/stdin > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.HAMAP\.hmm\.tmp\.13753\.hmmer3 2> /dev/null
+[00:59:45] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.HAMAP.hmm.tmp.13753.faa
+[00:59:45] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.HAMAP.hmm.tmp.13753.hmmer3
+[00:59:45] Labelling remaining 163 proteins as 'hypothetical protein'
+[00:59:45] Found 158 unique /gene codes.
+[00:59:45] Fixed 2 duplicate /gene - yabJ_1 yabJ_2
+[00:59:45] Fixed 2 duplicate /gene - betA_1 betA_2
+[00:59:45] Fixed 2 duplicate /gene - argE_1 argE_2
+[00:59:45] Fixed 2 duplicate /gene - ctaA_1 ctaA_2
+[00:59:45] Fixed 4 colliding /gene names.
+[00:59:45] Adding /locus_tag identifiers
+[00:59:45] Assigned 344 locus_tags to CDS and RNA features.
+[00:59:45] Writing outputs to /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/
+[00:59:45] Generating annotation statistics file
+[00:59:45] Generating Genbank and Sequin files
+[00:59:45] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.err -i \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.fsa 2> /dev/null
+[00:59:46] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/errorsummary.val
+[00:59:46] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.dr
+[00:59:46] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.fixedproducts
+[00:59:46] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.ecn
+[00:59:46] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.val
+[00:59:46] Repairing broken .GBK output that tbl2asn produces...
+[00:59:46] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.gbf > \/home\/tola2495\/GenomeAnalysisVT2022\/analyses\/05_annotation\/prokka\/RR4342129_Bacteria\/bin_9\.fa\/RR4342129_Bacteria\.gbk
+[00:59:46] Deleting unwanted file: /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.gbf
+[00:59:46] Output files:
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.log
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.fna
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.gff
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.faa
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.ffn
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.tbl
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.fsa
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.tsv
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.txt
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.sqn
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.gbk
+[00:59:46] /home/tola2495/GenomeAnalysisVT2022/analyses/05_annotation/prokka/RR4342129_Bacteria/bin_9.fa/RR4342129_Bacteria.err
+[00:59:46] Annotation finished successfully.
+[00:59:46] Walltime used: 0.72 minutes
+[00:59:46] If you use this result please cite the Prokka paper:
+[00:59:46] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[00:59:46] Type 'prokka --citation' for more details.
+[00:59:46] Share and enjoy!
