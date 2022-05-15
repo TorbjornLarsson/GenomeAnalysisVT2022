@@ -1,0 +1,8 @@
+A,B,C
+Parameter,Type,Value
+max-reads-in-buffer,int,30000000
+stranded,string,yes
+minequal,int,10
+nonunique,string,none
+secondary-alignments,string,score
+supplementary-alignments,string,score

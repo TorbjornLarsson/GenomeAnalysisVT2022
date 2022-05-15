@@ -1,0 +1,25 @@
+A,B,C
+Parameter,Type,Value
+dbdir,string,/sw/bioinfo/prokka/1.45-5b58020/rackham/db
+increment,int,1
+gffver,int,3
+compliant,string,OFF
+accver,int,1
+accver,int,1
+genus,string,Genus
+species,string,species
+strain,string,strain
+plasmid,string,
+prodigaltf,string,
+usegenus,string,OFF
+rawproduct,string,OFF
+cdsrnaolap,string,OFF
+evalue,float,1e-09
+coverage,int,80
+fast,string,OFF
+mincontiglen,int,1
+rfam,int,0
+rfam,int,0
+norrna,string,OFF
+notrna,string,OFF
+rnammer ,string,OFF

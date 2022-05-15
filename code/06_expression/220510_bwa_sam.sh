@@ -31,7 +31,7 @@ module load bwa/0.7.17 samtools/1.14
 # Station D3
 # /home/tola2495/GenomeAnalysisVT2022/analyses/03_binning/01_metabat/220422_metabat_RR4342133/final.contigs.fa.metabat-bins--unbinned
 
-# Now we want to annotate rna reads to binned contigs in bwa and do post-mapping analysis in samtools..
+# Now we want to annotate rna reads to binned contigs in bwa and do post-mapping analysis in samtools.
 # Trimmed paired end rna reads
 # Station D1
 # /home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342137.paired.trimmed_1P.fq.gz
@@ -61,17 +61,17 @@ samtools index -@ 1 ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342129/
 samtools flagstat -@ 1 ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342129/$(basename "$RR4342129_file" .fa)_sorted.bam
 done
 
-## Station D3 samples
-#mkdir ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342133
-#cd ~/GenomeAnalysisVT2022/analyses/03_binning/01_metabat/220422_metabat_RR4342133/final.contigs.fa.metabat-bins--unbinned
-#for RR4342133_file in *.fa
-#do
-#bwa index $RR4342133_file
-#bwa mem -t 2 $RR4342133_file \
-#/home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342139.paired.trimmed_1P.fq.gz \
-#/home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342139.paired.trimmed_2P.fq.gz | \
-#samtools view -@ 1 --with-header - | \
-#samtools sort -@ 1 - -o ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342133/$(basename "$RR4342133_file" .fa)_sorted.bam
-#samtools index -@ 1 ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342133/$(basename "$RR4342133_file" .fa)_sorted.bam
-#samtools flagstat -@ 1 ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342133/$(basename "$RR4342133_file" .fa)_sorted.bam
-#done
+# Station D3 samples
+mkdir ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342133
+cd ~/GenomeAnalysisVT2022/analyses/03_binning/01_metabat/220422_metabat_RR4342133/final.contigs.fa.metabat-bins--unbinned
+for RR4342133_file in *.fa
+do
+bwa index $RR4342133_file
+bwa mem -t 2 $RR4342133_file \
+/home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342139.paired.trimmed_1P.fq.gz \
+/home/tola2495/GenomeAnalysisVT2022/data/trimmed_data/rna/RR4342139.paired.trimmed_2P.fq.gz | \
+samtools view -@ 1 --with-header - | \
+samtools sort -@ 1 - -o ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342133/$(basename "$RR4342133_file" .fa)_sorted.bam
+samtools index -@ 1 ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342133/$(basename "$RR4342133_file" .fa)_sorted.bam
+samtools flagstat -@ 1 ~/GenomeAnalysisVT2022/analyses/06_expression/bwa/RR4342133/$(basename "$RR4342133_file" .fa)_sorted.bam
+done
