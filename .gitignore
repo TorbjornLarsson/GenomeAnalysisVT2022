@@ -5,8 +5,10 @@ data/trimmed_data/
 *.fa
 !TruSeq3-PE.fa
 *.faa
+!concatenate.faa
 *.fna
 *.fasta
+!alignment.fasta
 *.gff
 *.ms
 *.sam
